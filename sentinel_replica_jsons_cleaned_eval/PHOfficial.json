@@ -1,0 +1,3117 @@
+[
+  {
+    "_id": 6973,
+    "date": "2023-01-02",
+    "datetime_utc": "2023-01-02T22:25:28+00:00",
+    "timestamp": 1672698328,
+    "message": "‌‌**Subparse – Modular Malware Analysis Artifact Collection And Correlation Framework**\n\nSubparse, is a modular framework developed by Josh Strochein, Aaron Baker, and Odin Bernstein. The…\n[Read more on Professional Hackers](https://professionalhackers.in/subparse-modular-malware-analysis-artifact-collection-and-correlation-framework/)\n\n#KitPloit #oletools #Research #Sandbox #Subparse #VirusTotal #Yara",
+    "id": "20e1db78-fd74-40a3-892c-fcba9c6d6445",
+    "cleaning": {
+      "normalized_message": "subparse modular malware analysis artifact collection and correlation framework subparse is a modular framework developed by josh strochein aaron baker and odin bernstein the read more on professional hackers kitploit oletools research sandbox subparse virustotal yara",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 268,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6975,
+    "date": "2023-01-04",
+    "datetime_utc": "2023-01-04T23:15:40+00:00",
+    "timestamp": 1672874140,
+    "message": "‌‌**Villain – Windows And Linux Backdoor Generator And Multi-Session Handler That Allows Users To Connect With Sibling Servers And Share Their Backdoor Sessions**\n\nVillain is a Windows & Linux backdoor generator and multi-session handler that allows users to…\n[Read more on Professional Hackers](https://professionalhackers.in/villain-windows-and-linux-backdoor-generator-and-multi-session-handler-that-allows-users-to-connect-with-sibling-servers-and-share-their-backdoor-sessions/)\n\n#KitPloit #Penetration_Testing_Tools #Readteaming #Redteam #Redteam_Tools #Villain",
+    "id": "0cbe1090-b8c5-47c8-a910-d434d97a9c4d",
+    "cleaning": {
+      "normalized_message": "villain windows and linux backdoor generator and multi-session handler that allows users to connect with sibling servers and share their backdoor sessions villain is a windows linux backdoor generator and multi-session handler that allows users to read more on professional hackers kitploit penetration_testing_tools readteaming redteam redteam_tools villain",
+      "keyword_hits": [
+        "backdoor"
+      ],
+      "char_count": 358,
+      "token_count": 47,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6977,
+    "date": "2023-01-06",
+    "datetime_utc": "2023-01-06T22:04:27+00:00",
+    "timestamp": 1673042667,
+    "message": "‌‌**DotDumper – An Automatic Unpacker And Logger For DotNet Framework Targeting Files**\n\nAn automatic unpacker and logger for DotNet Framework targeting files! This tool has been unveiled…\n[Read more on Professional Hackers](https://professionalhackers.in/dotdumper-an-automatic-unpacker-and-logger-for-dotnet-framework-targeting-files/)\n\n#DotDumper #KitPloit #Stealer #Uncover #Unpacker #Unpacking #Windows #Windows_API",
+    "id": "ca42e013-34c1-4930-91df-642cc6059ddc",
+    "cleaning": {
+      "normalized_message": "dotdumper an automatic unpacker and logger for dotnet framework targeting files an automatic unpacker and logger for dotnet framework targeting files this tool has been unveiled read more on professional hackers dotdumper kitploit stealer uncover unpacker unpacking windows windows_api",
+      "keyword_hits": [
+        "stealer"
+      ],
+      "char_count": 285,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6979,
+    "date": "2023-01-08",
+    "datetime_utc": "2023-01-08T22:20:24+00:00",
+    "timestamp": 1673216424,
+    "message": "‌‌**AceLdr – Cobalt Strike UDRL For Memory Scanner Evasion**\n\nA position-independent reflective loader for Cobalt Strike. Zero results from Hunt-Sleeping-Beacons, BeaconHunter, BeaconEye, Patriot, Moneta,…\n[Read more on Professional Hackers](https://professionalhackers.in/aceldr-cobalt-strike-udrl-for-memory-scanner-evasion/)\n\n#AceLdr #KitPloit #Obfuscation #Scanner #Spoofing",
+    "id": "d8701896-0d5c-49b6-8a96-e44d081cc3f0",
+    "cleaning": {
+      "normalized_message": "aceldr cobalt strike udrl for memory scanner evasion a position-independent reflective loader for cobalt strike zero results from hunt-sleeping-beacons beaconhunter beaconeye patriot moneta read more on professional hackers aceldr kitploit obfuscation scanner spoofing",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 268,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6981,
+    "date": "2023-01-11",
+    "datetime_utc": "2023-01-11T00:45:36+00:00",
+    "timestamp": 1673397936,
+    "message": "‌‌**TerraLdr – A Payload Loader Designed With Advanced Evasion Features**\n\nTerraLdr: A Payload Loader Designed With Advanced Evasion Features Details: no crt functions imported syscall…\n[Read more on Professional Hackers](https://professionalhackers.in/terraldr-a-payload-loader-designed-with-advanced-evasion-features/)\n\n#Edrs #KitPloit #Spoofing #TerraLdr #Windows",
+    "id": "d8f3e3f8-3a69-487c-bc50-559121ba5e29",
+    "cleaning": {
+      "normalized_message": "terraldr a payload loader designed with advanced evasion features terraldr a payload loader designed with advanced evasion features details no crt functions imported syscall read more on professional hackers edrs kitploit spoofing terraldr windows",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 247,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6983,
+    "date": "2023-01-13",
+    "datetime_utc": "2023-01-13T01:41:45+00:00",
+    "timestamp": 1673574105,
+    "message": "‌‌**KRIe – Linux Kernel Runtime Integrity With eBPF**\n\nKRIe is a research project that aims to detect Linux Kernel exploits with eBPF. KRIe…\n[Read more on Professional Hackers](https://professionalhackers.in/krie-linux-kernel-runtime-integrity-with-ebpf/)\n\n#eBPF #golang #KitPloit #KRIe #Research_Project #Runtime #Vulnerable",
+    "id": "120fe6f4-5787-4363-9c23-e8bb762b0491",
+    "cleaning": {
+      "normalized_message": "krie linux kernel runtime integrity with ebpf krie is a research project that aims to detect linux kernel exploits with ebpf krie read more on professional hackers ebpf golang kitploit krie research_project runtime vulnerable",
+      "keyword_hits": [
+        "exploits"
+      ],
+      "char_count": 225,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6985,
+    "date": "2023-01-14",
+    "datetime_utc": "2023-01-14T22:38:14+00:00",
+    "timestamp": 1673735894,
+    "message": "‌‌**Fuzzable – Framework For Automating Fuzzable Target Discovery With Static Analysis**\n\nFramework for Automating Fuzzable Target Discovery with Static Analysis. Introduction Vulnerability researchers conducting security assessments…\n[Read more on Professional Hackers](https://professionalhackers.in/fuzzable-framework-for-automating-fuzzable-target-discovery-with-static-analysis/)\n\n#Binary_Analysis #Fuzzable #KitPloit #Reverse_Engineer #Reverse_Engineering #Static_Analysis",
+    "id": "7ef0e453-7065-400d-b843-ea45a1577f3c",
+    "cleaning": {
+      "normalized_message": "fuzzable framework for automating fuzzable target discovery with static analysis framework for automating fuzzable target discovery with static analysis introduction vulnerability researchers conducting security assessments read more on professional hackers binary_analysis fuzzable kitploit reverse_engineer reverse_engineering static_analysis",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 344,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6987,
+    "date": "2023-01-16",
+    "datetime_utc": "2023-01-16T23:30:22+00:00",
+    "timestamp": 1673911822,
+    "message": "‌‌**LATMA – Lateral Movement Analyzer Tool**\n\nLateral movement analyzer (LATMA) collects authentication logs from the domain and searches for potential lateral…\n[Read more on Professional Hackers](https://professionalhackers.in/latma-lateral-movement-analyzer-tool/)\n\n#KitPloit #Latma #Python #Ransomware #RPC #SPN #Windows",
+    "id": "20d88906-de16-456f-b498-bfa9039aa3a5",
+    "cleaning": {
+      "normalized_message": "latma lateral movement analyzer tool lateral movement analyzer latma collects authentication logs from the domain and searches for potential lateral read more on professional hackers kitploit latma python ransomware rpc spn windows",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 231,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6990,
+    "date": "2023-01-20",
+    "datetime_utc": "2023-01-20T01:49:48+00:00",
+    "timestamp": 1674179388,
+    "message": "‌‌**DragonCastle – A PoC That Combines AutodialDLL Lateral Movement Technique And SSP To Scrape NTLM Hashes From LSASS Process**\n\nA PoC that combines AutodialDLL lateral movement technique and SSP to scrape NTLM hashes from…\n[Read more on Professional Hackers](https://professionalhackers.in/dragoncastle-a-poc-that-combines-autodialdll-lateral-movement-technique-and-ssp-to-scrape-ntlm-hashes-from-lsass-process/)\n\n#DragonCastle #KitPloit #NetBIOS #NTLM #NTLM_Hashes #Performance #PoC #Processes #Python3 #RPC #Windows",
+    "id": "d6eca7aa-3c85-408b-94bf-c72109fac868",
+    "cleaning": {
+      "normalized_message": "dragoncastle a poc that combines autodialdll lateral movement technique and ssp to scrape ntlm hashes from lsass process a poc that combines autodialdll lateral movement technique and ssp to scrape ntlm hashes from read more on professional hackers dragoncastle kitploit netbios ntlm ntlm_hashes performance poc processes python3 rpc windows",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 341,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 6991,
+    "date": "2023-01-21",
+    "datetime_utc": "2023-01-21T02:09:37+00:00",
+    "timestamp": 1674266977,
+    "message": "‌‌**Ghauri – An Advanced Cross-Platform Tool That Automates The Process Of Detecting And Exploiting SQL Injection Security Flaws**\n\nAn advanced cross-platform tool that automates the process of detecting and exploiting SQL injection security…\n[Read more on Professional Hackers](https://professionalhackers.in/ghauri-an-advanced-cross-platform-tool-that-automates-the-process-of-detecting-and-exploiting-sql-injection-security-flaws/)\n\n#Ghauri #KitPloit #Process #Python #Python3 #sql_injection",
+    "id": "e80b89fe-81af-4591-bcd6-7cdc64b194d8",
+    "cleaning": {
+      "normalized_message": "ghauri an advanced cross-platform tool that automates the process of detecting and exploiting sql injection security flaws an advanced cross-platform tool that automates the process of detecting and exploiting sql injection security read more on professional hackers ghauri kitploit process python python3 sql_injection",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "char_count": 319,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7002,
+    "date": "2023-02-01",
+    "datetime_utc": "2023-02-01T04:54:12+00:00",
+    "timestamp": 1675227252,
+    "message": "‌‌**Sandfly-Entropyscan – Tool To Detect Packed Or Encrypt ed Binaries Related To Malware, Finds Malicious Files And Linux Processes And Gives Output With Cryptographic Hashes**\n\nsandfly-entropyscan is a utility to quickly scan files or running processes and report on their…\n[Read more on Professional Hackers](https://professionalhackers.in/sandfly-entropyscan-tool-to-detect-packed-or-encrypt-ed-binaries-related-to-malware-finds-malicious-files-and-linux-processes-and-gives-output-with-cryptographic-hashes/)\n\n#Blueteam #Blueteamin #Incident_Response_Tooling #Intrusion_Detection #Intrusion_Detection_System #KitPloit #Malware_Analysis #Malware_Research #Sandfly_Entropyscan",
+    "id": "8460d1e1-7d68-4c16-bfce-2740dfda34d1",
+    "cleaning": {
+      "normalized_message": "sandfly-entropyscan tool to detect packed or encrypt ed binaries related to malware finds malicious files and linux processes and gives output with cryptographic hashes sandfly-entropyscan is a utility to quickly scan files or running processes and report on their read more on professional hackers blueteam blueteamin incident_response_tooling intrusion_detection intrusion_detection_system kitploit malware_analysis malware_research sandfly_entropyscan",
+      "keyword_hits": [
+        "hashes",
+        "malware"
+      ],
+      "char_count": 454,
+      "token_count": 53,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7003,
+    "date": "2023-02-02",
+    "datetime_utc": "2023-02-02T03:31:37+00:00",
+    "timestamp": 1675308697,
+    "message": "‌‌**Monomorph – MD5-Monomorphic Shellcode Packer – All Payloads Have The Same MD5 Hash**\n\n════════════════════════════════════╦═══ ╔═╦═╗ ╔═╗ ╔═╗ ╔═╗ ╔═╦═╗ ╔═╗ ╔══╔═╗ ╠═╗ ═╩ ╩ ╩═╚═╝═╩ ╩═╚═╝═╩ ╩ ╩═╚═╝═╩…\n[Read more on Professional Hackers](https://professionalhackers.in/monomorph-md5-monomorphic-shellcode-packer-all-payloads-have-the-same-md5-hash/)\n\n#Hashquine #KitPloit #Md5_Collisions #Monomorph #Python #Rickroll #Shellcode_Loader",
+    "id": "63ccd67a-b428-481b-8977-6d9b2fee7c09",
+    "cleaning": {
+      "normalized_message": "monomorph md5-monomorphic shellcode packer all payloads have the same md5 hash read more on professional hackers hashquine kitploit md5_collisions monomorph python rickroll shellcode_loader",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 189,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7009,
+    "date": "2023-02-10",
+    "datetime_utc": "2023-02-10T05:41:42+00:00",
+    "timestamp": 1676007702,
+    "message": "‌‌**C99Shell-PHP7 – PHP 7 And Safe-Build Update Of The Popular C99 Variant Of PHP Shell**\n\nPHP 7 and safe-build Update of the popular C99 variant of PHP Shell. c99shell.php v.2.0…\n[Read more on Professional Hackers](https://professionalhackers.in/c99shell-php7-php-7-and-safe-build-update-of-the-popular-c99-variant-of-php-shell/)\n\n#C99 #C99Shell_PHP7 #KitPloit #Malware #Shells #Vulnerable_Application",
+    "id": "b9b655fb-302b-46ed-8b1b-e06762bde1ee",
+    "cleaning": {
+      "normalized_message": "c99shell-php7 php 7 and safe-build update of the popular c99 variant of php shell php 7 and safe-build update of the popular c99 variant of php shell c99shell php v 2 0 read more on professional hackers c99 c99shell_php7 kitploit malware shells vulnerable_application",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 267,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7011,
+    "date": "2023-02-12",
+    "datetime_utc": "2023-02-12T09:26:34+00:00",
+    "timestamp": 1676193994,
+    "message": "‌‌**Powershell-Backdoor-Generator – Obfuscated Powershell Reverse Backdoor With Flipper Zero And USB Rubber Ducky Payloads**\n\nReverse backdoor written in Powershell and obfuscated with Python. Allowing the backdoor to have a…\n[Read more on Professional Hackers](https://professionalhackers.in/powershell-backdoor-generator-obfuscated-powershell-reverse-backdoor-with-flipper-zero-and-usb-rubber-ducky-payloads/)\n\n#Bad_Usb #Flipper_Zero #Hak5_Ducky #Hak5_Rubber_Ducky #KitPloit #Powershell_Backdoor #Powershell_Hacking #Powershell_Backdoor_Generator #Python_Hacking #Reverse_Backdoor",
+    "id": "541d41b0-6d6d-4436-8386-254873936fe1",
+    "cleaning": {
+      "normalized_message": "powershell-backdoor-generator obfuscated powershell reverse backdoor with flipper zero and usb rubber ducky payloads reverse backdoor written in powershell and obfuscated with python allowing the backdoor to have a read more on professional hackers bad_usb flipper_zero hak5_ducky hak5_rubber_ducky kitploit powershell_backdoor powershell_hacking powershell_backdoor_generator python_hacking reverse_backdoor",
+      "keyword_hits": [
+        "backdoor"
+      ],
+      "char_count": 408,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7016,
+    "date": "2023-02-17",
+    "datetime_utc": "2023-02-17T09:10:51+00:00",
+    "timestamp": 1676625051,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/02/misp-extractor-tool-that-connects-to-a-misp-instance-and-retrieves-attributes-of-specific-types-such-as-ip-addresses-urls-and-hashes.png)**Misp-Extractor – Tool That Connects To A MISP Instance And Retrieves Attributes Of Specific Types (Such As IP Addresses, URLs, And Hashes)**\n\nThis code connects to a given MISP (Malware Information Sharing Platform) server and parses…\n[Read more on Professional Hackers](https://professionalhackers.in/misp-extractor-tool-that-connects-to-a-misp-instance-and-retrieves-attributes-of-specific-types-such-as-ip-addresses-urls-and-hashes/)\n\n#Blueteam #Cyberintelligence #KitPloit #Misp_Extractor #ThreatHunting",
+    "id": "6d6eb7e9-2898-4c84-bf31-2853d7f36e37",
+    "cleaning": {
+      "normalized_message": "tool that connects to a misp instance and retrieves attributes of specific types such as ip addresses urls and hashes this code connects to a given misp malware information sharing platform server and parses read more on professional hackers blueteam cyberintelligence kitploit misp_extractor threathunting",
+      "keyword_hits": [
+        "hashes",
+        "malware"
+      ],
+      "char_count": 306,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7020,
+    "date": "2023-02-21",
+    "datetime_utc": "2023-02-21T11:24:26+00:00",
+    "timestamp": 1676978666,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/02/faraday-open-source-vulnerability-management-platform.png)**Faraday – Open Source Vulnerability Management Platform**\n\nSecurity has two difficult tasks: designing smart ways of getting new information, and keeping…\n[Read more on Professional Hackers](https://professionalhackers.in/faraday-open-source-vulnerability-management-platform/)\n\n#Appsec #Burpsuite #Continuous_Scanning #Devsecops #Faraday #KitPloit #Nessus #Security_Automation #Vulnerability_Scanners",
+    "id": "ad172f4b-dbf1-4a6e-9088-0777321477df",
+    "cleaning": {
+      "normalized_message": "open source vulnerability management platform security has two difficult tasks designing smart ways of getting new information and keeping read more on professional hackers appsec burpsuite continuous_scanning devsecops faraday kitploit nessus security_automation vulnerability_scanners",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 286,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7023,
+    "date": "2023-02-24",
+    "datetime_utc": "2023-02-24T13:21:29+00:00",
+    "timestamp": 1677244889,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/02/gmailc2-a-fully-undetectable-c2-server-that-communicates-via-google-smtp-to-evade-antivirus-protections-and-network-traffic-restrictions.png)**Gmailc2 – A Fully Undetectable C2 Server That Communicates Via Google SMTP To Evade Antivirus Protections And Network Traffic Restrictions**\n\nThis RAT communicates Via Gmail SMTP (or u can use any other smtps as…\n[Read more on Professional Hackers](https://professionalhackers.in/gmailc2-a-fully-undetectable-c2-server-that-communicates-via-google-smtp-to-evade-antivirus-protections-and-network-traffic-restrictions/)\n\n#C2Server #Fud_Rat #Gmailc2 #Googlec2 #KitPloit #Linux_Exploits #Redteaming #Smtprat #Windows_Exploitation",
+    "id": "ffa200e8-34d1-4169-99cf-8627e1e42ee3",
+    "cleaning": {
+      "normalized_message": "a fully undetectable c2 server that communicates via google smtp to evade antivirus protections and network traffic restrictions this rat communicates via gmail smtp or u can use any other smtps as read more on professional hackers c2server fud_rat gmailc2 googlec2 kitploit linux_exploits redteaming smtprat windows_exploitation",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 329,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7025,
+    "date": "2023-02-26",
+    "datetime_utc": "2023-02-26T11:00:41+00:00",
+    "timestamp": 1677409241,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/02/cve-vulnerability-information-downloader-downloads-information-from-nist-cvss-first-org-epss-and-cisa-exploited-vulnerabilities-and-combines-them-into-one-list.png)**CVE-Vulnerability-Information-Downloader – Downloads Information From NIST (CVSS), First.Org (EPSS), And CISA (Exploited Vulnerabilities) And Combines Them Into One List**\n\nCommon Vulnerability Scoring System (CVSS) is a free and open industry standard for assessing…\n[Read more on Professional Hackers](https://professionalhackers.in/cve-vulnerability-information-downloader-downloads-information-from-nist-cvss-first-org-epss-and-cisa-exploited-vulnerabilities-and-combines-them-into-one-list/)\n\n#CVE_Vulnerability_Information_Downloader #KitPloit #Vulnerability #Vulnerability_Scanner #Vulnerability_Scanners",
+    "id": "82c5344b-5fdc-4b44-836b-1607e3d61811",
+    "cleaning": {
+      "normalized_message": "downloads information from nist cvss first org epss and cisa exploited vulnerabilities and combines them into one list common vulnerability scoring system cvss is a free and open industry standard for assessing read more on professional hackers cve_vulnerability_information_downloader kitploit vulnerability vulnerability_scanner vulnerability_scanners",
+      "keyword_hits": [
+        "exploited",
+        "vulnerability"
+      ],
+      "char_count": 353,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7031,
+    "date": "2023-03-06",
+    "datetime_utc": "2023-03-06T17:39:11+00:00",
+    "timestamp": 1678124351,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/thunderstorm-modular-framework-to-exploit-ups-devices.png)**Thunderstorm – Modular Framework To Exploit UPS Devices**\n\nThunderstorm is a modular framework to exploit UPS devices. For now, only the CS-141…\n[Read more on Professional Hackers](https://professionalhackers.in/thunderstorm-modular-framework-to-exploit-ups-devices/)\n\n#KitPloit #Rce_Exploit #Rce_Scanner #Thunderstorm",
+    "id": "f2a7b375-776d-4416-a67b-b9bfde6ce4a5",
+    "cleaning": {
+      "normalized_message": "modular framework to exploit ups devices thunderstorm is a modular framework to exploit ups devices for now only the cs-141 read more on professional hackers kitploit rce_exploit rce_scanner thunderstorm",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 203,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7032,
+    "date": "2023-03-07",
+    "datetime_utc": "2023-03-07T14:57:59+00:00",
+    "timestamp": 1678201079,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/datasurgeon-quickly-extracts-ips-email-addresses-hashes-files-credit-cards-social-secuirty-numbers-and-more-from-text.gif)**DataSurgeon – Quickly Extracts IP’s, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers And More From Text**\n\nDataSurgeon (ds) is a versatile tool designed for incident response, penetration testing, and CTF…\n[Read more on Professional Hackers](https://professionalhackers.in/datasurgeon-quickly-extracts-ips-email-addresses-hashes-files-credit-cards-social-secuirty-numbers-and-more-from-text/)\n\n#CTF_Tools #DataSurgeon #File_Search #KitPloit #Reconnaissance #Search_Tools #Security_Tools",
+    "id": "cefde615-2db7-4f8c-a0be-3d91431da2a0",
+    "cleaning": {
+      "normalized_message": "quickly extracts ip s email addresses hashes files credit cards social secuirty numbers and more from text datasurgeon ds is a versatile tool designed for incident response penetration testing and ctf read more on professional hackers ctf_tools datasurgeon file_search kitploit reconnaissance search_tools security_tools",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 320,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7035,
+    "date": "2023-03-14",
+    "datetime_utc": "2023-03-14T15:22:43+00:00",
+    "timestamp": 1678807363,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/certverify-a-scanner-that-files-with-compromised-or-untrusted-code-signing-certificates.jpg)**CertVerify – A Scanner That Files With Compromised Or Untrusted Code Signing Certificates**\n\nThe CertVerify is a tool designed to detect executable files (exe, dll, sys) that…\n[Read more on Professional Hackers](https://professionalhackers.in/certverify-a-scanner-that-files-with-compromised-or-untrusted-code-signing-certificates/)\n\n#Asn1Crypto #CertVerify #Codesign_Scanner #Codesigned_Detection #File_Scan #KitPloit #Leaked_Certificate #Malware_Detection #Malware_Scanner #Security_Scanners #Untrusted_Certificate",
+    "id": "33d1bdbb-7b6f-4f76-a365-8bc13812f30d",
+    "cleaning": {
+      "normalized_message": "a scanner that files with compromised or untrusted code signing certificates the certverify is a tool designed to detect executable files exe dll sys that read more on professional hackers asn1crypto certverify codesign_scanner codesigned_detection file_scan kitploit leaked_certificate malware_detection malware_scanner security_scanners untrusted_certificate",
+      "keyword_hits": [
+        "compromised"
+      ],
+      "char_count": 360,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7037,
+    "date": "2023-03-16",
+    "datetime_utc": "2023-03-16T18:45:21+00:00",
+    "timestamp": 1678992321,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/gpt_vuln-analyzer-uses-chatgpt-api-and-python-nmap-module-to-use-the-gpt3-model-to-create-vulnerability-reports-based-on-nmap-scan-data.jpg)**GPT_Vuln-analyzer – Uses ChatGPT API And Python-Nmap Module To Use The GPT3 Model To Create Vulnerability Reports Based On Nmap Scan Data**\n\nThis is a Proof Of Concept application that demostrates how AI can be used…\n[Read more on Professional Hackers](https://professionalhackers.in/gpt_vuln-analyzer-uses-chatgpt-api-and-python-nmap-module-to-use-the-gpt3-model-to-create-vulnerability-reports-based-on-nmap-scan-data/)\n\n#Chatgpt #Chatgpt_Api #GPT_Vuln_analyzer #Information_Gathering #KitPloit #Nmap_Api #Openai",
+    "id": "8d0cffe1-1133-4cab-9721-a613d4bf0ccd",
+    "cleaning": {
+      "normalized_message": "uses chatgpt api and python-nmap module to use the gpt3 model to create vulnerability reports based on nmap scan data this is a proof of concept application that demostrates how ai can be used read more on professional hackers chatgpt chatgpt_api gpt_vuln_analyzer information_gathering kitploit nmap_api openai",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 311,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7041,
+    "date": "2023-03-20",
+    "datetime_utc": "2023-03-20T16:16:39+00:00",
+    "timestamp": 1679328999,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/nimplant-a-light-weight-first-stage-c2-implant-written-in-nim.png)**NimPlant – A Light-Weight First-Stage C2 Implant Written In Nim**\n\nBy Cas van Cooten (@chvancooten), with special thanks to some awesome folks: Fabian Mosch…\n[Read more on Professional Hackers](https://professionalhackers.in/nimplant-a-light-weight-first-stage-c2-implant-written-in-nim/)\n\n#KitPloit #msfvenom #Transparency #Troubleshooting #Windows",
+    "id": "8fa35ff6-47c8-4922-acdb-bd3d2986df79",
+    "cleaning": {
+      "normalized_message": "a light-weight first-stage c2 implant written in nim by cas van cooten chvancooten with special thanks to some awesome folks fabian mosch read more on professional hackers kitploit msfvenom transparency troubleshooting windows",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 226,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7043,
+    "date": "2023-03-22",
+    "datetime_utc": "2023-03-22T19:13:33+00:00",
+    "timestamp": 1679512413,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/portexanalyzergui-graphical-interface-for-portex-a-portable-executable-and-malware-analysis-library.png)**PortexAnalyzerGUI – Graphical Interface For PortEx, A Portable Executable And Malware Analysis Library**\n\nGraphical interface for PortEx, a Portable Executable and Malware Analysis Library Download Releases page…\n[Read more on Professional Hackers](https://professionalhackers.in/portexanalyzergui-graphical-interface-for-portex-a-portable-executable-and-malware-analysis-library/)\n\n#KitPloit #Malware_Analysis #Portable #Portable_Executable #PortEx #PortexAnalyzerGUI #Scanning #Scans",
+    "id": "f2c81863-aad2-4582-a719-e2e7e5607f07",
+    "cleaning": {
+      "normalized_message": "graphical interface for portex a portable executable and malware analysis library graphical interface for portex a portable executable and malware analysis library download releases page read more on professional hackers kitploit malware_analysis portable portable_executable portex portexanalyzergui scanning scans",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 315,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7044,
+    "date": "2023-03-23",
+    "datetime_utc": "2023-03-23T18:09:56+00:00",
+    "timestamp": 1679594996,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/apcldr-payload-loader-with-evasion-features.gif)**APCLdr – Payload Loader With Evasion Features**\n\nPayload Loader With Evasion Features. Features: no crt functions imported indirect syscalls using HellHall…\n[Read more on Professional Hackers](https://professionalhackers.in/apcldr-payload-loader-with-evasion-features/)\n\n#APCLdr #Cobalt_Strike #KitPloit #Payload #Syscalls #Windows",
+    "id": "ee01d15e-c6e1-4f7b-a86a-1ae486716048",
+    "cleaning": {
+      "normalized_message": "payload loader with evasion features payload loader with evasion features features no crt functions imported indirect syscalls using hellhall read more on professional hackers apcldr cobalt_strike kitploit payload syscalls windows",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 230,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7045,
+    "date": "2023-03-24",
+    "datetime_utc": "2023-03-24T18:04:56+00:00",
+    "timestamp": 1679681096,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/mimicry-security-tool-for-active-deception-in-exploitation-and-post-exploitation.png)**Mimicry – Security Tool For Active Deception In Exploitation And Post-Exploitation**\n\nMimicry is a security tool developed by Chaitin Technology for active deception in exploitation…\n[Read more on Professional Hackers](https://professionalhackers.in/mimicry-security-tool-for-active-deception-in-exploitation-and-post-exploitation/)\n\n#Backdoor #Blue_Team #Brute_Force #Incident_Response #KitPloit #Mimicry #WAF #WebShell",
+    "id": "a982ecac-b8b5-4f1e-8c00-7dbdf130816e",
+    "cleaning": {
+      "normalized_message": "security tool for active deception in exploitation and post-exploitation mimicry is a security tool developed by chaitin technology for active deception in exploitation read more on professional hackers backdoor blue_team brute_force incident_response kitploit mimicry waf webshell",
+      "keyword_hits": [
+        "backdoor"
+      ],
+      "char_count": 281,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7048,
+    "date": "2023-03-27",
+    "datetime_utc": "2023-03-27T18:50:41+00:00",
+    "timestamp": 1679943041,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/03/thundercloud-cloud-exploit-framework.png)**ThunderCloud – Cloud Exploit Framework**\n\nCloud Exploit Framework Usage python3 tc.py -h_______ _ _ _____ _ _|__ __| |…\n[Read more on Professional Hackers](https://professionalhackers.in/thundercloud-cloud-exploit-framework/)\n\n#Exploit #KitPloit #Python #Secret #SSO #ThunderCloud #Vulnerable",
+    "id": "f3e9de78-b06e-4f02-8427-5505578c524e",
+    "cleaning": {
+      "normalized_message": "cloud exploit framework cloud exploit framework usage python3 tc py -h_______ _ _ _____ _ _ __ __ read more on professional hackers exploit kitploit python secret sso thundercloud vulnerable",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 190,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7055,
+    "date": "2023-04-03",
+    "datetime_utc": "2023-04-03T23:28:49+00:00",
+    "timestamp": 1680564529,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/redditc2-abusing-reddit-api-to-host-the-c2-traffic-since-most-of-the-blue-team-members-use-reddit-it-might-be-a-great-way-to-make-the-traffic-look-legit.png)**RedditC2 – Abusing Reddit API To Host The C2 Traffic, Since Most Of The Blue-Team Members Use Reddit, It Might Be A Great Way To Make The Traffic Look Legit**\n\nAbusing Reddit API to host the C2 traffic, since most of the blue-team members…\n[Read more on Professional Hackers](https://professionalhackers.in/redditc2-abusing-reddit-api-to-host-the-c2-traffic-since-most-of-the-blue-team-members-use-reddit-it-might-be-a-great-way-to-make-the-traffic-look-legit/)\n\n#cybersecurity #KitPloit #PENTESTING #RedditC2 #Redteam",
+    "id": "b9b8f54b-fc35-4452-9983-6537ff947626",
+    "cleaning": {
+      "normalized_message": "abusing reddit api to host the c2 traffic since most of the blue-team members use reddit it might be a great way to make the traffic look legit abusing reddit api to host the c2 traffic since most of the blue-team members read more on professional hackers cybersecurity kitploit pentesting redditc2 redteam",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 306,
+      "token_count": 52,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7064,
+    "date": "2023-04-13",
+    "datetime_utc": "2023-04-13T23:13:14+00:00",
+    "timestamp": 1681427594,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/pinacolada-wireless-intrusion-detection-system-for-hak5s-wifi-coconut.png)**Pinacolada – Wireless Intrusion Detection System For Hak5’s WiFi Coconut**\n\nPinacolada looks for typical IEEE 802.11 attacks and then informs you about them as…\n[Read more on Professional Hackers](https://professionalhackers.in/pinacolada-wireless-intrusion-detection-system-for-hak5s-wifi-coconut/)\n\n#802_11 #Hak5 #KitPloit #Pinacolada #Wids #Wifi_Coconut",
+    "id": "a238f71a-5f27-4be6-babf-f7bab3237780",
+    "cleaning": {
+      "normalized_message": "wireless intrusion detection system for hak5 s wifi coconut pinacolada looks for typical ieee 802 11 attacks and then informs you about them as read more on professional hackers 802_11 hak5 kitploit pinacolada wids wifi_coconut",
+      "keyword_hits": [
+        "intrusion"
+      ],
+      "char_count": 227,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7070,
+    "date": "2023-04-22",
+    "datetime_utc": "2023-04-22T02:59:33+00:00",
+    "timestamp": 1682132373,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/striker-a-command-and-control-c2.png)**Striker – A Command And Control (C2)**\n\nStriker is a simple Command and Control (C2) program. Disclaimer This project is under…\n[Read more on Professional Hackers](https://professionalhackers.in/striker-a-command-and-control-c2/)\n\n#KitPloit #Npm #Payload #Python #Python3 #Redirector #Reverse #Server #Socket #Striker #Windows",
+    "id": "69ea0078-8073-4391-a85b-4902a0465203",
+    "cleaning": {
+      "normalized_message": "a command and control c2 striker is a simple command and control c2 program disclaimer this project is under read more on professional hackers kitploit npm payload python python3 redirector reverse server socket striker windows",
+      "keyword_hits": [
+        "c2",
+        "command and control"
+      ],
+      "char_count": 227,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7075,
+    "date": "2023-04-27",
+    "datetime_utc": "2023-04-27T04:45:54+00:00",
+    "timestamp": 1682570754,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/portex-java-library-to-analyse-portable-executable-files-with-a-special-focus-on-malware-analysis-and-pe-malformation-robustness.png)**PortEx – Java Library To Analyse Portable Executable Files With A Special Focus On Malware Analysis And PE Malformation Robustness**\n\nPortEx is a Java library for static malware analysis of Portable Executable files. Its…\n[Read more on Professional Hackers](https://professionalhackers.in/portex-java-library-to-analyse-portable-executable-files-with-a-special-focus-on-malware-analysis-and-pe-malformation-robustness/)\n\n#KitPloit #Metadata #Portable_Executable #PortEx #Scanner #Wrapper",
+    "id": "3cf62939-9fa6-4c65-a6ba-bb01b225db67",
+    "cleaning": {
+      "normalized_message": "java library to analyse portable executable files with a special focus on malware analysis and pe malformation robustness portex is a java library for static malware analysis of portable executable files its read more on professional hackers kitploit metadata portable_executable portex scanner wrapper",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 302,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7076,
+    "date": "2023-04-28",
+    "datetime_utc": "2023-04-28T03:05:48+00:00",
+    "timestamp": 1682651148,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/phonesploit-pro-an-all-in-one-hacking-tool-to-remotely-exploit-android-devices-using-adb-and-metasploit-framework-to-get-a-meterpreter-session.png)**PhoneSploit-Pro – An All-In-One Hacking Tool To Remotely Exploit Android Devices Using ADB And Metasploit-Framework To Get A Meterpreter Session**\n\nAn all-in-one hacking tool written in Python to remotely exploit Android devices using ADB…\n[Read more on Professional Hackers](https://professionalhackers.in/phonesploit-pro-an-all-in-one-hacking-tool-to-remotely-exploit-android-devices-using-adb-and-metasploit-framework-to-get-a-meterpreter-session/)\n\n#Android_Hacking #Hacking_Script #KitPloit #Metasploit_Framework #Pentest_Scripts #Pentest_Tool #Phonesploit_Pro",
+    "id": "0e0d6ef2-4989-4c8a-8ba2-fe1de7f4eaa8",
+    "cleaning": {
+      "normalized_message": "an all-in-one hacking tool to remotely exploit android devices using adb and metasploit-framework to get a meterpreter session an all-in-one hacking tool written in python to remotely exploit android devices using adb read more on professional hackers android_hacking hacking_script kitploit metasploit_framework pentest_scripts pentest_tool phonesploit_pro",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 357,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7078,
+    "date": "2023-04-30",
+    "datetime_utc": "2023-04-30T05:12:18+00:00",
+    "timestamp": 1682831538,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/04/firebaseexploiter-vulnerability-discovery-tool-that-discovers-firebase-database-which-are-open-and-can-be-exploitable.png)**FirebaseExploiter – Vulnerability Discovery Tool That Discovers Firebase Database Which Are Open And Can Be Exploitable**\n\nFirebaseExploiter is a vulnerability discovery tool that discovers Firebase Database which are open and…\n[Read more on Professional Hackers](https://professionalhackers.in/firebaseexploiter-vulnerability-discovery-tool-that-discovers-firebase-database-which-are-open-and-can-be-exploitable/)\n\n#FirebaseExploiter #KitPloit #Vulnerability #Vulnerability_Scanning #Vulnerable",
+    "id": "089c248d-d11a-46f9-bbeb-275e482da056",
+    "cleaning": {
+      "normalized_message": "vulnerability discovery tool that discovers firebase database which are open and can be exploitable firebaseexploiter is a vulnerability discovery tool that discovers firebase database which are open and read more on professional hackers firebaseexploiter kitploit vulnerability vulnerability_scanning vulnerable",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 312,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7085,
+    "date": "2023-05-13",
+    "datetime_utc": "2023-05-13T08:33:09+00:00",
+    "timestamp": 1683966789,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/05/tldhunt-domain-availability-checker.png)**TLDHunt – Domain Availability Checker**\n\nTLDHunt is a command-line tool designed to help users find available domain names for…\n[Read more on Professional Hackers](https://professionalhackers.in/tldhunt-domain-availability-checker/)\n\n#KitPloit #Phishing #Red_Teaming #TLDHunt #Whois",
+    "id": "da2a391b-6ab4-41bf-96f4-076e894eba18",
+    "cleaning": {
+      "normalized_message": "domain availability checker tldhunt is a command-line tool designed to help users find available domain names for read more on professional hackers kitploit phishing red_teaming tldhunt whois",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 191,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7088,
+    "date": "2023-05-16",
+    "datetime_utc": "2023-05-16T07:37:59+00:00",
+    "timestamp": 1684222679,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/05/shadowspray-a-tool-to-spray-shadow-credentials-across-an-entire-domain-in-hopes-of-abusing-long-forgotten-genericwrite-genericall-dacls-over-other-objects-in-the-domain.png)**ShadowSpray – A Tool To Spray Shadow Credentials Across An Entire Domain In Hopes Of Abusing Long Forgotten GenericWrite/GenericAll DACLs Over Other Objects In The Domain**\n\nA tool to spray Shadow Credentials across an entire domain in hopes of abusing…\n[Read more on Professional Hackers](https://professionalhackers.in/shadowspray-a-tool-to-spray-shadow-credentials-across-an-entire-domain-in-hopes-of-abusing-long-forgotten-genericwrite-genericall-dacls-over-other-objects-in-the-domain/)\n\n#KitPloit #ShadowSpray #Spray #Stealth #Synchronization",
+    "id": "1021dbf6-7a32-4bf8-947a-e9024e5d1644",
+    "cleaning": {
+      "normalized_message": "a tool to spray shadow credentials across an entire domain in hopes of abusing long forgotten genericwrite genericall dacls over other objects in the domain a tool to spray shadow credentials across an entire domain in hopes of abusing read more on professional hackers kitploit shadowspray spray stealth synchronization",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 320,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7090,
+    "date": "2023-05-18",
+    "datetime_utc": "2023-05-18T10:13:44+00:00",
+    "timestamp": 1684404824,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/05/nimbo-c2-yet-another-simple-and-lightweight-c2-framework.png)**Nimbo-C2 – Yet Another (Simple And Lightweight) C2 Framework**\n\nNimbo-C2 is yet another (simple and lightweight) C2 framework. Nimbo-C2 agent supports x64 Windows…\n[Read more on Professional Hackers](https://professionalhackers.in/nimbo-c2-yet-another-simple-and-lightweight-c2-framework/)\n\n#C2_Framework #Command_And_Control #KitPloit #Nimbo_C2 #Pentesting_Tools #Red_Team_Tools",
+    "id": "68420135-d94d-4404-8bce-74ba361cc044",
+    "cleaning": {
+      "normalized_message": "yet another simple and lightweight c2 framework nimbo-c2 is yet another simple and lightweight c2 framework nimbo-c2 agent supports x64 windows read more on professional hackers c2_framework command_and_control kitploit nimbo_c2 pentesting_tools red_team_tools",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 260,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7093,
+    "date": "2023-05-21",
+    "datetime_utc": "2023-05-21T09:05:17+00:00",
+    "timestamp": 1684659917,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/05/dumpulator-an-easy-to-use-library-for-emulating-memory-dumps-useful-for-malware-analysis-config-extraction-unpacking-and-dynamic-analysis-in-general-sandboxing.png)**Dumpulator – An Easy-To-Use Library For Emulating Memory Dumps. Useful For Malware Analysis (Config Extraction, Unpacking) And Dynamic Analysis In General (Sandboxing)**\n\nNote: This is a work-in-progress prototype, please treat it as such. Pull requests are…\n[Read more on Professional Hackers](https://professionalhackers.in/dumpulator-an-easy-to-use-library-for-emulating-memory-dumps-useful-for-malware-analysis-config-extraction-unpacking-and-dynamic-analysis-in-general-sandboxing/)\n\n#Debugging_Tools #Dumpulator #KitPloit #Unpacking #Windows_Internals",
+    "id": "cfb53f8c-6988-498d-96ae-73c05c2ff117",
+    "cleaning": {
+      "normalized_message": "an easy-to-use library for emulating memory dumps useful for malware analysis config extraction unpacking and dynamic analysis in general sandboxing note this is a work-in-progress prototype please treat it as such pull requests are read more on professional hackers debugging_tools dumpulator kitploit unpacking windows_internals",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 330,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7095,
+    "date": "2023-05-23",
+    "datetime_utc": "2023-05-23T09:45:49+00:00",
+    "timestamp": 1684835149,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/05/hades-go-shellcode-loader-that-combines-multiple-evasion-techniques.png)**Hades – Go Shellcode Loader That Combines Multiple Evasion Techniques**\n\nHades is a proof of concept loader that combines several evasion technques with the…\n[Read more on Professional Hackers](https://professionalhackers.in/hades-go-shellcode-loader-that-combines-multiple-evasion-techniques/)\n\n#Adversary_Emulation #Edr_Evasion #Hades #KitPloit #Ntapi #Red_Teaming",
+    "id": "02a1f69a-bd21-454b-9b94-8c24ab9b7d40",
+    "cleaning": {
+      "normalized_message": "go shellcode loader that combines multiple evasion techniques hades is a proof of concept loader that combines several evasion technques with the read more on professional hackers adversary_emulation edr_evasion hades kitploit ntapi red_teaming",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 244,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7109,
+    "date": "2023-06-06",
+    "datetime_utc": "2023-06-06T17:43:25+00:00",
+    "timestamp": 1686073405,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/dcvc2-a-golang-discord-c2-unlike-any-other.png)**DCVC2 – A Golang Discord C2 Unlike Any Other**\n\nThis multi operating system compatible tool was created to leverage Discord's voice channels for…\n[Read more on Professional Hackers](https://professionalhackers.in/dcvc2-a-golang-discord-c2-unlike-any-other/)\n\n#DCVC2 #golang #KitPloit #Real_Time",
+    "id": "9fc12154-8e32-440d-b778-b77dfeebeba4",
+    "cleaning": {
+      "normalized_message": "a golang discord c2 unlike any other this multi operating system compatible tool was created to leverage discord s voice channels for read more on professional hackers dcvc2 golang kitploit real_time",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 199,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7112,
+    "date": "2023-06-09",
+    "datetime_utc": "2023-06-09T15:11:39+00:00",
+    "timestamp": 1686323499,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/xss-exploitation-tool-an-xss-exploitation-tool.png)**XSS-Exploitation-Tool – An XSS Exploitation Tool**\n\nXSS Exploitation Tool is a penetration testing tool that focuses on the exploit of…\n[Read more on Professional Hackers](https://professionalhackers.in/xss-exploitation-tool-an-xss-exploitation-tool/)\n\n#KitPloit #XSS #XSS_Exploitation #XSS_Vulnerability #XSS_Exploitation_Tool",
+    "id": "a090b91d-57e8-4ff7-a2ed-b2d4dda52771",
+    "cleaning": {
+      "normalized_message": "an xss exploitation tool xss exploitation tool is a penetration testing tool that focuses on the exploit of read more on professional hackers kitploit xss xss_exploitation xss_vulnerability xss_exploitation_tool",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 211,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7114,
+    "date": "2023-06-11",
+    "datetime_utc": "2023-06-11T15:30:19+00:00",
+    "timestamp": 1686497419,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/bypass-sandbox-evasion-bypass-malware-sandbox-evasion-ram-check.png)**Bypass-Sandbox-Evasion – Bypass Malware Sandbox Evasion Ram Check**\n\nSandboxes are commonly used to analyze malware. They provide a temporary, isolated, and secure…\n[Read more on Professional Hackers](https://professionalhackers.in/bypass-sandbox-evasion-bypass-malware-sandbox-evasion-ram-check/)\n\n#Bypass_Sandbox_Evasion #Defensive #KitPloit #Malware_Analysis #Malware_Detection #Malware_Research #Win32API",
+    "id": "d5616802-a845-4eec-9c19-eff2c7515439",
+    "cleaning": {
+      "normalized_message": "bypass malware sandbox evasion ram check sandboxes are commonly used to analyze malware they provide a temporary isolated and secure read more on professional hackers bypass_sandbox_evasion defensive kitploit malware_analysis malware_detection malware_research win32api",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 269,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7115,
+    "date": "2023-06-12",
+    "datetime_utc": "2023-06-12T16:32:41+00:00",
+    "timestamp": 1686587561,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/c2-hunter-extract-c2-traffic.png)**C2-Hunter – Extract C2 Traffic**\n\nC2-Hunter is a program designed for malware analysts to extract Command and Control (C2)…\n[Read more on Professional Hackers](https://professionalhackers.in/c2-hunter-extract-c2-traffic/)\n\n#C2_Hunter #KitPloit #Malware #Traffic #Win32",
+    "id": "c2d6498b-1da8-47e8-ac19-e4869f3e3a4b",
+    "cleaning": {
+      "normalized_message": "extract c2 traffic c2-hunter is a program designed for malware analysts to extract command and control c2 read more on professional hackers c2_hunter kitploit malware traffic win32",
+      "keyword_hits": [
+        "c2",
+        "command and control",
+        "malware"
+      ],
+      "char_count": 180,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7124,
+    "date": "2023-06-21",
+    "datetime_utc": "2023-06-21T19:27:59+00:00",
+    "timestamp": 1687375679,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/scanner-and-patcher-a-web-vulnerability-scanner-and-patcher.png)**Scanner-and-Patcher – A Web Vulnerability Scanner And Patcher**\n\nThis tools is very helpful for finding vulnerabilities present in the Web Applications. A…\n[Read more on Professional Hackers](https://professionalhackers.in/scanner-and-patcher-a-web-vulnerability-scanner-and-patcher/)\n\n#Infosec #KitPloit #Nikto #Nmap #PENTESTING #Scanner_and_Patcher #Security_Scanner #Security_Tools #Vulnerability_Detection #Vulnerability_Scanners",
+    "id": "1debf5b4-e0db-4a0c-9078-7fe6260b2598",
+    "cleaning": {
+      "normalized_message": "a web vulnerability scanner and patcher this tools is very helpful for finding vulnerabilities present in the web applications a read more on professional hackers infosec kitploit nikto nmap pentesting scanner_and_patcher security_scanner security_tools vulnerability_detection vulnerability_scanners",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 300,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7126,
+    "date": "2023-06-23",
+    "datetime_utc": "2023-06-23T19:11:47+00:00",
+    "timestamp": 1687547507,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/certsync-dump-ntds-with-golden-certificates-and-unpac-the-hash.png)**Certsync – Dump NTDS With Golden Certificates And UnPAC The Hash**\n\ncertsync is a new technique in order to dump NTDS remotely, but this time…\n[Read more on Professional Hackers](https://professionalhackers.in/certsync-dump-ntds-with-golden-certificates-and-unpac-the-hash/)\n\n#Certsync #KitPloit #Mimic #Nameserver #NTLM",
+    "id": "0df1575d-832d-429b-af8c-2071807f04a8",
+    "cleaning": {
+      "normalized_message": "dump ntds with golden certificates and unpac the hash certsync is a new technique in order to dump ntds remotely but this time read more on professional hackers certsync kitploit mimic nameserver ntlm",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 200,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7129,
+    "date": "2023-06-26",
+    "datetime_utc": "2023-06-26T20:50:31+00:00",
+    "timestamp": 1687812631,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/atomldr-a-dll-loader-with-advanced-evasive-features.png)**AtomLdr – A DLL Loader With Advanced Evasive Features**\n\nA DLL Loader With Advanced Evasive Features Features: CRT library independent. The final DLL…\n[Read more on Professional Hackers](https://professionalhackers.in/atomldr-a-dll-loader-with-advanced-evasive-features/)\n\n#AtomLdr #KitPloit #Processes #ROP #Rop_Gadgets #Syscalls #Techniques",
+    "id": "a9e82ed8-e342-4537-a82f-0e7ec286df03",
+    "cleaning": {
+      "normalized_message": "a dll loader with advanced evasive features a dll loader with advanced evasive features features crt library independent the final dll read more on professional hackers atomldr kitploit processes rop rop_gadgets syscalls techniques",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 231,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7131,
+    "date": "2023-06-30",
+    "datetime_utc": "2023-06-30T00:30:44+00:00",
+    "timestamp": 1688085044,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/06/artemis-a-modular-web-reconnaissance-tool-and-vulnerability-scanner.png)**Artemis – A Modular Web Reconnaissance Tool And Vulnerability Scanner**\n\nA modular web reconnaissance tool and vulnerability scanner based on Karton (https://github.com/CERT-Polska/karton). The Artemis…\n[Read more on Professional Hackers](https://professionalhackers.in/artemis-a-modular-web-reconnaissance-tool-and-vulnerability-scanner/)\n\n#Artemis #KitPloit #Vulnerability #Vulnerability_Scanner #Web_Reconnaissance",
+    "id": "99a34ebd-6806-4b38-b1d3-f2e447cb6031",
+    "cleaning": {
+      "normalized_message": "a modular web reconnaissance tool and vulnerability scanner a modular web reconnaissance tool and vulnerability scanner based on karton the artemis read more on professional hackers artemis kitploit vulnerability vulnerability_scanner web_reconnaissance",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 253,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7142,
+    "date": "2023-07-11",
+    "datetime_utc": "2023-07-11T03:05:45+00:00",
+    "timestamp": 1689044745,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/wpaxfuzz-a-full-featured-open-source-wi-fi-fuzzer.png)**WPAxFuzz – A Full-Featured Open-Source Wi-Fi Fuzzer**\n\nThis tool is capable of fuzzing either any management, control or data frame of…\n[Read more on Professional Hackers](https://professionalhackers.in/wpaxfuzz-a-full-featured-open-source-wi-fi-fuzzer/)\n\n#Exploit #KitPloit #WPA2 #WPA3 #WPAxFuzz",
+    "id": "4accc72c-7be3-4a42-9eeb-42031fcc1007",
+    "cleaning": {
+      "normalized_message": "a full-featured open-source wi-fi fuzzer this tool is capable of fuzzing either any management control or data frame of read more on professional hackers exploit kitploit wpa2 wpa3 wpaxfuzz",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 189,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7144,
+    "date": "2023-07-13",
+    "datetime_utc": "2023-07-13T02:39:00+00:00",
+    "timestamp": 1689215940,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/mantra-a-tool-used-to-hunt-down-api-key-leaks-in-js-files-and-pages.png)**Mantra – A Tool Used To Hunt Down API Key Leaks In JS Files And Pages**\n\nThe tool in question was created in Go and its main objective is to…\n[Read more on Professional Hackers](https://professionalhackers.in/mantra-a-tool-used-to-hunt-down-api-key-leaks-in-js-files-and-pages/)\n\n#Bugbounty #Hacking #Key #KitPloit #Leak #Leaked_Secrets #Mantra #PenTest",
+    "id": "418fda58-70f0-4d2c-8538-0cb0b5dd73e4",
+    "cleaning": {
+      "normalized_message": "a tool used to hunt down api key leaks in js files and pages the tool in question was created in go and its main objective is to read more on professional hackers bugbounty hacking key kitploit leak leaked_secrets mantra pentest",
+      "keyword_hits": [
+        "leak",
+        "leaks"
+      ],
+      "char_count": 228,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7149,
+    "date": "2023-07-18",
+    "datetime_utc": "2023-07-18T02:32:44+00:00",
+    "timestamp": 1689647564,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/vx-api-collection-of-various-malicious-functionality-to-aid-in-malware-development.png)**VX-API – Collection Of Various Malicious Functionality To Aid In Malware Development**\n\nThe VX-API is a collection of malicious functionality to aid in malware development. It…\n[Read more on Professional Hackers](https://professionalhackers.in/vx-api-collection-of-various-malicious-functionality-to-aid-in-malware-development/)\n\n#KitPloit #Malware_Development #Malware_Research #VX_API",
+    "id": "2c2420c9-1b13-4919-a76b-9e36d0fb4d24",
+    "cleaning": {
+      "normalized_message": "collection of various malicious functionality to aid in malware development the vx-api is a collection of malicious functionality to aid in malware development it read more on professional hackers kitploit malware_development malware_research vx_api",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 249,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7152,
+    "date": "2023-07-21",
+    "datetime_utc": "2023-07-21T04:57:23+00:00",
+    "timestamp": 1689915443,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/hardhatc2-a-c-command-and-control-framework.png)**HardHatC2 – A C# Command And Control Framework**\n\nA cross-platform, collaborative, Command & Control framework written in C#, designed for red teaming…\n[Read more on Professional Hackers](https://professionalhackers.in/hardhatc2-a-c-command-and-control-framework/)\n\n#HardHatC2 #KitPloit #mimikatz #Tracking #Windows #Windows_API",
+    "id": "e7b33c35-acd9-4781-ad51-16aef0e8b83b",
+    "cleaning": {
+      "normalized_message": "a c command and control framework a cross-platform collaborative command control framework written in c designed for red teaming read more on professional hackers hardhatc2 kitploit mimikatz tracking windows windows_api",
+      "keyword_hits": [
+        "command and control"
+      ],
+      "char_count": 219,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7158,
+    "date": "2023-07-30",
+    "datetime_utc": "2023-07-30T05:06:23+00:00",
+    "timestamp": 1690693583,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/artemis-apk-infrastructure-investigator.jpg)**Artemis – APK Infrastructure Investigator**\n\nOverview A tools for Find APK Infrastructure . HADESS performs offensive cybersecurity services through…\n[Read more on Professional Hackers](https://professionalhackers.in/artemis-apk-infrastructure-investigator/)\n\n#Artemis #cybersecurity #Infrastructure #KitPloit #Vulnerability",
+    "id": "537ac2aa-b036-481c-89d3-23385c186be0",
+    "cleaning": {
+      "normalized_message": "apk infrastructure investigator overview a tools for find apk infrastructure hadess performs offensive cybersecurity services through read more on professional hackers artemis cybersecurity infrastructure kitploit vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 227,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7159,
+    "date": "2023-07-31",
+    "datetime_utc": "2023-07-31T05:14:35+00:00",
+    "timestamp": 1690780475,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/07/lfi-finder-tool-focuses-on-detecting-local-file-inclusion-lfi-vulnerabilities.png)**LFI-FINDER – Tool Focuses On Detecting Local File Inclusion (LFI) Vulnerabilities**\n\nWritten by TMRSWRR Version 1.0.0 Instagram: TMRSWRR How to use LFI-FINDER is an open-source…\n[Read more on Professional Hackers](https://professionalhackers.in/lfi-finder-tool-focuses-on-detecting-local-file-inclusion-lfi-vulnerabilities/)\n\n#KitPloit #LFI_FINDER #Toolkit #Vulnerabilities #Vulnerability",
+    "id": "11a37f1e-8ee5-4a49-bf64-974a5a99dad3",
+    "cleaning": {
+      "normalized_message": "tool focuses on detecting local file inclusion lfi vulnerabilities written by tmrswrr version 1 0 0 instagram tmrswrr how to use lfi-finder is an open-source read more on professional hackers kitploit lfi_finder toolkit vulnerabilities vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 249,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7171,
+    "date": "2023-08-14",
+    "datetime_utc": "2023-08-14T11:16:39+00:00",
+    "timestamp": 1692011799,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/08/niximports-a-net-malware-loader-using-api-hashing-to-evade-static-analysis.png)**NixImports – A .NET Malware Loader, Using API-Hashing To Evade Static Analysis**\n\nA .NET malware loader, using API-Hashing and dynamic invoking to evade static analysis How…\n[Read more on Professional Hackers](https://professionalhackers.in/niximports-a-net-malware-loader-using-api-hashing-to-evade-static-analysis/)\n\n#Detection_Engineering #Dynamic #Hashes #KitPloit #Malware #NixImports #Payload #Yara",
+    "id": "617237ed-7fab-4995-b78f-fece21e68bd4",
+    "cleaning": {
+      "normalized_message": "a net malware loader using api-hashing to evade static analysis a net malware loader using api-hashing and dynamic invoking to evade static analysis how read more on professional hackers detection_engineering dynamic hashes kitploit malware niximports payload yara",
+      "keyword_hits": [
+        "hashes",
+        "loader",
+        "malware"
+      ],
+      "char_count": 264,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7173,
+    "date": "2023-08-16",
+    "datetime_utc": "2023-08-16T14:53:22+00:00",
+    "timestamp": 1692197602,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/08/trawler-powershell-script-to-help-incident-responders-discover-adversary-persistence-mechanisms.png)**Trawler – PowerShell Script To Help Incident Responders Discover Adversary Persistence Mechanisms**\n\nWhat is it? Trawler is a PowerShell script designed to help Incident Responders discover…\n[Read more on Professional Hackers](https://professionalhackers.in/trawler-powershell-script-to-help-incident-responders-discover-adversary-persistence-mechanisms/)\n\n#Blue_Team #Dfir #Incident_Response #KitPloit #Malware #Server_Management #Techniques #Telemetry #Trawler #Windows #Winlogon",
+    "id": "f3e23176-b292-4897-8be5-d9e4462d1b05",
+    "cleaning": {
+      "normalized_message": "powershell script to help incident responders discover adversary persistence mechanisms what is it trawler is a powershell script designed to help incident responders discover read more on professional hackers blue_team dfir incident_response kitploit malware server_management techniques telemetry trawler windows winlogon",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 323,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7184,
+    "date": "2023-08-27",
+    "datetime_utc": "2023-08-27T16:37:57+00:00",
+    "timestamp": 1693154277,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/08/evil-qr-proof-of-concept-to-demonstrate-dynamic-qr-swap-phishing-attacks-in-practice.png)**Evil QR – Proof-of-concept To Demonstrate Dynamic QR Swap Phishing Attacks In Practice**\n\nToolkit demonstrating another approach of a QRLJacking attack, allowing to perform remote account takeover,…\n[Read more on Professional Hackers](https://professionalhackers.in/evil-qr-proof-of-concept-to-demonstrate-dynamic-qr-swap-phishing-attacks-in-practice/)\n\n#Evil_QR #Evilqr #KitPloit #Phishing_Attacks #QR_codes #QRLJacking #REST_API",
+    "id": "a964cec6-21a9-4fcb-95ca-80aed1471df4",
+    "cleaning": {
+      "normalized_message": "qr proof-of-concept to demonstrate dynamic qr swap phishing attacks in practice toolkit demonstrating another approach of a qrljacking attack allowing to perform remote account takeover read more on professional hackers evil_qr evilqr kitploit phishing_attacks qr_codes qrljacking rest_api",
+      "keyword_hits": [
+        "account takeover",
+        "phishing"
+      ],
+      "char_count": 289,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7194,
+    "date": "2023-09-09",
+    "datetime_utc": "2023-09-09T21:27:38+00:00",
+    "timestamp": 1694294858,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/emploleaks-finding-leaked-employees-info-for-the-win.jpg)**EmploLeaks – Finding Leaked Employees Info for the Win**\n\nDeveloped by Faraday security researchers, this cutting-edge tool utilizes the power of OpenSource Intelligence…\n[Read more on Professional Hackers](https://professionalhackers.in/emploleaks-finding-leaked-employees-info-for-the-win/)\n\n#KitPloit",
+    "id": "17bad113-85a7-4aea-a151-b635644dca94",
+    "cleaning": {
+      "normalized_message": "finding leaked employees info for the win developed by faraday security researchers this cutting-edge tool utilizes the power of opensource intelligence read more on professional hackers kitploit",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 195,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7197,
+    "date": "2023-09-12",
+    "datetime_utc": "2023-09-12T19:33:12+00:00",
+    "timestamp": 1694547192,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/vtscanner-a-comprehensive-python-based-security-tool-for-file-scanning-malware-detection-and-analysis-in-an-ever-evolving-cyber-landscape.png)**VTScanner – A Comprehensive Python-based Security Tool For File Scanning, Malware Detection, And Analysis In An Ever-Evolving Cyber Landscape**\n\nVTScanner is a versatile Python tool that empowers users to perform comprehensive file scans…\n[Read more on Professional Hackers](https://professionalhackers.in/vtscanner-a-comprehensive-python-based-security-tool-for-file-scanning-malware-detection-and-analysis-in-an-ever-evolving-cyber-landscape/)\n\n#KitPloit #Security_Tool #VirusTotal #VTScanner #Windows",
+    "id": "df189ee6-622a-46d4-a5d2-3ef08137c5b4",
+    "cleaning": {
+      "normalized_message": "a comprehensive python-based security tool for file scanning malware detection and analysis in an ever-evolving cyber landscape vtscanner is a versatile python tool that empowers users to perform comprehensive file scans read more on professional hackers kitploit security_tool virustotal vtscanner windows",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 306,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7200,
+    "date": "2023-09-15",
+    "datetime_utc": "2023-09-15T21:20:51+00:00",
+    "timestamp": 1694812851,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/z9-powershell-script-analyzer.png)**Z9 – PowerShell Script Analyzer**\n\nAbstract This tools detects the artifact of the PowerShell based malware from the eventlog…\n[Read more on Professional Hackers](https://professionalhackers.in/z9-powershell-script-analyzer/)\n\n#KitPloit #PowerShell #Registry #Script #Static_Analysis #Z9",
+    "id": "858ef9da-d65f-481c-beda-f9953f786d89",
+    "cleaning": {
+      "normalized_message": "powershell script analyzer abstract this tools detects the artifact of the powershell based malware from the eventlog read more on professional hackers kitploit powershell registry script static_analysis z9",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 206,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7201,
+    "date": "2023-09-16",
+    "datetime_utc": "2023-09-16T20:00:51+00:00",
+    "timestamp": 1694894451,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/adcskiller-an-adcs-exploitation-automation-tool-weaponizing-certipy-and-coercer.png)**ADCSKiller – An ADCS Exploitation Automation Tool Weaponizing Certipy And Coercer**\n\nADCSKiller is a Python-based tool designed to automate the process of discovering and exploiting…\n[Read more on Professional Hackers](https://professionalhackers.in/adcskiller-an-adcs-exploitation-automation-tool-weaponizing-certipy-and-coercer/)\n\n#ADCSKiller #Exploiting #KitPloit #Listener #Python3 #Research",
+    "id": "75a32540-7a6c-49f9-af43-80e7b3cc7b0f",
+    "cleaning": {
+      "normalized_message": "an adcs exploitation automation tool weaponizing certipy and coercer adcskiller is a python-based tool designed to automate the process of discovering and exploiting read more on professional hackers adcskiller exploiting kitploit listener python3 research",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "char_count": 256,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7202,
+    "date": "2023-09-18",
+    "datetime_utc": "2023-09-18T00:04:37+00:00",
+    "timestamp": 1694995477,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/promptmap-automatically-tests-prompt-injection-attacks-on-chatgpt-instances.png)**Promptmap – Automatically Tests Prompt Injection Attacks On ChatGPT Instances**\n\nPrompt injection is a type of security vulnerability that can be exploited to control…\n[Read more on Professional Hackers](https://professionalhackers.in/promptmap-automatically-tests-prompt-injection-attacks-on-chatgpt-instances/)\n\n#KitPloit #Prompt_Engineering #Prompt_Injection #Promptmap",
+    "id": "fc7d116f-1306-4daa-9e93-c423a8031929",
+    "cleaning": {
+      "normalized_message": "automatically tests prompt injection attacks on chatgpt instances prompt injection is a type of security vulnerability that can be exploited to control read more on professional hackers kitploit prompt_engineering prompt_injection promptmap",
+      "keyword_hits": [
+        "exploited",
+        "vulnerability"
+      ],
+      "char_count": 240,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7203,
+    "date": "2023-09-18",
+    "datetime_utc": "2023-09-18T21:05:50+00:00",
+    "timestamp": 1695071150,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/surf-escalate-your-ssrf-vulnerabilities-on-modern-cloud-environments.png)**Surf – Escalate Your SSRF Vulnerabilities On Modern Cloud Environments**\n\nsurf allows you to filter a list of hosts, returning a list of viable…\n[Read more on Professional Hackers](https://professionalhackers.in/surf-escalate-your-ssrf-vulnerabilities-on-modern-cloud-environments/)\n\n#http_s #KitPloit #SSRF #Subdomains #Surf #Vulnerabilities #Vulnerability",
+    "id": "571d05e6-ae05-49d4-800f-abc50089371f",
+    "cleaning": {
+      "normalized_message": "escalate your ssrf vulnerabilities on modern cloud environments surf allows you to filter a list of hosts returning a list of viable read more on professional hackers http_s kitploit ssrf subdomains surf vulnerabilities vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 233,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7205,
+    "date": "2023-09-20",
+    "datetime_utc": "2023-09-20T21:42:23+00:00",
+    "timestamp": 1695246143,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/callisto-an-intelligent-binary-vulnerability-analysis-tool.gif)**Callisto – An Intelligent Binary Vulnerability Analysis Tool**\n\nCallisto is an intelligent automated binary vulnerability analysis tool. Its purpose is to autonomously…\n[Read more on Professional Hackers](https://professionalhackers.in/callisto-an-intelligent-binary-vulnerability-analysis-tool/)\n\n#Callisto #KitPloit #Vulnerabilities #Vulnerability #Vulnerability_Analysis #Vulnerable",
+    "id": "afd4239b-fbc7-410f-a097-649c0d776af7",
+    "cleaning": {
+      "normalized_message": "an intelligent binary vulnerability analysis tool callisto is an intelligent automated binary vulnerability analysis tool its purpose is to autonomously read more on professional hackers callisto kitploit vulnerabilities vulnerability vulnerability_analysis vulnerable",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 268,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7207,
+    "date": "2023-09-22",
+    "datetime_utc": "2023-09-22T21:24:27+00:00",
+    "timestamp": 1695417867,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/09/dynmx-signature-based-detection-of-malware-features-based-on-windows-api-call-sequences.png)**Dynmx – Signature-based Detection Of Malware Features Based On Windows API Call Sequences**\n\ndynmx (spoken dynamics) is a signature-based detection approach for behavioural malware features based on…\n[Read more on Professional Hackers](https://professionalhackers.in/dynmx-signature-based-detection-of-malware-features-based-on-windows-api-call-sequences/)\n\n#Dynmx #KitPloit #Windows #Windows_API #Yara",
+    "id": "e6f01e64-06bf-471d-971f-9f64b3013b84",
+    "cleaning": {
+      "normalized_message": "signature-based detection of malware features based on windows api call sequences dynmx spoken dynamics is a signature-based detection approach for behavioural malware features based on read more on professional hackers dynmx kitploit windows windows_api yara",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 259,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7215,
+    "date": "2023-10-01",
+    "datetime_utc": "2023-10-01T02:17:09+00:00",
+    "timestamp": 1696126629,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/electron_shell-developing-a-more-covert-remote-access-trojan-rat-tool-by-leveraging-electrons-features-for-command-injection-and-combining-it-with-remote-control-methods.jpg)**Electron_Shell – Developing A More Covert Remote Access Trojan (RAT) Tool By Leveraging Electron’s Features For Command Injection And Combining It With Remote Control Methods**\n\nFeatures Supports almost all operating systems mac linux windows Supports almost all desktop applications…\n[Read more on Professional Hackers](https://professionalhackers.in/electron_shell-developing-a-more-covert-remote-access-trojan-rat-tool-by-leveraging-electrons-features-for-command-injection-and-combining-it-with-remote-control-methods/)\n\n#Bypassav #Electron_Shell #KitPloit #Microsoft_Teams #Trojan #Twich #Whatsapp #Zero_Trust",
+    "id": "b55eee72-4124-425e-91ee-9e70164b254a",
+    "cleaning": {
+      "normalized_message": "developing a more covert remote access trojan rat tool by leveraging electron s features for command injection and combining it with remote control methods features supports almost all operating systems mac linux windows supports almost all desktop applications read more on professional hackers bypassav electron_shell kitploit microsoft_teams trojan twich whatsapp zero_trust",
+      "keyword_hits": [
+        "trojan"
+      ],
+      "char_count": 377,
+      "token_count": 51,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7219,
+    "date": "2023-10-05",
+    "datetime_utc": "2023-10-05T01:41:01+00:00",
+    "timestamp": 1696470061,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/moduleshifting-stealthier-variation-of-module-stomping-and-module-overloading-injection-techniques-that-reduces-memory-iocs.png)**ModuleShifting – Stealthier Variation Of Module Stomping And Module Overloading Injection Techniques That Reduces Memory IoCs**\n\nModuleShifting is stealthier variation of Module Stomping and Module overloading injection technique. It is…\n[Read more on Professional Hackers](https://professionalhackers.in/moduleshifting-stealthier-variation-of-module-stomping-and-module-overloading-injection-techniques-that-reduces-memory-iocs/)\n\n#Ctypes #Edr_Testing #KitPloit #ModuleShifting #Redteam_Tools",
+    "id": "48e39196-27bc-40c1-a738-04f43f6ef4cc",
+    "cleaning": {
+      "normalized_message": "stealthier variation of module stomping and module overloading injection techniques that reduces memory iocs moduleshifting is stealthier variation of module stomping and module overloading injection technique it is read more on professional hackers ctypes edr_testing kitploit moduleshifting redteam_tools",
+      "keyword_hits": [
+        "iocs"
+      ],
+      "char_count": 306,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7223,
+    "date": "2023-10-09",
+    "datetime_utc": "2023-10-09T03:28:39+00:00",
+    "timestamp": 1696822119,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/chromecookiestealer-steal-inject-chrome-cookies-over-the-devtools-protocol.jpg)**Chromecookiestealer – Steal/Inject Chrome Cookies Over The DevTools Protocol**\n\nAttaches to Chrome using its Remote DevTools protocol and steals/injects/clears/deletes cookies. Heavily inspired by…\n[Read more on Professional Hackers](https://professionalhackers.in/chromecookiestealer-steal-inject-chrome-cookies-over-the-devtools-protocol/)\n\n#Chromecookiestealer #Cookies #Debugging #JSON #KitPloit #Remote #Stealer",
+    "id": "3c50c402-0c56-4efe-981e-b242fa3c8b42",
+    "cleaning": {
+      "normalized_message": "steal inject chrome cookies over the devtools protocol attaches to chrome using its remote devtools protocol and steals injects clears deletes cookies heavily inspired by read more on professional hackers chromecookiestealer cookies debugging json kitploit remote stealer",
+      "keyword_hits": [
+        "stealer"
+      ],
+      "char_count": 271,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7224,
+    "date": "2023-10-10",
+    "datetime_utc": "2023-10-10T04:20:16+00:00",
+    "timestamp": 1696911616,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/dakshscra-source-code-review-assist.jpg)**DakshSCRA – Source Code Review Assist**\n\nDaksh SCRA (Source Code Review Assist) tool is built to enhance the efficiency of…\n[Read more on Professional Hackers](https://professionalhackers.in/dakshscra-source-code-review-assist/)\n\n#DakshSCRA #KitPloit #Reconnaissance #Rule_Based #Scanning #Scans #Tagging #Vulnerability #Vulnerability_Scanning",
+    "id": "90438231-6c14-4f0e-a92a-644cf036975d",
+    "cleaning": {
+      "normalized_message": "source code review assist daksh scra source code review assist tool is built to enhance the efficiency of read more on professional hackers dakshscra kitploit reconnaissance rule_based scanning scans tagging vulnerability vulnerability_scanning",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 244,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7225,
+    "date": "2023-10-11",
+    "datetime_utc": "2023-10-11T03:18:37+00:00",
+    "timestamp": 1696994317,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/sirius-first-truly-open-source-general-purpose-vulnerability-scanner.png)**Sirius – First Truly Open-Source General Purpose Vulnerability Scanner**\n\nSirius is the first truly open-source general purpose vulnerability scanner. Today, the information security…\n[Read more on Professional Hackers](https://professionalhackers.in/sirius-first-truly-open-source-general-purpose-vulnerability-scanner/)\n\n#KitPloit #NoSQL #Sirius #Vulnerability #Vulnerability_Identification",
+    "id": "f85ba01b-e030-4608-abbd-cf72e19ead22",
+    "cleaning": {
+      "normalized_message": "first truly open-source general purpose vulnerability scanner sirius is the first truly open-source general purpose vulnerability scanner today the information security read more on professional hackers kitploit nosql sirius vulnerability vulnerability_identification",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 267,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7234,
+    "date": "2023-10-21",
+    "datetime_utc": "2023-10-21T06:04:31+00:00",
+    "timestamp": 1697868271,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/commander-a-command-and-control-c2-server.jpg)**Commander – A Command And Control (C2) Server**\n\nCommander is a command and control framework (C2) written in Python, Flask and SQLite.…\n[Read more on Professional Hackers](https://professionalhackers.in/commander-a-command-and-control-c2-server/)\n\n#Commandandcontrol #Commander #KitPloit #Offensive_Security #Penetration_Testing #PenTest #PENTESTING #Pentesting_Tools #Postexplotation #Redteam #Redteam_Tools #Redteaming",
+    "id": "471f4de8-52d0-4339-90fc-ba879d4fea31",
+    "cleaning": {
+      "normalized_message": "a command and control c2 server commander is a command and control framework c2 written in python flask and sqlite read more on professional hackers commandandcontrol commander kitploit offensive_security penetration_testing pentest pentesting pentesting_tools postexplotation redteam redteam_tools redteaming",
+      "keyword_hits": [
+        "c2",
+        "command and control"
+      ],
+      "char_count": 309,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7236,
+    "date": "2023-10-24",
+    "datetime_utc": "2023-10-24T05:57:39+00:00",
+    "timestamp": 1698127059,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/gator-gcp-attack-toolkit-for-offensive-research-a-tool-designed-to-aid-in-research-and-exploiting-google-cloud-environments.png)**GATOR – GCP Attack Toolkit For Offensive Research, A Tool Designed To Aid In Research And Exploiting Google Cloud Environments**\n\nGATOR - GCP Attack Toolkit for Offensive Research, a tool designed to aid in…\n[Read more on Professional Hackers](https://professionalhackers.in/gator-gcp-attack-toolkit-for-offensive-research-a-tool-designed-to-aid-in-research-and-exploiting-google-cloud-environments/)\n\n#Cloudsecurity #GATOR #Gcpsecurity #KitPloit #Offensive_Security #Redteam_Tools",
+    "id": "24fb55f0-777b-4d11-ad97-0117db2f5cb5",
+    "cleaning": {
+      "normalized_message": "gcp attack toolkit for offensive research a tool designed to aid in research and exploiting google cloud environments gator - gcp attack toolkit for offensive research a tool designed to aid in read more on professional hackers cloudsecurity gator gcpsecurity kitploit offensive_security redteam_tools",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "char_count": 301,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7237,
+    "date": "2023-10-25",
+    "datetime_utc": "2023-10-25T05:47:00+00:00",
+    "timestamp": 1698212820,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/facad1ng-the-ultimate-url-masking-tool-an-open-source-url-masking-tool-designed-to-help-you-hide-phishing-urls-and-make-them-look-legit-using-social-engineering-techniques.png)**Facad1ng – The Ultimate URL Masking Tool – An Open-Source URL Masking Tool Designed To Help You Hide Phishing URLs And Make Them Look Legit Using Social Engineering Techniques**\n\nFacad1ng is an open-source URL masking tool designed to help you Hide Phishing URLs…\n[Read more on Professional Hackers](https://professionalhackers.in/facad1ng-the-ultimate-url-masking-tool-an-open-source-url-masking-tool-designed-to-help-you-hide-phishing-urls-and-make-them-look-legit-using-social-engineering-techniques/)\n\n#Facad1ng #Hide_Phishing_Link #KitPloit #Mask_Phishing_Url #Url_Masking #URL_Phishing",
+    "id": "d777c690-e4ac-46fa-972b-34c68d1125e8",
+    "cleaning": {
+      "normalized_message": "the ultimate url masking tool an open-source url masking tool designed to help you hide phishing urls and make them look legit using social engineering techniques facad1ng is an open-source url masking tool designed to help you hide phishing urls read more on professional hackers facad1ng hide_phishing_link kitploit mask_phishing_url url_masking url_phishing",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 360,
+      "token_count": 51,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7238,
+    "date": "2023-10-26",
+    "datetime_utc": "2023-10-26T08:26:35+00:00",
+    "timestamp": 1698308795,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/puncia-subdomain-and-exploit-hunter-powered-by-ai.png)**Puncia – Subdomain And Exploit Hunter Powered By AI**\n\nPuncia utilizes two of our intelligent APIs - Subdomain Center & Exploit Observer, to…\n[Read more on Professional Hackers](https://professionalhackers.in/puncia-subdomain-and-exploit-hunter-powered-by-ai/)\n\n#KitPloit",
+    "id": "66f652a3-d2c7-4318-a2d9-eb49760ea528",
+    "cleaning": {
+      "normalized_message": "subdomain and exploit hunter powered by ai puncia utilizes two of our intelligent apis - subdomain center exploit observer to read more on professional hackers kitploit",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 168,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7239,
+    "date": "2023-10-27",
+    "datetime_utc": "2023-10-27T08:02:20+00:00",
+    "timestamp": 1698393740,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/pathfinder-tool-that-provides-information-about-a-website.png)**PathFinder – Tool That Provides Information About A Website**\n\nWeb Path Finder is a Python program that provides information about a website. It…\n[Read more on Professional Hackers](https://professionalhackers.in/pathfinder-tool-that-provides-information-about-a-website/)\n\n#KitPloit #PathFinder #Subdomains #Vulnerability #Web_Pentest #Webpentesting #Website #Whois",
+    "id": "3efddeac-a330-49fe-8c13-297bf16a0cd1",
+    "cleaning": {
+      "normalized_message": "tool that provides information about a website web path finder is a python program that provides information about a website it read more on professional hackers kitploit pathfinder subdomains vulnerability web_pentest webpentesting website whois",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 246,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7240,
+    "date": "2023-10-28",
+    "datetime_utc": "2023-10-28T09:49:31+00:00",
+    "timestamp": 1698486571,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/10/arsenal-just-a-quick-inventory-and-launcher-for-hacking-programs.png)**Arsenal – Just A Quick Inventory And Launcher For Hacking Programs**\n\nArsenal is just a quick inventory, reminder and launcher for pentest commands. This project…\n[Read more on Professional Hackers](https://professionalhackers.in/arsenal-just-a-quick-inventory-and-launcher-for-hacking-programs/)\n\n#Arsenal #Credentials #KitPloit #shadow #Shells #Simplify #Tty",
+    "id": "cb28bf66-9720-4d5d-8dee-ca122af11ef6",
+    "cleaning": {
+      "normalized_message": "just a quick inventory and launcher for hacking programs arsenal is just a quick inventory reminder and launcher for pentest commands this project read more on professional hackers arsenal credentials kitploit shadow shells simplify tty",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 236,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7247,
+    "date": "2023-11-04",
+    "datetime_utc": "2023-11-04T12:35:51+00:00",
+    "timestamp": 1699101351,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/11/looneypwner-exploit-tool-for-cve-2023-4911-targeting-the-looney-tunables-glibc-vulnerability-in-various-linux-distributions.png)**LooneyPwner – Exploit Tool For CVE-****2023-4911****, Targeting The ‘Looney Tunables’ Glibc Vulnerability In Various Linux Distributions**\n\nExploit tool for CVE-2023-4911, targeting the 'Looney Tunables' glibc vulnerability in various Linux distributions.…\n[Read more on Professional Hackers](https://professionalhackers.in/looneypwner-exploit-tool-for-cve-2023-4911-targeting-the-looney-tunables-glibc-vulnerability-in-various-linux-distributions/)\n\n#KitPloit #LooneyPwner #Undetected #Vulnerability",
+    "id": "96570f81-19b1-437a-b216-6d16fedf61a5",
+    "cleaning": {
+      "normalized_message": "exploit tool for cve- 2023-4911 targeting the looney tunables glibc vulnerability in various linux distributions exploit tool for cve-2023-4911 targeting the looney tunables glibc vulnerability in various linux distributions read more on professional hackers kitploit looneypwner undetected vulnerability",
+      "keyword_hits": [
+        "cve-2023-4911",
+        "exploit",
+        "vulnerability"
+      ],
+      "char_count": 304,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7249,
+    "date": "2023-11-06",
+    "datetime_utc": "2023-11-06T11:29:15+00:00",
+    "timestamp": 1699270155,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/11/networkassessment-with-wireshark-or-tcpdump-you-can-determine-whether-there-is-harmful-activity-on-your-network-traffic-that-you-have-recorded-on-the-network-you-monitor.png)**NetworkAssessment – With Wireshark Or TCPdump, You Can Determine Whether There Is Harmful Activity On Your Network Traffic That You Have Recorded On The Network You Monitor**\n\nThe Network Compromise Assessment Tool is designed to analyze pcap files to detect potential…\n[Read more on Professional Hackers](https://professionalhackers.in/networkassessment-with-wireshark-or-tcpdump-you-can-determine-whether-there-is-harmful-activity-on-your-network-traffic-that-you-have-recorded-on-the-network-you-monitor/)\n\n#KitPloit #NetworkAssessment #Traffic #Tunneling #Wireshark",
+    "id": "3bed3f96-b5a9-4220-8f75-192a8985aa89",
+    "cleaning": {
+      "normalized_message": "with wireshark or tcpdump you can determine whether there is harmful activity on your network traffic that you have recorded on the network you monitor the network compromise assessment tool is designed to analyze pcap files to detect potential read more on professional hackers kitploit networkassessment traffic tunneling wireshark",
+      "keyword_hits": [
+        "compromise"
+      ],
+      "char_count": 333,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7251,
+    "date": "2023-11-08",
+    "datetime_utc": "2023-11-08T11:34:36+00:00",
+    "timestamp": 1699443276,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/11/dvenom-tool-that-provides-an-encryption-wrapper-and-loader-for-your-shellcode.png)**Dvenom – Tool That Provides An Encryption Wrapper And Loader For Your Shellcode**\n\nDouble Venom (DVenom) is a tool that helps red teamers bypass AVs by providing…\n[Read more on Professional Hackers](https://professionalhackers.in/dvenom-tool-that-provides-an-encryption-wrapper-and-loader-for-your-shellcode/)\n\n#Antivirus_Bypass #Dvenom #KitPloit #Redteam #Redteam_Tools #Shellcode #Shellcode_Loader",
+    "id": "edb24e1e-5c85-4423-bf56-5d5cfa9bf30d",
+    "cleaning": {
+      "normalized_message": "tool that provides an encryption wrapper and loader for your shellcode double venom dvenom is a tool that helps red teamers bypass avs by providing read more on professional hackers antivirus_bypass dvenom kitploit redteam redteam_tools shellcode shellcode_loader",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 263,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7258,
+    "date": "2023-11-15",
+    "datetime_utc": "2023-11-15T14:19:14+00:00",
+    "timestamp": 1700057954,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/11/hades-c2-hades-basic-command-and-control-server.png)**Hades-C2 – Hades Basic Command And Control Server**\n\nHades is a basic Command & Control server built using Python. It is currently…\n[Read more on Professional Hackers](https://professionalhackers.in/hades-c2-hades-basic-command-and-control-server/)\n\n#Command_And_Control #Hades_C2 #KitPloit #Red_Team #Redteam",
+    "id": "b0533129-e889-411e-bc99-b5203286953d",
+    "cleaning": {
+      "normalized_message": "hades basic command and control server hades is a basic command control server built using python it is currently read more on professional hackers command_and_control hades_c2 kitploit red_team redteam",
+      "keyword_hits": [
+        "command and control"
+      ],
+      "char_count": 202,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7260,
+    "date": "2023-11-17",
+    "datetime_utc": "2023-11-17T13:36:26+00:00",
+    "timestamp": 1700228186,
+    "message": "[‌](https://professionalhackers.in/wp-content/uploads/2023/11/padre-blazing-fast-advanced-padding-oracle-exploit.png)**Padre – Blazing Fast, Advanced Padding Oracle Exploit**\n\npadre is an advanced exploiter for Padding Oracle attacks against CBC mode encryption Features:…\n[Read more on Professional Hackers](https://professionalhackers.in/padre-blazing-fast-advanced-padding-oracle-exploit/)\n\n#Cbc_Mode_Encryption #Exploit #KitPloit #Padre",
+    "id": "0ea05f2e-56a8-4a28-9f1a-7ed25602455d",
+    "cleaning": {
+      "normalized_message": "blazing fast advanced padding oracle exploit padre is an advanced exploiter for padding oracle attacks against cbc mode encryption features read more on professional hackers cbc_mode_encryption exploit kitploit padre",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 216,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7267,
+    "date": "2023-11-24",
+    "datetime_utc": "2023-11-24T18:02:36+00:00",
+    "timestamp": 1700848956,
+    "message": "‌**Iac-Scan-Runner – Service That Scans Your Infrastructure As Code For Common Vulnerabilities**\n\nService that scans your Infrastructure as Code for common vulnerabilities. Purpose and description The…\n[Read more on Professional Hackers](https://professionalhackers.in/iac-scan-runner-service-that-scans-your-infrastructure-as-code-for-common-vulnerabilities/)\n\n#Devsecops #Iac_Scan_Runner #KitPloit #Scanning #Vulnerability",
+    "id": "f2aa79ef-9017-430c-a200-1032abcc8d5f",
+    "cleaning": {
+      "normalized_message": "iac-scan-runner service that scans your infrastructure as code for common vulnerabilities service that scans your infrastructure as code for common vulnerabilities purpose and description the read more on professional hackers devsecops iac_scan_runner kitploit scanning vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 283,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7270,
+    "date": "2023-11-27",
+    "datetime_utc": "2023-11-27T16:19:24+00:00",
+    "timestamp": 1701101964,
+    "message": "‌**MaccaroniC2 – A PoC Command And Control Framework That Utilizes The Powerful AsyncSSH**\n\nMaccaroniC2 is a proof-of-concept Command and Control framework that utilizes the powerful AsyncSSH Python…\n[Read more on Professional Hackers](https://professionalhackers.in/maccaronic2-a-poc-command-and-control-framework-that-utilizes-the-powerful-asyncssh/)\n\n#KitPloit #MaccaroniC2 #Wrapper",
+    "id": "940f0418-ed6e-4196-9775-5f93d153dbfa",
+    "cleaning": {
+      "normalized_message": "maccaronic2 a poc command and control framework that utilizes the powerful asyncssh maccaronic2 is a proof-of-concept command and control framework that utilizes the powerful asyncssh python read more on professional hackers kitploit maccaronic2 wrapper",
+      "keyword_hits": [
+        "command and control"
+      ],
+      "char_count": 253,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7277,
+    "date": "2023-12-04",
+    "datetime_utc": "2023-12-04T18:20:35+00:00",
+    "timestamp": 1701714035,
+    "message": "‌**C2-Search-Netlas – Search For C2 Servers Based On Netlas**\n\nC2 Search Netlas is a Java utility designed to detect Command and Control (C2)…\n[Read more on Professional Hackers](https://professionalhackers.in/c2-search-netlas-search-for-c2-servers-based-on-netlas/)\n\n#Bindshell #C2_Search_Netlas #KitPloit #Malware #Reverse_Shell #Security_Tool #Vulnaribility",
+    "id": "d5d24b73-747b-4748-ac4a-1158a22f7be2",
+    "cleaning": {
+      "normalized_message": "c2-search-netlas search for c2 servers based on netlas c2 search netlas is a java utility designed to detect command and control c2 read more on professional hackers bindshell c2_search_netlas kitploit malware reverse_shell security_tool vulnaribility",
+      "keyword_hits": [
+        "c2",
+        "command and control",
+        "malware"
+      ],
+      "char_count": 251,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7280,
+    "date": "2023-12-07",
+    "datetime_utc": "2023-12-07T20:54:14+00:00",
+    "timestamp": 1701982454,
+    "message": "‌**BlueBunny – BLE Based C2 For Hak5’s Bash Bunny**\n\nC2 solution that communicates directly over Bluetooth-Low-Energy with your Bash Bunny Mark II.Send your…\n[Read more on Professional Hackers](https://professionalhackers.in/bluebunny-ble-based-c2-for-hak5s-bash-bunny/)\n\n#Bash_Bunny #BlueBunny #Bluetooth_Low_Energy #Command_And_Control #Hak5 #KitPloit #Python #Scanning",
+    "id": "fc8febd8-a633-4e12-9dbd-a5f0f7697e9f",
+    "cleaning": {
+      "normalized_message": "bluebunny ble based c2 for hak5 s bash bunny c2 solution that communicates directly over bluetooth-low-energy with your bash bunny mark ii send your read more on professional hackers bash_bunny bluebunny bluetooth_low_energy command_and_control hak5 kitploit python scanning",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 274,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7283,
+    "date": "2023-12-10",
+    "datetime_utc": "2023-12-10T20:50:28+00:00",
+    "timestamp": 1702241428,
+    "message": "‌**Py-Amsi – Scan Strings Or Files For Malware Using The Windows Antimalware Scan Interface**\n\npy-amsi is a library that scans strings or files for malware using the Windows…\n[Read more on Professional Hackers](https://professionalhackers.in/py-amsi-scan-strings-or-files-for-malware-using-the-windows-antimalware-scan-interface/)\n\n#Amsi_Wrapper #KitPloit #Py_Amsi #Pypi_Package #Python #Python_Amsi #Python3 #Windows",
+    "id": "ced85f68-fde0-47c4-878d-65ef7a731a30",
+    "cleaning": {
+      "normalized_message": "py-amsi scan strings or files for malware using the windows antimalware scan interface py-amsi is a library that scans strings or files for malware using the windows read more on professional hackers amsi_wrapper kitploit py_amsi pypi_package python python_amsi python3 windows",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 277,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7286,
+    "date": "2023-12-13",
+    "datetime_utc": "2023-12-13T20:02:31+00:00",
+    "timestamp": 1702497751,
+    "message": "‌**Osx-Password-Dumper – A Tool To Dump Users’S .Plist On A Mac OS System And To Convert Them Into A Crackable Hash**\n\nOverview A bash script to retrieve user's .plist files on a macOS system and…\n[Read more on Professional Hackers](https://professionalhackers.in/osx-password-dumper-a-tool-to-dump-userss-plist-on-a-mac-os-system-and-to-convert-them-into-a-crackable-hash/)\n\n#John_the_Ripper #KitPloit #Mac #MacOS #Osx_Password_Dumper #System",
+    "id": "5c65741a-a9c4-4da8-9dbe-79c82f67e27c",
+    "cleaning": {
+      "normalized_message": "osx-password-dumper a tool to dump users s plist on a mac os system and to convert them into a crackable hash overview a bash script to retrieve user s plist files on a macos system and read more on professional hackers john_the_ripper kitploit mac macos osx_password_dumper system",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 281,
+      "token_count": 47,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7287,
+    "date": "2023-12-14",
+    "datetime_utc": "2023-12-14T23:50:05+00:00",
+    "timestamp": 1702597805,
+    "message": "‌**APIDetector – Efficiently Scan For Exposed Swagger Endpoints Across Web Domains And Subdomains**\n\nAPIDetector is a powerful and efficient tool designed for testing exposed Swagger endpoints in…\n[Read more on Professional Hackers](https://professionalhackers.in/apidetector-efficiently-scan-for-exposed-swagger-endpoints-across-web-domains-and-subdomains/)\n\n#APIDetector #KitPloit #Subdomains #Swagger #Vulnerability",
+    "id": "90aa8da1-a6d6-410f-9631-9b254d87e8e3",
+    "cleaning": {
+      "normalized_message": "apidetector efficiently scan for exposed swagger endpoints across web domains and subdomains apidetector is a powerful and efficient tool designed for testing exposed swagger endpoints in read more on professional hackers apidetector kitploit subdomains swagger vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 275,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7289,
+    "date": "2023-12-16",
+    "datetime_utc": "2023-12-16T20:55:41+00:00",
+    "timestamp": 1702760141,
+    "message": "‌**Nim-Shell – Reverse Shell That Can Bypass Windows Defender Detection**\n\nReverse shell that can bypass windows defender detection $ apt install nim nim c…\n[Read more on Professional Hackers](https://professionalhackers.in/nim-shell-reverse-shell-that-can-bypass-windows-defender-detection/)\n\n#KitPloit #Nim_Shell #Reverse_Shell #Shell #Windows #Windows_Defender",
+    "id": "72bbca72-1c21-49f6-89de-a42a26d17251",
+    "cleaning": {
+      "normalized_message": "nim-shell reverse shell that can bypass windows defender detection reverse shell that can bypass windows defender detection apt install nim nim c read more on professional hackers kitploit nim_shell reverse_shell shell windows windows_defender",
+      "keyword_hits": [
+        "apt"
+      ],
+      "char_count": 243,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7291,
+    "date": "2023-12-18",
+    "datetime_utc": "2023-12-18T18:14:12+00:00",
+    "timestamp": 1702923252,
+    "message": "‌**Why Your AirPods Aren’t Waterproof**\n\nKeep your AirPods protected when not in use by keeping them inside a waterproof…\n[Read more on Professional Hackers](https://professionalhackers.in/why-your-airpods-arent-waterproof/)\n\n#AirPods_Aren_t_Waterproof #hackercombat #Leaks",
+    "id": "ff703e4e-ea8a-428a-9e57-b3ea37a82c5e",
+    "cleaning": {
+      "normalized_message": "why your airpods aren t waterproof keep your airpods protected when not in use by keeping them inside a waterproof read more on professional hackers airpods_aren_t_waterproof hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 193,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7293,
+    "date": "2023-12-18",
+    "datetime_utc": "2023-12-18T23:39:55+00:00",
+    "timestamp": 1702942795,
+    "message": "‌**How To Scan a QR Code On iPhone**\n\nThe iPhone offers multiple ways of scanning QR codes, but the quickest and easiest…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-scan-a-qr-code-on-iphone/)\n\n#hackercombat #How_to_Scan_a_QR_Code_on_iPhone #Leaks",
+    "id": "d4fc883f-fb5d-4d37-9e4c-8a4812e74237",
+    "cleaning": {
+      "normalized_message": "how to scan a qr code on iphone the iphone offers multiple ways of scanning qr codes but the quickest and easiest read more on professional hackers hackercombat how_to_scan_a_qr_code_on_iphone leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 198,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7294,
+    "date": "2023-12-19",
+    "datetime_utc": "2023-12-19T09:59:18+00:00",
+    "timestamp": 1702979958,
+    "message": "‌**How To Delete a Facebook Business Page?**\n\nAn inactive Facebook business page won’t do your brand any good; sometimes, it may…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-delete-a-facebook-business-page/)\n\n#hackercombat #How_to_Delete_a_Facebook_Business_Page #Leaks",
+    "id": "5c5b195a-a41d-4250-85cd-ab72fd569903",
+    "cleaning": {
+      "normalized_message": "how to delete a facebook business page an inactive facebook business page won t do your brand any good sometimes it may read more on professional hackers hackercombat how_to_delete_a_facebook_business_page leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 211,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7295,
+    "date": "2023-12-19",
+    "datetime_utc": "2023-12-19T14:42:56+00:00",
+    "timestamp": 1702996976,
+    "message": "‌**How to Temporarily Deactivate Instagram?**\n\nInstagram is an amazing social platform where you can stay in touch with your…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-temporarily-deactivate-instagram/)\n\n#hackercombat #How_to_Temporarily_Deactivate_Instagram #Leaks",
+    "id": "2dcd2ed5-c8d9-46b0-a5d9-e6291022aab6",
+    "cleaning": {
+      "normalized_message": "how to temporarily deactivate instagram instagram is an amazing social platform where you can stay in touch with your read more on professional hackers hackercombat how_to_temporarily_deactivate_instagram leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 210,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7296,
+    "date": "2023-12-19",
+    "datetime_utc": "2023-12-19T20:01:10+00:00",
+    "timestamp": 1703016070,
+    "message": "‌**How To Make a QR code?**\n\nQR codes have become an indispensable feature of everyday life. From restaurant menus to…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-make-a-qr-code/)\n\n#hackercombat #How_To_Make_a_QR_Code #Leaks",
+    "id": "f0f9f594-9605-4b1f-9663-bcf0bc4c6cf6",
+    "cleaning": {
+      "normalized_message": "how to make a qr code qr codes have become an indispensable feature of everyday life from restaurant menus to read more on professional hackers hackercombat how_to_make_a_qr_code leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 184,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7297,
+    "date": "2023-12-19",
+    "datetime_utc": "2023-12-19T22:40:59+00:00",
+    "timestamp": 1703025659,
+    "message": "‌**How to Know If Someone Screengrabs Your Instagram Story**\n\nInstagram doesn’t inform its users when their Story or Reel has been screengrabbed –…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-know-if-someone-screengrabs-your-instagram-story/)\n\n#hackercombat #How_to_Know_If_Someone_Screengrabs_Your_Instagram_Story #Leaks",
+    "id": "6bbd5677-4e3e-4434-b066-dd6eaf86a428",
+    "cleaning": {
+      "normalized_message": "how to know if someone screengrabs your instagram story instagram doesn t inform its users when their story or reel has been screengrabbed read more on professional hackers hackercombat how_to_know_if_someone_screengrabs_your_instagram_story leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 247,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7299,
+    "date": "2023-12-20",
+    "datetime_utc": "2023-12-20T22:55:20+00:00",
+    "timestamp": 1703112920,
+    "message": "‌**Do AirPods Work With Android?**\n\nAirPods work well with Android, but the experience may be less satisfying or convenient…\n[Read more on Professional Hackers](https://professionalhackers.in/do-airpods-work-with-android/)\n\n#Do_AirPods_Work_With_Android #hackercombat #Leaks",
+    "id": "bfb17f62-ef13-49e4-b08a-3817b9e9a8d0",
+    "cleaning": {
+      "normalized_message": "do airpods work with android airpods work well with android but the experience may be less satisfying or convenient read more on professional hackers do_airpods_work_with_android hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 197,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7301,
+    "date": "2023-12-21",
+    "datetime_utc": "2023-12-21T11:08:13+00:00",
+    "timestamp": 1703156893,
+    "message": "‌**How to Copy and Paste on Mac?**\n\nCopying and pasting text and images on a Mac is easy using keyboard shortcuts…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-copy-and-paste-on-mac/)\n\n#hackercombat #How_to_Copy_and_Paste_on_Mac #Leaks",
+    "id": "d1866ea9-3e09-40a9-81cf-59847632d252",
+    "cleaning": {
+      "normalized_message": "how to copy and paste on mac copying and pasting text and images on a mac is easy using keyboard shortcuts read more on professional hackers hackercombat how_to_copy_and_paste_on_mac leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 188,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7305,
+    "date": "2023-12-25",
+    "datetime_utc": "2023-12-25T00:56:53+00:00",
+    "timestamp": 1703465813,
+    "message": "‌**KnowsMore – A Swiss Army Knife Tool For Pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS And DCSync)**\n\nKnowsMore officially supports Python 3.8+. Main features Import NTLM Hashes from .ntds output txt…\n[Read more on Professional Hackers](https://professionalhackers.in/knowsmore-a-swiss-army-knife-tool-for-pentesting-microsoft-active-directory-ntlm-hashes-bloodhound-ntds-and-dcsync/)\n\n#KitPloit #KnowsMore #Sqlite_Database #Swiss_Army_Knife #Weak_Passwords #Wordlist",
+    "id": "bd185f95-a60f-4d55-9e9b-6dc8d4a41d8d",
+    "cleaning": {
+      "normalized_message": "knowsmore a swiss army knife tool for pentesting microsoft active directory ntlm hashes bloodhound ntds and dcsync knowsmore officially supports python 3 8 main features import ntlm hashes from ntds output txt read more on professional hackers kitploit knowsmore sqlite_database swiss_army_knife weak_passwords wordlist",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 319,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7306,
+    "date": "2023-12-26",
+    "datetime_utc": "2023-12-26T00:32:33+00:00",
+    "timestamp": 1703550753,
+    "message": "‌**Metahub – An Automated Contextual Security Findings Enrichment And Impact Evaluation Tool For Vulnerability Management**\n\nMetaHub is an automated contextual security findings enrichment and impact evaluation tool for vulnerability…\n[Read more on Professional Hackers](https://professionalhackers.in/metahub-an-automated-contextual-security-findings-enrichment-and-impact-evaluation-tool-for-vulnerability-management/)\n\n#Asff #KitPloit #Metahub #Securityhub #Useless #Vulnerability",
+    "id": "eae19ad0-e95c-4526-9e3b-cd49b5aa8da1",
+    "cleaning": {
+      "normalized_message": "metahub an automated contextual security findings enrichment and impact evaluation tool for vulnerability management metahub is an automated contextual security findings enrichment and impact evaluation tool for vulnerability read more on professional hackers asff kitploit metahub securityhub useless vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 315,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7310,
+    "date": "2023-12-30",
+    "datetime_utc": "2023-12-30T03:57:24+00:00",
+    "timestamp": 1703908644,
+    "message": "‌**VED-eBPF – Kernel Exploit And Rootkit Detection Using eBPF**\n\nVED (Vault Exploit Defense)-eBPF leverages eBPF (extended Berkeley Packet Filter) to implement runtime kernel…\n[Read more on Professional Hackers](https://professionalhackers.in/ved-ebpf-kernel-exploit-and-rootkit-detection-using-ebpf/)\n\n#eBPF #KitPloit #Privilege_Escalation #Real_Time #Rootkit #VED_eBPF #Virtual_Machine",
+    "id": "0544f294-db73-4743-93f2-2495b78cce9a",
+    "cleaning": {
+      "normalized_message": "ved-ebpf kernel exploit and rootkit detection using ebpf ved vault exploit defense -ebpf leverages ebpf extended berkeley packet filter to implement runtime kernel read more on professional hackers ebpf kitploit privilege_escalation real_time rootkit ved_ebpf virtual_machine",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 275,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7312,
+    "date": "2024-01-01",
+    "datetime_utc": "2024-01-01T05:23:00+00:00",
+    "timestamp": 1704086580,
+    "message": "‌**Legba – A Multiprotocol Credentials Bruteforcer / Password Sprayer And Enumerator**\n\nLegba is a multiprotocol credentials bruteforcer / password sprayer and enumerator built with Rust…\n[Read more on Professional Hackers](https://professionalhackers.in/legba-a-multiprotocol-credentials-bruteforcer-password-sprayer-and-enumerator/)\n\n#KitPloit #Legba #SSH #Stability #Subdomain #THC_Hydra #Token #Wordlist",
+    "id": "aacc0abe-d47b-4d1d-9824-2eba19a3d493",
+    "cleaning": {
+      "normalized_message": "legba a multiprotocol credentials bruteforcer password sprayer and enumerator legba is a multiprotocol credentials bruteforcer password sprayer and enumerator built with rust read more on professional hackers kitploit legba ssh stability subdomain thc_hydra token wordlist",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 272,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7314,
+    "date": "2024-01-03",
+    "datetime_utc": "2024-01-03T05:03:11+00:00",
+    "timestamp": 1704258191,
+    "message": "‌**WiFi-password-stealer – Simple Windows And Linux Keystroke Injection Tool That Exfiltrates Stored WiFi Data (SSID And Password)**\n\nHave you ever watched a film where a hacker would plug-in, seemingly ordinary, USB…\n[Read more on Professional Hackers](https://professionalhackers.in/wifi-password-stealer-simple-windows-and-linux-keystroke-injection-tool-that-exfiltrates-stored-wifi-data-ssid-and-password/)\n\n#Exfiltrate_Data #Hacking_Tools #KitPloit #Python_Hacking #Raspberry_Pi_Pico #Security_Tool #Security_Tools #Wifi_Password #Wifi_Passwords #Wifi_Stealer #WiFi_password_stealer",
+    "id": "1d5e5b59-88d7-44ad-a3ef-a9a397bb9443",
+    "cleaning": {
+      "normalized_message": "wifi-password-stealer simple windows and linux keystroke injection tool that exfiltrates stored wifi data ssid and password have you ever watched a film where a hacker would plug-in seemingly ordinary usb read more on professional hackers exfiltrate_data hacking_tools kitploit python_hacking raspberry_pi_pico security_tool security_tools wifi_password wifi_passwords wifi_stealer wifi_password_stealer",
+      "keyword_hits": [
+        "stealer"
+      ],
+      "char_count": 403,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7315,
+    "date": "2024-01-04",
+    "datetime_utc": "2024-01-04T05:15:35+00:00",
+    "timestamp": 1704345335,
+    "message": "‌**RansomwareSim – A Simulated Ransomware**\n\nOverview RansomwareSim is a simulated ransomware application developed for educational and training purposes. It…\n[Read more on Professional Hackers](https://professionalhackers.in/ransomwaresim-a-simulated-ransomware/)\n\n#Fernet_Cryptography #Fernet_Encryption #KitPloit #Ransomware_Encryption #Ransomware_Source_Code #RansomwareSim",
+    "id": "711e758a-8c5d-43be-aae2-61642410fcf6",
+    "cleaning": {
+      "normalized_message": "ransomwaresim a simulated ransomware overview ransomwaresim is a simulated ransomware application developed for educational and training purposes it read more on professional hackers fernet_cryptography fernet_encryption kitploit ransomware_encryption ransomware_source_code ransomwaresim",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 288,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7323,
+    "date": "2024-01-12",
+    "datetime_utc": "2024-01-12T08:48:35+00:00",
+    "timestamp": 1705049315,
+    "message": "‌**Bugsy – Command-line Interface Tool That Provides Automatic Security Vulnerability Remediation For Your Code**\n\nBugsy is a command-line interface (CLI) tool that provides automatic security vulnerability remediation for…\n[Read more on Professional Hackers](https://professionalhackers.in/bugsy-command-line-interface-tool-that-provides-automatic-security-vulnerability-remediation-for-your-code/)\n\n#Bugsy #KitPloit #SAST #Scan #Scans #Snyk #Vulnerabilities #Vulnerability #Vulnerability_Report",
+    "id": "d30aabdb-93a3-4882-9d99-6faaf7c74ffb",
+    "cleaning": {
+      "normalized_message": "bugsy command-line interface tool that provides automatic security vulnerability remediation for your code bugsy is a command-line interface cli tool that provides automatic security vulnerability remediation for read more on professional hackers bugsy kitploit sast scan scans snyk vulnerabilities vulnerability vulnerability_report",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 333,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7324,
+    "date": "2024-01-13",
+    "datetime_utc": "2024-01-13T05:42:16+00:00",
+    "timestamp": 1705124536,
+    "message": "‌**EmploLeaks – An OSINT Tool That Helps Detect Members Of A Company With Leaked Credentials**\n\nThis is a tool designed for Open Source Intelligence (OSINT) purposes, which helps to…\n[Read more on Professional Hackers](https://professionalhackers.in/emploleaks-an-osint-tool-that-helps-detect-members-of-a-company-with-leaked-credentials/)\n\n#Bugbounty #cybersecurity #EmploLeaks #KitPloit #Leaked_Secrets #PENTESTING #Redteam",
+    "id": "613b62ff-d528-4f64-8fd5-7274f98b23b0",
+    "cleaning": {
+      "normalized_message": "emploleaks an osint tool that helps detect members of a company with leaked credentials this is a tool designed for open source intelligence osint purposes which helps to read more on professional hackers bugbounty cybersecurity emploleaks kitploit leaked_secrets pentesting redteam",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 282,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7325,
+    "date": "2024-01-13",
+    "datetime_utc": "2024-01-13T08:16:58+00:00",
+    "timestamp": 1705133818,
+    "message": "‌**How to See Who Blocked You on Facebook**\n\nIf you suspect someone has blocked you on Facebook, various methods exist to investigate…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-see-who-blocked-you-on-facebook/)\n\n#hackercombat #Leaks",
+    "id": "bef7c359-afca-412a-9f5a-044dcd89feeb",
+    "cleaning": {
+      "normalized_message": "how to see who blocked you on facebook if you suspect someone has blocked you on facebook various methods exist to investigate read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 179,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7326,
+    "date": "2024-01-13",
+    "datetime_utc": "2024-01-13T11:04:55+00:00",
+    "timestamp": 1705143895,
+    "message": "‌**How to Recover an Unsaved Excel File**\n\nIf your Excel file was left unsaved by accident, don’t fret – Microsoft understands…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-recover-an-unsaved-excel-file/)\n\n#hackercombat #Leaks",
+    "id": "456a5420-181e-48dc-97c2-4ebf843ec642",
+    "cleaning": {
+      "normalized_message": "how to recover an unsaved excel file if your excel file was left unsaved by accident don t fret microsoft understands read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 170,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7327,
+    "date": "2024-01-13",
+    "datetime_utc": "2024-01-13T20:43:26+00:00",
+    "timestamp": 1705178606,
+    "message": "‌**YouTube Not Working on iPhone? Here’s How to Fix It**\n\nIf the YouTube app on your iPhone is crashing or will not open, there…\n[Read more on Professional Hackers](https://professionalhackers.in/youtube-not-working-on-iphone-heres-how-to-fix-it/)\n\n#hackercombat #Leaks",
+    "id": "72a3cb13-b519-4263-9169-64a75cdfb334",
+    "cleaning": {
+      "normalized_message": "youtube not working on iphone here s how to fix it if the youtube app on your iphone is crashing or will not open there read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 172,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7328,
+    "date": "2024-01-13",
+    "datetime_utc": "2024-01-13T22:51:24+00:00",
+    "timestamp": 1705186284,
+    "message": "‌**Why is the iPhone Force Restart Not Working?**\n\nIf the iPhone force restart does not work as intended, there may be an…\n[Read more on Professional Hackers](https://professionalhackers.in/why-is-the-iphone-force-restart-not-working/)\n\n#hackercombat #Leaks",
+    "id": "55f01925-ac6a-4bb4-9e87-f7a0a4e088b1",
+    "cleaning": {
+      "normalized_message": "why is the iphone force restart not working if the iphone force restart does not work as intended there may be an read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 166,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7329,
+    "date": "2024-01-14",
+    "datetime_utc": "2024-01-14T06:00:24+00:00",
+    "timestamp": 1705212024,
+    "message": "‌**Logsensor – A Powerful Sensor Tool To Discover Login Panels, And POST Form SQLi Scanning**\n\nA Powerful Sensor Tool to discover login panels, and POST Form SQLi Scanning Features…\n[Read more on Professional Hackers](https://professionalhackers.in/logsensor-a-powerful-sensor-tool-to-discover-login-panels-and-post-form-sqli-scanning/)\n\n#Bugbounty #KitPloit #Login_Automation #Logsensor #SQL_Injection_Exploitation #Sql_Injection_Post #sql_injection #Sqlinjection",
+    "id": "6a0c7bf3-a34f-4aa4-acba-b6ad3bdbe97f",
+    "cleaning": {
+      "normalized_message": "logsensor a powerful sensor tool to discover login panels and post form sqli scanning a powerful sensor tool to discover login panels and post form sqli scanning features read more on professional hackers bugbounty kitploit login_automation logsensor sql_injection_exploitation sql_injection_post sql_injection sqlinjection",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 323,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7330,
+    "date": "2024-01-14",
+    "datetime_utc": "2024-01-14T23:03:05+00:00",
+    "timestamp": 1705273385,
+    "message": "‌**How To Access Your Photos On iCloud**\n\niCloud can be an easy and secure way to back up photos and videos,…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-access-your-photos-on-icloud/)\n\n#hackercombat #Leaks",
+    "id": "9c37002e-aa97-41b1-ae59-82a5e6e4a4e8",
+    "cleaning": {
+      "normalized_message": "how to access your photos on icloud icloud can be an easy and secure way to back up photos and videos read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 154,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7336,
+    "date": "2024-01-20",
+    "datetime_utc": "2024-01-20T07:33:11+00:00",
+    "timestamp": 1705735991,
+    "message": "‌**ADCSync – Use ESC1 To Perform A Makeshift DCSync And Dump Hashes**\n\nThis is a tool I whipped up together quickly to DCSync utilizing ESC1. It…\n[Read more on Professional Hackers](https://professionalhackers.in/adcsync-use-esc1-to-perform-a-makeshift-dcsync-and-dump-hashes/)\n\n#ADCSync #KitPloit #shadow #Username #Vulnerable",
+    "id": "69479ec8-0d3d-43eb-b504-5c9dac5791f5",
+    "cleaning": {
+      "normalized_message": "adcsync use esc1 to perform a makeshift dcsync and dump hashes this is a tool i whipped up together quickly to dcsync utilizing esc1 it read more on professional hackers adcsync kitploit shadow username vulnerable",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 213,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7341,
+    "date": "2024-01-26",
+    "datetime_utc": "2024-01-26T09:33:59+00:00",
+    "timestamp": 1706261639,
+    "message": "‌**Antisquat – Leverages AI Techniques Such As NLP, ChatGPT And More To Empower Detection Of Typosquatting And Phishing Domains**\n\nAntiSquat leverages AI techniques such as natural language processing (NLP), large language models (ChatGPT)…\n[Read more on Professional Hackers](https://professionalhackers.in/antisquat-leverages-ai-techniques-such-as-nlp-chatgpt-and-more-to-empower-detection-of-typosquatting-and-phishing-domains/)\n\n#Antisquat #KitPloit #Regular_Expressions #Techniques #Typosquatting",
+    "id": "07e4c5b6-24f3-4fe9-9e17-989d169973f9",
+    "cleaning": {
+      "normalized_message": "antisquat leverages ai techniques such as nlp chatgpt and more to empower detection of typosquatting and phishing domains antisquat leverages ai techniques such as natural language processing nlp large language models chatgpt read more on professional hackers antisquat kitploit regular_expressions techniques typosquatting",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 323,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7343,
+    "date": "2024-01-29",
+    "datetime_utc": "2024-01-29T14:19:02+00:00",
+    "timestamp": 1706537942,
+    "message": "‌**Raven – CI/CD Security Analyzer**\n\nRAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD) is a powerful security tool designed…\n[Read more on Professional Hackers](https://professionalhackers.in/raven-ci-cd-security-analyzer/)\n\n#Cicd #Cycode #KitPloit #raven #Security_Automation #Security_Tools #Vulnerabilities #Vulnerable",
+    "id": "296c6de0-7407-42ce-8f37-83b81a9ea137",
+    "cleaning": {
+      "normalized_message": "raven ci cd security analyzer raven risk analysis and vulnerability enumeration for ci cd is a powerful security tool designed read more on professional hackers cicd cycode kitploit raven security_automation security_tools vulnerabilities vulnerable",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 249,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7348,
+    "date": "2024-02-03",
+    "datetime_utc": "2024-02-03T14:45:50+00:00",
+    "timestamp": 1706971550,
+    "message": "‌**Melee – Tool To Detect Infections In MySQL Instances**\n\nMELEE: A Tool to Detect Ransomware Infections in MySQL Instances Attackers are abusing MySQL…\n[Read more on Professional Hackers](https://professionalhackers.in/melee-tool-to-detect-infections-in-mysql-instances/)\n\n#KitPloit #Melee #Threat_Intelligence",
+    "id": "87e1de28-3819-4b48-932e-294267feef37",
+    "cleaning": {
+      "normalized_message": "melee tool to detect infections in mysql instances melee a tool to detect ransomware infections in mysql instances attackers are abusing mysql read more on professional hackers kitploit melee threat_intelligence",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 211,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7355,
+    "date": "2024-02-12",
+    "datetime_utc": "2024-02-12T16:13:38+00:00",
+    "timestamp": 1707754418,
+    "message": "‌**Navgix – A Multi-Threaded Golang Tool That Will Check For Nginx Alias Traversal Vulnerabilities**\n\nnavgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities…\n[Read more on Professional Hackers](https://professionalhackers.in/navgix-a-multi-threaded-golang-tool-that-will-check-for-nginx-alias-traversal-vulnerabilities/)\n\n#golang #KitPloit #Navgix #Vulnerability #Vulnerable",
+    "id": "20252e64-d021-43e8-88a3-e75e9059e6d2",
+    "cleaning": {
+      "normalized_message": "navgix a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities navgix is a multi-threaded golang tool that will check for nginx alias traversal vulnerabilities read more on professional hackers golang kitploit navgix vulnerability vulnerable",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 272,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7363,
+    "date": "2024-02-22",
+    "datetime_utc": "2024-02-22T19:21:24+00:00",
+    "timestamp": 1708629684,
+    "message": "‌**SploitScan – A Sophisticated Cybersecurity Utility Designed To Provide Detailed Information On Vulnerabilities And Associated Proof-Of-Concept (PoC) Exploits**\n\nSploitScan is a powerful and user-friendly tool designed to streamline the process of identifying…\n[Read more on Professional Hackers](https://professionalhackers.in/sploitscan-a-sophisticated-cybersecurity-utility-designed-to-provide-detailed-information-on-vulnerabilities-and-associated-proof-of-concept-poc-exploits/)\n\n#KitPloit #Known_Vulnerabilities #Patching #SploitScan #Vulnerabilities #Vulnerability",
+    "id": "42c531bf-dc3c-4d37-b109-e11ceec7e9c6",
+    "cleaning": {
+      "normalized_message": "sploitscan a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept poc exploits sploitscan is a powerful and user-friendly tool designed to streamline the process of identifying read more on professional hackers kitploit known_vulnerabilities patching sploitscan vulnerabilities vulnerability",
+      "keyword_hits": [
+        "exploits",
+        "vulnerability"
+      ],
+      "char_count": 366,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7366,
+    "date": "2024-02-25",
+    "datetime_utc": "2024-02-25T19:44:43+00:00",
+    "timestamp": 1708890283,
+    "message": "‌**CVE-2024-23897 – Jenkins <= 2.441 & <= LTS 2.426.2 PoC And Scanner**\n\n<meta content=\" Exploitation and scanning tool specifically designed for Jenkins versions <= 2.441 &…\n[Read more on Professional Hackers](https://professionalhackers.in/cve-2024-23897-jenkins-2-441-lts-2-426-2-poc-and-scanner/)\n\n#CVE_2024_23897 #KitPloit #Scanning #Vulnerabilities",
+    "id": "9c5bd2b2-eecd-4801-aa2c-6961c20871bf",
+    "cleaning": {
+      "normalized_message": "cve-2024-23897 jenkins 2 441 lts 2 426 2 poc and scanner meta content exploitation and scanning tool specifically designed for jenkins versions 2 441 read more on professional hackers cve_2024_23897 kitploit scanning vulnerabilities",
+      "keyword_hits": [
+        "cve-2024-23897"
+      ],
+      "char_count": 232,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7368,
+    "date": "2024-02-27",
+    "datetime_utc": "2024-02-27T19:59:43+00:00",
+    "timestamp": 1709063983,
+    "message": "‌**Huntr-Com-Bug-Bounties-Collector – Keep Watching New Bug Bounty (Vulnerability) Postings**\n\nNew bug bounty(vulnerabilities) collector Requirements Chrome with GUI (If you encounter trouble with script…\n[Read more on Professional Hackers](https://professionalhackers.in/huntr-com-bug-bounties-collector-keep-watching-new-bug-bounty-vulnerability-postings/)\n\n#Bug_Bounty_Crawling #Huntr_Com_Bug_Bounties_Collector #KitPloit #Python_Crawler #Selenium_Python",
+    "id": "a9087a12-4e82-4856-9667-0d8c01a73192",
+    "cleaning": {
+      "normalized_message": "huntr-com-bug-bounties-collector keep watching new bug bounty vulnerability postings new bug bounty vulnerabilities collector requirements chrome with gui if you encounter trouble with script read more on professional hackers bug_bounty_crawling huntr_com_bug_bounties_collector kitploit python_crawler selenium_python",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 318,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7370,
+    "date": "2024-02-29",
+    "datetime_utc": "2024-02-29T19:20:00+00:00",
+    "timestamp": 1709234400,
+    "message": "‌**CVE-2024-23897 – Jenkins <= 2.441 & <= LTS 2.426.2 PoC And Scanner**\n\n<meta content=\" Exploitation and scanning tool specifically designed for Jenkins versions <= 2.441 &…\n[Read more on Professional Hackers](https://professionalhackers.in/cve-2024-23897-jenkins-2-441-lts-2-426-2-poc-and-scanner-2/)\n\n#CVE_2024_23897 #KitPloit #Scanning #Vulnerabilities",
+    "id": "8da242c4-6de6-41f9-8f24-bd24f5bb336d",
+    "cleaning": {
+      "normalized_message": "cve-2024-23897 jenkins 2 441 lts 2 426 2 poc and scanner meta content exploitation and scanning tool specifically designed for jenkins versions 2 441 read more on professional hackers cve_2024_23897 kitploit scanning vulnerabilities",
+      "keyword_hits": [
+        "cve-2024-23897"
+      ],
+      "char_count": 232,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7372,
+    "date": "2024-03-02",
+    "datetime_utc": "2024-03-02T19:39:15+00:00",
+    "timestamp": 1709408355,
+    "message": "‌**Moukthar – Android Remote Administration Tool**\n\nRemote adminitration tool for android Features Notifications listener SMS listener Phone call recording Image…\n[Read more on Professional Hackers](https://professionalhackers.in/moukthar-android-remote-administration-tool/)\n\n#Android_RAT #Command_And_Control #Dynamic_Routing #KitPloit #Moukthar #Spyware #Web_Socket_Server #Web_Sockets",
+    "id": "97981275-296a-4267-a9f4-9252e89debab",
+    "cleaning": {
+      "normalized_message": "moukthar android remote administration tool remote adminitration tool for android features notifications listener sms listener phone call recording image read more on professional hackers android_rat command_and_control dynamic_routing kitploit moukthar spyware web_socket_server web_sockets",
+      "keyword_hits": [
+        "spyware"
+      ],
+      "char_count": 291,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7391,
+    "date": "2024-03-22",
+    "datetime_utc": "2024-03-22T03:52:52+00:00",
+    "timestamp": 1711079572,
+    "message": "‌**DNS-Tunnel-Keylogger – Keylogging Server And Client That Uses DNS Tunneling/Exfiltration To Transmit Keystrokes**\n\nThis post-exploitation keylogger will covertly exfiltrate keystrokes to a server. These tools excel at…\n[Read more on Professional Hackers](https://professionalhackers.in/dns-tunnel-keylogger-keylogging-server-and-client-that-uses-dns-tunneling-exfiltration-to-transmit-keystrokes/)\n\n#cybersecurity #Dns_Exfiltration #DNS_Tunneling #DNS_Tunnel_Keylogger #KitPloit #Post_Exploitation #Tunnel #Windows",
+    "id": "9fd50fd0-e684-4deb-b1ed-e170746b2ea9",
+    "cleaning": {
+      "normalized_message": "dns-tunnel-keylogger keylogging server and client that uses dns tunneling exfiltration to transmit keystrokes this post-exploitation keylogger will covertly exfiltrate keystrokes to a server these tools excel at read more on professional hackers cybersecurity dns_exfiltration dns_tunneling dns_tunnel_keylogger kitploit post_exploitation tunnel windows",
+      "keyword_hits": [
+        "exfiltrate",
+        "exfiltration"
+      ],
+      "char_count": 353,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7402,
+    "date": "2024-04-02",
+    "datetime_utc": "2024-04-02T04:16:32+00:00",
+    "timestamp": 1712031392,
+    "message": "‌**Drozer – The Leading Security Assessment Framework For Android**\n\ndrozer (formerly Mercury) is the leading security testing framework for Android. drozer allows you…\n[Read more on Professional Hackers](https://professionalhackers.in/drozer-the-leading-security-assessment-framework-for-android/)\n\n#ADB #Android #Dalvik #Drozer #Framework #java #KitPloit #Linux #Malware #Mwr #Protobuf #Python #Vulnerabilities #Windows",
+    "id": "e66b9c66-ece5-4ac1-a123-1450371fe583",
+    "cleaning": {
+      "normalized_message": "drozer the leading security assessment framework for android drozer formerly mercury is the leading security testing framework for android drozer allows you read more on professional hackers adb android dalvik drozer framework java kitploit linux malware mwr protobuf python vulnerabilities windows",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 298,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7409,
+    "date": "2024-04-10",
+    "datetime_utc": "2024-04-10T07:09:50+00:00",
+    "timestamp": 1712732990,
+    "message": "‌**Sicat – The Useful Exploit Finder**\n\nIntroduction SiCat is an advanced exploit search tool designed to identify and gather information…\n[Read more on Professional Hackers](https://professionalhackers.in/sicat-the-useful-exploit-finder/)\n\n#Exploit_Finder #KitPloit #Metasploit_Modules #Reconnaissance #Sicat",
+    "id": "d15cf723-010e-43ef-9849-ded59f0b4281",
+    "cleaning": {
+      "normalized_message": "sicat the useful exploit finder introduction sicat is an advanced exploit search tool designed to identify and gather information read more on professional hackers exploit_finder kitploit metasploit_modules reconnaissance sicat",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 227,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7412,
+    "date": "2024-04-15",
+    "datetime_utc": "2024-04-15T09:03:41+00:00",
+    "timestamp": 1713171821,
+    "message": "‌**Toolkit – The Essential Toolkit For Reversing, Malware Analysis, And Cracking**\n\nThis tool compilation is carefully crafted with the purpose of being useful both for…\n[Read more on Professional Hackers](https://professionalhackers.in/toolkit-the-essential-toolkit-for-reversing-malware-analysis-and-cracking/)\n\n#Infosec #Infosec_Reference #KitPloit #Malware_Analysis #Reverse_Engineering #Toolkit",
+    "id": "8a8918e0-8e49-4ea3-a552-13d4cf6ebae0",
+    "cleaning": {
+      "normalized_message": "toolkit the essential toolkit for reversing malware analysis and cracking this tool compilation is carefully crafted with the purpose of being useful both for read more on professional hackers infosec infosec_reference kitploit malware_analysis reverse_engineering toolkit",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 272,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7414,
+    "date": "2024-04-18",
+    "datetime_utc": "2024-04-18T09:28:50+00:00",
+    "timestamp": 1713432530,
+    "message": "‌**Cookie-Monster – BOF To Steal Browser Cookies & Credentials**\n\nSteal browser cookies for edge, chrome and firefox through a BOF or exe! Cookie-Monster…\n[Read more on Professional Hackers](https://professionalhackers.in/cookie-monster-bof-to-steal-browser-cookies-credentials/)\n\n#Cookie_Monster #KitPloit #Passwords #Processes #Python #Python3 #Windows",
+    "id": "d0513841-bbfe-4f04-9c50-2bc3bb61cb54",
+    "cleaning": {
+      "normalized_message": "cookie-monster bof to steal browser cookies credentials steal browser cookies for edge chrome and firefox through a bof or exe cookie-monster read more on professional hackers cookie_monster kitploit passwords processes python python3 windows",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 242,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7416,
+    "date": "2024-04-24",
+    "datetime_utc": "2024-04-24T09:45:32+00:00",
+    "timestamp": 1713951932,
+    "message": "‌**C2-Tracker – Live Feed Of C2 Servers, Tools, And Botnets**\n\nFree to use IOC feed for various tools/malware. It started out for just C2…\n[Read more on Professional Hackers](https://professionalhackers.in/c2-tracker-live-feed-of-c2-servers-tools-and-botnets/)\n\n#C2_Tracker #cybersecurity #Infosec #KitPloit #OSINT #Shodan #Sliver #Stealer #Threat_Hunting #Threat_Intelligence #Tracking #Trojan",
+    "id": "1666537e-94ca-479a-9be6-c43c4504d296",
+    "cleaning": {
+      "normalized_message": "c2-tracker live feed of c2 servers tools and botnets free to use ioc feed for various tools malware it started out for just c2 read more on professional hackers c2_tracker cybersecurity infosec kitploit osint shodan sliver stealer threat_hunting threat_intelligence tracking trojan",
+      "keyword_hits": [
+        "c2",
+        "ioc",
+        "malware",
+        "stealer",
+        "trojan"
+      ],
+      "char_count": 281,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7417,
+    "date": "2024-04-25",
+    "datetime_utc": "2024-04-25T10:54:15+00:00",
+    "timestamp": 1714042455,
+    "message": "‌**HackerInfo – Infromations Web Application Security**\n\nInfromations Web Application Security install : sudo apt install python3 python3-pippip3 install termcolorpip3 install…\n[Read more on Professional Hackers](https://professionalhackers.in/hackerinfo-infromations-web-application-security/)\n\n#HackerInfo #KitPloit #Python #Python3",
+    "id": "98ff7a29-fcbf-4a26-997b-34cfc8e117c6",
+    "cleaning": {
+      "normalized_message": "hackerinfo infromations web application security infromations web application security install sudo apt install python3 python3-pippip3 install termcolorpip3 install read more on professional hackers hackerinfo kitploit python python3",
+      "keyword_hits": [
+        "apt"
+      ],
+      "char_count": 234,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7421,
+    "date": "2024-04-29",
+    "datetime_utc": "2024-04-29T12:30:48+00:00",
+    "timestamp": 1714393848,
+    "message": "‌**CrimsonEDR – Simulate The Behavior Of AV/EDR For Malware Development Training**\n\nCrimsonEDR is an open-source project engineered to identify specific malware patterns, offering a tool…\n[Read more on Professional Hackers](https://professionalhackers.in/crimsonedr-simulate-the-behavior-of-av-edr-for-malware-development-training/)\n\n#AMSI #Antivirus #CrimsonEDR #DLL #KitPloit #Malware #Scan #Sign #Whitelist #Windows",
+    "id": "f0352699-cabb-4865-b4aa-17ad9a3d3c53",
+    "cleaning": {
+      "normalized_message": "crimsonedr simulate the behavior of av edr for malware development training crimsonedr is an open-source project engineered to identify specific malware patterns offering a tool read more on professional hackers amsi antivirus crimsonedr dll kitploit malware scan sign whitelist windows",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 286,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7423,
+    "date": "2024-05-01",
+    "datetime_utc": "2024-05-01T14:05:11+00:00",
+    "timestamp": 1714572311,
+    "message": "‌**ThievingFox – Remotely Retrieving Credentials From Password Managers And Windows Utilities**\n\nThievingFox is a collection of post-exploitation tools to gather credentials from various password managers…\n[Read more on Professional Hackers](https://professionalhackers.in/thievingfox-remotely-retrieving-credentials-from-password-managers-and-windows-utilities/)\n\n#KitPloit #NTLM #Post_Exploitation #PowerShell #Python #Python3 #RDP #Registry #Stability #ThievingFox #UAC #Windows",
+    "id": "e0c199b6-d766-4fd6-a8ca-4f6a87f9d518",
+    "cleaning": {
+      "normalized_message": "thievingfox remotely retrieving credentials from password managers and windows utilities thievingfox is a collection of post-exploitation tools to gather credentials from various password managers read more on professional hackers kitploit ntlm post_exploitation powershell python python3 rdp registry stability thievingfox uac windows",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 335,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7425,
+    "date": "2024-05-03",
+    "datetime_utc": "2024-05-03T13:31:22+00:00",
+    "timestamp": 1714743082,
+    "message": "‌**C2-Cloud – The C2 Cloud Is A Robust Web-Based C2 Framework, Designed To Simplify The Life Of Penetration Testers**\n\nThe C2 Cloud is a robust web-based C2 framework, designed to simplify the life…\n[Read more on Professional Hackers](https://professionalhackers.in/c2-cloud-the-c2-cloud-is-a-robust-web-based-c2-framework-designed-to-simplify-the-life-of-penetration-testers/)\n\n#C2_Cloud #Command_Control #Hacking_Tool #KitPloit #Offensive_Security #Post_Exploitation_Toolkit #Ransomware_Simulator #Redteam #Telegram_C2",
+    "id": "de2da706-5781-40c8-8642-a3a2edca58a3",
+    "cleaning": {
+      "normalized_message": "c2-cloud the c2 cloud is a robust web-based c2 framework designed to simplify the life of penetration testers the c2 cloud is a robust web-based c2 framework designed to simplify the life read more on professional hackers c2_cloud command_control hacking_tool kitploit offensive_security post_exploitation_toolkit ransomware_simulator redteam telegram_c2",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 354,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7429,
+    "date": "2024-05-07",
+    "datetime_utc": "2024-05-07T16:09:17+00:00",
+    "timestamp": 1715098157,
+    "message": "‌**Gftrace – A Command Line Windows API Tracing Tool For Golang Binaries**\n\nA command line Windows API tracing tool for Golang binaries. Note: This tool is…\n[Read more on Professional Hackers](https://professionalhackers.in/gftrace-a-command-line-windows-api-tracing-tool-for-golang-binaries/)\n\n#DeimosC2 #Framework #Gftrace #golang #KitPloit #Malware #Noisy #Parameter #Research #Windows",
+    "id": "fa89dbd4-ef04-4896-90eb-548e1d828dba",
+    "cleaning": {
+      "normalized_message": "gftrace a command line windows api tracing tool for golang binaries a command line windows api tracing tool for golang binaries note this tool is read more on professional hackers deimosc2 framework gftrace golang kitploit malware noisy parameter research windows",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 263,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7434,
+    "date": "2024-05-12",
+    "datetime_utc": "2024-05-12T16:50:15+00:00",
+    "timestamp": 1715532615,
+    "message": "‌**Ioctlance – A Tool That Is Used To Hunt Vulnerabilities In X64 WDM Drivers**\n\nDescription Presented at CODE BLUE 2023, this project titled Enhanced Vulnerability Hunting in WDM…\n[Read more on Professional Hackers](https://professionalhackers.in/ioctlance-a-tool-that-is-used-to-hunt-vulnerabilities-in-x64-wdm-drivers/)\n\n#htop #Ioctlance #KitPloit #Vulnerabilities #Vulnerable #Windows",
+    "id": "94089f9f-aa14-4571-a46e-9a66ab18146c",
+    "cleaning": {
+      "normalized_message": "ioctlance a tool that is used to hunt vulnerabilities in x64 wdm drivers description presented at code blue 2023 this project titled enhanced vulnerability hunting in wdm read more on professional hackers htop ioctlance kitploit vulnerabilities vulnerable windows",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 263,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7436,
+    "date": "2024-05-14",
+    "datetime_utc": "2024-05-14T14:12:57+00:00",
+    "timestamp": 1715695977,
+    "message": "‌**PingRAT – Secretly Passes C2 Traffic Through Firewalls Using ICMP Payloads**\n\nPingRAT secretly passes C2 traffic through firewalls using ICMP payloads. Features: Uses ICMP for…\n[Read more on Professional Hackers](https://professionalhackers.in/pingrat-secretly-passes-c2-traffic-through-firewalls-using-icmp-payloads/)\n\n#Firewall_Bypass #Fud_Rat #Hacking_Tools #KitPloit #Penetration_Testing #PingRAT #Red_Team #Remote_Administration_Trojan",
+    "id": "b4d6a120-6e88-4631-8730-894d0ed1cb5c",
+    "cleaning": {
+      "normalized_message": "pingrat secretly passes c2 traffic through firewalls using icmp payloads pingrat secretly passes c2 traffic through firewalls using icmp payloads features uses icmp for read more on professional hackers firewall_bypass fud_rat hacking_tools kitploit penetration_testing pingrat red_team remote_administration_trojan",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 315,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7437,
+    "date": "2024-05-15",
+    "datetime_utc": "2024-05-15T16:50:41+00:00",
+    "timestamp": 1715791841,
+    "message": "‌**Subhunter – A Fast Subdomain Takeover Tool**\n\nSubdomain takeover is a common vulnerability that allows an attacker to gain control over…\n[Read more on Professional Hackers](https://professionalhackers.in/subhunter-a-fast-subdomain-takeover-tool/)\n\n#Bug_Bounty_Tools #Bugbounty #KitPloit #PENTESTING #Security_Tools #Subdomain_Takeover #Subhunter #Takeover_Subdomain",
+    "id": "5218c7b2-15ce-4df2-a7f4-fe62d3cb0f8f",
+    "cleaning": {
+      "normalized_message": "subhunter a fast subdomain takeover tool subdomain takeover is a common vulnerability that allows an attacker to gain control over read more on professional hackers bug_bounty_tools bugbounty kitploit pentesting security_tools subdomain_takeover subhunter takeover_subdomain",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 274,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7438,
+    "date": "2024-05-16",
+    "datetime_utc": "2024-05-16T16:03:12+00:00",
+    "timestamp": 1715875392,
+    "message": "‌**Invoke-SessionHunter – Retrieve And Display Information About Active User Sessions On Remote Computers (No Admin Privileges Required)**\n\nRetrieve and display information about active user sessions on remote computers. No admin privileges…\n[Read more on Professional Hackers](https://professionalhackers.in/invoke-sessionhunter-retrieve-and-display-information-about-active-user-sessions-on-remote-computers-no-admin-privileges-required/)\n\n#Credentials #Invoke_SessionHunter #KitPloit #Localhost #Registry #Scan",
+    "id": "8ecf8b24-b74d-451b-90d8-e7d0f13a399a",
+    "cleaning": {
+      "normalized_message": "invoke-sessionhunter retrieve and display information about active user sessions on remote computers no admin privileges required retrieve and display information about active user sessions on remote computers no admin privileges read more on professional hackers credentials invoke_sessionhunter kitploit localhost registry scan",
+      "keyword_hits": [
+        "credentials"
+      ],
+      "char_count": 329,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7439,
+    "date": "2024-05-17",
+    "datetime_utc": "2024-05-17T18:47:46+00:00",
+    "timestamp": 1715971666,
+    "message": "‌**ShellSweep – PowerShell/Python/Lua Tool Designed To Detect Potential Webshell Files In A Specified Directory**\n\nTags: Aspx, Encryption, Entropy, Hashes, Malware, Obfuscation, PowerShell, Processes, Scan, Scanning, Scripts, Toolbox, ShellSweepShellSweep…\n[Read more on Professional Hackers](https://professionalhackers.in/shellsweep-powershell-python-lua-tool-designed-to-detect-potential-webshell-files-in-a-specified-directory/)\n\n#KitPloit",
+    "id": "de83262f-3197-46d3-94fa-8a37d6c846d4",
+    "cleaning": {
+      "normalized_message": "shellsweep powershell python lua tool designed to detect potential webshell files in a specified directory tags aspx encryption entropy hashes malware obfuscation powershell processes scan scanning scripts toolbox shellsweepshellsweep read more on professional hackers kitploit",
+      "keyword_hits": [
+        "hashes",
+        "malware"
+      ],
+      "char_count": 277,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7441,
+    "date": "2024-05-19",
+    "datetime_utc": "2024-05-19T17:11:49+00:00",
+    "timestamp": 1716138709,
+    "message": "‌**JAW – A Graph-based Security Analysis Framework For Client-side JavaScript**\n\nAn open-source, prototype implementation of property graphs for JavaScript based on the esprima parser,…\n[Read more on Professional Hackers](https://professionalhackers.in/jaw-a-graph-based-security-analysis-framework-for-client-side-javascript/)\n\n#Client_Side #JAW #KitPloit #Property_Graph #Static_Analysis #Vulnerability #Vulnerability_Detection #Web_Crawling",
+    "id": "e3e586cd-2bab-4ff6-93c4-bf5382c4276a",
+    "cleaning": {
+      "normalized_message": "jaw a graph-based security analysis framework for client-side javascript an open-source prototype implementation of property graphs for javascript based on the esprima parser read more on professional hackers client_side jaw kitploit property_graph static_analysis vulnerability vulnerability_detection web_crawling",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 315,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7442,
+    "date": "2024-05-20",
+    "datetime_utc": "2024-05-20T16:28:52+00:00",
+    "timestamp": 1716222532,
+    "message": "‌**Drs-Malware-Scan – Perform File-Based Malware Scan On Your On-Prem Servers With AWS**\n\nChallenges with on-premises malware detection It can be difficult for security teams to continuously…\n[Read more on Professional Hackers](https://professionalhackers.in/drs-malware-scan-perform-file-based-malware-scan-on-your-on-prem-servers-with-aws/)\n\n#Aws_Guardduty #Disaster_Recovery #Drs_Malware_Scan #KitPloit #Ransomware_Prevention",
+    "id": "fb2a69df-7a56-40e2-beb5-1c9add32affa",
+    "cleaning": {
+      "normalized_message": "drs-malware-scan perform file-based malware scan on your on-prem servers with aws challenges with on-premises malware detection it can be difficult for security teams to continuously read more on professional hackers aws_guardduty disaster_recovery drs_malware_scan kitploit ransomware_prevention",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 296,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7445,
+    "date": "2024-05-23",
+    "datetime_utc": "2024-05-23T18:13:56+00:00",
+    "timestamp": 1716488036,
+    "message": "‌**Go-Secdump – Tool To Remotely Dump Secrets From The Windows Registry**\n\nPackage go-secdump is a tool built to remotely extract hashes from the SAM registry…\n[Read more on Professional Hackers](https://professionalhackers.in/go-secdump-tool-to-remotely-dump-secrets-from-the-windows-registry/)\n\n#Go_Secdump #KitPloit #Secrets #SMB #Socks #Socks5 #Windows",
+    "id": "ac4962c4-3c48-461b-b057-4fe38d6a10c1",
+    "cleaning": {
+      "normalized_message": "go-secdump tool to remotely dump secrets from the windows registry package go-secdump is a tool built to remotely extract hashes from the sam registry read more on professional hackers go_secdump kitploit secrets smb socks socks5 windows",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 237,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7454,
+    "date": "2024-06-01",
+    "datetime_utc": "2024-06-01T20:26:32+00:00",
+    "timestamp": 1717273592,
+    "message": "‌**Reaper – Proof Of Concept On BYOVD Attack**\n\nReaper is a proof-of-concept designed to exploit BYOVD (Bring Your Own Vulnerable Driver) driver…\n[Read more on Professional Hackers](https://professionalhackers.in/reaper-proof-of-concept-on-byovd-attack/)\n\n#Driver #KitPloit #Reaper #Vulnerability #Vulnerable #Windows",
+    "id": "3fe61ebb-bb29-480d-9605-ade1383f7b8f",
+    "cleaning": {
+      "normalized_message": "reaper proof of concept on byovd attack reaper is a proof-of-concept designed to exploit byovd bring your own vulnerable driver driver read more on professional hackers driver kitploit reaper vulnerability vulnerable windows",
+      "keyword_hits": [
+        "exploit",
+        "vulnerability"
+      ],
+      "char_count": 224,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7455,
+    "date": "2024-06-02",
+    "datetime_utc": "2024-06-02T19:58:58+00:00",
+    "timestamp": 1717358338,
+    "message": "‌**EvilSlackbot – A Slack Bot Phishing Framework For Red Teaming Exercises**\n\nA Slack Attack Framework for conducting Red Team and phishing exercises within Slack workspaces.…\n[Read more on Professional Hackers](https://professionalhackers.in/evilslackbot-a-slack-bot-phishing-framework-for-red-teaming-exercises/)\n\n#EvilSlackbot #Framework #KitPloit #Leaked #Phishing #Python3 #Secret #Secrets #Slack",
+    "id": "49e06665-5ee1-4f28-9d16-f9d7be28f415",
+    "cleaning": {
+      "normalized_message": "evilslackbot a slack bot phishing framework for red teaming exercises a slack attack framework for conducting red team and phishing exercises within slack workspaces read more on professional hackers evilslackbot framework kitploit leaked phishing python3 secret secrets slack",
+      "keyword_hits": [
+        "leaked",
+        "phishing"
+      ],
+      "char_count": 276,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7456,
+    "date": "2024-06-04",
+    "datetime_utc": "2024-06-04T00:44:12+00:00",
+    "timestamp": 1717461852,
+    "message": "‌**Startup-SBOM – A Tool To Reverse Engineer And Inspect The RPM And APT Databases To List All The Packages Along With Executables, Service And Versions**\n\nThis is a simple SBOM utility which aims to provide an insider view on…\n[Read more on Professional Hackers](https://professionalhackers.in/startup-sbom-a-tool-to-reverse-engineer-and-inspect-the-rpm-and-apt-databases-to-list-all-the-packages-along-with-executables-service-and-versions/)\n\n#Apt_Packages #Cyclonedx #KitPloit #Linux_App #Package_Resolver #Rpm_Packa #Sbom_Tool #Startup_SBOM",
+    "id": "bfd2ee8f-8e60-490d-be9d-dbe610650437",
+    "cleaning": {
+      "normalized_message": "startup-sbom a tool to reverse engineer and inspect the rpm and apt databases to list all the packages along with executables service and versions this is a simple sbom utility which aims to provide an insider view on read more on professional hackers apt_packages cyclonedx kitploit linux_app package_resolver rpm_packa sbom_tool startup_sbom",
+      "keyword_hits": [
+        "apt"
+      ],
+      "char_count": 343,
+      "token_count": 51,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7457,
+    "date": "2024-06-04",
+    "datetime_utc": "2024-06-04T21:30:45+00:00",
+    "timestamp": 1717536645,
+    "message": "‌**ROPDump – A Command-Line Tool Designed To Analyze Binary Executables For Potential Return-Oriented Programming (ROP) Gadgets, Buffer Overflow Vulnerabilities, And Memory Leaks**\n\nROPDump is a tool for analyzing binary executables to identify potential Return-Oriented Programming (ROP)…\n[Read more on Professional Hackers](https://professionalhackers.in/ropdump-a-command-line-tool-designed-to-analyze-binary-executables-for-potential-return-oriented-programming-rop-gadgets-buffer-overflow-vulnerabilities-and-memory-leaks/)\n\n#KitPloit #Python3 #ROP #ROPDump #Vulnerabilities #Vulnerable",
+    "id": "4c51ea30-f31d-465e-874c-51bf8eda4f61",
+    "cleaning": {
+      "normalized_message": "ropdump a command-line tool designed to analyze binary executables for potential return-oriented programming rop gadgets buffer overflow vulnerabilities and memory leaks ropdump is a tool for analyzing binary executables to identify potential return-oriented programming rop read more on professional hackers kitploit python3 rop ropdump vulnerabilities vulnerable",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 364,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7459,
+    "date": "2024-06-06",
+    "datetime_utc": "2024-06-06T23:04:20+00:00",
+    "timestamp": 1717715060,
+    "message": "‌**Thief Raccoon – Login Phishing Tool**\n\nThief Raccoon is a tool designed for educational purposes to demonstrate how phishing attacks…\n[Read more on Professional Hackers](https://professionalhackers.in/thief-raccoon-login-phishing-tool/)\n\n#Flask #KitPloit #Python #Python3 #Raccoon #Simulation #Thief_Raccoon #Windows #Windows_11",
+    "id": "481acdf5-4f7f-4286-baa1-0aff1f652043",
+    "cleaning": {
+      "normalized_message": "thief raccoon login phishing tool thief raccoon is a tool designed for educational purposes to demonstrate how phishing attacks read more on professional hackers flask kitploit python python3 raccoon simulation thief_raccoon windows windows_11",
+      "keyword_hits": [
+        "login",
+        "phishing"
+      ],
+      "char_count": 243,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7462,
+    "date": "2024-06-09",
+    "datetime_utc": "2024-06-09T23:49:41+00:00",
+    "timestamp": 1717976981,
+    "message": "‌**Pyrit – The Famous WPA Precomputed Cracker**\n\nPyrit allows you to create massive databases of pre-computed WPA/WPA2-PSK authentication phase in a…\n[Read more on Professional Hackers](https://professionalhackers.in/pyrit-the-famous-wpa-precomputed-cracker/)\n\n#KitPloit #Packet #Pyrit #Python2 #Python3 #SHA1 #Toolkit #Vulnerability #Vulnerable",
+    "id": "97699225-ed90-4fa5-881b-d95408c03096",
+    "cleaning": {
+      "normalized_message": "pyrit the famous wpa precomputed cracker pyrit allows you to create massive databases of pre-computed wpa wpa2-psk authentication phase in a read more on professional hackers kitploit packet pyrit python2 python3 sha1 toolkit vulnerability vulnerable",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 250,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7466,
+    "date": "2024-06-21",
+    "datetime_utc": "2024-06-21T03:09:31+00:00",
+    "timestamp": 1718939371,
+    "message": "‌**BokuLoader – A Proof-Of-Concept Cobalt Strike Reflective Loader Which Aims To Recreate, Integrate, And Enhance Cobalt Strike’s Evasion Features!**\n\nA proof-of-concept User-Defined Reflective Loader (UDRL) which aims to recreate, integrate, and enhance Cobalt…\n[Read more on Professional Hackers](https://professionalhackers.in/bokuloader-a-proof-of-concept-cobalt-strike-reflective-loader-which-aims-to-recreate-integrate-and-enhance-cobalt-strikes-evasion-features/)\n\n#Advsim #Boku #BokuLoader #CobaltStrike #KitPloit #Redteam #Reflectiveloader #Spoofing #Syscalls #UserLAnd #Windows",
+    "id": "84821ebe-534a-4d37-b407-1d6274b61380",
+    "cleaning": {
+      "normalized_message": "bokuloader a proof-of-concept cobalt strike reflective loader which aims to recreate integrate and enhance cobalt strike s evasion features a proof-of-concept user-defined reflective loader udrl which aims to recreate integrate and enhance cobalt read more on professional hackers advsim boku bokuloader cobaltstrike kitploit redteam reflectiveloader spoofing syscalls userland windows",
+      "keyword_hits": [
+        "loader"
+      ],
+      "char_count": 385,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7469,
+    "date": "2024-06-24",
+    "datetime_utc": "2024-06-24T03:55:59+00:00",
+    "timestamp": 1719201359,
+    "message": "‌**VulnNodeApp – A Vulnerable Node.Js Application**\n\nA vulnerable application made using node.js, express server and ejs template engine. This application…\n[Read more on Professional Hackers](https://professionalhackers.in/vulnnodeapp-a-vulnerable-node-js-application/)\n\n#KitPloit #Scripting #Vulnerabilities #Vulnerability #Vulnerable #VulnNodeApp",
+    "id": "f39ffda4-b4c8-4b2d-94d1-06bb1628eec8",
+    "cleaning": {
+      "normalized_message": "vulnnodeapp a vulnerable node js application a vulnerable application made using node js express server and ejs template engine this application read more on professional hackers kitploit scripting vulnerabilities vulnerability vulnerable vulnnodeapp",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 250,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7470,
+    "date": "2024-06-25",
+    "datetime_utc": "2024-06-25T04:48:27+00:00",
+    "timestamp": 1719290907,
+    "message": "‌**Hfinger – Fingerprinting HTTP Requests**\n\nTool for Fingerprinting HTTP requests of malware. Based on Tshark and written in Python3.…\n[Read more on Professional Hackers](https://professionalhackers.in/hfinger-fingerprinting-http-requests/)\n\n#Hfinger #KitPloit #Network_Analysis #Pcap #Python #Reporting #Sandbox #Tshark",
+    "id": "e9783bd4-006e-4d9b-af05-fdbce4b85b45",
+    "cleaning": {
+      "normalized_message": "hfinger fingerprinting http requests tool for fingerprinting http requests of malware based on tshark and written in python3 read more on professional hackers hfinger kitploit network_analysis pcap python reporting sandbox tshark",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 229,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7473,
+    "date": "2024-09-09",
+    "datetime_utc": "2024-09-09T21:53:43+00:00",
+    "timestamp": 1725918823,
+    "message": "‌**What is Malware**\n\nMalware refers to any form of malicious software which aims to disrupt, harm or…\n[Read more on Professional Hackers](https://professionalhackers.in/what-is-malware/)\n\n#hackercombat #Leaks",
+    "id": "6b71004d-b321-4382-afe3-0110fef16c03",
+    "cleaning": {
+      "normalized_message": "what is malware malware refers to any form of malicious software which aims to disrupt harm or read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks",
+        "malware"
+      ],
+      "char_count": 147,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7474,
+    "date": "2024-09-10",
+    "datetime_utc": "2024-09-10T00:34:52+00:00",
+    "timestamp": 1725928492,
+    "message": "‌**5 Ways to Mitigate Risk in Cybersecurity**\n\nCybersecurity refers to practices designed to defend computers, mobile devices, electronic data storage platforms…\n[Read more on Professional Hackers](https://professionalhackers.in/5-ways-to-mitigate-risk-in-cybersecurity/)\n\n#hackercombat #Leaks",
+    "id": "6b05bcb2-af95-4a0a-a569-ffa49c9b5e97",
+    "cleaning": {
+      "normalized_message": "5 ways to mitigate risk in cybersecurity cybersecurity refers to practices designed to defend computers mobile devices electronic data storage platforms read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 205,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7475,
+    "date": "2024-09-15",
+    "datetime_utc": "2024-09-15T02:52:53+00:00",
+    "timestamp": 1726368773,
+    "message": "‌**DockerSpy – DockerSpy Searches For Images On Docker Hub And Extracts Sensitive Information Such As Authentication Secrets, Private Keys, And More**\n\nDockerSpy searches for images on Docker Hub and extracts sensitive information such as authentication…\n[Read more on Professional Hackers](https://professionalhackers.in/dockerspy-dockerspy-searches-for-images-on-docker-hub-and-extracts-sensitive-information-such-as-authentication-secrets-private-keys-and-more/)\n\n#DockerSpy #KitPloit #OSINT #Regex #Repositories #Research #Secrets #Uncover #Vulnerabilities #Vulnerability",
+    "id": "4140e446-95c8-49c5-abcb-d402ba36bac0",
+    "cleaning": {
+      "normalized_message": "dockerspy dockerspy searches for images on docker hub and extracts sensitive information such as authentication secrets private keys and more dockerspy searches for images on docker hub and extracts sensitive information such as authentication read more on professional hackers dockerspy kitploit osint regex repositories research secrets uncover vulnerabilities vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 376,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7480,
+    "date": "2024-09-20",
+    "datetime_utc": "2024-09-20T05:42:31+00:00",
+    "timestamp": 1726810951,
+    "message": "‌**Mass-Assigner – Simple Tool Made To Probe For Mass Assignment Vulnerability Through JSON Field Modification In HTTP Requests**\n\nMass Assigner is a powerful tool designed to identify and exploit mass assignment vulnerabilities…\n[Read more on Professional Hackers](https://professionalhackers.in/mass-assigner-simple-tool-made-to-probe-for-mass-assignment-vulnerability-through-json-field-modification-in-http-requests/)\n\n#KitPloit #Mass_Assigner #Parameter #Python3 #Vulnerabilities",
+    "id": "f38e6f33-c592-4868-8846-feb972e4fe0c",
+    "cleaning": {
+      "normalized_message": "mass-assigner simple tool made to probe for mass assignment vulnerability through json field modification in http requests mass assigner is a powerful tool designed to identify and exploit mass assignment vulnerabilities read more on professional hackers kitploit mass_assigner parameter python3 vulnerabilities",
+      "keyword_hits": [
+        "exploit",
+        "vulnerability"
+      ],
+      "char_count": 311,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7481,
+    "date": "2024-09-21",
+    "datetime_utc": "2024-09-21T06:03:33+00:00",
+    "timestamp": 1726898613,
+    "message": "‌**File-Unpumper – Tool That Can Be Used To Trim Useless Things From A PE File Such As The Things A File Pumper Would Add**\n\nfile-unpumper is a powerful command-line utility designed to clean and analyze Portable Executable (PE)…\n[Read more on Professional Hackers](https://professionalhackers.in/file-unpumper-tool-that-can-be-used-to-trim-useless-things-from-a-pe-file-such-as-the-things-a-file-pumper-would-add/)\n\n#File_Unpumper #KitPloit #Malware #Metadata #Operations #Packers #Rust",
+    "id": "a379eb3d-89c9-444c-9753-1e643f4d3c0a",
+    "cleaning": {
+      "normalized_message": "file-unpumper tool that can be used to trim useless things from a pe file such as the things a file pumper would add file-unpumper is a powerful command-line utility designed to clean and analyze portable executable pe read more on professional hackers file_unpumper kitploit malware metadata operations packers rust",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 316,
+      "token_count": 49,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7485,
+    "date": "2024-09-25",
+    "datetime_utc": "2024-09-25T07:22:48+00:00",
+    "timestamp": 1727248968,
+    "message": "‌**SafeLine – Serve As A Reverse Proxy To Protect Your Web Services From Attacks And Exploits**\n\nSafeLine is a self-hosted WAF(Web Application Firewall) to protect your web apps from attacks…\n[Read more on Professional Hackers](https://professionalhackers.in/safeline-serve-as-a-reverse-proxy-to-protect-your-web-services-from-attacks-and-exploits/)\n\n#Appsec #Blueteam #HTTP_Flood #KitPloit #SafeLine #Web_Application_Firewall #Websecurity",
+    "id": "7e25ea6e-9e95-45ba-9d5e-a4fcfd3f8011",
+    "cleaning": {
+      "normalized_message": "safeline serve as a reverse proxy to protect your web services from attacks and exploits safeline is a self-hosted waf web application firewall to protect your web apps from attacks read more on professional hackers appsec blueteam http_flood kitploit safeline web_application_firewall websecurity",
+      "keyword_hits": [
+        "exploits"
+      ],
+      "char_count": 297,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7503,
+    "date": "2024-10-25",
+    "datetime_utc": "2024-10-25T06:10:36+00:00",
+    "timestamp": 1729836636,
+    "message": "‌**How to Protect Against Ransomware Attacks?**\n\nCriminal hackers employ ransomware attacks against their targets by encrypting their data and demanding…\n[Read more on Professional Hackers](https://professionalhackers.in/how-to-protect-against-ransomware-attacks/)\n\n#hackercombat #Leaks",
+    "id": "bf6eacb1-72c2-4918-a26d-88a58e4fa5df",
+    "cleaning": {
+      "normalized_message": "how to protect against ransomware attacks criminal hackers employ ransomware attacks against their targets by encrypting their data and demanding read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks",
+        "ransomware"
+      ],
+      "char_count": 198,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7505,
+    "date": "2024-10-25",
+    "datetime_utc": "2024-10-25T20:58:16+00:00",
+    "timestamp": 1729889896,
+    "message": "‌**Protecting Your Website From DDoS Attack**\n\nDistributed denial-of-service attacks pose an increasing threat to organizations, with even some of the…\n[Read more on Professional Hackers](https://professionalhackers.in/protecting-your-website-from-ddos-attack/)\n\n#hackercombat #Leaks",
+    "id": "056929c9-b8bb-491f-98aa-ba721bf61497",
+    "cleaning": {
+      "normalized_message": "protecting your website from ddos attack distributed denial-of-service attacks pose an increasing threat to organizations with even some of the read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "ddos",
+        "leaks"
+      ],
+      "char_count": 196,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7506,
+    "date": "2024-10-26",
+    "datetime_utc": "2024-10-26T01:34:52+00:00",
+    "timestamp": 1729906492,
+    "message": "‌**CDK Cyber Attack**\n\nThis attack had all the hallmarks of ransomware attack and targeted CDK Global systems…\n[Read more on Professional Hackers](https://professionalhackers.in/cdk-cyber-attack/)\n\n#hackercombat #Leaks",
+    "id": "62b98cf8-98bc-4d34-ba31-25eab72cad2a",
+    "cleaning": {
+      "normalized_message": "cdk cyber attack this attack had all the hallmarks of ransomware attack and targeted cdk global systems read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks",
+        "ransomware"
+      ],
+      "char_count": 156,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7507,
+    "date": "2024-10-26",
+    "datetime_utc": "2024-10-26T09:14:44+00:00",
+    "timestamp": 1729934084,
+    "message": "‌**Protect Your Devices With Free Virus Removal**\n\nComputer viruses are extremely hazardous, which is why it’s crucial to secure your devices…\n[Read more on Professional Hackers](https://professionalhackers.in/protect-your-devices-with-free-virus-removal/)\n\n#hackercombat #Leaks",
+    "id": "a1c5205b-0dae-4045-a542-c1b644286262",
+    "cleaning": {
+      "normalized_message": "protect your devices with free virus removal computer viruses are extremely hazardous which is why it s crucial to secure your devices read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks",
+        "virus"
+      ],
+      "char_count": 187,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7510,
+    "date": "2024-10-28",
+    "datetime_utc": "2024-10-28T10:43:04+00:00",
+    "timestamp": 1730112184,
+    "message": "‌**Antivirus Software**\n\nAntivirus software protects devices against viruses, malware, and other cyberthreats by detecting, quarantining, and…\n[Read more on Professional Hackers](https://professionalhackers.in/antivirus-software/)\n\n#hackercombat #Leaks",
+    "id": "8beb747c-65b5-4d80-b7ed-2506284852a4",
+    "cleaning": {
+      "normalized_message": "antivirus software antivirus software protects devices against viruses malware and other cyberthreats by detecting quarantining and read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks",
+        "malware"
+      ],
+      "char_count": 184,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7511,
+    "date": "2024-10-28",
+    "datetime_utc": "2024-10-28T14:07:47+00:00",
+    "timestamp": 1730124467,
+    "message": "‌**Cloud Security Essentials**\n\nCloud security involves employing perimeter defenses like firewalls, IDPSs and VPNs as well as…\n[Read more on Professional Hackers](https://professionalhackers.in/cloud-security-essentials/)\n\n#hackercombat #Leaks",
+    "id": "90107f90-6c0a-425f-ac59-563297cddcb9",
+    "cleaning": {
+      "normalized_message": "cloud security essentials cloud security involves employing perimeter defenses like firewalls idpss and vpns as well as read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 172,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7541,
+    "date": "2024-11-26",
+    "datetime_utc": "2024-11-26T08:53:52+00:00",
+    "timestamp": 1732611232,
+    "message": "‌**Free EDR Solutions for Home Users in 2025**\n\nEDR can detect and respond to emerging and advanced cyber threats quickly and efficiently,…\n[Read more on Professional Hackers](https://professionalhackers.in/free-edr-solutions-for-home-users-in-2025/)\n\n#hackercombat #Leaks",
+    "id": "0ddac6a4-5727-408b-8b39-a0a574a74dac",
+    "cleaning": {
+      "normalized_message": "free edr solutions for home users in 2025 edr can detect and respond to emerging and advanced cyber threats quickly and efficiently read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 184,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7543,
+    "date": "2024-11-29",
+    "datetime_utc": "2024-11-29T15:41:05+00:00",
+    "timestamp": 1732894865,
+    "message": "‌**Best Free EDR for Windows PC**\n\nEndpoint detection and response (EDR) tools offer businesses that employ hybrid work models or…\n[Read more on Professional Hackers](https://professionalhackers.in/best-free-edr-for-windows-pc/)\n\n#hackercombat #Leaks",
+    "id": "649b0e0d-c99f-467a-ba21-01359b46c940",
+    "cleaning": {
+      "normalized_message": "best free edr for windows pc endpoint detection and response edr tools offer businesses that employ hybrid work models or read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 174,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7547,
+    "date": "2024-12-02",
+    "datetime_utc": "2024-12-02T18:25:53+00:00",
+    "timestamp": 1733163953,
+    "message": "‌**What Is a Security Operations Center (SOC)?**\n\nA Security Operations Center (SOC) specializes in monitoring and analyzing data to detect cyber…\n[Read more on Professional Hackers](https://professionalhackers.in/what-is-a-security-operations-center-soc/)\n\n#hackercombat #Leaks",
+    "id": "05d6a2c3-b3a0-49a6-85da-94c6514dc4ed",
+    "cleaning": {
+      "normalized_message": "what is a security operations center soc a security operations center soc specializes in monitoring and analyzing data to detect cyber read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 187,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7548,
+    "date": "2024-12-02",
+    "datetime_utc": "2024-12-02T22:30:49+00:00",
+    "timestamp": 1733178649,
+    "message": "‌**Zero Trust Architecture **\n\nZero trust security takes an “never trust, always verify” approach to access control. Access…\n[Read more on Professional Hackers](https://professionalhackers.in/zero-trust-architecture/)\n\n#hackercombat #Leaks",
+    "id": "0174deac-4e73-419e-8bc6-45416ab890d3",
+    "cleaning": {
+      "normalized_message": "zero trust architecture zero trust security takes an never trust always verify approach to access control access read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 165,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7560,
+    "date": "2024-12-13",
+    "datetime_utc": "2024-12-13T21:20:41+00:00",
+    "timestamp": 1734124841,
+    "message": "‌**Ways to Mitigate Risk in Cybersecurity: Cybersecurity Risk Management**\n\nCyber threats can wreak havoc on businesses, from data breaches to loss of reputation.…\n[Read more on Professional Hackers](https://professionalhackers.in/ways-to-mitigate-risk-in-cybersecurity-cybersecurity-risk-management/)\n\n#hackercombat #Leaks",
+    "id": "e474fe34-6b60-4d39-893d-7231e42b7fcf",
+    "cleaning": {
+      "normalized_message": "ways to mitigate risk in cybersecurity cybersecurity risk management cyber threats can wreak havoc on businesses from data breaches to loss of reputation read more on professional hackers hackercombat leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 206,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7679,
+    "date": "2025-04-14",
+    "datetime_utc": "2025-04-14T15:34:49+00:00",
+    "timestamp": 1744644889,
+    "message": "‌**Torward – An Improved Version Based On The Torghost-Gn And Darktor Scripts, Designed To Enhance Anonymity On The Internet**\n\nTorward is an improved version based on the torghost-gn and darktor scripts, designed to…\n[Read more on Professional Hackers](https://professionalhackers.in/torward-an-improved-version-based-on-the-torghost-gn-and-darktor-scripts-designed-to-enhance-anonymity-on-the-internet/)\n\n#Iptables #KitPloit #Leak #Leaks #Node #Tor #Torward #Traffic",
+    "id": "c4dfe50c-6821-4536-9cfc-1efc8f39d486",
+    "cleaning": {
+      "normalized_message": "torward an improved version based on the torghost-gn and darktor scripts designed to enhance anonymity on the internet torward is an improved version based on the torghost-gn and darktor scripts designed to read more on professional hackers iptables kitploit leak leaks node tor torward traffic",
+      "keyword_hits": [
+        "leak",
+        "leaks"
+      ],
+      "char_count": 294,
+      "token_count": 45,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7685,
+    "date": "2025-04-17",
+    "datetime_utc": "2025-04-17T17:27:56+00:00",
+    "timestamp": 1744910876,
+    "message": "‌**QuickResponseC2 – A Command & Control Server That Leverages QR Codes To Send Commands And Receive Results From Remote Systems**\n\nQuickResponseC2 is a stealthy Command and Control (C2) framework that enables indirect and covert…\n[Read more on Professional Hackers](https://professionalhackers.in/quickresponsec2-a-command-control-server-that-leverages-qr-codes-to-send-commands-and-receive-results-from-remote-systems/)\n\n#KitPloit #Obfuscation #Operations #Python3 #QuickResponseC2 #Research #Undetectable",
+    "id": "f0c80e25-a9b9-4943-a012-68a9674ce618",
+    "cleaning": {
+      "normalized_message": "quickresponsec2 a command control server that leverages qr codes to send commands and receive results from remote systems quickresponsec2 is a stealthy command and control c2 framework that enables indirect and covert read more on professional hackers kitploit obfuscation operations python3 quickresponsec2 research undetectable",
+      "keyword_hits": [
+        "c2",
+        "command and control"
+      ],
+      "char_count": 329,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7687,
+    "date": "2025-04-18",
+    "datetime_utc": "2025-04-18T17:22:09+00:00",
+    "timestamp": 1744996929,
+    "message": "‌**TruffleHog Explorer – A User-Friendly Web-Based Tool To Visualize And Analyze Data Extracted Using TruffleHog**\n\nWelcome to TruffleHog Explorer, a user-friendly web-based tool to visualize and analyze data extracted…\n[Read more on Professional Hackers](https://professionalhackers.in/trufflehog-explorer-a-user-friendly-web-based-tool-to-visualize-and-analyze-data-extracted-using-trufflehog/)\n\n#Exposed_Credentials #KitPloit #Leaks #Leaks_Scanner #OSINT #OSINT_Resources #OSINT_Tool #truffleHog #Trufflehog_Explorer",
+    "id": "2166a569-9198-4044-89ea-0c31227200bc",
+    "cleaning": {
+      "normalized_message": "trufflehog explorer a user-friendly web-based tool to visualize and analyze data extracted using trufflehog welcome to trufflehog explorer a user-friendly web-based tool to visualize and analyze data extracted read more on professional hackers exposed_credentials kitploit leaks leaks_scanner osint osint_resources osint_tool trufflehog trufflehog_explorer",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 356,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7695,
+    "date": "2025-04-22",
+    "datetime_utc": "2025-04-22T18:22:24+00:00",
+    "timestamp": 1745346144,
+    "message": "‌**Ghost-Route – Ghost Route Detects If A Next JS Site Is Vulnerable To The Corrupt Middleware Bypass Bug (CVE-2025-29927)**\n\nA Python script to check Next.js sites for corrupt middleware vulnerability (CVE-2025-29927). The corrupt…\n[Read more on Professional Hackers](https://professionalhackers.in/ghost-route-ghost-route-detects-if-a-next-js-site-is-vulnerable-to-the-corrupt-middleware-bypass-bug-cve-2025-29927/)\n\n#Cve_2025_29927 #Ghost_Route #KitPloit #Nextjs #Security #Vulnerability #Vulnerability_Scanner",
+    "id": "853956d6-85f5-4cc9-bbd5-b8c3bf1df0dd",
+    "cleaning": {
+      "normalized_message": "ghost-route ghost route detects if a next js site is vulnerable to the corrupt middleware bypass bug cve-2025-29927 a python script to check next js sites for corrupt middleware vulnerability cve-2025-29927 the corrupt read more on professional hackers cve_2025_29927 ghost_route kitploit nextjs security vulnerability vulnerability_scanner",
+      "keyword_hits": [
+        "cve-2025-29927",
+        "vulnerability"
+      ],
+      "char_count": 340,
+      "token_count": 45,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7703,
+    "date": "2025-04-26",
+    "datetime_utc": "2025-04-26T22:25:15+00:00",
+    "timestamp": 1745706315,
+    "message": "‌**Camtruder – Advanced RTSP Camera Discovery and Vulnerability Assessment Tool**\n\nCamtruder is a high-performance RTSP camera discovery and vulnerability assessment tool written in Go.…\n[Read more on Professional Hackers](https://professionalhackers.in/camtruder-advanced-rtsp-camera-discovery-and-vulnerability-assessment-tool/)\n\n#Camtruder #KitPloit #Scripting #Vulnerability #Vulnerable #ZMap",
+    "id": "65a724e1-1d09-49a4-a74f-ea2f6cf512ab",
+    "cleaning": {
+      "normalized_message": "camtruder advanced rtsp camera discovery and vulnerability assessment tool camtruder is a high-performance rtsp camera discovery and vulnerability assessment tool written in go read more on professional hackers camtruder kitploit scripting vulnerability vulnerable zmap",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 269,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7705,
+    "date": "2025-04-28",
+    "datetime_utc": "2025-04-28T01:50:12+00:00",
+    "timestamp": 1745805012,
+    "message": "‌**VulnKnox – A Go-based Wrapper For The KNOXSS API To Automate XSS Vulnerability Testing**\n\nVulnKnox is a powerful command-line tool written in Go that interfaces with the KNOXSS…\n[Read more on Professional Hackers](https://professionalhackers.in/vulnknox-a-go-based-wrapper-for-the-knoxss-api-to-automate-xss-vulnerability-testing/)\n\n#KitPloit #Vulnerabilities #Vulnerability #VulnKnox #Webhook #XSS",
+    "id": "b27f7441-af65-4be9-9641-9fe2e4965b59",
+    "cleaning": {
+      "normalized_message": "vulnknox a go-based wrapper for the knoxss api to automate xss vulnerability testing vulnknox is a powerful command-line tool written in go that interfaces with the knoxss read more on professional hackers kitploit vulnerabilities vulnerability vulnknox webhook xss",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 265,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 7818,
+    "date": "2025-08-06",
+    "datetime_utc": "2025-08-06T06:19:44+00:00",
+    "timestamp": 1754461184,
+    "message": "‌**Snowflake Data Breach: What Happened and How to Prevent It**\n\nIn 2024, the cybersecurity landscape was shaken by an unexpected and widespread incident—the Snowflake…\n[Read more on Professional Hackers](https://professionalhackers.in/snowflake-data-breach-what-happened-and-how-to-prevent-it/)\n\n#Data_Breach #hackercombat #Snowflake_Data_Breach",
+    "id": "2a6f1aca-7d5a-474c-ad1f-59086b446493",
+    "cleaning": {
+      "normalized_message": "snowflake data breach what happened and how to prevent it in 2024 the cybersecurity landscape was shaken by an unexpected and widespread incident the snowflake read more on professional hackers data_breach hackercombat snowflake_data_breach",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 240,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  }
+]

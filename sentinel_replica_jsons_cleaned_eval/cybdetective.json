@@ -1,0 +1,2819 @@
+[
+  {
+    "_id": 1554,
+    "date": "2023-01-02",
+    "datetime_utc": "2023-01-02T20:20:29+00:00",
+    "timestamp": 1672690829,
+    "message": "WHO'S BEEN RANSOMWARED\n\nSearch company or person by name in ransomware attack's reports database. \n\nhttps://ransom.wiki/",
+    "id": "8b8f7c3b-7389-4c85-be8b-725643be1901",
+    "cleaning": {
+      "normalized_message": "who s been ransomwared search company or person by name in ransomware attack s reports database",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 95,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1557,
+    "date": "2023-01-03",
+    "datetime_utc": "2023-01-03T22:28:54+00:00",
+    "timestamp": 1672784934,
+    "message": "Bitcoin Abuse Database\n\nA simple tool to check whether a Bitcoin address has been used for ransomware, blackmailers, fraudsters and view incident reports.\n\nhttps://www.bitcoinabuse.com/\n\n#btc #osint",
+    "id": "e112d61b-9ee5-4519-b072-c046d4debe4f",
+    "cleaning": {
+      "normalized_message": "bitcoin abuse database a simple tool to check whether a bitcoin address has been used for ransomware blackmailers fraudsters and view incident reports btc osint",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 160,
+      "token_count": 25,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1559,
+    "date": "2023-01-04",
+    "datetime_utc": "2023-01-04T22:47:57+00:00",
+    "timestamp": 1672872477,
+    "message": "Two little advices:\n\n1. If you make an #OSINT Flow Chart and publish it, save it NOT as an image, but in .xmind format (to make it easier for others to edit). Example https://github.com/WebBreacher/osinttools/blob/master/OSINT_Maps.xmind\n\n2. Use xmind.works  for open .xmind files (no login required, partly free)",
+    "id": "6f9e05a6-4400-4a99-8140-c4a8062d1181",
+    "cleaning": {
+      "normalized_message": "two little advices 1 if you make an osint flow chart and publish it save it not as an image but in xmind format to make it easier for others to edit example 2 use xmind works for open xmind files no login required partly free",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 225,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1603,
+    "date": "2023-01-29",
+    "datetime_utc": "2023-01-29T15:00:24+00:00",
+    "timestamp": 1675004424,
+    "message": "You may have heard about the recent Yandex products source code leak (https://arseniyshestakov.com/2023/01/26/yandex-services-source-code-leak/)\n\nThe first online services to help extract value from this data are already appearing . For example, Yandex Search Ranking Factor Explorer.\n\nhttps://yandex-explorer.herokuapp.com/\n\n#leaks",
+    "id": "adf033d4-07d8-4c49-8b3d-1cbe87c5c1d6",
+    "cleaning": {
+      "normalized_message": "you may have heard about the recent yandex products source code leak the first online services to help extract value from this data are already appearing for example yandex search ranking factor explorer leaks",
+      "keyword_hits": [
+        "leak",
+        "leaks"
+      ],
+      "char_count": 209,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1607,
+    "date": "2023-01-31",
+    "datetime_utc": "2023-01-31T11:30:25+00:00",
+    "timestamp": 1675164625,
+    "message": "A TON of Privacy \n\nTool for OSINT investigations on TON NFTs.\n\nSearch info (balance, scam status etc) by Telegram nickname, phone number or domain.\n\nhttps://github.com/aaarghhh/a_TON_of_privacy\n\n#osint #crypto",
+    "id": "449c39b9-c476-47bc-9b12-cd252447fdd4",
+    "cleaning": {
+      "normalized_message": "a ton of privacy tool for osint investigations on ton nfts search info balance scam status etc by telegram nickname phone number or domain osint crypto",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 151,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1652,
+    "date": "2023-02-20",
+    "datetime_utc": "2023-02-20T15:51:20+00:00",
+    "timestamp": 1676908280,
+    "message": "Universal regular expression to search for all leaked keys/secrets at once\n\nhttps://gist.github.com/h4x0r-dz/be69c7533075ab0d3f0c9b97f7c93a59\n\nContributor twitter.com/h4x0r_dz\nThanks for tip twitter.com/NinadMishra5",
+    "id": "27b4fbd0-34fd-4116-8af2-5f4263ef77c1",
+    "cleaning": {
+      "normalized_message": "universal regular expression to search for all leaked keys secrets at once contributor twitter com h4x0r_dz thanks for tip twitter com ninadmishra5",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 147,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1685,
+    "date": "2023-03-06",
+    "datetime_utc": "2023-03-06T20:29:22+00:00",
+    "timestamp": 1678134562,
+    "message": "In this article you will learn:\n\nfind Gravatar account by email\nget Gravatar profile info from email address\nget a links to Gravatar profiles for an emails list\nguess email of Gravatar users by MD5 hash\n\nhttps://medium.com/@cyb_detective/4-easy-tricks-for-using-gravatar-in-osint-99c0910d933",
+    "id": "0bf04dcd-1178-4296-af36-6088616fa3fd",
+    "cleaning": {
+      "normalized_message": "in this article you will learn find gravatar account by email get gravatar profile info from email address get a links to gravatar profiles for an emails list guess email of gravatar users by md5 hash",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 200,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1688,
+    "date": "2023-03-07",
+    "datetime_utc": "2023-03-07T18:24:25+00:00",
+    "timestamp": 1678213465,
+    "message": "Tools to check the reputation of crypto wallets addresses:\n\ncryptoblacklist.io/en/bitcoin-blacklist/\nbitcoinwhoswho.com\nchainabuse.com/reports\nscam-alert.io/\n\n\n#crypto #btc #osint",
+    "id": "ced93e5f-be1c-4d53-be3e-2ce1e77447fb",
+    "cleaning": {
+      "normalized_message": "tools to check the reputation of crypto wallets addresses cryptoblacklist io en bitcoin-blacklist bitcoinwhoswho com chainabuse com reports scam-alert io crypto btc osint",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 170,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1720,
+    "date": "2023-03-22",
+    "datetime_utc": "2023-03-22T19:23:43+00:00",
+    "timestamp": 1679513023,
+    "message": "DATA SURGEON\n\nA tool for extracting various sensitive data from text files and web pages. For example:\n\n- emails\n- phone numbers\n- API keys\n- URLs\n- MAC addresses\n- Hashes\n- Bitcoin wallets\n\nand more.\n\nhttps://github.com/Drew-Alleman/DataSurgeon\n\n#rust #osint",
+    "id": "383d17a9-9e9b-4926-9a0d-cc3dee46e401",
+    "cleaning": {
+      "normalized_message": "data surgeon a tool for extracting various sensitive data from text files and web pages for example - emails - phone numbers - api keys - urls - mac addresses - hashes - bitcoin wallets and more rust osint",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 205,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1730,
+    "date": "2023-03-26",
+    "datetime_utc": "2023-03-26T15:50:56+00:00",
+    "timestamp": 1679845856,
+    "message": "Offensive AI Compilation\n\nEverything about AI and cybersecurity: \n\n - exploiting the vulnerabilities of AI models;\n -  use of AI to accomplish a malicious task and boost classic attacks\n- detection and content generation tools.\n\nhttps://github.com/jiep/offensive-ai-compilation\n\nContributor twitter.com/MiguelHzBz",
+    "id": "b051e44f-da63-4fc5-b8cb-b4c943f77901",
+    "cleaning": {
+      "normalized_message": "offensive ai compilation everything about ai and cybersecurity - exploiting the vulnerabilities of ai models - use of ai to accomplish a malicious task and boost classic attacks - detection and content generation tools contributor twitter com miguelhzbz",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "char_count": 253,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1754,
+    "date": "2023-04-07",
+    "datetime_utc": "2023-04-07T09:30:56+00:00",
+    "timestamp": 1680859856,
+    "message": "Knowing a person's password, you can find a lot of different info about him in leak search services.\n\nBut unfortunately, often the researcher only know the password hash. \n\nRead what you can do about it in this article:\n\nhttps://medium.com/@cyb_detective/how-and-for-what-purpose-to-guess-a-password-by-its-hash-798faa0eb091",
+    "id": "e407b1b7-4a10-4695-9719-329941508452",
+    "cleaning": {
+      "normalized_message": "knowing a person s password you can find a lot of different info about him in leak search services but unfortunately often the researcher only know the password hash read what you can do about it in this article",
+      "keyword_hits": [
+        "hash",
+        "leak"
+      ],
+      "char_count": 211,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1768,
+    "date": "2023-04-13",
+    "datetime_utc": "2023-04-13T04:40:33+00:00",
+    "timestamp": 1681360833,
+    "message": "In my Medium blog you can read:\n\nHow and for what purpose to guess a password by its hash\n\n4 easy tricks for using Gravatar in OSINT\n\nUsing Nuclei for OSINT. 5-minute basic guide\n\n\nand more.\n\nhttps://medium.com/@cyb_detective \n\n#osint #socmint",
+    "id": "e9acda58-6868-4371-97f5-563b3fef2f76",
+    "cleaning": {
+      "normalized_message": "in my medium blog you can read how and for what purpose to guess a password by its hash 4 easy tricks for using gravatar in osint using nuclei for osint 5-minute basic guide and more osint socmint",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 196,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1783,
+    "date": "2023-04-20",
+    "datetime_utc": "2023-04-20T12:29:29+00:00",
+    "timestamp": 1681993769,
+    "message": "Kali Linux Cheatsheet\n\nSQLMap Examples\nMetasploit\nExploit Research\nPassword Cracking\nUsername Enumeration\nHTTP / HTTPS Webserver Enumeration\nDNSRecon\nNMAP Commands\n\nand more.\n\nhttps://github.com/NoorQureshi/kali-linux-cheatsheet\n\nContributor twitter.com/M4sterPh0enix",
+    "id": "bdc2c936-f35d-417c-a25a-b612d0dc338d",
+    "cleaning": {
+      "normalized_message": "kali linux cheatsheet sqlmap examples metasploit exploit research password cracking username enumeration http https webserver enumeration dnsrecon nmap commands and more contributor twitter com m4sterph0enix",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 207,
+      "token_count": 25,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1801,
+    "date": "2023-04-27",
+    "datetime_utc": "2023-04-27T13:29:55+00:00",
+    "timestamp": 1682602195,
+    "message": "Dorks Collections List\n\nI added Netlas io dorks (from a previous tweet) to my list of collections of dorks for different services. You will also find there dorks for Shodan, Censys, Github, Virus Total and other search engines.\n\nhttps://github.com/cipher387/Dorks-collections-list",
+    "id": "e92ed2b3-46ca-41cc-a6a9-b1159876e509",
+    "cleaning": {
+      "normalized_message": "dorks collections list i added netlas io dorks from a previous tweet to my list of collections of dorks for different services you will also find there dorks for shodan censys github virus total and other search engines",
+      "keyword_hits": [
+        "virus"
+      ],
+      "char_count": 219,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1807,
+    "date": "2023-05-01",
+    "datetime_utc": "2023-05-01T14:38:53+00:00",
+    "timestamp": 1682951933,
+    "message": "Certified Ethical Hacker Exam Questions\n\n125 questions with answers:\n\nCryptography \nFootprinting\nMalware\nSniffers\nSQL Injection\nHacking Wi-Fi & Bluetooth\nSocial Engineering\nSession Hijacking\nPhysical Security\n\nand more.\n\nhttps://github.com/ryh04x/CEH-Exam-Questions\n\nContributor twitter.com/ryh04x",
+    "id": "836ab9fb-3bc9-44a4-a3e3-ffe8cd3dfe8d",
+    "cleaning": {
+      "normalized_message": "certified ethical hacker exam questions 125 questions with answers cryptography footprinting malware sniffers sql injection hacking wi-fi bluetooth social engineering session hijacking physical security and more contributor twitter com ryh04x",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 242,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1810,
+    "date": "2023-05-04",
+    "datetime_utc": "2023-05-04T08:17:10+00:00",
+    "timestamp": 1683188230,
+    "message": "Favicon Hasher\n\nFavicon.ico files hashes is a feature by which you can find domains related with your target.\n\nThis tool generates hashes for all favicon.ico on the site (+ quick links to find them in Shodan, Censys, Zoomeye)\n\n\nhttps://faviconhasher.codejavu.tech/\n\nCreator twitter.com/moe1n1 \n\n#osint",
+    "id": "4f9f375e-c6e8-45f3-b691-9973088ecf12",
+    "cleaning": {
+      "normalized_message": "favicon hasher favicon ico files hashes is a feature by which you can find domains related with your target this tool generates hashes for all favicon ico on the site quick links to find them in shodan censys zoomeye creator twitter com moe1n1 osint",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 249,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1816,
+    "date": "2023-05-07",
+    "datetime_utc": "2023-05-07T15:25:08+00:00",
+    "timestamp": 1683473108,
+    "message": "Cyber detective #OSINT tools Newsletter #5(2023)\n\nArticle: How and for what purpose to guess a password by its hash\n\nFELT (map creation tool)\n\nAvatar API\n\nCounter OSINT Guide\n\nEmail-Username OSINT toolkit\n\nPython for OSINT. 21 day course for beginners\n\nhttps://cybdetective.substack.com/p/cyber-detective-osint-tools-newsletter-675",
+    "id": "a13661ea-d75e-4473-aa97-9de32addcb5e",
+    "cleaning": {
+      "normalized_message": "cyber detective osint tools newsletter 5 2023 article how and for what purpose to guess a password by its hash felt map creation tool avatar api counter osint guide email-username osint toolkit python for osint 21 day course for beginners",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 238,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1827,
+    "date": "2023-05-13",
+    "datetime_utc": "2023-05-13T08:31:48+00:00",
+    "timestamp": 1683966708,
+    "message": "https://cavalier.hudsonrock.com/passwords\n\nEnter the domain name to see the stats of compromised passwords for users and employees of a certain company. This service once again clearly shows how few people (even among employees of technology companies) use strong passwords.\n\nThanks for tip https://t.me/Schwarz_Osint",
+    "id": "155f7fa9-a3e1-4875-af66-b49483ae7f9e",
+    "cleaning": {
+      "normalized_message": "enter the domain name to see the stats of compromised passwords for users and employees of a certain company this service once again clearly shows how few people even among employees of technology companies use strong passwords thanks for tip",
+      "keyword_hits": [
+        "compromised"
+      ],
+      "char_count": 242,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1842,
+    "date": "2023-05-21",
+    "datetime_utc": "2023-05-21T17:19:25+00:00",
+    "timestamp": 1684689565,
+    "message": "HackerOne Reports\n\nDozens of rankings of the vulnerability reports on the HackerOne platform. Top by bug type, top by program, top 100 paid, top 100 upvoted.\n\nhttps://github.com/reddelexc/hackerone-reports\n\n#pentest #bugbounty",
+    "id": "cb5ff408-a0d5-4b5b-ae5e-15d2650fcf7d",
+    "cleaning": {
+      "normalized_message": "hackerone reports dozens of rankings of the vulnerability reports on the hackerone platform top by bug type top by program top 100 paid top 100 upvoted pentest bugbounty",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 169,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1857,
+    "date": "2023-05-28",
+    "datetime_utc": "2023-05-28T09:27:55+00:00",
+    "timestamp": 1685266075,
+    "message": "Infosec Dorks\n\nCollection of various dorks that will be useful for various cyber security researches:\n\nConfig files\nDatabase files\nBackup files\nExposed documents\nSQL errors\nLogin pages\nWordpress files\nLinkedin employees\n\nand much more.\n\n\nhttps://github.com/spekulatius/infosec-dorks",
+    "id": "b6b66e03-3b81-40c8-b484-311c383d62a9",
+    "cleaning": {
+      "normalized_message": "infosec dorks collection of various dorks that will be useful for various cyber security researches config files database files backup files exposed documents sql errors login pages wordpress files linkedin employees and much more",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 230,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1864,
+    "date": "2023-06-02",
+    "datetime_utc": "2023-06-02T09:54:22+00:00",
+    "timestamp": 1685699662,
+    "message": "Awesome Cybersecurity ChatGPT Prompts\n\nA list of examples of ChatGPT usage for different cybersecurity purposes:\n\nСode audit\nImprove work efficiency and generate mind maps\nTools using instructions\nTools recommendations\nHistorical vulnerability tracking\n\nhttps://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity",
+    "id": "6a0755be-2dde-4328-ae71-9c3b256cb0c8",
+    "cleaning": {
+      "normalized_message": "awesome cybersecurity chatgpt prompts a list of examples of chatgpt usage for different cybersecurity purposes сode audit improve work efficiency and generate mind maps tools using instructions tools recommendations historical vulnerability tracking",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 249,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1874,
+    "date": "2023-06-07",
+    "datetime_utc": "2023-06-07T16:04:15+00:00",
+    "timestamp": 1686153855,
+    "message": "Awesome Ethical Hacking Resources\n\nBooks\nLearning Platforms \nVulnerable Machines/Websites/Databases\nMalware Analysis\nLinux Penetration Testing OS\nSecurity Talks and Conferences\nYouTube Channels\nForums\n\nhttps://github.com/husnainfareed/Awesome-Ethical-Hacking-Resources\n\nContributor twitter.com/hxna1n",
+    "id": "f80f5d53-0bbd-43bb-b360-55457dd18cf5",
+    "cleaning": {
+      "normalized_message": "awesome ethical hacking resources books learning platforms vulnerable machines websites databases malware analysis linux penetration testing os security talks and conferences youtube channels forums contributor twitter com hxna1n",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 229,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1875,
+    "date": "2023-06-08",
+    "datetime_utc": "2023-06-08T08:22:06+00:00",
+    "timestamp": 1686212526,
+    "message": "Leaks and Breaches for OSINT\n\nLong and detailed article about using data leaks in OSINT from Security by Accident blog.\n\nhttps://medium.com/@security-by-accident/leaks-and-breaches-for-osint-a7e3eb6bb56f\n\nSurprisingly, there is no mention of Telegram channels with leaks, but still interesting.",
+    "id": "b6d5a949-894e-4015-a432-d0e06e22fe2e",
+    "cleaning": {
+      "normalized_message": "leaks and breaches for osint long and detailed article about using data leaks in osint from security by accident blog surprisingly there is no mention of telegram channels with leaks but still interesting",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 204,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1898,
+    "date": "2023-06-18",
+    "datetime_utc": "2023-06-18T09:45:10+00:00",
+    "timestamp": 1687081510,
+    "message": "LogSensor\n\n#Python tool to discover login panels, and POST Form SQLi Scanning. Support multiple hosts scanning, targeted SQLi form scanning and proxies.\n\nhttps://github.com/Mr-Robert0/Logsensor\n\nCreator twitter.com/Mr_Robert20\n\n#pentest #cybersecurity",
+    "id": "be42598f-1218-4820-a762-478d26e1f827",
+    "cleaning": {
+      "normalized_message": "logsensor python tool to discover login panels and post form sqli scanning support multiple hosts scanning targeted sqli form scanning and proxies creator twitter com mr_robert20 pentest cybersecurity",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 200,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1933,
+    "date": "2023-07-12",
+    "datetime_utc": "2023-07-12T19:53:48+00:00",
+    "timestamp": 1689191628,
+    "message": "Web Hackers Weapons\n\nList of cross-platform #pentest/#bugbounty tools:\n\nSwiss Army Knifes\nProxies\nRecons\nFuzzers\nScanners\nExploits\nUtils \n\nhttps://github.com/hahwul/WebHackersWeapons\n\n\nContributor twitter.com/hahwul",
+    "id": "3bd0ca31-1f8b-4e83-b013-02de1624c02b",
+    "cleaning": {
+      "normalized_message": "web hackers weapons list of cross-platform pentest bugbounty tools swiss army knifes proxies recons fuzzers scanners exploits utils contributor twitter com hahwul",
+      "keyword_hits": [
+        "exploits"
+      ],
+      "char_count": 162,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1977,
+    "date": "2023-07-28",
+    "datetime_utc": "2023-07-28T08:48:09+00:00",
+    "timestamp": 1690534089,
+    "message": "OSINT Toolkit\n\nSelf-hosted web app (one minute Docker installation) for gathering information about IPs, Domains, URLs, Emails, Hashes, CVEs and more.\n\n\nhttps://github.com/dev-lu/osint_toolkit",
+    "id": "901455e9-9f5a-4fc2-b1af-1e67419ecef5",
+    "cleaning": {
+      "normalized_message": "osint toolkit self-hosted web app one minute docker installation for gathering information about ips domains urls emails hashes cves and more",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 141,
+      "token_count": 21,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1993,
+    "date": "2023-08-03",
+    "datetime_utc": "2023-08-03T14:11:24+00:00",
+    "timestamp": 1691071884,
+    "message": "SOC Multi Tool\n\nChrome Extension for quick:\n\nIP/Domain Reputation Lookup \nIP/ Domain Info Lookup \nHash Reputation Lookup (\nDecoding of Base64 & HEX using CyberChef\nFile Extension & Filename Lookup\n\nand more (view pic)\n\nhttps://chrome.google.com/webstore/detail/soc-multi-tool/diagjgnagmnjdfnfcciocmjcllacgkab/\n\nThanks for tip twitter.com/andalusiahacker",
+    "id": "227272e7-01da-4537-a227-c7c2247ed5d1",
+    "cleaning": {
+      "normalized_message": "soc multi tool chrome extension for quick ip domain reputation lookup ip domain info lookup hash reputation lookup decoding of base64 hex using cyberchef file extension filename lookup and more view pic thanks for tip twitter com andalusiahacker",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 245,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2012,
+    "date": "2023-08-09",
+    "datetime_utc": "2023-08-09T15:49:41+00:00",
+    "timestamp": 1691596181,
+    "message": "APT_REPORT\n\n\nA huge collection of detailed PDF reports on the activities of dozens of APT (Advanced Persistent Threat) groups. Useful for anyone investigating cyber threats.\n\n\nhttps://github.com/blackorbird/APT_REPORT\n\n\nContributor twitter.com/blackorbird",
+    "id": "b39c06d0-c2b4-4e9f-8f2d-a61d9a7c9a19",
+    "cleaning": {
+      "normalized_message": "apt_report a huge collection of detailed pdf reports on the activities of dozens of apt advanced persistent threat groups useful for anyone investigating cyber threats contributor twitter com blackorbird",
+      "keyword_hits": [
+        "apt"
+      ],
+      "char_count": 203,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2015,
+    "date": "2023-08-12",
+    "datetime_utc": "2023-08-12T12:30:32+00:00",
+    "timestamp": 1691843432,
+    "message": "Vulnerabilities Checklists\n\n2FA bypassing\n\nAdmin panel\n\nCookie attack\n\nReset Password Attack\n\nAccount takeover \n\n403 bypass \n\nSql Injection\n\nFile Upload\n\nand more.\n\nhttps://github.com/Az0x7/vulnerability-Checklist\n\nCreator twitter.com/Mahmoud30278295",
+    "id": "df88355b-4050-48a6-86a8-c23c7c0c8b89",
+    "cleaning": {
+      "normalized_message": "vulnerabilities checklists 2fa bypassing admin panel cookie attack reset password attack account takeover 403 bypass sql injection file upload and more creator twitter com mahmoud30278295",
+      "keyword_hits": [
+        "account takeover"
+      ],
+      "char_count": 187,
+      "token_count": 25,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2019,
+    "date": "2023-08-13",
+    "datetime_utc": "2023-08-13T13:02:58+00:00",
+    "timestamp": 1691931778,
+    "message": "Cyber Threat Intelligence\n\nLarge resources collection:\n\nThreat Intelligence Platforms\nReputation databases\nThreat sharing tools\nPastes, dumps & archives\nResearch, standards and books\nMalware sandboxes\nDomain tools\n\nand much more.\n\nhttps://start.me/p/wMrA5z/cyber-threat-intelligence\n\nCreator twitter.com/infosecn1nja",
+    "id": "c35ef621-abf1-47b0-8661-67bc76ffa415",
+    "cleaning": {
+      "normalized_message": "cyber threat intelligence large resources collection threat intelligence platforms reputation databases threat sharing tools pastes dumps archives research standards and books malware sandboxes domain tools and much more creator twitter com infosecn1nja",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 253,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2032,
+    "date": "2023-08-18",
+    "datetime_utc": "2023-08-18T10:12:47+00:00",
+    "timestamp": 1692353567,
+    "message": "DiscordOSINT\n\nTools and websites\nDiscord server search engines\nDiscord bots search engine\nDiscord Exploits/Pentesting\nDiscord Search syntax\nGoogle Search queries & Dorks\n\nand more.\n\nhttps://github.com/AtonceInventions/DiscordOSINT\n\n#osint #socmint",
+    "id": "49b60a8d-9330-481d-af5e-097a7bc661fb",
+    "cleaning": {
+      "normalized_message": "discordosint tools and websites discord server search engines discord bots search engine discord exploits pentesting discord search syntax google search queries dorks and more osint socmint",
+      "keyword_hits": [
+        "exploits"
+      ],
+      "char_count": 189,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2035,
+    "date": "2023-08-19",
+    "datetime_utc": "2023-08-19T09:07:05+00:00",
+    "timestamp": 1692436025,
+    "message": "Nuclei Templates AI Generator\n\n\nCreate Nuclei templates by textual description (e.g., vulnerability scanners by PoC).\n\n\ntemplates.nuclei.sh\n\n\nP.S. If you don't know what you need Nuclei for, read this article:\n\n\nhttps://medium.com/@cyb_detective/using-nuclei-for-osint-5-minute-basic-guide-f8764424902b",
+    "id": "fed23172-86ce-4ed0-90e3-f267ab4a0bc6",
+    "cleaning": {
+      "normalized_message": "nuclei templates ai generator create nuclei templates by textual description e g vulnerability scanners by poc templates nuclei sh p s if you don t know what you need nuclei for read this article",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 195,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2052,
+    "date": "2023-08-26",
+    "datetime_utc": "2023-08-26T12:20:19+00:00",
+    "timestamp": 1693052419,
+    "message": "Data OSINT\n\n\nList of services for searching data leaks + list of services for decrypting password hashes + article on how to use data leaks in investigations.\n\n\nhttps://github.com/cqcore/Data-OSINT\n\n\nContributor twitter.com/cqcore\n\n\n#osint #socmint",
+    "id": "5a95c00d-5fdc-4f1e-a95e-41f2d9cd87b2",
+    "cleaning": {
+      "normalized_message": "data osint list of services for searching data leaks list of services for decrypting password hashes article on how to use data leaks in investigations contributor twitter com cqcore osint socmint",
+      "keyword_hits": [
+        "hashes",
+        "leaks"
+      ],
+      "char_count": 196,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2058,
+    "date": "2023-08-29",
+    "datetime_utc": "2023-08-29T21:05:55+00:00",
+    "timestamp": 1693343155,
+    "message": "FavFreak\n\n#python tool for using favicon.ico hashes for finding new assets/IP addresses and technologies owned by a company.\n\nhttps://github.com/devanshbatham/FavFreak\n\nCreator twitter.com/0xAsm0d3us\n\nDetailed description: https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139",
+    "id": "eb704690-4f04-4bb7-a72c-14bd04f965b8",
+    "cleaning": {
+      "normalized_message": "favfreak python tool for using favicon ico hashes for finding new assets ip addresses and technologies owned by a company creator twitter com 0xasm0d3us detailed description",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 173,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2083,
+    "date": "2023-09-06",
+    "datetime_utc": "2023-09-06T13:16:49+00:00",
+    "timestamp": 1694006209,
+    "message": "PHISHING POT\n\nIf you want to learn how to investigate phishing attacks, there are 1000 (!) eml files in this repository that you can practice on. \n\nhttps://github.com/rf-peixoto/phishing_pot\n\n(If you don't know how to investigate #phishing, read this https://osintteam.blog/from-inbox-to-intel-a-deep-dive-into-phishing-investigation-via-osint-d0c7ece36070 from twitter.com/ronkaminskyy)",
+    "id": "3f4aec90-fe14-488c-9200-cb5bbfaf1c40",
+    "cleaning": {
+      "normalized_message": "phishing pot if you want to learn how to investigate phishing attacks there are 1000 eml files in this repository that you can practice on if you don t know how to investigate phishing read this from twitter com ronkaminskyy",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 224,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2098,
+    "date": "2023-09-16",
+    "datetime_utc": "2023-09-16T14:57:52+00:00",
+    "timestamp": 1694876272,
+    "message": "Awesome Cyber\n\nList of #cybersecurity related tools from twitter.com/landoncrabtree: \n\nOperating Systems\nDefense Evasion\nOSINT\nReconaissance\nSocial Engineering\nLeaked Credentials\nWeb Exploitation\nReverse Engineering\nMalware Analysis\nHardening\nCTF stuff\n\nand more.\n\nhttps://github.com/landoncrabtree/awesome-cyber",
+    "id": "cc757798-98a0-4ece-8afe-454c49a5148c",
+    "cleaning": {
+      "normalized_message": "awesome cyber list of cybersecurity related tools from twitter com landoncrabtree operating systems defense evasion osint reconaissance social engineering leaked credentials web exploitation reverse engineering malware analysis hardening ctf stuff and more",
+      "keyword_hits": [
+        "credentials",
+        "leaked",
+        "malware"
+      ],
+      "char_count": 256,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2131,
+    "date": "2023-09-30",
+    "datetime_utc": "2023-09-30T21:49:38+00:00",
+    "timestamp": 1696110578,
+    "message": "search.0t.rocks\n\nSearch in data leaks database (14, 491, 682, 918 records) by:\nFirst/Last name\nPassword\nIP Address\nPhone\nVIN\nCity\n\nand other fields.\n\n(use of the service may violate the laws of your country)",
+    "id": "0fda8f05-8146-47a0-843c-9543631ee2b3",
+    "cleaning": {
+      "normalized_message": "search 0t rocks search in data leaks database 14 491 682 918 records by first last name password ip address phone vin city and other fields use of the service may violate the laws of your country",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 195,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2144,
+    "date": "2023-10-09",
+    "datetime_utc": "2023-10-09T12:00:28+00:00",
+    "timestamp": 1696852828,
+    "message": "It's not my account. If you've been receiving messages from this account, report scam.",
+    "id": "71bc8c84-172f-48e1-b219-209e639f4078",
+    "cleaning": {
+      "normalized_message": "it s not my account if you ve been receiving messages from this account report scam",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 83,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2158,
+    "date": "2023-10-16",
+    "datetime_utc": "2023-10-16T16:59:25+00:00",
+    "timestamp": 1697475565,
+    "message": "DFIR Reference Frameworks\n\nA large collection of links to documentation that explains the meaning of terms from different areas of DFIR.\n\nIncident Response\nMalware Analysis\nThreat Intelligence\nProactive Response\nThreat Hunting\nInsider Threat\n\nhttps://github.com/joshlemon/DFIR-Reference-Frameworks\n\nContributor twitter.com/joshlemon",
+    "id": "253daf20-dbe9-46e4-b66c-1507754620fc",
+    "cleaning": {
+      "normalized_message": "dfir reference frameworks a large collection of links to documentation that explains the meaning of terms from different areas of dfir incident response malware analysis threat intelligence proactive response threat hunting insider threat contributor twitter com joshlemon",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 272,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2171,
+    "date": "2023-10-25",
+    "datetime_utc": "2023-10-25T00:36:05+00:00",
+    "timestamp": 1698194165,
+    "message": "dehashed.com is a tool for searching for data leaks (search by email, password, phone, username, domain etc)\nDeHashed API tool allows to automate this process and search large lists of input data.\n\nhttps://github.com/hmaverickadams/DeHashed-API-Tool\n(paid API key required)\nCreator twitter.com/thecybermentor",
+    "id": "31f5e6b3-d388-4389-8b64-eb0a20b551bd",
+    "cleaning": {
+      "normalized_message": "dehashed com is a tool for searching for data leaks search by email password phone username domain etc dehashed api tool allows to automate this process and search large lists of input data paid api key required creator twitter com thecybermentor",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 246,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2175,
+    "date": "2023-10-29",
+    "datetime_utc": "2023-10-29T20:50:45+00:00",
+    "timestamp": 1698612645,
+    "message": "MALWOVERVIEW\n\nGet maximum information about potentially malicious files and links from:\n\nVirus Total \nHybrid Analysis \nURLHaus \nPolySwarm \nMal Share \nAlien Vault \nMalpedia \nThreatFox \nTriage \nInQuest \n\nhttps://github.com/alexandreborges/malwoverview\n\nCreator twitter.com/ale_sp_brazil",
+    "id": "4ac3a801-7596-45d1-94f2-3ceda4696224",
+    "cleaning": {
+      "normalized_message": "malwoverview get maximum information about potentially malicious files and links from virus total hybrid analysis urlhaus polyswarm mal share alien vault malpedia threatfox triage inquest creator twitter com ale_sp_brazil",
+      "keyword_hits": [
+        "virus"
+      ],
+      "char_count": 221,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2176,
+    "date": "2023-10-30",
+    "datetime_utc": "2023-10-30T22:30:12+00:00",
+    "timestamp": 1698705012,
+    "message": "Network Pentesting Mind Map\n\n\nGRE Pivoting\n\nNAC/802.1x Bypass\n\nVLAN Bypass\n\nDoS\n\nDynamic IGP Routing\n\nConfiguration Exfiltration\n\nMITM Attacks\n\nTraffic Hijacking\n\nInformation Gathering\n\nAuthentication Cracking\n\nCisco Passwords/EEM for hiding user\n\n\nhttps://github.com/wearecaster/NetworkNightmare/blob/main/NetworkNightmare_by_Caster.png\n\n\nBy https://t.me/wearecaster",
+    "id": "75dd3606-7eb9-400a-b712-bda72f610d54",
+    "cleaning": {
+      "normalized_message": "network pentesting mind map gre pivoting nac 802 1x bypass vlan bypass dos dynamic igp routing configuration exfiltration mitm attacks traffic hijacking information gathering authentication cracking cisco passwords eem for hiding user by",
+      "keyword_hits": [
+        "exfiltration"
+      ],
+      "char_count": 237,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2179,
+    "date": "2023-10-31",
+    "datetime_utc": "2023-10-31T22:36:42+00:00",
+    "timestamp": 1698791802,
+    "message": "If you like Google Dorks for finding file directories, database backups, and vulnerable admin/login panels, I recommend you also try searching for them with IP search engines (Netlas, Shodan, Fofa) using uri: and http.title filters.\n\nA lot of examples:\nhttps://github.com/netlas-io/netlas-cookbook#files-backups-and-logs-directories-search",
+    "id": "c3c06387-0ece-4bde-88f6-4ef69c80b09c",
+    "cleaning": {
+      "normalized_message": "if you like google dorks for finding file directories database backups and vulnerable admin login panels i recommend you also try searching for them with ip search engines netlas shodan fofa using uri and http title filters a lot of examples",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 241,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2185,
+    "date": "2023-11-03",
+    "datetime_utc": "2023-11-03T22:19:07+00:00",
+    "timestamp": 1699049947,
+    "message": "Python Exploit & Tool Database \n\nAdversary Simulation\nDigital Forensics and Incident Response (DFIR)\nInformation Gathering\nPassword Cracking\nPenetration Testing\nSocial Engineering\nVulnerability Scanning\nWireless Security\n\nContributor twitter.com/MythicStack \n\nhttps://github.com/MythicStack/Python-Security-Tool-Database\n\n#cybersecurity #osint",
+    "id": "c5cf7440-17ef-4b7a-a7cc-e0c8a91a0acf",
+    "cleaning": {
+      "normalized_message": "python exploit tool database adversary simulation digital forensics and incident response dfir information gathering password cracking penetration testing social engineering vulnerability scanning wireless security contributor twitter com mythicstack cybersecurity osint",
+      "keyword_hits": [
+        "exploit",
+        "vulnerability"
+      ],
+      "char_count": 270,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2193,
+    "date": "2023-11-09",
+    "datetime_utc": "2023-11-09T02:19:33+00:00",
+    "timestamp": 1699496373,
+    "message": "For the past five weeks, I've been focused on working on Netlas CookBook. It already includes:\n- 12 Ways to Use Netlas for OSINT\n- 10 ways to use Netlas for Pentest\n- IoT search, crypto investigations, phishing domains search etc\n\nhttps://github.com/netlas-io/netlas-cookbook",
+    "id": "d0c697d4-4408-4e42-93f4-a96d13c41de2",
+    "cleaning": {
+      "normalized_message": "for the past five weeks i ve been focused on working on netlas cookbook it already includes - 12 ways to use netlas for osint - 10 ways to use netlas for pentest - iot search crypto investigations phishing domains search etc",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 224,
+      "token_count": 42,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2211,
+    "date": "2023-11-21",
+    "datetime_utc": "2023-11-21T04:21:53+00:00",
+    "timestamp": 1700540513,
+    "message": "How to verify leak data?\n\nLeak data verification 9-steps checklist for investigators.\n\nhttps://techjournalism.medium.com/how-to-verify-leak-data-3b0c8d8b764a\n\nAuthor twitter.com/Techjournalisto",
+    "id": "6fa5559c-c0c1-4426-844a-b06fc6fe3855",
+    "cleaning": {
+      "normalized_message": "how to verify leak data leak data verification 9-steps checklist for investigators author twitter com techjournalisto",
+      "keyword_hits": [
+        "data leak",
+        "leak"
+      ],
+      "char_count": 117,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2214,
+    "date": "2023-11-22",
+    "datetime_utc": "2023-11-22T06:21:25+00:00",
+    "timestamp": 1700634085,
+    "message": "LEAKEY\n\n#bash script which checks and validates for leaked credentials (45 types).\n\nhttps://github.com/rohsec/LEAKEY/\n\nCreator twitter.com/rohsec",
+    "id": "b3e00cab-455b-4e55-8909-cbed709b025b",
+    "cleaning": {
+      "normalized_message": "leakey bash script which checks and validates for leaked credentials 45 types creator twitter com rohsec",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 104,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2224,
+    "date": "2023-11-26",
+    "datetime_utc": "2023-11-26T10:09:58+00:00",
+    "timestamp": 1700993398,
+    "message": "Google Bug Bounty Dorks Generator\n\n- juicy extensions\n- open redirects\n- code leaks\n- cloud storages\n- file upload endpoints\n\nand more.\n\nhttps://taksec.github.io/google-dorks-bug-bounty/\n\nCreator twitter.com/TakSec",
+    "id": "41e53fd2-1c7a-4352-bd96-bdd0d3c00557",
+    "cleaning": {
+      "normalized_message": "google bug bounty dorks generator - juicy extensions - open redirects - code leaks - cloud storages - file upload endpoints and more creator twitter com taksec",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 159,
+      "token_count": 27,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2226,
+    "date": "2023-11-26",
+    "datetime_utc": "2023-11-26T10:37:20+00:00",
+    "timestamp": 1700995040,
+    "message": "Data breach investigation \n\nReal case example with with screenshots, links to tools and detailed explanations\n\nhttps://amr-git-dot.github.io/forensic%20investigation/Breach_Investigation/\n\nAuthor twitter.com/Cyberagent101",
+    "id": "66d35f3a-0333-4d90-9115-f9e8f6d330e1",
+    "cleaning": {
+      "normalized_message": "data breach investigation real case example with with screenshots links to tools and detailed explanations author twitter com cyberagent101",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 139,
+      "token_count": 19,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2249,
+    "date": "2023-12-03",
+    "datetime_utc": "2023-12-03T08:13:39+00:00",
+    "timestamp": 1701591219,
+    "message": "OSINT Tools for Analyzing Suspicious Emails\n\nhttps://www.thunderbird.net/en-US/\nhttps://www.browserling.com/\nhttps://mxtoolbox.com/\nhttps://phishtank.org/\nhttps://www.phishtool.com/\nhttps://centralops.net/co/\nhttps://www.virustotal.com/gui/\nhttps://www.talosintelligence.com/\nhttps://www.abuseipdb.com/\nhttps://urlscan.io/\nhttps://any.run/\nhttps://www.hybrid-analysis.com/\n\nJoin @osintambition for more.\n#osint #phishing #investigations #osinttools #cybersec #Infosec",
+    "id": "fc4d33ba-b523-44e2-9f34-b3d59fe69729",
+    "cleaning": {
+      "normalized_message": "osint tools for analyzing suspicious emails join osintambition for more osint phishing investigations osinttools cybersec infosec",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 129,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2262,
+    "date": "2023-12-08",
+    "datetime_utc": "2023-12-08T17:22:39+00:00",
+    "timestamp": 1702056159,
+    "message": "ASSAY\n\nURL inspection toolkit:\n\n- live web requests monitor\n- subdomains/connected domains\n- scam, phishing, malware detection\n- WHOIS\n- Geo IP\n- SafeFrame view\n\nand more.\n\nhttps://d09r.github.io/assay-url-inspection-tools/\n\nTip by twitter.com/DailyOsint",
+    "id": "3cbbd03a-9e04-49df-b150-1ee0d5c032c8",
+    "cleaning": {
+      "normalized_message": "assay url inspection toolkit - live web requests monitor - subdomains connected domains - scam phishing malware detection - whois - geo ip - safeframe view and more tip by twitter com dailyosint",
+      "keyword_hits": [
+        "malware",
+        "phishing",
+        "scam"
+      ],
+      "char_count": 194,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2290,
+    "date": "2023-12-21",
+    "datetime_utc": "2023-12-21T16:29:48+00:00",
+    "timestamp": 1703176188,
+    "message": "Python Security Tools Database\n\nAdversary Simulation\nDigital Forensics and Incident Response\nInformation Gathering\nNetworking\nPenetration Testing\nSocial Engineering\nVulnerability Scanning\nWireless Security\n\nhttps://github.com/MythicStack/Python-Security-Tool-Database\n\nContributor twitter.com/MythicStack",
+    "id": "c3809e7d-db45-4ec1-9297-e6da367f9c1b",
+    "cleaning": {
+      "normalized_message": "python security tools database adversary simulation digital forensics and incident response information gathering networking penetration testing social engineering vulnerability scanning wireless security contributor twitter com mythicstack",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 240,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2291,
+    "date": "2023-12-23",
+    "datetime_utc": "2023-12-23T17:19:12+00:00",
+    "timestamp": 1703351952,
+    "message": "Malware Analysis Tools\n\nMindmap of links:\n\nEncoding/Decoding tools\nFile Carving tools\nMemory Forensics\nOnline scanners\nMalware analysis tools\nDebuggers/Decompliers\n\nhttps://malwareanalysis.tools/",
+    "id": "3616d15e-9dc9-4964-a79f-302083f6f9e9",
+    "cleaning": {
+      "normalized_message": "malware analysis tools mindmap of links encoding decoding tools file carving tools memory forensics online scanners malware analysis tools debuggers decompliers",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 160,
+      "token_count": 21,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2323,
+    "date": "2024-01-06",
+    "datetime_utc": "2024-01-06T15:42:11+00:00",
+    "timestamp": 1704555731,
+    "message": "After every post about tricks for finding part of an email, readers ask, \"How to find the full email by it?\".\n\nOne option is to search data leaks. For example, search.0t.rocks allows to replace part of the characters in the query with * (search nicknames or names).",
+    "id": "9c323d86-aae1-4c12-83f4-6e54419a0c0a",
+    "cleaning": {
+      "normalized_message": "after every post about tricks for finding part of an email readers ask how to find the full email by it one option is to search data leaks for example search 0t rocks allows to replace part of the characters in the query with search nicknames or names",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 251,
+      "token_count": 48,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2324,
+    "date": "2024-01-06",
+    "datetime_utc": "2024-01-06T22:17:46+00:00",
+    "timestamp": 1704579466,
+    "message": "Do you know about Shodan Exploit Search tool? https://exploits.shodan.io/ \n\nYou can also use this filter on netlas.io to find sites and devices with vulnerabilities that have exploit links:\n\ncve.exploit_links:* \n\n(view pic)",
+    "id": "edcef1df-b5b1-49b6-9396-213585be5a92",
+    "cleaning": {
+      "normalized_message": "do you know about shodan exploit search tool you can also use this filter on netlas io to find sites and devices with vulnerabilities that have exploit links cve exploit_links view pic",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 184,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2337,
+    "date": "2024-01-14",
+    "datetime_utc": "2024-01-14T05:44:02+00:00",
+    "timestamp": 1705211042,
+    "message": "Awesome IP Search Engines\n\nA large list of training materials and automation tools for working with IP search engines (Shodan, Censys, Fofa, ZoomEye etc):\n- guides\n- \"dorks\" lists\n- integrations\n- network scanners\n- exploit automation tools\n\nhttps://github.com/cipher387/awesome-ip-search-engines",
+    "id": "2e02fbea-e7d6-48cf-8627-d584c26574c9",
+    "cleaning": {
+      "normalized_message": "awesome ip search engines a large list of training materials and automation tools for working with ip search engines shodan censys fofa zoomeye etc - guides - dorks lists - integrations - network scanners - exploit automation tools",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 231,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2338,
+    "date": "2024-01-15",
+    "datetime_utc": "2024-01-15T04:32:01+00:00",
+    "timestamp": 1705293121,
+    "message": "SecGPT\n\nChatGPT plugin for: \n\n- security auditing\n- vulnerability analysis\n- #pentest\n- #recon\n- ethical hacking\n- secure coding\n- security standards checking\n\nand more.\n\nhttps://chat.openai.com/g/g-HTsfg2w2z-secgpt\n\nCreator twitter.com/Jhaddix",
+    "id": "4d15e90c-4695-4ae0-abf6-b5775711882c",
+    "cleaning": {
+      "normalized_message": "secgpt chatgpt plugin for - security auditing - vulnerability analysis - pentest - recon - ethical hacking - secure coding - security standards checking and more creator twitter com jhaddix",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 189,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2347,
+    "date": "2024-01-20",
+    "datetime_utc": "2024-01-20T19:03:45+00:00",
+    "timestamp": 1705777425,
+    "message": "ArchStrike\n\nArchLinux with a hundred of packages for different #cybersecurity tasks:\n\n- encryption/decryption tools;\n- vulnerability scanners;\n- brute-force tools;\n- default credentials scanners\n\nand more.\n\nhttps://archstrike.org/ (ISO Size only 865M)\n\ntwitter.com/ArchStrike",
+    "id": "4774e781-2b9d-4e39-a9c1-17170e3bdba7",
+    "cleaning": {
+      "normalized_message": "archstrike archlinux with a hundred of packages for different cybersecurity tasks - encryption decryption tools - vulnerability scanners - brute-force tools - default credentials scanners and more iso size only 865m twitter com archstrike",
+      "keyword_hits": [
+        "credentials",
+        "vulnerability"
+      ],
+      "char_count": 238,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2352,
+    "date": "2024-01-23",
+    "datetime_utc": "2024-01-23T08:42:44+00:00",
+    "timestamp": 1705999364,
+    "message": "TweetFeed\n\nList of IOCs shared today by the #infosec community at Twitter: \n - domains\n - URLs\n - IPs\n - SHA256/MD5 hashes\n\nhttps://tweetfeed.live/\n\nCreator twitter.com/0xDanielLopez",
+    "id": "a1401797-6292-4884-8a6c-94d0b55343ab",
+    "cleaning": {
+      "normalized_message": "tweetfeed list of iocs shared today by the infosec community at twitter - domains - urls - ips - sha256 md5 hashes creator twitter com 0xdaniellopez",
+      "keyword_hits": [
+        "hashes",
+        "iocs"
+      ],
+      "char_count": 148,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2362,
+    "date": "2024-01-28",
+    "datetime_utc": "2024-01-28T09:57:56+00:00",
+    "timestamp": 1706435876,
+    "message": "ARTToolkit\n\nRedTeam cheatsheet with commands for attacks with different entry point info types:\n\n- username\n- password\n- SSH key\n- Hash\n- TGS (Ticket Granting Service)\n- TGT (Ticket Granting Ticket)\n- PFX file\n- Shell\n\nhttps://arttoolkit.github.io/\n\nTft: twitter.com/ateixei Creator: Maurits Maas",
+    "id": "5d1ed411-bf58-4aa1-9f5b-3eaaae1e4a15",
+    "cleaning": {
+      "normalized_message": "arttoolkit redteam cheatsheet with commands for attacks with different entry point info types - username - password - ssh key - hash - tgs ticket granting service - tgt ticket granting ticket - pfx file - shell tft twitter com ateixei creator maurits maas",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 255,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2392,
+    "date": "2024-02-12",
+    "datetime_utc": "2024-02-12T10:12:18+00:00",
+    "timestamp": 1707732738,
+    "message": "APIs for #OSINT\n\nAutomate gathering info about:\n\n- phone numbers\n- address/zip codes\n- leaks \n- crypto wallets/transactions \n- emails/nicknames\n- vulnerabilities (new section, tip by twitter.com/synfinner)\n\nand more.\n\nhttps://github.com/cipher387/API-s-for-OSINT",
+    "id": "f164fedd-3cdb-4179-9303-671908762a0f",
+    "cleaning": {
+      "normalized_message": "apis for osint automate gathering info about - phone numbers - address zip codes - leaks - crypto wallets transactions - emails nicknames - vulnerabilities new section tip by twitter com synfinner and more",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 205,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2395,
+    "date": "2024-02-13",
+    "datetime_utc": "2024-02-13T13:58:32+00:00",
+    "timestamp": 1707832712,
+    "message": "HackTricks (free online book) by twitter.com/hacktricks_live\n\n- linux/windows/macos hardening\n- mobile/web/network services pentesting\n- reversing and exploiting\n- cryptography and steganography\n\nand more.\n\nhttp://book.hacktricks.xyz/",
+    "id": "97064424-571f-4615-8078-a0d6121d933a",
+    "cleaning": {
+      "normalized_message": "hacktricks free online book by twitter com hacktricks_live - linux windows macos hardening - mobile web network services pentesting - reversing and exploiting - cryptography and steganography and more",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "char_count": 200,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2403,
+    "date": "2024-02-17",
+    "datetime_utc": "2024-02-17T12:55:43+00:00",
+    "timestamp": 1708174543,
+    "message": "When I started my Github profile in the summer of 2021, I didn't even think about the login, since I assumed no one would look at it. But today my repositories have garnered over 10,000 stars!\n\nhttps://github.com/cipher387\n\nThanks to all my readers for your support!",
+    "id": "9c02311f-519d-4f4e-bea4-0ba983d3c4ba",
+    "cleaning": {
+      "normalized_message": "when i started my github profile in the summer of 2021 i didn t even think about the login since i assumed no one would look at it but today my repositories have garnered over 10 000 stars thanks to all my readers for your support",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 230,
+      "token_count": 46,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2408,
+    "date": "2024-02-18",
+    "datetime_utc": "2024-02-18T12:16:29+00:00",
+    "timestamp": 1708258589,
+    "message": "exposed.lol\n\nLeaked databases search tool.\n\n14 billion accounts + (emails and passwords)\n\nCheck yourself\n\nTip by twitter.com/ManuelBot59 #ff\n\n#osint #leaks",
+    "id": "eb06f349-d24f-4f66-a36a-d8a8c6663f03",
+    "cleaning": {
+      "normalized_message": "exposed lol leaked databases search tool 14 billion accounts emails and passwords check yourself tip by twitter com manuelbot59 ff osint leaks",
+      "keyword_hits": [
+        "leaked",
+        "leaks"
+      ],
+      "char_count": 142,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2409,
+    "date": "2024-02-19",
+    "datetime_utc": "2024-02-19T09:24:53+00:00",
+    "timestamp": 1708334693,
+    "message": "How to check what your passwords are in leaks\n\nexposed.lol search leaked passwords by email (may be unstable)\nbreachdirectory.org  search password's sha1 hashes by email or nickname (md5decrypt.net/en/Sha1/)\nsearch.0t.rocks  search emails by password",
+    "id": "dec3a43d-cfed-452d-ac63-d33898268291",
+    "cleaning": {
+      "normalized_message": "how to check what your passwords are in leaks exposed lol search leaked passwords by email may be unstable breachdirectory org search password s sha1 hashes by email or nickname md5decrypt net en sha1 search 0t rocks search emails by password",
+      "keyword_hits": [
+        "hashes",
+        "leaked",
+        "leaks"
+      ],
+      "char_count": 242,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2411,
+    "date": "2024-02-19",
+    "datetime_utc": "2024-02-19T10:31:55+00:00",
+    "timestamp": 1708338715,
+    "message": "Password hash decryption tools:\n\ncrackstation.net\nhashes.com/en/decrypt/hash\ncmd5.org\nmd5decrypt.net\nonlinehashcrack.com (paid, but has lot of additional functionality)\n#cli \nHashCat https://github.com/hashcat/hashcat\nSearch That Hash https://github.com/HashPals/Search-That-Hash",
+    "id": "ac2864c3-ee7d-4c73-97fd-24e37ac47550",
+    "cleaning": {
+      "normalized_message": "password hash decryption tools crackstation net hashes com en decrypt hash cmd5 org md5decrypt net onlinehashcrack com paid but has lot of additional functionality cli hashcat search that hash",
+      "keyword_hits": [
+        "hash",
+        "hashes"
+      ],
+      "char_count": 192,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2415,
+    "date": "2024-02-21",
+    "datetime_utc": "2024-02-21T20:35:35+00:00",
+    "timestamp": 1708547735,
+    "message": "Mass Hunting for Leaked Sensitive Documents\n\nDetailed article from twitter.com/ott3ly:\n\n- Project discovery’s public bug bounty programs\n- BBSCOPE tool from sw33tLie\n- Preparing VPS for Mass Hunting PDF Files\n- Scanning the Targets For Big Bucks\n\nhttps://ott3rly.com/mass-hunting-for-leaked-sensitive-documents/",
+    "id": "742b3f72-7c42-44ff-8d64-c738a1bb8bed",
+    "cleaning": {
+      "normalized_message": "mass hunting for leaked sensitive documents detailed article from twitter com ott3ly - project discovery s public bug bounty programs - bbscope tool from sw33tlie - preparing vps for mass hunting pdf files - scanning the targets for big bucks",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 242,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2417,
+    "date": "2024-02-23",
+    "datetime_utc": "2024-02-23T17:47:20+00:00",
+    "timestamp": 1708710440,
+    "message": "A Beginner’s Guide to Tracking Malware Infrastructure using Censys.io \n\nIndicators that we can use:\n\n- TLS Certificates\n- HTTP Response Titles\n- Service Banners\n- Locations and ASN Providers\n- Open Directories\n\nhttps://censys.com/a-beginners-guide-to-tracking-malware-infrastructure/\n\nAuthor twitter.com/embee_research",
+    "id": "52b5c6e5-8ed4-4652-9254-d08ecf3f01c0",
+    "cleaning": {
+      "normalized_message": "a beginner s guide to tracking malware infrastructure using censys io indicators that we can use - tls certificates - http response titles - service banners - locations and asn providers - open directories author twitter com embee_research",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 239,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2426,
+    "date": "2024-02-27",
+    "datetime_utc": "2024-02-27T12:58:01+00:00",
+    "timestamp": 1709038681,
+    "message": "0-click account takeover on Facebook \n\nIn January 2024, Samip Aryal🇳🇵 twitter.com/samiparyal_ discovered a vulnerability that allowed quick takeover of any Facebook account. The problem has now been fixed🧑‍🔧 and the researcher described it in detail in a write-up\n\nhttps://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e",
+    "id": "5275bf91-f558-42d7-8680-4f10947163db",
+    "cleaning": {
+      "normalized_message": "0-click account takeover on facebook in january 2024 samip aryal twitter com samiparyal_ discovered a vulnerability that allowed quick takeover of any facebook account the problem has now been fixed and the researcher described it in detail in a write-up",
+      "keyword_hits": [
+        "account takeover",
+        "vulnerability"
+      ],
+      "char_count": 254,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2442,
+    "date": "2024-03-02",
+    "datetime_utc": "2024-03-02T17:47:11+00:00",
+    "timestamp": 1709401631,
+    "message": "Awesome Hackers Search Engines\n\nOnline tools for search info about:\n- exploit\n- vulnerabilities\n- people\n- emails\n- phone numbers\n- domains\n- certificates\n\nand more.\n\nhttps://github.com/edoardottt/awesome-hacker-search-engines\n\nContributor edoardoottavianelli.it",
+    "id": "a9bc5058-b4e0-4a7d-9b88-8a21dac98d3c",
+    "cleaning": {
+      "normalized_message": "awesome hackers search engines online tools for search info about - exploit - vulnerabilities - people - emails - phone numbers - domains - certificates and more contributor edoardoottavianelli it",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 196,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2471,
+    "date": "2024-03-20",
+    "datetime_utc": "2024-03-20T01:30:23+00:00",
+    "timestamp": 1710898223,
+    "message": "Vortimo OSINT \n\nAn online tool for quickly searching hundreds of different sources and then processing the information found. As an entry point you can use:\n\n- email\n- domain\n- hash\n- phone number\n- image\n\nand more.\n\nfind.osint-tool.com\n\nCreator twitter.com/VortimoTech twitter.com/RoelofTemmingh",
+    "id": "35003f8e-b016-4625-a263-58c2ad1e43f9",
+    "cleaning": {
+      "normalized_message": "vortimo osint an online tool for quickly searching hundreds of different sources and then processing the information found as an entry point you can use - email - domain - hash - phone number - image and more find osint-tool com creator twitter com vortimotech twitter com roeloftemmingh",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 287,
+      "token_count": 48,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2474,
+    "date": "2024-03-22",
+    "datetime_utc": "2024-03-22T02:26:26+00:00",
+    "timestamp": 1711074386,
+    "message": "But remember that Pastebin is not the only site where you can find data leaks. You can search dozens of such sites using this Google Custom Search Engine:\n\nhttps://cipher387.github.io/pastebinsearchengines/\n\n(you can also find queries examples there)",
+    "id": "2ee03ff9-1f1f-4384-8dc4-1a4ea0ff7090",
+    "cleaning": {
+      "normalized_message": "but remember that pastebin is not the only site where you can find data leaks you can search dozens of such sites using this google custom search engine you can also find queries examples there",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 193,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2489,
+    "date": "2024-03-31",
+    "datetime_utc": "2024-03-31T06:52:48+00:00",
+    "timestamp": 1711867968,
+    "message": "Google Maps Scraper\n\nTotal FREE.\nNO LOGIN REQUIRED.\nSlowly (be patient).\nScrape links to place, titles, phones, websites, links to images and much more!\n\nhttps://github.com/gosom/google-maps-scraper\n\nCreator twitter.com/gosom6 \n\n#geoint #golang",
+    "id": "c40783b0-3dce-4587-a625-60045c1ba684",
+    "cleaning": {
+      "normalized_message": "google maps scraper total free no login required slowly be patient scrape links to place titles phones websites links to images and much more creator twitter com gosom6 geoint golang",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 182,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2490,
+    "date": "2024-04-01",
+    "datetime_utc": "2024-04-01T06:49:44+00:00",
+    "timestamp": 1711954184,
+    "message": "How to use Google Maps Scraper for OSINT\n\nA short five minute overview of using Google Maps Scraper (free, no login required) and the data that can be collected with it.\n\nhttps://medium.com/@cyb_detective/how-to-use-google-maps-scraper-for-osint-9e243ea756b1\n\n#geoint #golang",
+    "id": "3e559d13-97b5-4315-b17e-1ec4953f2e5e",
+    "cleaning": {
+      "normalized_message": "how to use google maps scraper for osint a short five minute overview of using google maps scraper free no login required and the data that can be collected with it geoint golang",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 178,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2494,
+    "date": "2024-04-04",
+    "datetime_utc": "2024-04-04T05:43:55+00:00",
+    "timestamp": 1712209435,
+    "message": "Associated domains/subdomains search service. \n\nEasy to use and displays a large number of results.\n\nhttps://www.zoomeye.hk/toolbar/domain\n\nCreator twitter.com/zoomeye_team \n\n(free tool, by login required)",
+    "id": "3740be7c-4c48-459b-bc62-6c904b228d2a",
+    "cleaning": {
+      "normalized_message": "associated domains subdomains search service easy to use and displays a large number of results creator twitter com zoomeye_team free tool by login required",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 156,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2510,
+    "date": "2024-04-11",
+    "datetime_utc": "2024-04-11T18:47:09+00:00",
+    "timestamp": 1712861229,
+    "message": "This simple instruction shows how to search for leaked credentials on website using Google Chrome's Developer Tool (and anything else using #regex).\n\nhttps://github.com/h4x0r-dz/Leaked-Credentials/\n\nContributor twitter.com/h4x0r_dz \n\nTip by twitter.com/RootMoksha",
+    "id": "a8a452e5-b0e1-498b-850d-ad062005ec3a",
+    "cleaning": {
+      "normalized_message": "this simple instruction shows how to search for leaked credentials on website using google chrome s developer tool and anything else using regex contributor twitter com h4x0r_dz tip by twitter com rootmoksha",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 207,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2515,
+    "date": "2024-04-13",
+    "datetime_utc": "2024-04-13T08:05:54+00:00",
+    "timestamp": 1712995554,
+    "message": "Backup Files Finder\n\nA template for the Nuclei vulnerability scanner (twitter.com/pdnuclei) that allows to search for backup files on a target site.\n\nhttps://github.com/valaDevs/nuclei-backupfile-finder\n\nCreator twitter.com/Vabro_",
+    "id": "13341d3a-509b-49a0-9435-62dfbc7b98d4",
+    "cleaning": {
+      "normalized_message": "backup files finder a template for the nuclei vulnerability scanner twitter com pdnuclei that allows to search for backup files on a target site creator twitter com vabro_",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 171,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2532,
+    "date": "2024-04-19",
+    "datetime_utc": "2024-04-19T09:09:08+00:00",
+    "timestamp": 1713517748,
+    "message": "EMAIL OSINT mini cheat sheet\n\n- checking registration/search accounts on various sites\n- checking for data breaches/scam databases\n- gmail account info\n- analyzing email headers/mbox files\n-  avatar info\n\nText version and other cheat sheets:\nhttps://github.com/cipher387/cheatsheets",
+    "id": "29ab9900-9f05-4926-a612-3b5b763d92bc",
+    "cleaning": {
+      "normalized_message": "email osint mini cheat sheet - checking registration search accounts on various sites - checking for data breaches scam databases - gmail account info - analyzing email headers mbox files - avatar info text version and other cheat sheets",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 237,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2543,
+    "date": "2024-04-23",
+    "datetime_utc": "2024-04-23T16:37:19+00:00",
+    "timestamp": 1713890239,
+    "message": "Leaked passwords database search tool\n\nSearch by 3,2 billions leaked credentials by:\n- email\n- nickname\n- password\n\n(you can also try searching by mobile number, as some people use it as a password)\n\nhttps://www.proxynova.com/tools/comb/\n\nTip by twitter.com/SaltinDeadsec",
+    "id": "b4602a97-1405-4cd1-ab7c-055443a08af7",
+    "cleaning": {
+      "normalized_message": "leaked passwords database search tool search by 3 2 billions leaked credentials by - email - nickname - password you can also try searching by mobile number as some people use it as a password tip by twitter com saltindeadsec",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 225,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2547,
+    "date": "2024-04-26",
+    "datetime_utc": "2024-04-26T20:18:43+00:00",
+    "timestamp": 1714162723,
+    "message": "One of the best Twitter accounts about Google Dorks is twitter.com/TakSec.  You can use it to learn how to search Google for:\n- server errors\n- sensitive documents\n- login pages\n- API endpoints\n- unlisted bug bounty programs\n\nand more.",
+    "id": "64c4e4d9-f383-431d-9de0-66e8f45a109b",
+    "cleaning": {
+      "normalized_message": "one of the best twitter accounts about google dorks is twitter com taksec you can use it to learn how to search google for - server errors - sensitive documents - login pages - api endpoints - unlisted bug bounty programs and more",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 230,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2552,
+    "date": "2024-04-29",
+    "datetime_utc": "2024-04-29T18:56:28+00:00",
+    "timestamp": 1714416988,
+    "message": "Phishing Attacks Exposed: Essential OSINT Investigation Tactics (by twitter.com/ervin_zubic)\n\n- Website/IP Investigation\n- Analyzing Suspicious DNS Records\n- Deciphering Shortened URLs\n- Technology Stack\n- Offline Analysis\n- Hash-Based Investigations\n\n\nhttps://publication.osintambition.org/phishing-attacks-exposed-essential-osint-investigation-tactics-658ab3763da7",
+    "id": "d7986f7b-e36b-450c-a21f-7f3e454fe585",
+    "cleaning": {
+      "normalized_message": "phishing attacks exposed essential osint investigation tactics by twitter com ervin_zubic - website ip investigation - analyzing suspicious dns records - deciphering shortened urls - technology stack - offline analysis - hash-based investigations",
+      "keyword_hits": [
+        "hash",
+        "phishing"
+      ],
+      "char_count": 246,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2553,
+    "date": "2024-04-29",
+    "datetime_utc": "2024-04-29T21:05:13+00:00",
+    "timestamp": 1714424713,
+    "message": "OSINT: Persistent Threat Monitoring with Google Programmable Search Engines (by twitter.com/ervin_zubic )\n\n- Using PSE for Persistent Threat Monitoring\n- Monitoring APT Actor Communication Channels\n- Simple #Python Script for Programmable Search Engines API\n\nhttps://publication.osintambition.org/osint-persistent-threat-monitoring-with-google-programmable-search-engines-959a141831c8",
+    "id": "ebcbf5b4-4b12-441a-a91a-fcb37067af4d",
+    "cleaning": {
+      "normalized_message": "osint persistent threat monitoring with google programmable search engines by twitter com ervin_zubic - using pse for persistent threat monitoring - monitoring apt actor communication channels - simple python script for programmable search engines api",
+      "keyword_hits": [
+        "apt"
+      ],
+      "char_count": 251,
+      "token_count": 35,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2557,
+    "date": "2024-05-02",
+    "datetime_utc": "2024-05-02T17:19:41+00:00",
+    "timestamp": 1714670381,
+    "message": "FindeMail\n\nSearch emails by company domain (tree types of search: standard, leaks and logs).\n\nPartly free.\n\nhttps://findemail.io/\n\nTip by twitter.com/akaclandestine",
+    "id": "7ce2dfd6-4922-48f6-8503-a234132b2e9a",
+    "cleaning": {
+      "normalized_message": "findemail search emails by company domain tree types of search standard leaks and logs partly free tip by twitter com akaclandestine",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 132,
+      "token_count": 21,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2574,
+    "date": "2024-05-10",
+    "datetime_utc": "2024-05-10T17:57:37+00:00",
+    "timestamp": 1715363857,
+    "message": "Google Dorks for Bug Bounty\n\n- sensitive documents\n- code leaks\n- cloud storages\n- login pages\n- API Endpoints\n- server errors\n\nand more.\n\nhttps://github.com/TakSec/google-dorks-bug-bounty\n\nContributor twitter.com/TakSec",
+    "id": "cb884923-8485-4ed7-ba76-30a9f96eae01",
+    "cleaning": {
+      "normalized_message": "google dorks for bug bounty - sensitive documents - code leaks - cloud storages - login pages - api endpoints - server errors and more contributor twitter com taksec",
+      "keyword_hits": [
+        "leaks",
+        "login"
+      ],
+      "char_count": 165,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2581,
+    "date": "2024-05-13",
+    "datetime_utc": "2024-05-13T19:01:35+00:00",
+    "timestamp": 1715626895,
+    "message": "LeaksSearch \n\nCommand line #Python tool for searching by keyword in leaked passwords databases (ProxyNova, LocalFile).\n\nhttps://github.com/JoelGMSec/LeakSearch\n\nCreator twitter.com/JoelGMSec",
+    "id": "10dc77e4-954f-4707-86f8-34dd182973db",
+    "cleaning": {
+      "normalized_message": "leakssearch command line python tool for searching by keyword in leaked passwords databases proxynova localfile creator twitter com joelgmsec",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 141,
+      "token_count": 19,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2588,
+    "date": "2024-05-16",
+    "datetime_utc": "2024-05-16T20:32:02+00:00",
+    "timestamp": 1715891522,
+    "message": "- Malware Collections \n- Open Source Threat Intelligence tools\n- Detection/Classification\n- Online Scanners/Sandboxes\n- Domain Analysis\n- File Carving\n- Deobfuscation\n- Debugging and Reverse Engineering\n\nhttps://github.com/rshipp/awesome-malware-analysis\n\nContributor Ryan Shipp",
+    "id": "c8cb9a7e-0118-47a1-964d-a38d58009701",
+    "cleaning": {
+      "normalized_message": "- malware collections - open source threat intelligence tools - detection classification - online scanners sandboxes - domain analysis - file carving - deobfuscation - debugging and reverse engineering contributor ryan shipp",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 224,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2605,
+    "date": "2024-05-27",
+    "datetime_utc": "2024-05-27T00:42:50+00:00",
+    "timestamp": 1716770570,
+    "message": "LAZYEGG\n\nTool for extracting different data from web pages:\n\n- cookies\n- leaked credentials\n- domains\n- ips\n- images\n- links\n\nand more.\n\nhttps://github.com/schooldropout1337/nuclei-templates/blob/main/lazyegg.py\n\nCreator twitter.com/gudetama_bf \n\n#python #osint",
+    "id": "21e18960-390b-4ce3-89d4-04d5b6f99dbf",
+    "cleaning": {
+      "normalized_message": "lazyegg tool for extracting different data from web pages - cookies - leaked credentials - domains - ips - images - links and more creator twitter com gudetama_bf python osint",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 175,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2616,
+    "date": "2024-06-04",
+    "datetime_utc": "2024-06-04T00:08:18+00:00",
+    "timestamp": 1717459698,
+    "message": "HASHMOB\n\nMultifunctional online tool to search password hashes.\n\nSearch for hashes (copy the text or load the list from a file, 500 hashes per hour for free), verify hashes against a certain algorithm, check password strength, download hashes lists.\n\nhashmob.net",
+    "id": "3ae61771-5f90-4ba2-91b4-f60486e7e402",
+    "cleaning": {
+      "normalized_message": "hashmob multifunctional online tool to search password hashes search for hashes copy the text or load the list from a file 500 hashes per hour for free verify hashes against a certain algorithm check password strength download hashes lists hashmob net",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 251,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2617,
+    "date": "2024-06-04",
+    "datetime_utc": "2024-06-04T01:19:05+00:00",
+    "timestamp": 1717463945,
+    "message": "🤖 Botnadzor.com - a platform to detect bots in VK.com by account, post, or group. API and browser extensions are available. \n\n❓ The project is designed to disclose the scale of hidden propaganda, misinformation publicly, and lies coming from seemingly real profiles of existing people. The photos on these profiles are stolen from dating sites or other social networks.\n\n👉 Link: https://botnadzor.org/\n\n👉 How to detect botnets and artificial content: https://sowel.soxoj.com/artificial-content-botnets\n\n#botnet #sowel",
+    "id": "8840a6f9-c30b-4ffd-9198-b4591425fbb6",
+    "cleaning": {
+      "normalized_message": "botnadzor com - a platform to detect bots in vk com by account post or group api and browser extensions are available the project is designed to disclose the scale of hidden propaganda misinformation publicly and lies coming from seemingly real profiles of existing people the photos on these profiles are stolen from dating sites or other social networks link how to detect botnets and artificial content botnet sowel",
+      "keyword_hits": [
+        "botnet"
+      ],
+      "char_count": 418,
+      "token_count": 69,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2620,
+    "date": "2024-06-06",
+    "datetime_utc": "2024-06-06T20:06:27+00:00",
+    "timestamp": 1717704387,
+    "message": "Awesome Google Dorks\n\nList of operators and example queries in Google to search for:\n\n- IOT devices\n- google drive documents\n- movies\n- login pages\n- files with emails and other contact info\n\nand more. \n\nhttps://github.com/Tobee1406/Awesome-Google-Dorks",
+    "id": "2f0cc2b7-b68d-4fc9-9046-d6a8c6d46021",
+    "cleaning": {
+      "normalized_message": "awesome google dorks list of operators and example queries in google to search for - iot devices - google drive documents - movies - login pages - files with emails and other contact info and more",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 196,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2623,
+    "date": "2024-06-11",
+    "datetime_utc": "2024-06-11T20:29:34+00:00",
+    "timestamp": 1718137774,
+    "message": "Incident Response Projects for Beginners\n\nHands-on projects designed to enhance your  cybersecurity skills:\n\n- Phishing Attack Investigation\n- Malware Analysis and Containment\n- Network Intrusion Detection and Response\n- DDoS Attack Detection and Response\n\nhttps://github.com/0xrajneesh/Incident-Response-Projects-for-Beginners",
+    "id": "cc4fd877-dea9-48c4-a793-658c8ad92a9a",
+    "cleaning": {
+      "normalized_message": "incident response projects for beginners hands-on projects designed to enhance your cybersecurity skills - phishing attack investigation - malware analysis and containment - network intrusion detection and response - ddos attack detection and response",
+      "keyword_hits": [
+        "ddos",
+        "intrusion",
+        "malware",
+        "phishing"
+      ],
+      "char_count": 251,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2625,
+    "date": "2024-06-13",
+    "datetime_utc": "2024-06-13T20:03:31+00:00",
+    "timestamp": 1718309011,
+    "message": "Partly free tools for gathering info by VIN and US License Plates numbers:\n\nfaxvin.com\nepicvin.com\n\nWhere can you find the VIN?\n\n- on the car or a picture of it\n- in data or document leaks",
+    "id": "0795d2e1-d295-4360-8b36-94509428cbd3",
+    "cleaning": {
+      "normalized_message": "partly free tools for gathering info by vin and us license plates numbers faxvin com epicvin com where can you find the vin - on the car or a picture of it - in data or document leaks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 183,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2629,
+    "date": "2024-06-14",
+    "datetime_utc": "2024-06-14T21:47:35+00:00",
+    "timestamp": 1718401655,
+    "message": "LAZYEGG\n\nTool for extracting different data from web pages:\n\n- cookies\n- leaked credentials\n- domains\n- ips\n- images\n- links\n\nand more.\n\nhttps://github.com/schooldropout1337/nuclei-templates/blob/main/lazyegg.py\n\nCreator twitter.com/gudetama_bf \n\n#python #osint",
+    "id": "d31d44fb-5860-47f9-94e7-7e9c607b4810",
+    "cleaning": {
+      "normalized_message": "lazyegg tool for extracting different data from web pages - cookies - leaked credentials - domains - ips - images - links and more creator twitter com gudetama_bf python osint",
+      "keyword_hits": [
+        "credentials",
+        "leaked"
+      ],
+      "char_count": 175,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2654,
+    "date": "2024-07-10",
+    "datetime_utc": "2024-07-10T18:54:02+00:00",
+    "timestamp": 1720637642,
+    "message": "Suspicious User Agents List\n\nSee any unusual lines in the server (website) logs? \n\nWith this list of 1300+ http user agents you can identify malware, exploits, vulnerability scanners, scrapers, bots, cryptominers etc\n\nhttps://github.com/mthcht/awesome-lists/blob/main/Lists/suspicious_http_user_agents_list.csv\n\nContributor twitter.com/mthcht",
+    "id": "aa6947d3-a705-4912-9661-12e8abbd2f47",
+    "cleaning": {
+      "normalized_message": "suspicious user agents list see any unusual lines in the server website logs with this list of 1300 http user agents you can identify malware exploits vulnerability scanners scrapers bots cryptominers etc contributor twitter com mthcht",
+      "keyword_hits": [
+        "exploits",
+        "malware",
+        "vulnerability"
+      ],
+      "char_count": 235,
+      "token_count": 36,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2689,
+    "date": "2024-07-29",
+    "datetime_utc": "2024-07-29T18:02:55+00:00",
+    "timestamp": 1722276175,
+    "message": "Browser Autofill Phishing\n\nA very, very old trick, but still relevant.\n\nLive demo https://anttiviljami.github.io/browser-autofill-phishing/ - see the data you can pass to sites during form autocompletion via the developer console)\n\nGithub repo https://github.com/anttiviljami/browser-autofill-phishing\n\n#cybersecurity",
+    "id": "60a48e1b-acb3-4054-a41a-0050b930c58a",
+    "cleaning": {
+      "normalized_message": "browser autofill phishing a very very old trick but still relevant live demo - see the data you can pass to sites during form autocompletion via the developer console github repo cybersecurity",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 192,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2690,
+    "date": "2024-07-29",
+    "datetime_utc": "2024-07-29T18:59:30+00:00",
+    "timestamp": 1722279570,
+    "message": "SquatSquasher\n\nA tool to find domains (by primary domain name) that can be used for type squatting and other #phishing attacks.\n\nhttps://github.com/Stuub/SquatSquasher\n\nCreator twitter.com/StuartBeck11 \n\n#python",
+    "id": "7cf628f0-d60e-48b7-8c9e-4fd69b70aa21",
+    "cleaning": {
+      "normalized_message": "squatsquasher a tool to find domains by primary domain name that can be used for type squatting and other phishing attacks creator twitter com stuartbeck11 python",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 162,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2728,
+    "date": "2024-08-21",
+    "datetime_utc": "2024-08-21T04:55:00+00:00",
+    "timestamp": 1724216100,
+    "message": "NPD Breach Check\n\nNational Public Data (NPD) confirmed a breach that has exposed personal identity records belonging to potentially hundreds of millions of consumers across the US🇺🇸, UK🇬🇧, and Canada🇨🇦.\n\nСheck whether the leak has affected your data:\n\nnpd.pentester.com",
+    "id": "ec6af2bb-d63f-4392-b742-17f6838aae6e",
+    "cleaning": {
+      "normalized_message": "npd breach check national public data npd confirmed a breach that has exposed personal identity records belonging to potentially hundreds of millions of consumers across the us uk and canada сheck whether the leak has affected your data npd pentester com",
+      "keyword_hits": [
+        "breach",
+        "leak"
+      ],
+      "char_count": 254,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2731,
+    "date": "2024-08-22",
+    "datetime_utc": "2024-08-22T05:56:01+00:00",
+    "timestamp": 1724306161,
+    "message": "Ransomware Tool Matrix\n\nList of which tools (no links) each ransomware gang or extortionist gang uses:\n\nRMM \nExfiltration \nCredential Theft \nDefense Evasion\nNetworking \nDiscovery \nOffensive Security \nLiving-off-the-Land \n\nhttps://github.com/BushidoUK/Ransomware-Tool-Matrix/\n\nContributor twitter.com/BushidoUK",
+    "id": "e840acaa-7846-472e-b3ea-8fb57935dbf7",
+    "cleaning": {
+      "normalized_message": "ransomware tool matrix list of which tools no links each ransomware gang or extortionist gang uses rmm exfiltration credential theft defense evasion networking discovery offensive security living-off-the-land contributor twitter com bushidouk",
+      "keyword_hits": [
+        "credential",
+        "exfiltration",
+        "ransomware"
+      ],
+      "char_count": 242,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2743,
+    "date": "2024-08-29",
+    "datetime_utc": "2024-08-29T14:43:56+00:00",
+    "timestamp": 1724942636,
+    "message": "sploitify.haxx.it\n\nCurated list of public server-side exploits. Search by keyword, filter by vulnerability type, service affected and OS. Detailed description for each exploit (with PoC, Nuclei template or Metasploit module).\n\nCreator twitter.com/haxxm0nkey\nTip by twitter.com/akaclandestine",
+    "id": "1978c373-6399-4c36-a051-e4506afe1c9a",
+    "cleaning": {
+      "normalized_message": "sploitify haxx it curated list of public server-side exploits search by keyword filter by vulnerability type service affected and os detailed description for each exploit with poc nuclei template or metasploit module creator twitter com haxxm0nkey tip by twitter com akaclandestine",
+      "keyword_hits": [
+        "exploit",
+        "exploits",
+        "vulnerability"
+      ],
+      "char_count": 281,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2745,
+    "date": "2024-08-31",
+    "datetime_utc": "2024-08-31T10:00:14+00:00",
+    "timestamp": 1725098414,
+    "message": "Simple tip from twitter.com/bugcrowd  which will allow to find domains belonging to a certain company as well as phishing domains:\n\n\"© [COMPANY]. All rights reserved.\" -site:*.companysite com",
+    "id": "abb051a6-eb60-4a21-92f9-84bfeacd35da",
+    "cleaning": {
+      "normalized_message": "simple tip from twitter com bugcrowd which will allow to find domains belonging to a certain company as well as phishing domains company all rights reserved -site companysite com",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 178,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2757,
+    "date": "2024-09-06",
+    "datetime_utc": "2024-09-06T13:02:40+00:00",
+    "timestamp": 1725627760,
+    "message": "Get Whatsapp Profile Information by phone number\n\nID, description, email, website, location etc\n\n(works not only for business but also for personal accounts, WhatsApp Login no required)\n\nwhatsapp.checkleaked.cc\n\n#osint #socmint",
+    "id": "4e7cc1a5-e0a5-441d-a3af-1475153d5592",
+    "cleaning": {
+      "normalized_message": "get whatsapp profile information by phone number id description email website location etc works not only for business but also for personal accounts whatsapp login no required whatsapp checkleaked cc osint socmint",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 214,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2763,
+    "date": "2024-09-11",
+    "datetime_utc": "2024-09-11T01:30:33+00:00",
+    "timestamp": 1726018233,
+    "message": "7 free online #OSINT Tools\n\nGHUNT - Google account info\nSherlock - nickname enumeration\nHolehe - search accounts by email\nIgnorant - search accounts by phone \nWhois domain lookup\nWhatsApp profile info \nHudsonRock - email leaks lookup\n\nosint.rocks\n\nTip by twitter.com/0xtechrock",
+    "id": "b7d572b7-8c3b-4499-8700-8ac9c1c3e85b",
+    "cleaning": {
+      "normalized_message": "7 free online osint tools ghunt - google account info sherlock - nickname enumeration holehe - search accounts by email ignorant - search accounts by phone whois domain lookup whatsapp profile info hudsonrock - email leaks lookup osint rocks tip by twitter com 0xtechrock",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 271,
+      "token_count": 44,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2764,
+    "date": "2024-09-11",
+    "datetime_utc": "2024-09-11T23:49:18+00:00",
+    "timestamp": 1726098558,
+    "message": "\"OSINT phone numbers like a pro. Best tools and methods revealed.\" by twitter.com/OsintTeamBlog \n\n- Google Dorks\n- Reverse lookup tools\n- Phone number hints\n- Online reverse lookup tools\n- CLI tools\n- Breach databases\n- Telegram bots\n\nhttps://www.osintteam.com/osint-phone-numbers-like-a-pro-best-tools-and-methods-revealed/",
+    "id": "dc0c645b-8073-4603-a5d4-f801ddb31c06",
+    "cleaning": {
+      "normalized_message": "osint phone numbers like a pro best tools and methods revealed by twitter com osintteamblog - google dorks - reverse lookup tools - phone number hints - online reverse lookup tools - cli tools - breach databases - telegram bots",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 227,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2767,
+    "date": "2024-09-14",
+    "datetime_utc": "2024-09-14T19:02:37+00:00",
+    "timestamp": 1726340557,
+    "message": "Top Phishing Techniques \n\nSeptember 2024 detailed review\n\n- Bypass SPF\n- Return-Path Mismatch\n- Deepfakes or Vishing\n- Homograph Attack and Typosquatting Attack\n- DNS Hijacking\n- Fast Flux\n\nhttps://redteamrecipe.com/top-phishing-techniques\n\nAuthor twitter.com/Hadess_security",
+    "id": "c8d37926-93ec-45dc-bd52-3593d891c946",
+    "cleaning": {
+      "normalized_message": "top phishing techniques september 2024 detailed review - bypass spf - return-path mismatch - deepfakes or vishing - homograph attack and typosquatting attack - dns hijacking - fast flux author twitter com hadess_security",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 220,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2773,
+    "date": "2024-09-18",
+    "datetime_utc": "2024-09-18T23:40:15+00:00",
+    "timestamp": 1726702815,
+    "message": "Awesome GPT Super Prompting\n\n- Jailbreaks\n- GPT Agents System Prompt Leaks\n- Prompt Injection\n- Secure Prompting\n\nand more.\n\nhttps://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting\n\nTip by twitter.com/binitamshah",
+    "id": "c08599a2-d3fe-4d4c-b9f0-8a3138b8fa97",
+    "cleaning": {
+      "normalized_message": "awesome gpt super prompting - jailbreaks - gpt agents system prompt leaks - prompt injection - secure prompting and more tip by twitter com binitamshah",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 151,
+      "token_count": 25,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2788,
+    "date": "2024-09-26",
+    "datetime_utc": "2024-09-26T06:02:18+00:00",
+    "timestamp": 1727330538,
+    "message": "The archived tool allowed to uncover a part of Instagram mutual followers: https://github.com/novitae/Tenai\n\nIt exploited the service information leak in API endpoint `https://i.instagram.com/api/v1/fbsearch/accounts_recs/`, which, for a few weeks, was returning some new parameters (Python-like values), such as “sources”:\n- `[11]`: accounts following and being followed by the target account (mutuals)\n- `[20]`: your personnal suggestions influenced by your activity\n- `[47]`: 2 accounts or more you follow are following this user\n\nAt the time of active development of the tool, there were no additional categories, but now I see a few new ones. Considering the source numbering (up to 47 suggestion sources?), we can assume that Instagram was trying to collect accounts for suggestions using many algorithms and sources, and they are likely still testing other methods, so we may find unexpected correlations in the suggestions.\n\n#instagram #tool",
+    "id": "7663ae89-7ee2-42c9-b4e3-0482335e76e2",
+    "cleaning": {
+      "normalized_message": "the archived tool allowed to uncover a part of instagram mutual followers it exploited the service information leak in api endpoint which for a few weeks was returning some new parameters python-like values such as sources - 11 accounts following and being followed by the target account mutuals - 20 your personnal suggestions influenced by your activity - 47 2 accounts or more you follow are following this user at the time of active development of the tool there were no additional categories but now i see a few new ones considering the source numbering up to 47 suggestion sources we can assume that instagram was trying to collect accounts for suggestions using many algorithms and sources and they are likely still testing other methods so we may find unexpected correlations in the suggestions instagram tool",
+      "keyword_hits": [
+        "exploited",
+        "leak"
+      ],
+      "char_count": 817,
+      "token_count": 136,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2790,
+    "date": "2024-09-28",
+    "datetime_utc": "2024-09-28T06:41:44+00:00",
+    "timestamp": 1727505704,
+    "message": "Advanced Google Dork Queries for Uncovering Hidden Data and OSINT Insights\n\n- Leaked Password Lists\n- Sensitive Config Files on Public Servers\n- Misconfigured Amazon S3 Buckets\n- Exposed Database Backups\n- Source Code Leaks\n\nand more\nhttps://medium.com/@as-squirrel/30-advanced-google-dork-queries-for-uncovering-hidden-data-and-osint-insights-f397cd97e252\n\nAuthor twitter.com/as_squirrel_X",
+    "id": "0d8c47ce-01c7-4b15-a847-cf743127752c",
+    "cleaning": {
+      "normalized_message": "advanced google dork queries for uncovering hidden data and osint insights - leaked password lists - sensitive config files on public servers - misconfigured amazon s3 buckets - exposed database backups - source code leaks and more author twitter com as_squirrel_x",
+      "keyword_hits": [
+        "leaked",
+        "leaks"
+      ],
+      "char_count": 264,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2833,
+    "date": "2024-10-29",
+    "datetime_utc": "2024-10-29T00:00:46+00:00",
+    "timestamp": 1730160046,
+    "message": "Analyzing Email Headers and Content Using OSINT Tools by twitter.com/DeepWebOsint\n\nAccessing Email Header Data\nAnalyzing Email Headers \nInterpreting Information from Email Headers\nExtracting and Analyzing URLs \nCross-Referencing IPs, Domains, and Hashes\n\nhttps://theosintguide.com/2024/10/25/analyzing-email-headers-and-content-using-osint-tools/",
+    "id": "cddf8ecd-cb6a-41eb-8b10-def5a961a0a6",
+    "cleaning": {
+      "normalized_message": "analyzing email headers and content using osint tools by twitter com deepwebosint accessing email header data analyzing email headers interpreting information from email headers extracting and analyzing urls cross-referencing ips domains and hashes",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 248,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2875,
+    "date": "2024-11-27",
+    "datetime_utc": "2024-11-27T17:20:51+00:00",
+    "timestamp": 1732728051,
+    "message": "FEDERAl TRADE COMMISSION DATABASE\n\nA lot of PDF documents that uncover fraud, scams, and deceptive practices by companies in USA🇺🇸\n\nSearch by company name or keyword.\n\nftc.gov/legal-library/browse/cases-proceedings\n\nTip by The OSINT Guide Newsletter",
+    "id": "60a032a5-33b6-4251-aa33-d64d999754ab",
+    "cleaning": {
+      "normalized_message": "federal trade commission database a lot of pdf documents that uncover fraud scams and deceptive practices by companies in usa search by company name or keyword ftc gov legal-library browse cases-proceedings tip by the osint guide newsletter",
+      "keyword_hits": [
+        "fraud"
+      ],
+      "char_count": 240,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2908,
+    "date": "2024-12-18",
+    "datetime_utc": "2024-12-18T14:48:51+00:00",
+    "timestamp": 1734533331,
+    "message": "Shodan Spider\n\nVery simple #bash tool that automate Shodan search and save results to txt files.\n\nNOT login or API key required!\n\n\nhttps://github.com/shubhamrooter/ShodanSpider\n\nCreator twitter.com/shubhamtiwari_r",
+    "id": "050b60c9-92c7-4bc9-b97b-85a50b5a0fc7",
+    "cleaning": {
+      "normalized_message": "shodan spider very simple bash tool that automate shodan search and save results to txt files not login or api key required creator twitter com shubhamtiwari_r",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 159,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2916,
+    "date": "2024-12-27",
+    "datetime_utc": "2024-12-27T20:49:06+00:00",
+    "timestamp": 1735332546,
+    "message": "PhishingSecLists\n\nGithub repo with wordlists for #phishing domains investigations:\n\nWizard.txt - common filenames/directories where they might be saving credentials \nShells.txt - popular shell file names\n\nhttps://github.com/spmedia/PhishingSecLists/\n\nContributor twitter.com/Edmond_Major",
+    "id": "a60ccf43-b1b9-47b2-9084-3efeb9c5f170",
+    "cleaning": {
+      "normalized_message": "phishingseclists github repo with wordlists for phishing domains investigations wizard txt - common filenames directories where they might be saving credentials shells txt - popular shell file names contributor twitter com edmond_major",
+      "keyword_hits": [
+        "credentials",
+        "phishing"
+      ],
+      "char_count": 235,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2922,
+    "date": "2025-01-03",
+    "datetime_utc": "2025-01-03T19:04:31+00:00",
+    "timestamp": 1735931071,
+    "message": "Favihash\n\nGet the hash of favicon of website (by url or file) and quick search it in Shodan, Censys and Virustotal. \n\nfavihash.com\n\nCreator twitter.com/PredictaLabOff twitter.com/fs0c131y",
+    "id": "2be73c6a-1bb9-438a-97d6-35b545f0a7e4",
+    "cleaning": {
+      "normalized_message": "favihash get the hash of favicon of website by url or file and quick search it in shodan censys and virustotal favihash com creator twitter com predictalaboff twitter com fs0c131y",
+      "keyword_hits": [
+        "hash"
+      ],
+      "char_count": 179,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2926,
+    "date": "2025-01-06",
+    "datetime_utc": "2025-01-06T18:21:21+00:00",
+    "timestamp": 1736187681,
+    "message": "Blockchain Investigations Hub (list of articles)\n\nBitcoin Mixing Explained: Key Insights and Forensic Analysis Tips\n\nTrack Cryptocurrency Across Chains:\n\nUsing Blockchain to Track Ransomware Threat Actors\n\nHow to Track Cross-Blockchain Fund Movement\n\nBy twitter.com/ervin_zubic\n\n#cryptoosint",
+    "id": "65698e07-0381-447a-8a7b-24949a5c238c",
+    "cleaning": {
+      "normalized_message": "blockchain investigations hub list of articles bitcoin mixing explained key insights and forensic analysis tips track cryptocurrency across chains using blockchain to track ransomware threat actors how to track cross-blockchain fund movement by twitter com ervin_zubic cryptoosint",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 280,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2937,
+    "date": "2025-01-10",
+    "datetime_utc": "2025-01-10T22:46:37+00:00",
+    "timestamp": 1736549197,
+    "message": "MEIOC by twiter.com/AndreaDraghetti \n\n#Python automation tool to extract information from EML files:\n\nHeaders\n\nDetailed server relay hops (IP addresses involved)\n\nExtracted URLS/domains\nAttachments with calculated hashes.\n\nSPF (Sender Policy Framework) \nDKIM (DomainKeys Identified Mail) \n\nhttps://github.com/drego85/meioc",
+    "id": "2ec44149-904b-433e-84ce-ca9db9bc56f0",
+    "cleaning": {
+      "normalized_message": "meioc by twiter com andreadraghetti python automation tool to extract information from eml files headers detailed server relay hops ip addresses involved extracted urls domains attachments with calculated hashes spf sender policy framework dkim domainkeys identified mail",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 271,
+      "token_count": 37,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2972,
+    "date": "2025-02-05",
+    "datetime_utc": "2025-02-05T19:47:20+00:00",
+    "timestamp": 1738784840,
+    "message": "RealmOsintEx\n\n#Elixirlang library that check the existence of a Microsoft365 tenant for target domain and give back all the information from API\n\n\"UserState\"\n\"Login\"\n\"AuthURL\"\n\"FederationBrandName\"\n\"CloudInstanceName\"\n\nand more\n\nhttps://github.com/nix2intel/realm_osint_ex\n\nCreator twitter.com/nixintel\n\n#osint",
+    "id": "c22a232f-68be-4c86-a3e1-408ad3dcaecd",
+    "cleaning": {
+      "normalized_message": "realmosintex elixirlang library that check the existence of a microsoft365 tenant for target domain and give back all the information from api userstate login authurl federationbrandname cloudinstancename and more creator twitter com nixintel osint",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 248,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2980,
+    "date": "2025-02-11",
+    "datetime_utc": "2025-02-11T14:04:34+00:00",
+    "timestamp": 1739282674,
+    "message": "When gathering info by nickname/full name, don't forget the leaked documents archives (DDOsecrets, WikiLeaks etc.) \nPersonal data of millions of people out there ( emails in correspondence archives, full names in business records etc).\n\nsearch.ddosecrets.com\n\n#osint",
+    "id": "bf301085-e0f0-4960-9175-8a9f25be398d",
+    "cleaning": {
+      "normalized_message": "when gathering info by nickname full name don t forget the leaked documents archives ddosecrets wikileaks etc personal data of millions of people out there emails in correspondence archives full names in business records etc search ddosecrets com osint",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 252,
+      "token_count": 39,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2991,
+    "date": "2025-02-17",
+    "datetime_utc": "2025-02-17T21:28:57+00:00",
+    "timestamp": 1739827737,
+    "message": "Linkdtime\n\nLinkedin activity date finder.\n\nExtract timestamps from Linkedin posts/comments links and convert to date and time.\n\nhttps://github.com/Lucksi/LinkdTime\n\nLinkedin login not required.\n\nTip by twitter.com/navlys__ \nCreator twitter.com/Lucksi_22 \n\n#socmint",
+    "id": "554ec202-295d-4beb-9679-a8fdb21450e5",
+    "cleaning": {
+      "normalized_message": "linkdtime linkedin activity date finder extract timestamps from linkedin posts comments links and convert to date and time linkedin login not required tip by twitter com navlys__ creator twitter com lucksi_22 socmint",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 216,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2995,
+    "date": "2025-02-20",
+    "datetime_utc": "2025-02-20T00:58:14+00:00",
+    "timestamp": 1740013094,
+    "message": "DorkTerm\n\nA free online tool to research a target domain using Google Dorks. Search for login pages, admin panels, SQl files, log files and more.\n\nhttps://yogsec.github.io/DorkTerm/\n\nCreator twitter.com/yogsec\n\n#osint #googledorks",
+    "id": "5d42e397-3c7f-4698-a0d8-17fbad8b61f8",
+    "cleaning": {
+      "normalized_message": "dorkterm a free online tool to research a target domain using google dorks search for login pages admin panels sql files log files and more creator twitter com yogsec osint googledorks",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 184,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3001,
+    "date": "2025-02-22",
+    "datetime_utc": "2025-02-22T19:14:27+00:00",
+    "timestamp": 1740251667,
+    "message": "EXPLORE DARKNET WITHOUT TOR BROWSER\n\n\n\nSearch on OnionEngine onionengine.com\n\n\n\nLook at Ahmia onion domains list https://ahmia.fi/address/\n\n\n\nSearch on clearnet search engines: \"site:*.onion.pet\", \"site:*.onion.rip\", \"site:*.onion.dog\", \"site:*onion.*\"\n\n\n\nAdd .dog to .onion URl to open site in clearweb browser.\n\n\n\n⚠️ Be careful, there is a lot of scam and phishing on the darknet. There may also be illegal content. Use only for research ⚠️ \n\n-- Post from https://www.linkedin.com/groups/13047129/ --",
+    "id": "8f1011b3-eae0-4af3-a7b8-1884c18d5a4c",
+    "cleaning": {
+      "normalized_message": "explore darknet without tor browser search on onionengine onionengine com look at ahmia onion domains list search on clearnet search engines site onion pet site onion rip site onion dog site onion add dog to onion url to open site in clearweb browser be careful there is a lot of scam and phishing on the darknet there may also be illegal content use only for research -- post from --",
+      "keyword_hits": [
+        "phishing",
+        "scam"
+      ],
+      "char_count": 384,
+      "token_count": 70,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3005,
+    "date": "2025-02-27",
+    "datetime_utc": "2025-02-27T22:35:13+00:00",
+    "timestamp": 1740695713,
+    "message": "CHRONOS\n\n#go tool to download and analyze archive org snapshots:\n\n- search regex matches\n- extract endpoints from JS fils\n- calculate old favicon hashes\n- extract html tags with XPath\n\nhttps://github.com/mhmdiaa/chronos\n\n#osint",
+    "id": "57e58481-344e-467d-a933-e92f1cbebc85",
+    "cleaning": {
+      "normalized_message": "chronos go tool to download and analyze archive org snapshots - search regex matches - extract endpoints from js fils - calculate old favicon hashes - extract html tags with xpath osint",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 185,
+      "token_count": 32,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3032,
+    "date": "2025-03-22",
+    "datetime_utc": "2025-03-22T20:07:09+00:00",
+    "timestamp": 1742674029,
+    "message": "Today I once again encountered someone sending a complaint about my posts (this time, strangely enough, complaints about posts on BlueSky). In Telegram, a post or an entire channel can also be deleted at any time by moderation. Especially channels related to cybersecurity or personal data leaks. So, don't forget to export archives of channels you found something useful for yourself (button in the upper right corner in the desktop version).",
+    "id": "499330e6-f96a-4e7e-a5e9-8a04c5289e8d",
+    "cleaning": {
+      "normalized_message": "today i once again encountered someone sending a complaint about my posts this time strangely enough complaints about posts on bluesky in telegram a post or an entire channel can also be deleted at any time by moderation especially channels related to cybersecurity or personal data leaks so don t forget to export archives of channels you found something useful for yourself button in the upper right corner in the desktop version",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 431,
+      "token_count": 72,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3041,
+    "date": "2025-03-26",
+    "datetime_utc": "2025-03-26T20:06:06+00:00",
+    "timestamp": 1743019566,
+    "message": "EXPLORE DARKNET WITHOUT TOR BROWSER\n\n\n\nSearch on OnionEngine onionengine.com\n\n\n\nLook at Ahmia onion domains list https://ahmia.fi/address/\n\n\n\nSearch on clearnet search engines: \"site:*.onion.pet\", \"site:*.onion.rip\", \"site:*.onion.dog\", \"site:*onion.*\"\n\n\n\nAdd .dog to .onion URl to open site in clearweb browser.\n\n\n\n⚠️ Be careful, there is a lot of scam and phishing on the darknet. There may also be illegal content. Use only for research ⚠️ \n\n-- Post from https://www.linkedin.com/groups/13047129/ --",
+    "id": "0df0848d-7c5b-4315-a250-d532b63feeb8",
+    "cleaning": {
+      "normalized_message": "explore darknet without tor browser search on onionengine onionengine com look at ahmia onion domains list search on clearnet search engines site onion pet site onion rip site onion dog site onion add dog to onion url to open site in clearweb browser be careful there is a lot of scam and phishing on the darknet there may also be illegal content use only for research -- post from --",
+      "keyword_hits": [
+        "phishing",
+        "scam"
+      ],
+      "char_count": 384,
+      "token_count": 70,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3046,
+    "date": "2025-03-29",
+    "datetime_utc": "2025-03-29T18:53:02+00:00",
+    "timestamp": 1743274382,
+    "message": "OWLARCH\n\nLinux VM (based on Arch Linux) for Reverse Engineering, Malware Analysis, Network Analysis and #OSINT.\n\nhttps://github.com/Leku2020/OwlArch\n\n#linux #vm",
+    "id": "5a06e4ec-d519-442c-9ed8-755418948e91",
+    "cleaning": {
+      "normalized_message": "owlarch linux vm based on arch linux for reverse engineering malware analysis network analysis and osint linux vm",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 113,
+      "token_count": 18,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3054,
+    "date": "2025-04-01",
+    "datetime_utc": "2025-04-01T18:31:18+00:00",
+    "timestamp": 1743532278,
+    "message": "Crime Mapper\n\nCyber crime mapping  tool. Import IOCs, data enrichment  from API (Shodan, InternetDB, Google DNS), import and export to JSON. Self-hosted (https://github.com/mr-r3b00t/crime-mapper) or online demo (https://mr-r3b00t.github.io/crime-mapper/)\n\nThis alpha version. Feel free to write about problems to the creator x.com/UK_Daniel_Card",
+    "id": "4c6ed031-dc5b-45f9-b84b-43c910e50100",
+    "cleaning": {
+      "normalized_message": "crime mapper cyber crime mapping tool import iocs data enrichment from api shodan internetdb google dns import and export to json self-hosted or online demo this alpha version feel free to write about problems to the creator x com uk_daniel_card",
+      "keyword_hits": [
+        "iocs"
+      ],
+      "char_count": 245,
+      "token_count": 40,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3060,
+    "date": "2025-04-08",
+    "datetime_utc": "2025-04-08T20:38:02+00:00",
+    "timestamp": 1744144682,
+    "message": "Library of Leaks\n\nSearch by keyword (full name, email, company) in leaked documents, emails, tables, images and other files.\n\n29M+ public entities. \n\nhttps://search.libraryofleaks.org/",
+    "id": "1a9279e3-bb13-49b7-a26a-c6a58c99a715",
+    "cleaning": {
+      "normalized_message": "library of leaks search by keyword full name email company in leaked documents emails tables images and other files 29m public entities",
+      "keyword_hits": [
+        "leaked",
+        "leaks"
+      ],
+      "char_count": 135,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3066,
+    "date": "2025-04-13",
+    "datetime_utc": "2025-04-13T03:26:37+00:00",
+    "timestamp": 1744514797,
+    "message": "Awesome #Cybersecurity Datasets\n\n- URLs & Domain Names\n- Network traffic\n- Malware\n- WebApps\n- Email\n- Passwords\n- Honeypots\n\nand more.\n\nhttps://github.com/shramos/Awesome-Cybersecurity-Datasets",
+    "id": "9bacfa67-3571-4013-b2fe-ce6da70a08f6",
+    "cleaning": {
+      "normalized_message": "awesome cybersecurity datasets - urls domain names - network traffic - malware - webapps - email - passwords - honeypots and more",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 129,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3074,
+    "date": "2025-04-21",
+    "datetime_utc": "2025-04-21T09:47:47+00:00",
+    "timestamp": 1745228867,
+    "message": "Awesome Security Operation Center Analyst\n\n- Books\n- Malware Analysis\n- Practice Labs\n- Phishing Analysis\n- Tools for Investigation\n- Network Log Sources\n\nand more.\n\nhttps://github.com/LetsDefend/awesome-soc-analyst\n\nContributor x.com/LetsDefendIO \n\n#cybersecurity",
+    "id": "21e59ee4-b194-442f-abd2-4abc2c09a958",
+    "cleaning": {
+      "normalized_message": "awesome security operation center analyst - books - malware analysis - practice labs - phishing analysis - tools for investigation - network log sources and more contributor x com letsdefendio cybersecurity",
+      "keyword_hits": [
+        "malware",
+        "phishing"
+      ],
+      "char_count": 206,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3079,
+    "date": "2025-04-28",
+    "datetime_utc": "2025-04-28T13:17:11+00:00",
+    "timestamp": 1745846231,
+    "message": "Digital Forensics StartMe Page by Dillon Bowe\n\n- SANS posters & cheatsheets\n- Blog feed\n- YouTube feed\n- Memory tools\n- Network tools\n- Malware tools\n- getting started guides\n\nand more. \n\nhttps://start.me/p/1kRlPp/forensics\n\n\n#dfir",
+    "id": "578af06c-18d3-4421-9f5f-74d289b474db",
+    "cleaning": {
+      "normalized_message": "digital forensics startme page by dillon bowe - sans posters cheatsheets - blog feed - youtube feed - memory tools - network tools - malware tools - getting started guides and more dfir",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 185,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3083,
+    "date": "2025-05-01",
+    "datetime_utc": "2025-05-01T17:29:27+00:00",
+    "timestamp": 1746120567,
+    "message": "Awesome Asset Discovery\n\nList by x.com/RedHuntLabs\n\nIP Address \nDomain/Subdomain \nEmail \nNetwork\nBusiness  Infrastructure \nCloud Infrastructure \nCompany Info\nInternet Survey Data\nSocial Media / Employee Profiling\nData Leaks\nArchived Info\n\nhttps://github.com/redhuntlabs/Awesome-Asset-Discovery",
+    "id": "d764c9b7-5dc3-4f7b-86ea-b9ec91c8d7bc",
+    "cleaning": {
+      "normalized_message": "awesome asset discovery list by x com redhuntlabs ip address domain subdomain email network business infrastructure cloud infrastructure company info internet survey data social media employee profiling data leaks archived info",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 227,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3087,
+    "date": "2025-05-07",
+    "datetime_utc": "2025-05-07T12:28:23+00:00",
+    "timestamp": 1746620903,
+    "message": "OSINTLeak\n\nData leaks search engine (Stealer logs + DB Leaks 2).\n\nSearch by username, email, password, first/last name and other fields.\n\nhttps://osintleak.com/\n\nPartly free.\n\n#osint #socmint",
+    "id": "4829e64b-c8fd-44ef-9798-e002af454cfa",
+    "cleaning": {
+      "normalized_message": "osintleak data leaks search engine stealer logs db leaks 2 search by username email password first last name and other fields partly free osint socmint",
+      "keyword_hits": [
+        "leaks",
+        "stealer"
+      ],
+      "char_count": 151,
+      "token_count": 25,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3093,
+    "date": "2025-05-12",
+    "datetime_utc": "2025-05-12T18:56:59+00:00",
+    "timestamp": 1747076219,
+    "message": "IntelBase\n\nPartially free and no registration required online tool. Shows the dates of the first and last appearance of an email address in leaks, the number of mentions and the sites where the email address was used to register accounts.\n\nhttps://intelbase.is/\n\n#osint",
+    "id": "c73ec8db-aa7e-45d6-87c1-9c2283e43da3",
+    "cleaning": {
+      "normalized_message": "intelbase partially free and no registration required online tool shows the dates of the first and last appearance of an email address in leaks the number of mentions and the sites where the email address was used to register accounts osint",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 240,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3095,
+    "date": "2025-05-13",
+    "datetime_utc": "2025-05-13T20:17:10+00:00",
+    "timestamp": 1747167430,
+    "message": "UrlScanIO Chrome/Firefox Extension\n\nA tool to quickly retrieve information about active tab URL:\n\n- domain/IP/ASN\n- domain creation date\n- phishing/malware reputation\n\nand more.\n\nhttps://chromewebstore.google.com/detail/urlscanio/loehkbkhflmmkempgkdpkkhghdiegicp",
+    "id": "06ea0032-4351-4521-bcd3-10ec4139fdcb",
+    "cleaning": {
+      "normalized_message": "urlscanio chrome firefox extension a tool to quickly retrieve information about active tab url - domain ip asn - domain creation date - phishing malware reputation and more",
+      "keyword_hits": [
+        "malware",
+        "phishing"
+      ],
+      "char_count": 172,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3100,
+    "date": "2025-05-19",
+    "datetime_utc": "2025-05-19T21:46:14+00:00",
+    "timestamp": 1747691174,
+    "message": "search.profiler.me\n\nA new online tool (from @osintambition) to search for information by email/username/phone number\n\nFinds social media accounts, profile avatars, leaked accounts and generates a report with key information (ex. activity timeline) based on them\n\nPartly free",
+    "id": "9ef55be7-35fb-4a5a-ab82-f35c580de5b9",
+    "cleaning": {
+      "normalized_message": "search profiler me a new online tool from osintambition to search for information by email username phone number finds social media accounts profile avatars leaked accounts and generates a report with key information ex activity timeline based on them partly free",
+      "keyword_hits": [
+        "leaked"
+      ],
+      "char_count": 263,
+      "token_count": 41,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3124,
+    "date": "2025-06-13",
+    "datetime_utc": "2025-06-13T14:10:05+00:00",
+    "timestamp": 1749823805,
+    "message": "MerkleMap\n\nA tool to search for domains using wildcards. Useful both for phishing and typosquatting investigations and for finding subdomains/linked sites.\n\nPartially free. May work with a slight delay.\n\nmerklemap.com\n\n#osint #CTI",
+    "id": "16337ec9-0116-4632-9d06-7ed240bde63e",
+    "cleaning": {
+      "normalized_message": "merklemap a tool to search for domains using wildcards useful both for phishing and typosquatting investigations and for finding subdomains linked sites partially free may work with a slight delay merklemap com osint cti",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 220,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3168,
+    "date": "2025-07-22",
+    "datetime_utc": "2025-07-22T09:41:55+00:00",
+    "timestamp": 1753177315,
+    "message": "Enter email to check if it is connected to some PGP key (it can then be used to gather information in document archives, leak databases, forums, etc).\n\nkeys.openpgp.org",
+    "id": "2555bb60-da98-4ebb-9d64-d96e4bfaa413",
+    "cleaning": {
+      "normalized_message": "enter email to check if it is connected to some pgp key it can then be used to gather information in document archives leak databases forums etc keys openpgp org",
+      "keyword_hits": [
+        "leak"
+      ],
+      "char_count": 161,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3190,
+    "date": "2025-08-12",
+    "datetime_utc": "2025-08-12T09:53:54+00:00",
+    "timestamp": 1754992434,
+    "message": "Kagi Translator\n\n- fast and high quality online translator\n- customise translation style, formality, gender preferences and context\n- 230+ languages + a lot of dialects (12 Arabic, 4 Italian etc)\n\nhttps://translate.kagi.com/\n\n(20000 characters one time FREE,  no login required)",
+    "id": "a2730d75-401d-4d8c-b1ea-f1040c0d5e32",
+    "cleaning": {
+      "normalized_message": "kagi translator - fast and high quality online translator - customise translation style formality gender preferences and context - 230 languages a lot of dialects 12 arabic 4 italian etc 20000 characters one time free no login required",
+      "keyword_hits": [
+        "login"
+      ],
+      "char_count": 235,
+      "token_count": 38,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3213,
+    "date": "2025-09-01",
+    "datetime_utc": "2025-09-01T10:08:53+00:00",
+    "timestamp": 1756721333,
+    "message": "The Harvester Custom Modules\n\nGuide by Sam Bent:\n\n- Plugin Architecture\n- 43 Data Streams for Organizational Mapping\n- Operational Intelligence Collection\n- Breach Data Integration and Intelligence Enhancement\n\n\nhttps://www.sambent.com/theharvester-custom-modules-linkedin-enumeration-and-breach-correlation/\n\n#osint #socmint",
+    "id": "461e1311-31f9-4468-a6c4-25a61247878c",
+    "cleaning": {
+      "normalized_message": "the harvester custom modules guide by sam bent - plugin architecture - 43 data streams for organizational mapping - operational intelligence collection - breach data integration and intelligence enhancement osint socmint",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 220,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3243,
+    "date": "2025-09-21",
+    "datetime_utc": "2025-09-21T18:07:37+00:00",
+    "timestamp": 1758478057,
+    "message": "Crypto & Blockchain Investigation Resources\n\n👀Blockchain Explorers\n🧐OSINT & Visualization Tools\n😡Abuse & Scam Databases\n👮Compliance, Risk & AML\n👩‍💼Analytic Services\n💰Exchanges & Wallets\n🕵️Investigation Workflows\n\n\nhttps://github.com/K2SOsint/Legendary_Crypto\n\n#osint #crypto",
+    "id": "58ebb2a1-d9ff-4cf2-87ec-03f3d52c27e3",
+    "cleaning": {
+      "normalized_message": "crypto blockchain investigation resources blockchain explorers osint visualization tools abuse scam databases compliance risk aml analytic services exchanges wallets investigation workflows osint crypto",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 202,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3250,
+    "date": "2025-09-28",
+    "datetime_utc": "2025-09-28T13:57:29+00:00",
+    "timestamp": 1759067849,
+    "message": "RExpository\n\nList of 200+ regular expressions for sensitive data extraction:\n\n- usernames\n- IPs\n- emails\n- API Keys\n- Access Tokens\n- Hashes\n\nand others.\n\nhttps://jaimepolop.github.io/RExpository/\n\nBy Jaime Polop",
+    "id": "b2bad700-a4fc-4aa8-a49b-91acf4580550",
+    "cleaning": {
+      "normalized_message": "rexpository list of 200 regular expressions for sensitive data extraction - usernames - ips - emails - api keys - access tokens - hashes and others by jaime polop",
+      "keyword_hits": [
+        "hashes"
+      ],
+      "char_count": 162,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3286,
+    "date": "2025-10-27",
+    "datetime_utc": "2025-10-27T09:51:20+00:00",
+    "timestamp": 1761558680,
+    "message": "Free Top Ten Threat Intelligence Platforms\n\nList by d4rk_intel:\n\nThreatBook CTI\nVirusTotal\nMISP Threat Sharing\nThreat Fox\nIOC Rader\nAbuseIPDB\nAlienVault Open Threat Intelligence Platform\nThreat Miner\nGreyNoise\nPulseDive\n\nhttps://preciousvincentct.medium.com/",
+    "id": "8e579c90-8ff8-4e06-abfc-3b701febab0b",
+    "cleaning": {
+      "normalized_message": "free top ten threat intelligence platforms list by d4rk_intel threatbook cti virustotal misp threat sharing threat fox ioc rader abuseipdb alienvault open threat intelligence platform threat miner greynoise pulsedive",
+      "keyword_hits": [
+        "ioc"
+      ],
+      "char_count": 216,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3303,
+    "date": "2025-11-09",
+    "datetime_utc": "2025-11-09T11:07:23+00:00",
+    "timestamp": 1762686443,
+    "message": "Bug Bounty Search Engine\n\nGoogle advanced search queries generator for target domain:\n\nFile & Directory Discovery\nVulnerabilities & Exploits\nSubdomain & Asset Discovery\nArchive & Historical Data\nOSINT & Social\n\nhttps://github.com/gatiella/Bug-Bounty-Search-Engine.io\n\njust download html file and open in browser",
+    "id": "5d722c0e-a193-4a02-a506-3773af68d764",
+    "cleaning": {
+      "normalized_message": "bug bounty search engine google advanced search queries generator for target domain file directory discovery vulnerabilities exploits subdomain asset discovery archive historical data osint social just download html file and open in browser",
+      "keyword_hits": [
+        "exploits"
+      ],
+      "char_count": 240,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3327,
+    "date": "2025-12-03",
+    "datetime_utc": "2025-12-03T19:52:53+00:00",
+    "timestamp": 1764791573,
+    "message": "DarkFeed\n\nCyber Threats Monitoring Dashboard\n\nLatest Ransomware Attacks\nCyber Threat Intelligence Reports\nOnline/Inactive Ransomware Teams\nRansomware Groups Overview\n\nhttps://darkfeed.io/\n\nA part of data is available for free and without registration.\n\n#cybersecurity",
+    "id": "43c2699d-9164-4a24-a97a-97baccef902c",
+    "cleaning": {
+      "normalized_message": "darkfeed cyber threats monitoring dashboard latest ransomware attacks cyber threat intelligence reports online inactive ransomware teams ransomware groups overview a part of data is available for free and without registration cybersecurity",
+      "keyword_hits": [
+        "ransomware"
+      ],
+      "char_count": 239,
+      "token_count": 31,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3332,
+    "date": "2025-12-08",
+    "datetime_utc": "2025-12-08T06:16:43+00:00",
+    "timestamp": 1765174603,
+    "message": "The Ultimate OSINT Guide: Essential Tools for Phone Number Investigation by eRRor\n\nGlobal Verification and Lookup Tools\nData Breach Analysis\nCarrier, SIM, and Porting Intelligence\nPhone Number Intelligence & Caller ID\nSocial Media and Username \n\nhttps://medium.com/@eRRoR_/the-ultimate-osint-guide-essential-tools-for-phone-number-investigation-be1924ddf578",
+    "id": "83e6b2fa-18cc-46bc-a892-306049e4582c",
+    "cleaning": {
+      "normalized_message": "the ultimate osint guide essential tools for phone number investigation by error global verification and lookup tools data breach analysis carrier sim and porting intelligence phone number intelligence caller id social media and username",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 237,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3348,
+    "date": "2025-12-21",
+    "datetime_utc": "2025-12-21T11:44:59+00:00",
+    "timestamp": 1766317499,
+    "message": "The OSINT Rack\n\n\nOnline #osint tools directory by Mario Santella. \n\nBreach data\nDarkweb\nCryptocurrencies\nGEOInt\nSocmint\nCrawling/scraping\nEmail/phone/domain investigations\n\n\nhttps://www.mariosantella.com/the-osint-rack/",
+    "id": "0b089e17-36fc-4eae-af06-299ff2baf43f",
+    "cleaning": {
+      "normalized_message": "the osint rack online osint tools directory by mario santella breach data darkweb cryptocurrencies geoint socmint crawling scraping email phone domain investigations",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 165,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3356,
+    "date": "2025-12-29",
+    "datetime_utc": "2025-12-29T08:21:11+00:00",
+    "timestamp": 1766996471,
+    "message": "The Digital Detective’s Arsenal: Essential Tools for Forensics & Investigation\n\n\nEvidence Integrity & Hashing\nSecuring the Data\nFull Forensic Suites\nFile Recovery & Carving\nMemory & Malware Forensics\nOSINT & Reconnaissance\n\nhttps://medium.com/@eRRoR_/the-digital-detectives-arsenal-essential-tools-for-forensics-investigation-d593083b39be\n\nby eRRoR_",
+    "id": "2547ec44-0e53-443f-a6b0-36088b1646a8",
+    "cleaning": {
+      "normalized_message": "the digital detective s arsenal essential tools for forensics investigation evidence integrity hashing securing the data full forensic suites file recovery carving memory malware forensics osint reconnaissance by error_",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 219,
+      "token_count": 29,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3360,
+    "date": "2026-01-05",
+    "datetime_utc": "2026-01-05T08:55:21+00:00",
+    "timestamp": 1767603321,
+    "message": "OSINT Investigation Reports Templates (FREE)\n\n- breach analysis report\n- network reconnaissance\n- communication patterns\n- domain website\n- individual investigation\n\nhttps://github.com/JambaAcademy/OSINT/tree/main/osint-templates/investigation-reports\n\nBy Jamba Academy",
+    "id": "67a55c2e-bb22-4bae-8f45-573b42b71815",
+    "cleaning": {
+      "normalized_message": "osint investigation reports templates free - breach analysis report - network reconnaissance - communication patterns - domain website - individual investigation by jamba academy",
+      "keyword_hits": [
+        "breach"
+      ],
+      "char_count": 178,
+      "token_count": 24,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3378,
+    "date": "2026-01-25",
+    "datetime_utc": "2026-01-25T13:03:56+00:00",
+    "timestamp": 1769346236,
+    "message": "TrinetLayer\n\nOnline tools for #bugbounty hunters:\n\nSubdomain scanner\nCVE scanner\nJS analyzer\nLive Exploit Sandbox\n\n+ a lot of useful info about modern vulnerabilities\n\nhttps://trinetlayer.com/",
+    "id": "577c1d8c-03d8-4a7e-a9ae-b66ed69b5133",
+    "cleaning": {
+      "normalized_message": "trinetlayer online tools for bugbounty hunters subdomain scanner cve scanner js analyzer live exploit sandbox a lot of useful info about modern vulnerabilities",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 159,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3391,
+    "date": "2026-02-05",
+    "datetime_utc": "2026-02-05T08:04:31+00:00",
+    "timestamp": 1770278671,
+    "message": "OSINT tips to detect phishing websites\n\nDetailed guide by Nihad A Hassan:\n\nThe anatomy of a phishing website\nDetecting phishing websites using OSINT techniques\nExamine social media profiles\nHow Silo fast-tracks phishing incident response\n\nhttps://www.authentic8.com/blog/leveraging-osint-for-phishing-websites",
+    "id": "a3a98da5-93b4-435e-946f-d768523975b3",
+    "cleaning": {
+      "normalized_message": "osint tips to detect phishing websites detailed guide by nihad a hassan the anatomy of a phishing website detecting phishing websites using osint techniques examine social media profiles how silo fast-tracks phishing incident response",
+      "keyword_hits": [
+        "phishing"
+      ],
+      "char_count": 234,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3398,
+    "date": "2026-02-11",
+    "datetime_utc": "2026-02-11T09:58:33+00:00",
+    "timestamp": 1770803913,
+    "message": "Advanced OverPass Turbo tricks:\n\nArticle by aircorridor:\n\nAdvanced Query Construction with Regular Expressions\nProximity Analysis with the Around Filter\nAnomaly Detection\nBulk Data Exfiltration \nAdvanced Filtering with Conditional Logic\n\nhttps://hackers-arise.com/osint-advanced-queries-overpass-turbo/\n\n#geoint",
+    "id": "bf75363c-36d1-4882-85aa-244a8d58f6ed",
+    "cleaning": {
+      "normalized_message": "advanced overpass turbo tricks article by aircorridor advanced query construction with regular expressions proximity analysis with the around filter anomaly detection bulk data exfiltration advanced filtering with conditional logic geoint",
+      "keyword_hits": [
+        "exfiltration"
+      ],
+      "char_count": 238,
+      "token_count": 30,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3401,
+    "date": "2026-02-13",
+    "datetime_utc": "2026-02-13T08:29:06+00:00",
+    "timestamp": 1770971346,
+    "message": "Intelligence Security\n\nDiscover If your data has been leaked. 1 email/domain search day/free.\n\nTop Leak URLs\nSubdomains\nRelated Domains\nSample Credentials\nRisk Factors\n\nhttps://intelligencesecurity.io/\n\n#osint",
+    "id": "b4d19eca-c759-495b-b47b-9da9fb17ab09",
+    "cleaning": {
+      "normalized_message": "intelligence security discover if your data has been leaked 1 email domain search day free top leak urls subdomains related domains sample credentials risk factors osint",
+      "keyword_hits": [
+        "credentials",
+        "leak",
+        "leaked"
+      ],
+      "char_count": 169,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3413,
+    "date": "2026-02-24",
+    "datetime_utc": "2026-02-24T08:03:30+00:00",
+    "timestamp": 1771920210,
+    "message": "Mike Takashi Google Dorks cheat sheet\n\nGoogle advanced search queries tricks for finding OSINT leaks, vulnerabilities, bug bounty programs and other interesting things by TakSec \n\nOnline tool for working with all this dorks:\nhttps://taksec.github.io/google-dorks-bug-bounty/",
+    "id": "92c950bd-ee4e-4d8e-b3b6-ecca96b8290f",
+    "cleaning": {
+      "normalized_message": "mike takashi google dorks cheat sheet google advanced search queries tricks for finding osint leaks vulnerabilities bug bounty programs and other interesting things by taksec online tool for working with all this dorks",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 218,
+      "token_count": 33,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3463,
+    "date": "2026-04-19",
+    "datetime_utc": "2026-04-19T13:02:25+00:00",
+    "timestamp": 1776603745,
+    "message": "OSINT Cabal\n\nCatalogue of Tools & Resources\nMethods & Guides database\nOSINT & Cybersecurity News Feed\nCabal Threat Actor Dashboard\n\nhttps://osintcabal.org/",
+    "id": "992ee96e-70db-4e2f-b76a-a163dd884275",
+    "cleaning": {
+      "normalized_message": "osint cabal catalogue of tools resources methods guides database osint cybersecurity news feed cabal threat actor dashboard",
+      "keyword_hits": [
+        "threat actor"
+      ],
+      "char_count": 123,
+      "token_count": 17,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3464,
+    "date": "2026-04-19",
+    "datetime_utc": "2026-04-19T14:05:44+00:00",
+    "timestamp": 1776607544,
+    "message": "AI OSINT Google* Dorks\n\nExposed AI Conversations & Credentials\nExposed AI Dashboards\nAI Config & Credential Files\n\nhttps://github.com/7WaySecurity/ai_osint#-google-dorks\n\n* also try DuckDuckGo and other search engines",
+    "id": "2f2c3bb6-0cfc-4c9d-a237-dd7e716f7f41",
+    "cleaning": {
+      "normalized_message": "ai osint google dorks exposed ai conversations credentials exposed ai dashboards ai config credential files also try duckduckgo and other search engines",
+      "keyword_hits": [
+        "credential",
+        "credentials"
+      ],
+      "char_count": 152,
+      "token_count": 22,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3481,
+    "date": "2026-05-08",
+    "datetime_utc": "2026-05-08T11:37:03+00:00",
+    "timestamp": 1778240223,
+    "message": "FININT tools cheat sheet by Alex Lozano\n\nCorporation Wiki \nOpenCorporates\nNorthData \nCompanies House \nLittleSis \nOCCRP Aleph \nOffshore Leaks\nOpenSanctions\n\nand others.",
+    "id": "cc093b2b-2a15-49af-824f-b2fe76e1aa34",
+    "cleaning": {
+      "normalized_message": "finint tools cheat sheet by alex lozano corporation wiki opencorporates northdata companies house littlesis occrp aleph offshore leaks opensanctions and others",
+      "keyword_hits": [
+        "leaks"
+      ],
+      "char_count": 159,
+      "token_count": 21,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  }
+]

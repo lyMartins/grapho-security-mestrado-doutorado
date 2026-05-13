@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1780,
+    "date": "2023-07-15",
+    "datetime_utc": "2023-07-15T10:00:20+00:00",
+    "timestamp": 1689415220,
+    "message": "What many of you have been waiting for, limited seats available!!!\n\nJoin my Cybersecurity hands-on intensive LIVE training. \n\nWith the increasing frequency and sophistication of cyber threats, the need for skilled Cybersecurity professionals is skyrocketing. This training will help you unlock a wealth of opportunities with potential for lucrative, high-paying jobs in the cybersecurity field. \n\nLearn essential skills, from compliance frameworks to system hardening, encryption to vulnerability management. Gain hands-on experience with popular security tools, tackle common cyber attacks, and learn about log management.\n\nEnroll now to seize your chance in this thriving industry and pave the way for a successful career in cybersecurity. \n\nDon't miss out on this promising pathway to professional growth and the potential for a high paying Cybersecurity career.\n\nTopics Covered:\n\nCybersecurity Terminologies\n\nCompliance: Frameworks/Laws/Certifications\n\nSystem hardening - Hands-on\n\nUsing Strong Password\n\nSetting up MFA for a Server\n\nAdding SSH keys to a server\n\nEncryption lab\n\nPopular Security Tools\n\niptables\n\nNmap\n\nSnort\n\nWazuh (OSSEC)\n\nManage Engine\n\nVulnerability Management\n\nNessus\n\nOpenVAS\n\nCommon Cybersecurity Attacks\n\nOWASP Top 10 - Overview\n\nLog Management.\n\nSigning up for this live training provides you with free unlimited access to my on-demand course bundle so you never have to pay the monthly fee.\n\nLimited seats available. Sign up now to reserve your spot before it's sold out!\n\nhttps://bit.ly/cybertrmk",
+    "id": "12d2c748-c526-44f5-90c3-a3616a7c897a",
+    "cleaning": {
+      "normalized_message": "what many of you have been waiting for limited seats available join my cybersecurity hands-on intensive live training with the increasing frequency and sophistication of cyber threats the need for skilled cybersecurity professionals is skyrocketing this training will help you unlock a wealth of opportunities with potential for lucrative high-paying jobs in the cybersecurity field learn essential skills from compliance frameworks to system hardening encryption to vulnerability management gain hands-on experience with popular security tools tackle common cyber attacks and learn about log management enroll now to seize your chance in this thriving industry and pave the way for a successful career in cybersecurity don t miss out on this promising pathway to professional growth and the potential for a high paying cybersecurity career topics covered cybersecurity terminologies compliance frameworks laws certifications system hardening - hands-on using strong password setting up mfa for a server adding ssh keys to a server encryption lab popular security tools iptables nmap snort wazuh ossec manage engine vulnerability management nessus openvas common cybersecurity attacks owasp top 10 - overview log management signing up for this live training provides you with free unlimited access to my on-demand course bundle so you never have to pay the monthly fee limited seats available sign up now to reserve your spot before it s sold out",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 1446,
+      "token_count": 218,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1872,
+    "date": "2023-08-20",
+    "datetime_utc": "2023-08-20T17:22:27+00:00",
+    "timestamp": 1692552147,
+    "message": "If you want to increase your chances of getting a job in the Cybersecurity or Cloud Security field you NEED TO LEARN ABOUT VULNERABILY MANAGEMENT.\n\nDid I say that loud enough 😊?\n\nThis may be the work you are dedicated to doing when you land a Cybersecurity job.\n\nI have now started uploading videos on Vulnerability Management and will soon upload hands-on videos using one of the most popular Vulnerability Management tool, OpenVAS. \n\nWe will use this very popular tool to scan a system for vulnerabilities so you can add this to your resume, but first, we will install Virtualbox and Ubuntu operating system in Virtualbox.\n\nIf you're not already signed up for my Linux, AWS, Cybersecurity and Cloud Security course bundle, visit the link below for information in signing up.\n\nwww.yescertified.com",
+    "id": "2562a45d-5f53-4024-a9a4-fdc46517bc34",
+    "cleaning": {
+      "normalized_message": "if you want to increase your chances of getting a job in the cybersecurity or cloud security field you need to learn about vulnerabily management did i say that loud enough this may be the work you are dedicated to doing when you land a cybersecurity job i have now started uploading videos on vulnerability management and will soon upload hands-on videos using one of the most popular vulnerability management tool openvas we will use this very popular tool to scan a system for vulnerabilities so you can add this to your resume but first we will install virtualbox and ubuntu operating system in virtualbox if you re not already signed up for my linux aws cybersecurity and cloud security course bundle visit the link below for information in signing up www yescertified com",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 777,
+      "token_count": 134,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2020,
+    "date": "2023-11-24",
+    "datetime_utc": "2023-11-24T19:47:28+00:00",
+    "timestamp": 1700855248,
+    "message": "Updates about my course bundle!\n\nI'm working on some Vulnerability management hands-on videos for the Cybersecurity section of the course bundle that will be released soon, so stay tuned.\n\nThe three vulnerability management hands-on videos I'm working one should no doubt help you standout among other job applicants. Most people don't know, it's not just about certs, it's knowing how to use the most popular tools for the job.\n\nPlease visit my website at www.yescertified.com sign up for my Linux, AWS, Cybersecurity and Cloud Security course bundle to gain access.",
+    "id": "0834bfd4-e051-4d29-b00e-3c4d5a724fd8",
+    "cleaning": {
+      "normalized_message": "updates about my course bundle i m working on some vulnerability management hands-on videos for the cybersecurity section of the course bundle that will be released soon so stay tuned the three vulnerability management hands-on videos i m working one should no doubt help you standout among other job applicants most people don t know it s not just about certs it s knowing how to use the most popular tools for the job please visit my website at www yescertified com sign up for my linux aws cybersecurity and cloud security course bundle to gain access",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 554,
+      "token_count": 97,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "_id": 94985,
+    "date": "2023-02-05",
+    "datetime_utc": "2023-02-05T17:07:46+00:00",
+    "timestamp": 1675616866,
+    "message": "Serious vulnerability",
+    "id": "43e7dc78-becf-45a2-a61e-6ea207029a92",
+    "cleaning": {
+      "normalized_message": "serious vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 21,
+      "token_count": 2,
+      "decision": "keep_review",
+      "reason": "short_but_keyword_hit"
+    }
+  },
+  {
+    "_id": 95243,
+    "date": "2023-02-25",
+    "datetime_utc": "2023-02-25T09:37:10+00:00",
+    "timestamp": 1677317830,
+    "message": "Hello guys, how can I write a report on a security vulnerability of the type OSVDB",
+    "id": "f43b2c9d-de26-4f84-b506-6e09d803124a",
+    "cleaning": {
+      "normalized_message": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 81,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 95244,
+    "date": "2023-02-25",
+    "datetime_utc": "2023-02-25T09:41:43+00:00",
+    "timestamp": 1677318103,
+    "message": "Hello guys, how can I write a report on a security vulnerability of the type OSVDB.",
+    "id": "1aca72df-9a8c-4de7-9182-a5839fec8660",
+    "cleaning": {
+      "normalized_message": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 81,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 95293,
+    "date": "2023-02-28",
+    "datetime_utc": "2023-02-28T15:11:23+00:00",
+    "timestamp": 1677597083,
+    "message": "Someone who knows how to get back my hacked account? This is so fast.",
+    "id": "78135826-7e31-471e-ad5f-bcef6a87ba79",
+    "cleaning": {
+      "normalized_message": "someone who knows how to get back my hacked account this is so fast",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "char_count": 67,
+      "token_count": 14,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 96183,
+    "date": "2023-05-07",
+    "datetime_utc": "2023-05-07T01:01:07+00:00",
+    "timestamp": 1683421267,
+    "message": "if I accidentally installed malware onto android phone but no permissions have been granted to the app, does it mean I'm safe from the malware?",
+    "id": "6eed084f-7528-4f40-be6c-413460ed808a",
+    "cleaning": {
+      "normalized_message": "if i accidentally installed malware onto android phone but no permissions have been granted to the app does it mean i m safe from the malware",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 141,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 96473,
+    "date": "2023-06-09",
+    "datetime_utc": "2023-06-09T21:29:55+00:00",
+    "timestamp": 1686346195,
+    "message": "guys need help somebody hacked my pc and start givin me threats to share my conversation",
+    "id": "29b4f1e8-2e77-4ea7-abba-a3c722cce12e",
+    "cleaning": {
+      "normalized_message": "guys need help somebody hacked my pc and start givin me threats to share my conversation",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "char_count": 88,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 96548,
+    "date": "2023-06-15",
+    "datetime_utc": "2023-06-15T08:42:31+00:00",
+    "timestamp": 1686818551,
+    "message": "Any one hacked Instagram account",
+    "id": "70f4ce9b-e035-4c0c-90b9-de6c28a84ba2",
+    "cleaning": {
+      "normalized_message": "any one hacked instagram account",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "char_count": 32,
+      "token_count": 5,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 99434,
+    "date": "2023-12-20",
+    "datetime_utc": "2023-12-20T01:09:30+00:00",
+    "timestamp": 1703034570,
+    "message": "Hey Hassan, what kind of security incidents do you want to investigate on?\n\nThe common tools like Splunk, Tenable, etc. got ai-powered or ai-driven solutions. But I bet thats not what you would expect from AI.\nThey can identify anomalies across multiple systems on a huge data base or automatically generate reports for audits quite well. But they cannot detect and respond or fix threats in a way that it could replace an expert or fully automate parts of the incident handling process. They can actually support you and accelerate your work and give you quite good hints where to keep an eye on. \n\nTools like appdynamics, datadog, splunk or new relic are often related to AIOps and suggest to you that this is the solution you are looking for. But instead you should have a look at the complete SDLC and focus on the origin of the risks. Build a DevSecOps pipeline which covers the development and the operation of the code/software which you operate or try to protect. Don’t let security be an afterthought. \n\n- Copilot can support you in checking your code \n- Veracode helps you identify and fix your code (SAST, DAST, SCA)\n- Snyk covers the SAST part \n- tenable takes the vulnerability management part \n- and the tools mentioned at the beginning are usually monitoring tools at the end of the Pipeline / Lifecycle.\n\nTry to cover all aspects and focus on a shift-left security strategy to reduce the noise at the end.",
+    "id": "a9e01d01-ce21-49b4-a2a7-b59907ef4ac1",
+    "cleaning": {
+      "normalized_message": "hey hassan what kind of security incidents do you want to investigate on the common tools like splunk tenable etc got ai-powered or ai-driven solutions but i bet thats not what you would expect from ai they can identify anomalies across multiple systems on a huge data base or automatically generate reports for audits quite well but they cannot detect and respond or fix threats in a way that it could replace an expert or fully automate parts of the incident handling process they can actually support you and accelerate your work and give you quite good hints where to keep an eye on tools like appdynamics datadog splunk or new relic are often related to aiops and suggest to you that this is the solution you are looking for but instead you should have a look at the complete sdlc and focus on the origin of the risks build a devsecops pipeline which covers the development and the operation of the code software which you operate or try to protect don t let security be an afterthought - copilot can support you in checking your code - veracode helps you identify and fix your code sast dast sca - snyk covers the sast part - tenable takes the vulnerability management part - and the tools mentioned at the beginning are usually monitoring tools at the end of the pipeline lifecycle try to cover all aspects and focus on a shift-left security strategy to reduce the noise at the end",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 1388,
+      "token_count": 250,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 99610,
+    "date": "2024-01-02",
+    "datetime_utc": "2024-01-02T10:02:26+00:00",
+    "timestamp": 1704189746,
+    "message": "How would someone go about detecting if a Pc game is acting malicious?\n\nI noticed, that a development of a Russianmade unofficial expansion with a broad global reach changed character. The timing of these changes corresponds roughly with the invasion of Ukraine.\n\nBasically, my spider senses are tingling, and I wonder how I might detect malicious activity. Specifically I worry about this project being taken over by the government and used to run a botnet or similar. \n\nThe game is heroes of might and magic 3, and the very actively developed Russian expansion is called HOTA (horn of the Abyss)",
+    "id": "fda5d619-101a-4a48-88e2-1d8bdb706943",
+    "cleaning": {
+      "normalized_message": "how would someone go about detecting if a pc game is acting malicious i noticed that a development of a russianmade unofficial expansion with a broad global reach changed character the timing of these changes corresponds roughly with the invasion of ukraine basically my spider senses are tingling and i wonder how i might detect malicious activity specifically i worry about this project being taken over by the government and used to run a botnet or similar the game is heroes of might and magic 3 and the very actively developed russian expansion is called hota horn of the abyss",
+      "keyword_hits": [
+        "botnet"
+      ],
+      "char_count": 582,
+      "token_count": 100,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 100624,
+    "date": "2024-03-26",
+    "datetime_utc": "2024-03-26T19:41:16+00:00",
+    "timestamp": 1711482076,
+    "message": "Where can I share a current Linux exploit? How is this a security channel if I cannot share security issuse that need patching...",
+    "id": "c9ae67c1-8cb5-4824-b63f-5b035b79d1c5",
+    "cleaning": {
+      "normalized_message": "where can i share a current linux exploit how is this a security channel if i cannot share security issuse that need patching",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "char_count": 125,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 100656,
+    "date": "2024-03-27",
+    "datetime_utc": "2024-03-27T22:05:38+00:00",
+    "timestamp": 1711577138,
+    "message": "Hi need help. Ex hacked my phone and control everything. Like speed connections, orders in Uber driver or Lyft driver, phone always hot and battery dying very fast",
+    "id": "f9e5958c-ce66-4283-a799-b81a25814c20",
+    "cleaning": {
+      "normalized_message": "hi need help ex hacked my phone and control everything like speed connections orders in uber driver or lyft driver phone always hot and battery dying very fast",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "char_count": 159,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 100807,
+    "date": "2024-04-09",
+    "datetime_utc": "2024-04-09T18:01:46+00:00",
+    "timestamp": 1712685706,
+    "message": "How many (groups) of malware do you know?",
+    "id": "f3ff082d-a8b9-46bd-a5f3-8eec620164ca",
+    "cleaning": {
+      "normalized_message": "how many groups of malware do you know",
+      "keyword_hits": [
+        "malware"
+      ],
+      "char_count": 38,
+      "token_count": 8,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 102795,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:17:10+00:00",
+    "timestamp": 1721495830,
+    "message": "Oops - Crowdstrike just demonstrated a serious vulnerability - directly internet-connected critical systems are updated with neither testing nor a backout plan...\nOf course all those third party sw vendors have equally rigorous protection 🙂",
+    "id": "e18756a8-96d8-48b3-a9ea-e4a82bfaf7a8",
+    "cleaning": {
+      "normalized_message": "oops - crowdstrike just demonstrated a serious vulnerability - directly internet-connected critical systems are updated with neither testing nor a backout plan of course all those third party sw vendors have equally rigorous protection",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 235,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 102796,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:49:37+00:00",
+    "timestamp": 1721497777,
+    "message": "Thats not exactly a vulnerability though. Its a bug in an update they pushed out that bricked many Windows machines with the software installed. \n\nA vulnerability is more so a backdoor or issue that allows security threats like remote access, priviledge escelation, etc that is present in functioning software/systems.",
+    "id": "f96cbef5-b1e3-429d-97b6-a9cab8c1a5cf",
+    "cleaning": {
+      "normalized_message": "thats not exactly a vulnerability though its a bug in an update they pushed out that bricked many windows machines with the software installed a vulnerability is more so a backdoor or issue that allows security threats like remote access priviledge escelation etc that is present in functioning software systems",
+      "keyword_hits": [
+        "backdoor",
+        "vulnerability"
+      ],
+      "char_count": 311,
+      "token_count": 50,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 102798,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:53:48+00:00",
+    "timestamp": 1721498028,
+    "message": "I would agree though that if we used the term \"vulnerability\" very loosely then we could apply it to the process of how they interact with their customers machines but again, not really the reason for this channel and thats a loose application.",
+    "id": "578d6738-1a3e-4de6-96f0-8a96a62e96e6",
+    "cleaning": {
+      "normalized_message": "i would agree though that if we used the term vulnerability very loosely then we could apply it to the process of how they interact with their customers machines but again not really the reason for this channel and thats a loose application",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "char_count": 240,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 104196,
+    "date": "2024-12-09",
+    "datetime_utc": "2024-12-09T11:07:48+00:00",
+    "timestamp": 1733742468,
+    "message": "Hlo everyone anyone to help a friend of a hacked WhatsApp account",
+    "id": "5e5a0fa0-67e1-4b8c-9358-9fad3b1a05cd",
+    "cleaning": {
+      "normalized_message": "hlo everyone anyone to help a friend of a hacked whatsapp account",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "char_count": 65,
+      "token_count": 12,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 108709,
+    "date": "2026-01-10",
+    "datetime_utc": "2026-01-10T16:40:06+00:00",
+    "timestamp": 1768063206,
+    "message": "How to check the crypto exchange sites before getting closed or it's a scam .",
+    "id": "fab07fdf-114b-4ed5-a49b-f5725326ca6e",
+    "cleaning": {
+      "normalized_message": "how to check the crypto exchange sites before getting closed or it s a scam",
+      "keyword_hits": [
+        "scam"
+      ],
+      "char_count": 75,
+      "token_count": 15,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 112229,
+    "date": "2026-04-02",
+    "datetime_utc": "2026-04-02T21:50:26+00:00",
+    "timestamp": 1775166626,
+    "message": "And can set up a C2 for escalation",
+    "id": "260c3f45-eb14-482e-8944-0507774c1b94",
+    "cleaning": {
+      "normalized_message": "and can set up a c2 for escalation",
+      "keyword_hits": [
+        "c2"
+      ],
+      "char_count": 34,
+      "token_count": 8,
+      "decision": "keep",
+      "reason": "keyword_match"
+    }
+  }
+]
