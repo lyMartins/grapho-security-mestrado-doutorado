@@ -70,7 +70,7 @@ def plot_type_metrics(metrics: dict[str, object], path: Path) -> None:
             float(values.get("average_precision", 0.0) or 0.0),
         )
         for label, values in per_label.items()
-        if isinstance(values, dict) and (values.get("support", 0) or values.get("predicted", 0))
+        if isinstance(values, dict)
     ]
     if not rows:
         return

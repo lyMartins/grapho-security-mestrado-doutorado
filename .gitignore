@@ -12,3 +12,4 @@ sentinel_replica_jsons_deterministic*
 cache
 .envrc
 pdf_output
+ignore_me.md
