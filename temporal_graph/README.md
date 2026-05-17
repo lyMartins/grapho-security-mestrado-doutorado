@@ -1,4 +1,4 @@
-# `temportal_graph`: grafo temporal para previsao de ameacas
+# `temporal_graph`: grafo temporal para previsao de ameacas
 
 Este modulo constroi e treina um grafo temporal heterogeneo para prever, a partir de mensagens de grupos de Telegram, o volume e os tipos de incidentes ciberneticos reportados pelo Hackmageddon no dia seguinte.
 
@@ -15,16 +15,16 @@ uv run train_weekly.py
 
 O primeiro comando gera:
 
-- `temportal_graph/output/weekly_dataset.pt`: objeto `HeteroData` do PyTorch Geometric.
-- `temportal_graph/output/weekly_metadata.json`: estatisticas do grafo, distribuicoes e parametros de construcao.
+- `temporal_graph/output/weekly_dataset.pt`: objeto `HeteroData` do PyTorch Geometric.
+- `temporal_graph/output/weekly_metadata.json`: estatisticas do grafo, distribuicoes e parametros de construcao.
 
 O segundo comando gera:
 
-- `temportal_graph/output/weekly_metrics.json`: metricas de treino, validacao e teste.
-- `temportal_graph/output/weekly_training_history.png`
-- `temportal_graph/output/weekly_val_count_confusion_matrix.png`
-- `temportal_graph/output/weekly_test_count_confusion_matrix.png`
-- `temportal_graph/output/weekly_test_type_metrics.png`
+- `temporal_graph/output/weekly_metrics.json`: metricas de treino, validacao e teste.
+- `temporal_graph/output/weekly_training_history.png`
+- `temporal_graph/output/weekly_val_count_confusion_matrix.png`
+- `temporal_graph/output/weekly_test_count_confusion_matrix.png`
+- `temporal_graph/output/weekly_test_type_metrics.png`
 
 Tambem existe uma visualizacao HTML:
 
