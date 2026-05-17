@@ -11,6 +11,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 21,
       "token_count": 2,
       "decision": "keep_review",
@@ -29,6 +30,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 81,
       "token_count": 16,
       "decision": "keep",
@@ -47,6 +49,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 81,
       "token_count": 16,
       "decision": "keep",
@@ -65,6 +68,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 67,
       "token_count": 14,
       "decision": "keep",
@@ -83,6 +87,7 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 141,
       "token_count": 26,
       "decision": "keep",
@@ -101,6 +106,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 88,
       "token_count": 16,
       "decision": "keep",
@@ -119,10 +125,202 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 32,
       "token_count": 5,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 96596,
+    "date": "2023-06-20",
+    "datetime_utc": "2023-06-20T10:24:18+00:00",
+    "timestamp": 1687256658,
+    "message": "Any one interested in ethical hacking so DM me",
+    "id": "a3b44e17-b0a0-4485-ab15-2d7e94411f34",
+    "cleaning": {
+      "normalized_message": "any one interested in ethical hacking so dm me",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 46,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 96697,
+    "date": "2023-06-27",
+    "datetime_utc": "2023-06-27T05:58:00+00:00",
+    "timestamp": 1687845480,
+    "message": "Hey there guys I'm new to this cyber security stuff so can anyone guide me😃. I did an online course on ethical hacking and comptia security+. What do you think should be my next step😇",
+    "id": "59ede890-b0ed-45ca-a740-fa8c8a77701e",
+    "cleaning": {
+      "normalized_message": "hey there guys i m new to this cyber security stuff so can anyone guide me i did an online course on ethical hacking and comptia security what do you think should be my next step",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hacking"
+      ],
+      "char_count": 178,
+      "token_count": 36,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 96715,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:02:55+00:00",
+    "timestamp": 1687964575,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "519efb94-8c72-4466-bc4c-a59ab59ee8a3",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 96716,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:03:47+00:00",
+    "timestamp": 1687964627,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "11c692dd-2568-4e9f-a6be-0076ffb13b32",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 96717,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:04:09+00:00",
+    "timestamp": 1687964649,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "8c238f05-86dc-43ac-81b1-b94052742928",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 98606,
+    "date": "2023-10-27",
+    "datetime_utc": "2023-10-27T18:23:16+00:00",
+    "timestamp": 1698430996,
+    "message": "Hlw...My self Royal Hacker Sourav from India...Nice to meet you all..",
+    "id": "c04aa168-d740-4b82-aebe-abc4646d2645",
+    "cleaning": {
+      "normalized_message": "hlw my self royal hacker sourav from india nice to meet you all",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 63,
+      "token_count": 13,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 98780,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T01:31:39+00:00",
+    "timestamp": 1699666299,
+    "message": "Hi, I need help hacking an Instagram account immediately, it's urgent, thanks",
+    "id": "de202c7d-96a4-4016-9bbe-cfe239925ddc",
+    "cleaning": {
+      "normalized_message": "hi i need help hacking an instagram account immediately it s urgent thanks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 74,
+      "token_count": 13,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 98785,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T03:33:33+00:00",
+    "timestamp": 1699673613,
+    "message": "/ban We don’t help with illegal hacking",
+    "id": "fc2fedb6-dd4b-47b5-891d-fa5257962f50",
+    "cleaning": {
+      "normalized_message": "ban we don t help with illegal hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 38,
+      "token_count": 8,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 98786,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T03:33:34+00:00",
+    "timestamp": 1699673614,
+    "message": "Another one bites the dust...!\nBanned [Ydtyyyy4567](tg://user?id=867093320).\nReason:\nWe don’t help with illegal hacking",
+    "id": "0710d058-6686-4928-9028-50f9d258941d",
+    "cleaning": {
+      "normalized_message": "another one bites the dust banned ydtyyyy4567 tg user id 867093320 reason we don t help with illegal hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 108,
+      "token_count": 19,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 98803,
+    "date": "2023-11-12",
+    "datetime_utc": "2023-11-12T22:01:49+00:00",
+    "timestamp": 1699826509,
+    "message": "Has anyone tried any AI tools to investigate cyber security incidents",
+    "id": "2da0df20-4534-413f-95d3-a86fa95c7e1b",
+    "cleaning": {
+      "normalized_message": "has anyone tried any ai tools to investigate cyber security incidents",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 69,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -137,6 +335,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1388,
       "token_count": 250,
       "decision": "keep",
@@ -155,10 +354,126 @@
       "keyword_hits": [
         "botnet"
       ],
+      "soft_keyword_hits": [],
       "char_count": 582,
       "token_count": 100,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 99663,
+    "date": "2024-01-05",
+    "datetime_utc": "2024-01-05T12:33:57+00:00",
+    "timestamp": 1704458037,
+    "message": "Hey all. I'm new into bug bounty and learning about it. any good resources? currently I'm doing cert from tcm security on practical ethical hacking",
+    "id": "5cc9a9e5-437b-41e7-8710-903d1380c856",
+    "cleaning": {
+      "normalized_message": "hey all i m new into bug bounty and learning about it any good resources currently i m doing cert from tcm security on practical ethical hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "hacking"
+      ],
+      "char_count": 144,
+      "token_count": 27,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 99731,
+    "date": "2024-01-10",
+    "datetime_utc": "2024-01-10T23:38:54+00:00",
+    "timestamp": 1704929934,
+    "message": "Hi guys, can you please guide me. I am looking to start my career and work experience in cyber security. I don't have any work experience but have studied relevant subjects at college. I am a first year cyber security student. If there are any opportunities please let me know.\n\nThank You",
+    "id": "9382d8b7-07ff-459b-b749-4e1c50423034",
+    "cleaning": {
+      "normalized_message": "hi guys can you please guide me i am looking to start my career and work experience in cyber security i don t have any work experience but have studied relevant subjects at college i am a first year cyber security student if there are any opportunities please let me know thank you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 281,
+      "token_count": 53,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 99856,
+    "date": "2024-01-21",
+    "datetime_utc": "2024-01-21T20:05:07+00:00",
+    "timestamp": 1705867507,
+    "message": "Hi, I need some basics of IT security and ethical hacking, can someone help giving me a start or giving some tips where and how to start. I want to do it in my spare time and on a self study basis. Thanks",
+    "id": "5176ec1a-37a9-4e77-a9ef-f814343ed487",
+    "cleaning": {
+      "normalized_message": "hi i need some basics of it security and ethical hacking can someone help giving me a start or giving some tips where and how to start i want to do it in my spare time and on a self study basis thanks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 200,
+      "token_count": 43,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 99956,
+    "date": "2024-01-28",
+    "datetime_utc": "2024-01-28T05:06:46+00:00",
+    "timestamp": 1706418406,
+    "message": "Have a look at coursera there is a Google cybersecurity certification program",
+    "id": "cd7d81be-b012-4ec3-8566-2156a8341622",
+    "cleaning": {
+      "normalized_message": "have a look at coursera there is a google cybersecurity certification program",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 77,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 100044,
+    "date": "2024-02-04",
+    "datetime_utc": "2024-02-04T06:41:39+00:00",
+    "timestamp": 1707028899,
+    "message": "I want a legit place to study cyber security",
+    "id": "24e6dd66-8c59-427c-8957-473d19e06c45",
+    "cleaning": {
+      "normalized_message": "i want a legit place to study cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 44,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 100045,
+    "date": "2024-02-04",
+    "datetime_utc": "2024-02-04T06:42:16+00:00",
+    "timestamp": 1707028936,
+    "message": "Do any one know a place that I can get a international certificates for cyber security ?",
+    "id": "a2bd9bba-d6ec-4ae5-8bf5-53a737f3c87d",
+    "cleaning": {
+      "normalized_message": "do any one know a place that i can get a international certificates for cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 86,
+      "token_count": 16,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -173,6 +488,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 125,
       "token_count": 23,
       "decision": "keep",
@@ -191,6 +507,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 159,
       "token_count": 28,
       "decision": "keep",
@@ -209,6 +526,7 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 38,
       "token_count": 8,
       "decision": "keep",
@@ -227,6 +545,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 235,
       "token_count": 34,
       "decision": "keep",
@@ -246,6 +565,7 @@
         "backdoor",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 311,
       "token_count": 50,
       "decision": "keep",
@@ -264,6 +584,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 240,
       "token_count": 43,
       "decision": "keep",
@@ -282,10 +603,106 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 65,
       "token_count": 12,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 104921,
+    "date": "2025-03-03",
+    "datetime_utc": "2025-03-03T02:07:55+00:00",
+    "timestamp": 1740967675,
+    "message": "Who can help me remove the UI from a old door dash table?? I have a kali Linux virtual machine that I can use for hacking it but I can’t get the table to connect to the VM so I can do an ADB",
+    "id": "befffd72-101e-49f2-a18b-2416fd6cab58",
+    "cleaning": {
+      "normalized_message": "who can help me remove the ui from a old door dash table i have a kali linux virtual machine that i can use for hacking it but i can t get the table to connect to the vm so i can do an adb",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 188,
+      "token_count": 45,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 106275,
+    "date": "2025-09-04",
+    "datetime_utc": "2025-09-04T00:49:19+00:00",
+    "timestamp": 1756946959,
+    "message": "Guys any channel or discord server for cybersecurity events and webnier etc",
+    "id": "cadee0cd-e0b8-4b66-8fd7-1130318faa77",
+    "cleaning": {
+      "normalized_message": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 75,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 106366,
+    "date": "2025-09-13",
+    "datetime_utc": "2025-09-13T03:45:49+00:00",
+    "timestamp": 1757735149,
+    "message": "Guys any channel or discord server for cybersecurity events and webnier etc",
+    "id": "7515d015-16dc-453f-a212-b3331e3b004d",
+    "cleaning": {
+      "normalized_message": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 75,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 107965,
+    "date": "2025-12-24",
+    "datetime_utc": "2025-12-24T17:34:49+00:00",
+    "timestamp": 1766597689,
+    "message": "Are you studying any field of computer science or cyber security",
+    "id": "c15bf1bb-96d6-4797-b025-a14989860d40",
+    "cleaning": {
+      "normalized_message": "are you studying any field of computer science or cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 64,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 108708,
+    "date": "2026-01-10",
+    "datetime_utc": "2026-01-10T12:22:39+00:00",
+    "timestamp": 1768047759,
+    "message": "Sir I need guidance in cyber security as a fresher please",
+    "id": "b6297063-de0a-46ee-a0bc-2dbab7f528ff",
+    "cleaning": {
+      "normalized_message": "sir i need guidance in cyber security as a fresher please",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 57,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -300,10 +717,30 @@
       "keyword_hits": [
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 75,
       "token_count": 15,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 108721,
+    "date": "2026-01-11",
+    "datetime_utc": "2026-01-11T05:15:05+00:00",
+    "timestamp": 1768108505,
+    "message": "Before proceed, Why u r intrested in cyber security?",
+    "id": "470bf86e-cae4-4405-9088-299cde42f3ae",
+    "cleaning": {
+      "normalized_message": "before proceed why u r intrested in cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 50,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -318,10 +755,88 @@
       "keyword_hits": [
         "c2"
       ],
+      "soft_keyword_hits": [],
       "char_count": 34,
       "token_count": 8,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 112522,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:43:48+00:00",
+    "timestamp": 1777214628,
+    "message": "How is it that people doesn't know pentesting/Red Team/Bug hunting doesn't end with WebApps?",
+    "id": "c9205406-4020-48f2-ab90-e0f02831cefe",
+    "cleaning": {
+      "normalized_message": "how is it that people doesn t know pentesting red team bug hunting doesn t end with webapps",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting",
+        "red team"
+      ],
+      "char_count": 91,
+      "token_count": 18,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 112523,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:44:46+00:00",
+    "timestamp": 1777214686,
+    "message": "People are not aware of pentesting on Hardware/IoTs.",
+    "id": "c8eaeb36-b8fd-4649-bbb5-0adf07f7840d",
+    "cleaning": {
+      "normalized_message": "people are not aware of pentesting on hardware iots",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting"
+      ],
+      "char_count": 51,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 112527,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:49:28+00:00",
+    "timestamp": 1777214968,
+    "message": "There is pentesting in every field where security is a concern.",
+    "id": "3896dc39-52a7-4808-ae92-f09995342347",
+    "cleaning": {
+      "normalized_message": "there is pentesting in every field where security is a concern",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting"
+      ],
+      "char_count": 62,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 112535,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:55:51+00:00",
+    "timestamp": 1777215351,
+    "message": "These are security researchers (Pentesters/Redteams) testing Locks.",
+    "id": "82ec60fe-f7a6-4ad8-b961-adaee5f27cc5",
+    "cleaning": {
+      "normalized_message": "these are security researchers pentesters redteams testing locks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "security researchers"
+      ],
+      "char_count": 64,
+      "token_count": 8,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   }
 ]

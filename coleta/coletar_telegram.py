@@ -9,13 +9,15 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 from telethon import TelegramClient
-from telethon.errors import FloodWaitError
+from telethon.errors import FloodWaitError, UsernameInvalidError, UsernameNotOccupiedError
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT_DIR = ROOT_DIR / "sentinel_replica_jsons"
 DEFAULT_SESSION_PATH = ROOT_DIR / "session_sentinel"
 DEFAULT_START_DATE = datetime(2023, 1, 1, tzinfo=timezone.utc)
+# Data de corte: alinhada com o dado mais recente dos grupos existentes (2026-05-09)
+DEFAULT_END_DATE = datetime(2026, 5, 10, tzinfo=timezone.utc)  # exclusive upper bound (day + 1)
 
 GROUPS = [
     "joinhackingarmy",
@@ -28,6 +30,9 @@ GROUPS = [
     "itsectalk",
     "hackers_asylum",
     "cybersecurityexperts",
+    "vxunderground",
+    "RedPacketSecurity",
+    "twittercvenews",
 ]
 
 
@@ -69,7 +74,7 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help=(
             "Data final inclusiva no formato YYYY-MM-DD. "
-            "Se omitida, coleta até o instante atual em UTC."
+            "Se omitida, usa DEFAULT_END_DATE (2026-05-09) para alinhar com os dados existentes."
         ),
     )
     parser.add_argument(
@@ -248,7 +253,7 @@ async def collect_group(
     existing_messages, existing_ids, existing_signatures, latest_saved_date = load_existing_messages(filepath, full_refresh)
 
     start_date = resolve_start_date(manual_start_date, latest_saved_date, overlap_days)
-    end_date = manual_end_date or datetime.now(timezone.utc)
+    end_date = manual_end_date or DEFAULT_END_DATE
 
     latest_label = latest_saved_date.isoformat() if latest_saved_date else "arquivo novo"
     print(
@@ -289,6 +294,10 @@ async def collect_group(
                     print(f"  {group}: {len(new_messages)} mensagens novas encontradas...")
 
             break
+
+        except (UsernameInvalidError, UsernameNotOccupiedError) as error:
+            print(f"  -> {group}: username inválido ou inexistente, pulando ({error})")
+            return
 
         except FloodWaitError as error:
             wait_seconds = error.seconds + 5

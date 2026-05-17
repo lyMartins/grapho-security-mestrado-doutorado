@@ -63,6 +63,12 @@ def main() -> None:
     data = torch.load(args.data, weights_only=False)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     data = data.to(device)
+    use_amp = device.type == "cuda"
+    if use_amp:
+        for node_type in data.node_types:
+            x = data[node_type].x
+            if x is not None and x.is_floating_point():
+                data[node_type].x = x.half()
 
     y_count = data["day"].y_future_count
     y_count_bucket = data["day"].y_future_count_bucket
@@ -102,37 +108,42 @@ def main() -> None:
         dropout=args.dropout,
     ).to(device)
     optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
+    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=args.epochs, eta_min=1e-5)
+    scaler = torch.amp.GradScaler("cuda", enabled=use_amp)
 
     history = []
     for epoch in range(1, args.epochs + 1):
         model.train()
         optimizer.zero_grad()
-        outputs = model(data.x_dict, data.edge_index_dict)
-        count_bucket_loss = F.cross_entropy(
-            outputs["count_bucket"][train_mask],
-            y_count_bucket[train_mask],
-            weight=count_class_weights,
-        )
-        type_multilabel_loss = F.binary_cross_entropy_with_logits(
-            outputs["type_multilabel"][train_mask],
-            y_type_multilabel[train_mask],
-            pos_weight=type_pos_weights,
-        )
-        type_count_loss = F.smooth_l1_loss(
-            outputs["type_counts"][train_mask],
-            torch.log1p(y_type_counts[train_mask]),
-        )
-        loss = (
-            args.count_bucket_weight * count_bucket_loss
-            + args.multilabel_weight * type_multilabel_loss
-            + args.type_count_weight * type_count_loss
-        )
-        loss.backward()
-        optimizer.step()
+        with torch.autocast(device_type=device.type, dtype=torch.float16, enabled=use_amp):
+            outputs = model(data.x_dict, data.edge_index_dict)
+            count_bucket_loss = F.cross_entropy(
+                outputs["count_bucket"][train_mask],
+                y_count_bucket[train_mask],
+                weight=count_class_weights,
+            )
+            type_multilabel_loss = F.binary_cross_entropy_with_logits(
+                outputs["type_multilabel"][train_mask],
+                y_type_multilabel[train_mask],
+                pos_weight=type_pos_weights,
+            )
+            type_count_loss = F.smooth_l1_loss(
+                outputs["type_counts"][train_mask],
+                torch.log1p(y_type_counts[train_mask]),
+            )
+            loss = (
+                args.count_bucket_weight * count_bucket_loss
+                + args.multilabel_weight * type_multilabel_loss
+                + args.type_count_weight * type_count_loss
+            )
+        scaler.scale(loss).backward()
+        scaler.step(optimizer)
+        scaler.update()
+        scheduler.step()
 
         if epoch == 1 or epoch == args.epochs or epoch % 10 == 0:
             model.eval()
-            with torch.no_grad():
+            with torch.no_grad(), torch.autocast(device_type=device.type, dtype=torch.float16, enabled=use_amp):
                 outputs = model(data.x_dict, data.edge_index_dict)
                 val_count_metrics = count_bucket_metrics(
                     outputs["count_bucket"], y_count_bucket, val_mask, count_bucket_labels
@@ -144,15 +155,17 @@ def main() -> None:
                 "type_multilabel_loss": float(type_multilabel_loss.item()),
                 "type_count_loss": float(type_count_loss.item()),
                 "val_count_macro_f1": float(val_count_metrics.get("macro_f1", 0.0) or 0.0),
+                "lr": scheduler.get_last_lr()[0],
             }
             history.append(row)
             print(
                 f"epoch={epoch} loss={row['loss']:.4f} "
-                f"val_count_macro_f1={row['val_count_macro_f1']:.4f}"
+                f"val_count_macro_f1={row['val_count_macro_f1']:.4f} "
+                f"lr={row['lr']:.2e}"
             )
 
     model.eval()
-    with torch.no_grad():
+    with torch.no_grad(), torch.autocast(device_type=device.type, dtype=torch.float16, enabled=use_amp):
         outputs = model(data.x_dict, data.edge_index_dict)
     type_thresholds = (
         best_multilabel_f1_thresholds(outputs["type_multilabel"], y_type_multilabel, val_mask)
