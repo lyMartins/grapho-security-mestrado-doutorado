@@ -26,7 +26,14 @@ _ATTACK_CLASS_NORM: dict[str, str] = {
 }
 ATTACK_CLASSES = ["Cyber Crime", "Cyber Espionage", "Hacktivism", "Cyber Warfare", "Unknown"]
 ATTACK_CLASS_TO_ID = {cls: idx for idx, cls in enumerate(ATTACK_CLASSES)}
-THREAT_TYPE_LABELS = [label for label in DEFAULT_THREAT_LABELS if label != "not_a_threat"]
+THREAT_TYPE_LABELS = [
+    "account_takeover",
+    "malware",
+    "other_cyber",
+    "ransomware",
+    "rare_threat",
+]
+_RARE_THREAT_TYPES = frozenset(DEFAULT_THREAT_LABELS) - frozenset(THREAT_TYPE_LABELS) - {"not_a_threat"}
 THREAT_TYPE_TO_ID = {label: idx for idx, label in enumerate(THREAT_TYPE_LABELS)}
 COUNT_BUCKET_LABELS = ["0", "1-2", "3-5", "6-10", "11-15", "16+"]
 
@@ -57,7 +64,8 @@ def _norm_attack_class(raw: str) -> str:
 
 
 def _norm_threat_type(raw: str) -> str:
-    return ATTACK_TO_THREAT_LABEL.get(raw.strip().lower(), "other_cyber")
+    label = ATTACK_TO_THREAT_LABEL.get(raw.strip().lower(), "other_cyber")
+    return "rare_threat" if label in _RARE_THREAT_TYPES else label
 
 
 def _count_bucket(count: int) -> int:

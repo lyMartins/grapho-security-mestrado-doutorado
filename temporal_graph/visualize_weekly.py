@@ -30,9 +30,9 @@ PAD = 200
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--dataset", type=Path, default=ROOT / "temportal_graph/output/weekly_dataset.pt")
+    p.add_argument("--dataset", type=Path, default=ROOT / "temporal_graph/output/weekly_dataset.pt")
     p.add_argument("--start-day", type=int, default=0, help="Index of first day in the 8-day window")
-    p.add_argument("--output", type=Path, default=ROOT / "temportal_graph/output/graph_viz.html")
+    p.add_argument("--output", type=Path, default=ROOT / "temporal_graph/output/graph_viz.html")
     p.add_argument("--max-messages", type=int, default=80)
     p.add_argument("--max-entities", type=int, default=50)
     return p.parse_args()

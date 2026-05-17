@@ -172,9 +172,11 @@ def build_graph(args: argparse.Namespace) -> tuple[HeteroData, dict[str, Any]]:
             if cls in ATTACK_CLASS_TO_ID:
                 future_multilabel[i, ATTACK_CLASS_TO_ID[cls]] = 1.0
         for threat_type in threat_types:
-            if threat_type in THREAT_TYPE_TO_ID:
-                future_type_multilabel[i, THREAT_TYPE_TO_ID[threat_type]] = 1.0
-                future_type_counts[i, THREAT_TYPE_TO_ID[threat_type]] += 1.0
+            idx = THREAT_TYPE_TO_ID.get(threat_type)
+            if idx is None:
+                raise ValueError(f"Unmapped threat type: {threat_type!r}")
+            future_type_multilabel[i, idx] = 1.0
+            future_type_counts[i, idx] += 1.0
 
     entity_to_id: dict[tuple[str, str], int] = {}
     message_entities: list[list[int]] = []

@@ -18,7 +18,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--deterministic-dir", type=Path, default=_ROOT / "sentinel_replica_jsons_deterministic")
     parser.add_argument("--hackmageddon-csv", type=Path, default=_ROOT / "hackmargeddon_data/hackmageddon_normalized.csv")
-    parser.add_argument("--output", type=Path, default=_ROOT / "temportal_graph/output/weekly_dataset.pt")
+    parser.add_argument("--output", type=Path, default=_ROOT / "temporal_graph/output/weekly_dataset.pt")
     parser.add_argument("--metadata-output", type=Path, default=None)
     parser.add_argument("--lookback-days", type=int, default=7)
     parser.add_argument("--min-messages", type=int, default=3)

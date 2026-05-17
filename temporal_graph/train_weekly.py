@@ -29,7 +29,7 @@ _ROOT = Path(__file__).parent.parent
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--data", type=Path, default=_ROOT / "temportal_graph/output/weekly_dataset.pt")
+    parser.add_argument("--data", type=Path, default=_ROOT / "temporal_graph/output/weekly_dataset.pt")
     parser.add_argument("--epochs", type=int, default=100)
     parser.add_argument("--hidden-dim", type=int, default=128)
     parser.add_argument("--num-layers", type=int, default=2)
@@ -49,8 +49,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--val-size", type=float, default=0.15)
     parser.add_argument("--test-size", type=float, default=0.2)
     parser.add_argument("--seed", type=int, default=42)
-    parser.add_argument("--metrics-output", type=Path, default=_ROOT / "temportal_graph/output/weekly_metrics.json")
-    parser.add_argument("--plots-dir", type=Path, default=_ROOT / "temportal_graph/output")
+    parser.add_argument("--metrics-output", type=Path, default=_ROOT / "temporal_graph/output/weekly_metrics.json")
+    parser.add_argument("--plots-dir", type=Path, default=_ROOT / "temporal_graph/output")
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--threshold-policy", choices=["fixed", "val_f1"], default="val_f1")
     parser.add_argument("--split-policy", choices=["chronological", "balanced_chronological"], default="balanced_chronological")
