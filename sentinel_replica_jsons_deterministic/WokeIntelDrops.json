@@ -1,0 +1,40 @@
+[
+  {
+    "source_file": "WokeIntelDrops.json",
+    "_id": 13659,
+    "date": "2023-03-03",
+    "datetime_utc": "2023-03-03T16:33:16+00:00",
+    "timestamp": 1677861196,
+    "message": "**THE BEST SUMMARY OF THE BORDER CRISIS**\nYour tax dollars are being used to smuggle children, cocaine, fentanyl, and meth through the border—Paying benefits of up to $800/mo, free cell phones, car seats, and more before ushering them into the States on free flights & bus rides. According to this hearing, 95% of those who receive a notice to appear never do.\n\nThey have \"lost\" 20k+ children who are smuggled in alone to take advantage of Biden’s reunification policy, which says that their family can come be with them at a later time. Families who come across are given special treatment. What's not mentioned here are reports that Cartels are kidnapping random children to pair up with unrelated single groups who paid to come across——Your tax dollars are being used to smuggle in a new class of child slaves.\n\nCartels are exploiting EVERY policy Biden's corrupt admin has put into place & making billions doing it—driving our country deeper into debt and inundating communities with enough drugs to kill them 10X over.",
+    "id": "b04a5515-a719-4170-be4a-d5a0e9d850bd",
+    "cleaning": {
+      "normalized_message": "the best summary of the border crisis your tax dollars are being used to smuggle children cocaine fentanyl and meth through the border paying benefits of up to 800 mo free cell phones car seats and more before ushering them into the states on free flights bus rides according to this hearing 95 of those who receive a notice to appear never do they have lost 20k children who are smuggled in alone to take advantage of biden s reunification policy which says that their family can come be with them at a later time families who come across are given special treatment what s not mentioned here are reports that cartels are kidnapping random children to pair up with unrelated single groups who paid to come across your tax dollars are being used to smuggle in a new class of child slaves cartels are exploiting every policy biden s corrupt admin has put into place making billions doing it driving our country deeper into debt and inundating communities with enough drugs to kill them 10x over",
+      "keyword_hits": [
+        "exploiting"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 993,
+      "token_count": 177,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "the best summary of the border crisis your tax dollars are being used to smuggle children cocaine fentanyl and meth through the border paying benefits of up to 800 mo free cell phones car seats and more before ushering them into the states on free flights bus rides according to this hearing 95 of those who receive a notice to appear never do they have lost 20k children who are smuggled in alone to take advantage of biden s reunification policy which says that their family can come be with them at a later time families who come across are given special treatment what s not mentioned here are reports that cartels are kidnapping random children to pair up with unrelated single groups who paid to come across your tax dollars are being used to smuggle in a new class of child slaves cartels are exploiting every policy biden s corrupt admin has put into place making billions doing it driving our country deeper into debt and inundating communities with enough drugs to kill them 10x over",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  }
+]

@@ -1,0 +1,1715 @@
+[
+  {
+    "source_file": "itsectalk.json",
+    "_id": 94985,
+    "date": "2023-02-05",
+    "datetime_utc": "2023-02-05T17:07:46+00:00",
+    "timestamp": 1675616866,
+    "message": "Serious vulnerability",
+    "id": "43e7dc78-becf-45a2-a61e-6ea207029a92",
+    "cleaning": {
+      "normalized_message": "serious vulnerability",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 21,
+      "token_count": 2,
+      "decision": "keep_review",
+      "reason": "short_but_keyword_hit"
+    },
+    "classification": {
+      "cleaned_text": "serious vulnerability",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 95243,
+    "date": "2023-02-25",
+    "datetime_utc": "2023-02-25T09:37:10+00:00",
+    "timestamp": 1677317830,
+    "message": "Hello guys, how can I write a report on a security vulnerability of the type OSVDB",
+    "id": "f43b2c9d-de26-4f84-b506-6e09d803124a",
+    "cleaning": {
+      "normalized_message": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 81,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 95244,
+    "date": "2023-02-25",
+    "datetime_utc": "2023-02-25T09:41:43+00:00",
+    "timestamp": 1677318103,
+    "message": "Hello guys, how can I write a report on a security vulnerability of the type OSVDB.",
+    "id": "1aca72df-9a8c-4de7-9182-a5839fec8660",
+    "cleaning": {
+      "normalized_message": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 81,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hello guys how can i write a report on a security vulnerability of the type osvdb",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 95293,
+    "date": "2023-02-28",
+    "datetime_utc": "2023-02-28T15:11:23+00:00",
+    "timestamp": 1677597083,
+    "message": "Someone who knows how to get back my hacked account? This is so fast.",
+    "id": "78135826-7e31-471e-ad5f-bcef6a87ba79",
+    "cleaning": {
+      "normalized_message": "someone who knows how to get back my hacked account this is so fast",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 67,
+      "token_count": 14,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "someone who knows how to get back my hacked account this is so fast",
+      "is_cyber_relevant": true,
+      "threat_label": "account_takeover",
+      "secondary_labels": [],
+      "content_type": "operational_threat",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96183,
+    "date": "2023-05-07",
+    "datetime_utc": "2023-05-07T01:01:07+00:00",
+    "timestamp": 1683421267,
+    "message": "if I accidentally installed malware onto android phone but no permissions have been granted to the app, does it mean I'm safe from the malware?",
+    "id": "6eed084f-7528-4f40-be6c-413460ed808a",
+    "cleaning": {
+      "normalized_message": "if i accidentally installed malware onto android phone but no permissions have been granted to the app does it mean i m safe from the malware",
+      "keyword_hits": [
+        "malware"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 141,
+      "token_count": 26,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if i accidentally installed malware onto android phone but no permissions have been granted to the app does it mean i m safe from the malware",
+      "is_cyber_relevant": true,
+      "threat_label": "malware",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96473,
+    "date": "2023-06-09",
+    "datetime_utc": "2023-06-09T21:29:55+00:00",
+    "timestamp": 1686346195,
+    "message": "guys need help somebody hacked my pc and start givin me threats to share my conversation",
+    "id": "29b4f1e8-2e77-4ea7-abba-a3c722cce12e",
+    "cleaning": {
+      "normalized_message": "guys need help somebody hacked my pc and start givin me threats to share my conversation",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 88,
+      "token_count": 16,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "guys need help somebody hacked my pc and start givin me threats to share my conversation",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96548,
+    "date": "2023-06-15",
+    "datetime_utc": "2023-06-15T08:42:31+00:00",
+    "timestamp": 1686818551,
+    "message": "Any one hacked Instagram account",
+    "id": "70f4ce9b-e035-4c0c-90b9-de6c28a84ba2",
+    "cleaning": {
+      "normalized_message": "any one hacked instagram account",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 32,
+      "token_count": 5,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "any one hacked instagram account",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96596,
+    "date": "2023-06-20",
+    "datetime_utc": "2023-06-20T10:24:18+00:00",
+    "timestamp": 1687256658,
+    "message": "Any one interested in ethical hacking so DM me",
+    "id": "a3b44e17-b0a0-4485-ab15-2d7e94411f34",
+    "cleaning": {
+      "normalized_message": "any one interested in ethical hacking so dm me",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 46,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "any one interested in ethical hacking so dm me",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96697,
+    "date": "2023-06-27",
+    "datetime_utc": "2023-06-27T05:58:00+00:00",
+    "timestamp": 1687845480,
+    "message": "Hey there guys I'm new to this cyber security stuff so can anyone guide me😃. I did an online course on ethical hacking and comptia security+. What do you think should be my next step😇",
+    "id": "59ede890-b0ed-45ca-a740-fa8c8a77701e",
+    "cleaning": {
+      "normalized_message": "hey there guys i m new to this cyber security stuff so can anyone guide me i did an online course on ethical hacking and comptia security what do you think should be my next step",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hacking"
+      ],
+      "char_count": 178,
+      "token_count": 36,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hey there guys i m new to this cyber security stuff so can anyone guide me i did an online course on ethical hacking and comptia security what do you think should be my next step",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96715,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:02:55+00:00",
+    "timestamp": 1687964575,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "519efb94-8c72-4466-bc4c-a59ab59ee8a3",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96716,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:03:47+00:00",
+    "timestamp": 1687964627,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "11c692dd-2568-4e9f-a6be-0076ffb13b32",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 96717,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T15:04:09+00:00",
+    "timestamp": 1687964649,
+    "message": "Hello we are looking for a cybersecurity expert! please contact me if your interested",
+    "id": "8c238f05-86dc-43ac-81b1-b94052742928",
+    "cleaning": {
+      "normalized_message": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 84,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hello we are looking for a cybersecurity expert please contact me if your interested",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 98606,
+    "date": "2023-10-27",
+    "datetime_utc": "2023-10-27T18:23:16+00:00",
+    "timestamp": 1698430996,
+    "message": "Hlw...My self Royal Hacker Sourav from India...Nice to meet you all..",
+    "id": "c04aa168-d740-4b82-aebe-abc4646d2645",
+    "cleaning": {
+      "normalized_message": "hlw my self royal hacker sourav from india nice to meet you all",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 63,
+      "token_count": 13,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hlw my self royal hacker sourav from india nice to meet you all",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "country",
+          "value": "India",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 98780,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T01:31:39+00:00",
+    "timestamp": 1699666299,
+    "message": "Hi, I need help hacking an Instagram account immediately, it's urgent, thanks",
+    "id": "de202c7d-96a4-4016-9bbe-cfe239925ddc",
+    "cleaning": {
+      "normalized_message": "hi i need help hacking an instagram account immediately it s urgent thanks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 74,
+      "token_count": 13,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi i need help hacking an instagram account immediately it s urgent thanks",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 98785,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T03:33:33+00:00",
+    "timestamp": 1699673613,
+    "message": "/ban We don’t help with illegal hacking",
+    "id": "fc2fedb6-dd4b-47b5-891d-fa5257962f50",
+    "cleaning": {
+      "normalized_message": "ban we don t help with illegal hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 38,
+      "token_count": 8,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "ban we don t help with illegal hacking",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 98786,
+    "date": "2023-11-11",
+    "datetime_utc": "2023-11-11T03:33:34+00:00",
+    "timestamp": 1699673614,
+    "message": "Another one bites the dust...!\nBanned [Ydtyyyy4567](tg://user?id=867093320).\nReason:\nWe don’t help with illegal hacking",
+    "id": "0710d058-6686-4928-9028-50f9d258941d",
+    "cleaning": {
+      "normalized_message": "another one bites the dust banned ydtyyyy4567 tg user id 867093320 reason we don t help with illegal hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 108,
+      "token_count": 19,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "another one bites the dust banned ydtyyyy4567 tg user id 867093320 reason we don t help with illegal hacking",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 98803,
+    "date": "2023-11-12",
+    "datetime_utc": "2023-11-12T22:01:49+00:00",
+    "timestamp": 1699826509,
+    "message": "Has anyone tried any AI tools to investigate cyber security incidents",
+    "id": "2da0df20-4534-413f-95d3-a86fa95c7e1b",
+    "cleaning": {
+      "normalized_message": "has anyone tried any ai tools to investigate cyber security incidents",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 69,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "has anyone tried any ai tools to investigate cyber security incidents",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99434,
+    "date": "2023-12-20",
+    "datetime_utc": "2023-12-20T01:09:30+00:00",
+    "timestamp": 1703034570,
+    "message": "Hey Hassan, what kind of security incidents do you want to investigate on?\n\nThe common tools like Splunk, Tenable, etc. got ai-powered or ai-driven solutions. But I bet thats not what you would expect from AI.\nThey can identify anomalies across multiple systems on a huge data base or automatically generate reports for audits quite well. But they cannot detect and respond or fix threats in a way that it could replace an expert or fully automate parts of the incident handling process. They can actually support you and accelerate your work and give you quite good hints where to keep an eye on. \n\nTools like appdynamics, datadog, splunk or new relic are often related to AIOps and suggest to you that this is the solution you are looking for. But instead you should have a look at the complete SDLC and focus on the origin of the risks. Build a DevSecOps pipeline which covers the development and the operation of the code/software which you operate or try to protect. Don’t let security be an afterthought. \n\n- Copilot can support you in checking your code \n- Veracode helps you identify and fix your code (SAST, DAST, SCA)\n- Snyk covers the SAST part \n- tenable takes the vulnerability management part \n- and the tools mentioned at the beginning are usually monitoring tools at the end of the Pipeline / Lifecycle.\n\nTry to cover all aspects and focus on a shift-left security strategy to reduce the noise at the end.",
+    "id": "a9e01d01-ce21-49b4-a2a7-b59907ef4ac1",
+    "cleaning": {
+      "normalized_message": "hey hassan what kind of security incidents do you want to investigate on the common tools like splunk tenable etc got ai-powered or ai-driven solutions but i bet thats not what you would expect from ai they can identify anomalies across multiple systems on a huge data base or automatically generate reports for audits quite well but they cannot detect and respond or fix threats in a way that it could replace an expert or fully automate parts of the incident handling process they can actually support you and accelerate your work and give you quite good hints where to keep an eye on tools like appdynamics datadog splunk or new relic are often related to aiops and suggest to you that this is the solution you are looking for but instead you should have a look at the complete sdlc and focus on the origin of the risks build a devsecops pipeline which covers the development and the operation of the code software which you operate or try to protect don t let security be an afterthought - copilot can support you in checking your code - veracode helps you identify and fix your code sast dast sca - snyk covers the sast part - tenable takes the vulnerability management part - and the tools mentioned at the beginning are usually monitoring tools at the end of the pipeline lifecycle try to cover all aspects and focus on a shift-left security strategy to reduce the noise at the end",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 1388,
+      "token_count": 250,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hey hassan what kind of security incidents do you want to investigate on the common tools like splunk tenable etc got ai-powered or ai-driven solutions but i bet thats not what you would expect from ai they can identify anomalies across multiple systems on a huge data base or automatically generate reports for audits quite well but they cannot detect and respond or fix threats in a way that it could replace an expert or fully automate parts of the incident handling process they can actually support you and accelerate your work and give you quite good hints where to keep an eye on tools like appdynamics datadog splunk or new relic are often related to aiops and suggest to you that this is the solution you are looking for but instead you should have a look at the complete sdlc and focus on the origin of the risks build a devsecops pipeline which covers the development and the operation of the code software which you operate or try to protect don t let security be an afterthought - copilot can support you in checking your code - veracode helps you identify and fix your code sast dast sca - snyk covers the sast part - tenable takes the vulnerability management part - and the tools mentioned at the beginning are usually monitoring tools at the end of the pipeline lifecycle try to cover all aspects and focus on a shift-left security strategy to reduce the noise at the end",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99610,
+    "date": "2024-01-02",
+    "datetime_utc": "2024-01-02T10:02:26+00:00",
+    "timestamp": 1704189746,
+    "message": "How would someone go about detecting if a Pc game is acting malicious?\n\nI noticed, that a development of a Russianmade unofficial expansion with a broad global reach changed character. The timing of these changes corresponds roughly with the invasion of Ukraine.\n\nBasically, my spider senses are tingling, and I wonder how I might detect malicious activity. Specifically I worry about this project being taken over by the government and used to run a botnet or similar. \n\nThe game is heroes of might and magic 3, and the very actively developed Russian expansion is called HOTA (horn of the Abyss)",
+    "id": "fda5d619-101a-4a48-88e2-1d8bdb706943",
+    "cleaning": {
+      "normalized_message": "how would someone go about detecting if a pc game is acting malicious i noticed that a development of a russianmade unofficial expansion with a broad global reach changed character the timing of these changes corresponds roughly with the invasion of ukraine basically my spider senses are tingling and i wonder how i might detect malicious activity specifically i worry about this project being taken over by the government and used to run a botnet or similar the game is heroes of might and magic 3 and the very actively developed russian expansion is called hota horn of the abyss",
+      "keyword_hits": [
+        "botnet"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 582,
+      "token_count": 100,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "how would someone go about detecting if a pc game is acting malicious i noticed that a development of a russianmade unofficial expansion with a broad global reach changed character the timing of these changes corresponds roughly with the invasion of ukraine basically my spider senses are tingling and i wonder how i might detect malicious activity specifically i worry about this project being taken over by the government and used to run a botnet or similar the game is heroes of might and magic 3 and the very actively developed russian expansion is called hota horn of the abyss",
+      "is_cyber_relevant": true,
+      "threat_label": "botnet_or_c2",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "high",
+      "target_type": "government",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "country",
+          "value": "Ukraine",
+          "source": "ner"
+        },
+        {
+          "type": "sector",
+          "value": "government",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99663,
+    "date": "2024-01-05",
+    "datetime_utc": "2024-01-05T12:33:57+00:00",
+    "timestamp": 1704458037,
+    "message": "Hey all. I'm new into bug bounty and learning about it. any good resources? currently I'm doing cert from tcm security on practical ethical hacking",
+    "id": "5cc9a9e5-437b-41e7-8710-903d1380c856",
+    "cleaning": {
+      "normalized_message": "hey all i m new into bug bounty and learning about it any good resources currently i m doing cert from tcm security on practical ethical hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "hacking"
+      ],
+      "char_count": 144,
+      "token_count": 27,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hey all i m new into bug bounty and learning about it any good resources currently i m doing cert from tcm security on practical ethical hacking",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99731,
+    "date": "2024-01-10",
+    "datetime_utc": "2024-01-10T23:38:54+00:00",
+    "timestamp": 1704929934,
+    "message": "Hi guys, can you please guide me. I am looking to start my career and work experience in cyber security. I don't have any work experience but have studied relevant subjects at college. I am a first year cyber security student. If there are any opportunities please let me know.\n\nThank You",
+    "id": "9382d8b7-07ff-459b-b749-4e1c50423034",
+    "cleaning": {
+      "normalized_message": "hi guys can you please guide me i am looking to start my career and work experience in cyber security i don t have any work experience but have studied relevant subjects at college i am a first year cyber security student if there are any opportunities please let me know thank you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 281,
+      "token_count": 53,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi guys can you please guide me i am looking to start my career and work experience in cyber security i don t have any work experience but have studied relevant subjects at college i am a first year cyber security student if there are any opportunities please let me know thank you",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99856,
+    "date": "2024-01-21",
+    "datetime_utc": "2024-01-21T20:05:07+00:00",
+    "timestamp": 1705867507,
+    "message": "Hi, I need some basics of IT security and ethical hacking, can someone help giving me a start or giving some tips where and how to start. I want to do it in my spare time and on a self study basis. Thanks",
+    "id": "5176ec1a-37a9-4e77-a9ef-f814343ed487",
+    "cleaning": {
+      "normalized_message": "hi i need some basics of it security and ethical hacking can someone help giving me a start or giving some tips where and how to start i want to do it in my spare time and on a self study basis thanks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 200,
+      "token_count": 43,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi i need some basics of it security and ethical hacking can someone help giving me a start or giving some tips where and how to start i want to do it in my spare time and on a self study basis thanks",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 99956,
+    "date": "2024-01-28",
+    "datetime_utc": "2024-01-28T05:06:46+00:00",
+    "timestamp": 1706418406,
+    "message": "Have a look at coursera there is a Google cybersecurity certification program",
+    "id": "cd7d81be-b012-4ec3-8566-2156a8341622",
+    "cleaning": {
+      "normalized_message": "have a look at coursera there is a google cybersecurity certification program",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 77,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "have a look at coursera there is a google cybersecurity certification program",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 100044,
+    "date": "2024-02-04",
+    "datetime_utc": "2024-02-04T06:41:39+00:00",
+    "timestamp": 1707028899,
+    "message": "I want a legit place to study cyber security",
+    "id": "24e6dd66-8c59-427c-8957-473d19e06c45",
+    "cleaning": {
+      "normalized_message": "i want a legit place to study cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 44,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "i want a legit place to study cyber security",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 100045,
+    "date": "2024-02-04",
+    "datetime_utc": "2024-02-04T06:42:16+00:00",
+    "timestamp": 1707028936,
+    "message": "Do any one know a place that I can get a international certificates for cyber security ?",
+    "id": "a2bd9bba-d6ec-4ae5-8bf5-53a737f3c87d",
+    "cleaning": {
+      "normalized_message": "do any one know a place that i can get a international certificates for cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 86,
+      "token_count": 16,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "do any one know a place that i can get a international certificates for cyber security",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 100624,
+    "date": "2024-03-26",
+    "datetime_utc": "2024-03-26T19:41:16+00:00",
+    "timestamp": 1711482076,
+    "message": "Where can I share a current Linux exploit? How is this a security channel if I cannot share security issuse that need patching...",
+    "id": "c9ae67c1-8cb5-4824-b63f-5b035b79d1c5",
+    "cleaning": {
+      "normalized_message": "where can i share a current linux exploit how is this a security channel if i cannot share security issuse that need patching",
+      "keyword_hits": [
+        "exploit"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 125,
+      "token_count": 23,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "where can i share a current linux exploit how is this a security channel if i cannot share security issuse that need patching",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "high",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 100656,
+    "date": "2024-03-27",
+    "datetime_utc": "2024-03-27T22:05:38+00:00",
+    "timestamp": 1711577138,
+    "message": "Hi need help. Ex hacked my phone and control everything. Like speed connections, orders in Uber driver or Lyft driver, phone always hot and battery dying very fast",
+    "id": "f9e5958c-ce66-4283-a799-b81a25814c20",
+    "cleaning": {
+      "normalized_message": "hi need help ex hacked my phone and control everything like speed connections orders in uber driver or lyft driver phone always hot and battery dying very fast",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 159,
+      "token_count": 28,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi need help ex hacked my phone and control everything like speed connections orders in uber driver or lyft driver phone always hot and battery dying very fast",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 100807,
+    "date": "2024-04-09",
+    "datetime_utc": "2024-04-09T18:01:46+00:00",
+    "timestamp": 1712685706,
+    "message": "How many (groups) of malware do you know?",
+    "id": "f3ff082d-a8b9-46bd-a5f3-8eec620164ca",
+    "cleaning": {
+      "normalized_message": "how many groups of malware do you know",
+      "keyword_hits": [
+        "malware"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 38,
+      "token_count": 8,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "how many groups of malware do you know",
+      "is_cyber_relevant": true,
+      "threat_label": "malware",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 102795,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:17:10+00:00",
+    "timestamp": 1721495830,
+    "message": "Oops - Crowdstrike just demonstrated a serious vulnerability - directly internet-connected critical systems are updated with neither testing nor a backout plan...\nOf course all those third party sw vendors have equally rigorous protection 🙂",
+    "id": "e18756a8-96d8-48b3-a9ea-e4a82bfaf7a8",
+    "cleaning": {
+      "normalized_message": "oops - crowdstrike just demonstrated a serious vulnerability - directly internet-connected critical systems are updated with neither testing nor a backout plan of course all those third party sw vendors have equally rigorous protection",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 235,
+      "token_count": 34,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "oops - crowdstrike just demonstrated a serious vulnerability - directly internet-connected critical systems are updated with neither testing nor a backout plan of course all those third party sw vendors have equally rigorous protection",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 102796,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:49:37+00:00",
+    "timestamp": 1721497777,
+    "message": "Thats not exactly a vulnerability though. Its a bug in an update they pushed out that bricked many Windows machines with the software installed. \n\nA vulnerability is more so a backdoor or issue that allows security threats like remote access, priviledge escelation, etc that is present in functioning software/systems.",
+    "id": "f96cbef5-b1e3-429d-97b6-a9cab8c1a5cf",
+    "cleaning": {
+      "normalized_message": "thats not exactly a vulnerability though its a bug in an update they pushed out that bricked many windows machines with the software installed a vulnerability is more so a backdoor or issue that allows security threats like remote access priviledge escelation etc that is present in functioning software systems",
+      "keyword_hits": [
+        "backdoor",
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 311,
+      "token_count": 50,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "thats not exactly a vulnerability though its a bug in an update they pushed out that bricked many windows machines with the software installed a vulnerability is more so a backdoor or issue that allows security threats like remote access priviledge escelation etc that is present in functioning software systems",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [
+        "malware"
+      ],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "product",
+          "value": "Windows",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 102798,
+    "date": "2024-07-20",
+    "datetime_utc": "2024-07-20T17:53:48+00:00",
+    "timestamp": 1721498028,
+    "message": "I would agree though that if we used the term \"vulnerability\" very loosely then we could apply it to the process of how they interact with their customers machines but again, not really the reason for this channel and thats a loose application.",
+    "id": "578d6738-1a3e-4de6-96f0-8a96a62e96e6",
+    "cleaning": {
+      "normalized_message": "i would agree though that if we used the term vulnerability very loosely then we could apply it to the process of how they interact with their customers machines but again not really the reason for this channel and thats a loose application",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 240,
+      "token_count": 43,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "i would agree though that if we used the term vulnerability very loosely then we could apply it to the process of how they interact with their customers machines but again not really the reason for this channel and thats a loose application",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "company",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 104196,
+    "date": "2024-12-09",
+    "datetime_utc": "2024-12-09T11:07:48+00:00",
+    "timestamp": 1733742468,
+    "message": "Hlo everyone anyone to help a friend of a hacked WhatsApp account",
+    "id": "5e5a0fa0-67e1-4b8c-9358-9fad3b1a05cd",
+    "cleaning": {
+      "normalized_message": "hlo everyone anyone to help a friend of a hacked whatsapp account",
+      "keyword_hits": [
+        "hacked"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 65,
+      "token_count": 12,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hlo everyone anyone to help a friend of a hacked whatsapp account",
+      "is_cyber_relevant": true,
+      "threat_label": "account_takeover",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 104921,
+    "date": "2025-03-03",
+    "datetime_utc": "2025-03-03T02:07:55+00:00",
+    "timestamp": 1740967675,
+    "message": "Who can help me remove the UI from a old door dash table?? I have a kali Linux virtual machine that I can use for hacking it but I can’t get the table to connect to the VM so I can do an ADB",
+    "id": "befffd72-101e-49f2-a18b-2416fd6cab58",
+    "cleaning": {
+      "normalized_message": "who can help me remove the ui from a old door dash table i have a kali linux virtual machine that i can use for hacking it but i can t get the table to connect to the vm so i can do an adb",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 188,
+      "token_count": 45,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "who can help me remove the ui from a old door dash table i have a kali linux virtual machine that i can use for hacking it but i can t get the table to connect to the vm so i can do an adb",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 106275,
+    "date": "2025-09-04",
+    "datetime_utc": "2025-09-04T00:49:19+00:00",
+    "timestamp": 1756946959,
+    "message": "Guys any channel or discord server for cybersecurity events and webnier etc",
+    "id": "cadee0cd-e0b8-4b66-8fd7-1130318faa77",
+    "cleaning": {
+      "normalized_message": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 75,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 106366,
+    "date": "2025-09-13",
+    "datetime_utc": "2025-09-13T03:45:49+00:00",
+    "timestamp": 1757735149,
+    "message": "Guys any channel or discord server for cybersecurity events and webnier etc",
+    "id": "7515d015-16dc-453f-a212-b3331e3b004d",
+    "cleaning": {
+      "normalized_message": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 75,
+      "token_count": 12,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "guys any channel or discord server for cybersecurity events and webnier etc",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 107965,
+    "date": "2025-12-24",
+    "datetime_utc": "2025-12-24T17:34:49+00:00",
+    "timestamp": 1766597689,
+    "message": "Are you studying any field of computer science or cyber security",
+    "id": "c15bf1bb-96d6-4797-b025-a14989860d40",
+    "cleaning": {
+      "normalized_message": "are you studying any field of computer science or cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 64,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "are you studying any field of computer science or cyber security",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 108708,
+    "date": "2026-01-10",
+    "datetime_utc": "2026-01-10T12:22:39+00:00",
+    "timestamp": 1768047759,
+    "message": "Sir I need guidance in cyber security as a fresher please",
+    "id": "b6297063-de0a-46ee-a0bc-2dbab7f528ff",
+    "cleaning": {
+      "normalized_message": "sir i need guidance in cyber security as a fresher please",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 57,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "sir i need guidance in cyber security as a fresher please",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "question_or_help",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 108709,
+    "date": "2026-01-10",
+    "datetime_utc": "2026-01-10T16:40:06+00:00",
+    "timestamp": 1768063206,
+    "message": "How to check the crypto exchange sites before getting closed or it's a scam .",
+    "id": "fab07fdf-114b-4ed5-a49b-f5725326ca6e",
+    "cleaning": {
+      "normalized_message": "how to check the crypto exchange sites before getting closed or it s a scam",
+      "keyword_hits": [
+        "scam"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 75,
+      "token_count": 15,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "how to check the crypto exchange sites before getting closed or it s a scam",
+      "is_cyber_relevant": true,
+      "threat_label": "fraud_or_scam",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 108721,
+    "date": "2026-01-11",
+    "datetime_utc": "2026-01-11T05:15:05+00:00",
+    "timestamp": 1768108505,
+    "message": "Before proceed, Why u r intrested in cyber security?",
+    "id": "470bf86e-cae4-4405-9088-299cde42f3ae",
+    "cleaning": {
+      "normalized_message": "before proceed why u r intrested in cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 50,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "before proceed why u r intrested in cyber security",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 112229,
+    "date": "2026-04-02",
+    "datetime_utc": "2026-04-02T21:50:26+00:00",
+    "timestamp": 1775166626,
+    "message": "And can set up a C2 for escalation",
+    "id": "260c3f45-eb14-482e-8944-0507774c1b94",
+    "cleaning": {
+      "normalized_message": "and can set up a c2 for escalation",
+      "keyword_hits": [
+        "c2"
+      ],
+      "soft_keyword_hits": [],
+      "char_count": 34,
+      "token_count": 8,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "and can set up a c2 for escalation",
+      "is_cyber_relevant": true,
+      "threat_label": "botnet_or_c2",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "medium",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 112522,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:43:48+00:00",
+    "timestamp": 1777214628,
+    "message": "How is it that people doesn't know pentesting/Red Team/Bug hunting doesn't end with WebApps?",
+    "id": "c9205406-4020-48f2-ab90-e0f02831cefe",
+    "cleaning": {
+      "normalized_message": "how is it that people doesn t know pentesting red team bug hunting doesn t end with webapps",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting",
+        "red team"
+      ],
+      "char_count": 91,
+      "token_count": 18,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "how is it that people doesn t know pentesting red team bug hunting doesn t end with webapps",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 112523,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:44:46+00:00",
+    "timestamp": 1777214686,
+    "message": "People are not aware of pentesting on Hardware/IoTs.",
+    "id": "c8eaeb36-b8fd-4649-bbb5-0adf07f7840d",
+    "cleaning": {
+      "normalized_message": "people are not aware of pentesting on hardware iots",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting"
+      ],
+      "char_count": 51,
+      "token_count": 9,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "people are not aware of pentesting on hardware iots",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 112527,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:49:28+00:00",
+    "timestamp": 1777214968,
+    "message": "There is pentesting in every field where security is a concern.",
+    "id": "3896dc39-52a7-4808-ae92-f09995342347",
+    "cleaning": {
+      "normalized_message": "there is pentesting in every field where security is a concern",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "pentesting"
+      ],
+      "char_count": 62,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "there is pentesting in every field where security is a concern",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "itsectalk.json",
+    "_id": 112535,
+    "date": "2026-04-26",
+    "datetime_utc": "2026-04-26T14:55:51+00:00",
+    "timestamp": 1777215351,
+    "message": "These are security researchers (Pentesters/Redteams) testing Locks.",
+    "id": "82ec60fe-f7a6-4ad8-b961-adaee5f27cc5",
+    "cleaning": {
+      "normalized_message": "these are security researchers pentesters redteams testing locks",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "security researchers"
+      ],
+      "char_count": 64,
+      "token_count": 8,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "these are security researchers pentesters redteams testing locks",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "tool_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  }
+]

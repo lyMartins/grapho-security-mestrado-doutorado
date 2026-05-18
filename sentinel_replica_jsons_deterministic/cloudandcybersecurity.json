@@ -1,0 +1,2275 @@
+[
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1467,
+    "date": "2023-01-19",
+    "datetime_utc": "2023-01-19T01:31:54+00:00",
+    "timestamp": 1674091914,
+    "message": "Hi Everyone,\n\nFor those that just joined the channel, welcome. We are very happy to have you here. This is just a reminder to:\n\nPlease go follow, like, and share our posts on our other social media channels.\n\nFirst things first, get your 30 day free trial of my Linux, AWS, Cybersecurity and Cloud Security course bundle. Visit www.yescertified.com\n\nConnect and follow on LinkedIn:\nlinkedin.com/in/mkabir4u\n\nFollow, like and share our posts on...\n\nInstagram:\nhttps://www.instagram.com/yescertified\n\nTwitter:\nhttps://twitter.com/yescertified1\n\nFacebook:\nhttps://www.facebook.com/yescertified\n\nThank you.",
+    "id": "8b58a442-e3a4-449f-8252-bac0dfce7339",
+    "cleaning": {
+      "normalized_message": "hi everyone for those that just joined the channel welcome we are very happy to have you here this is just a reminder to please go follow like and share our posts on our other social media channels first things first get your 30 day free trial of my linux aws cybersecurity and cloud security course bundle visit www yescertified com connect and follow on linkedin linkedin com in mkabir4u follow like and share our posts on instagram twitter facebook thank you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 461,
+      "token_count": 82,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi everyone for those that just joined the channel welcome we are very happy to have you here this is just a reminder to please go follow like and share our posts on our other social media channels first things first get your 30 day free trial of my linux aws cybersecurity and cloud security course bundle visit www yescertified com connect and follow on linkedin linkedin com in mkabir4u follow like and share our posts on instagram twitter facebook thank you",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.instagram.com/yescertified",
+          "source": "regex",
+          "domain": "instagram.com"
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/yescertified1",
+          "source": "regex",
+          "domain": "twitter.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.facebook.com/yescertified",
+          "source": "regex",
+          "domain": "facebook.com"
+        },
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "domain",
+          "value": "linkedin.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1473,
+    "date": "2023-01-21",
+    "datetime_utc": "2023-01-21T14:59:28+00:00",
+    "timestamp": 1674313168,
+    "message": "435 attendees so far, are you one of them?\n\nIf you've been struggling to get a job in Cloud Computing, Cloud Security our Cybersecurity, I'll have a Q&A session.\n\nJoin via LinkedIn:\nhttps://www.linkedin.com/events/7017611051231793153\n\nJoin via Clubhouse:\nbit.ly/chlinkmk",
+    "id": "aa531c32-bbf6-49a4-88e7-b0b6c292db87",
+    "cleaning": {
+      "normalized_message": "435 attendees so far are you one of them if you ve been struggling to get a job in cloud computing cloud security our cybersecurity i ll have a q a session join via linkedin join via clubhouse bit ly chlinkmk",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 208,
+      "token_count": 41,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "435 attendees so far are you one of them if you ve been struggling to get a job in cloud computing cloud security our cybersecurity i ll have a q a session join via linkedin join via clubhouse bit ly chlinkmk",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7017611051231793153",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1635,
+    "date": "2023-04-28",
+    "datetime_utc": "2023-04-28T15:10:14+00:00",
+    "timestamp": 1682694614,
+    "message": "Hi Everyone,\n\nI wanted to let you know that I have some exciting news regarding my course bundle. I have added additional hands-on AWS videos, and I am now almost 80-85% complete with the AWS section of the course bundle. After the AWS course is complete, I will start uploading videos in Cybersecurity and Cloud Security.\n\nAs you may know, I am passionate about helping individuals like you advance their skills and achieve their career goals. That's why I'm offering a special deal for early supporters - a 1 month free trial and a discounted rate of $4.99 per month. I want to give you the opportunity to learn from my expertise without any financial burden. If you can't afford it, just message me on LinkedIn and I can provide you free access. Trust me, I understand the struggle.\n\nI truly believe that this course bundle will provide you with the knowledge and skills you need to excel in your career. With my help, you can take your skills to the next level and achieve your goals. Don't hesitate to enroll in my course bundle today and join a community of learners who share your passion for growth and development.\n\nNote that the $4.99 will soon change, so sign up today to get this limited time offer.\n\nThank you for considering my course bundle, and I look forward to supporting you in your learning journey.",
+    "id": "c3401014-a916-48ad-adfc-c9e13302c700",
+    "cleaning": {
+      "normalized_message": "hi everyone i wanted to let you know that i have some exciting news regarding my course bundle i have added additional hands-on aws videos and i am now almost 80-85 complete with the aws section of the course bundle after the aws course is complete i will start uploading videos in cybersecurity and cloud security as you may know i am passionate about helping individuals like you advance their skills and achieve their career goals that s why i m offering a special deal for early supporters - a 1 month free trial and a discounted rate of 4 99 per month i want to give you the opportunity to learn from my expertise without any financial burden if you can t afford it just message me on linkedin and i can provide you free access trust me i understand the struggle i truly believe that this course bundle will provide you with the knowledge and skills you need to excel in your career with my help you can take your skills to the next level and achieve your goals don t hesitate to enroll in my course bundle today and join a community of learners who share your passion for growth and development note that the 4 99 will soon change so sign up today to get this limited time offer thank you for considering my course bundle and i look forward to supporting you in your learning journey",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 1289,
+      "token_count": 241,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi everyone i wanted to let you know that i have some exciting news regarding my course bundle i have added additional hands-on aws videos and i am now almost 80-85 complete with the aws section of the course bundle after the aws course is complete i will start uploading videos in cybersecurity and cloud security as you may know i am passionate about helping individuals like you advance their skills and achieve their career goals that s why i m offering a special deal for early supporters - a 1 month free trial and a discounted rate of 4 99 per month i want to give you the opportunity to learn from my expertise without any financial burden if you can t afford it just message me on linkedin and i can provide you free access trust me i understand the struggle i truly believe that this course bundle will provide you with the knowledge and skills you need to excel in your career with my help you can take your skills to the next level and achieve your goals don t hesitate to enroll in my course bundle today and join a community of learners who share your passion for growth and development note that the 4 99 will soon change so sign up today to get this limited time offer thank you for considering my course bundle and i look forward to supporting you in your learning journey",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "individual",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1712,
+    "date": "2023-06-11",
+    "datetime_utc": "2023-06-11T17:32:07+00:00",
+    "timestamp": 1686504727,
+    "message": "First video (Intro) has just been uploaded to the Cybersecurity section of my course bundle. You can sign up for the course bundle here https://www.yescertified.com/training.html",
+    "id": "6805110b-7dac-4ec0-9121-8e5091d4f520",
+    "cleaning": {
+      "normalized_message": "first video intro has just been uploaded to the cybersecurity section of my course bundle you can sign up for the course bundle here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 132,
+      "token_count": 24,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "first video intro has just been uploaded to the cybersecurity section of my course bundle you can sign up for the course bundle here",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://www.yescertified.com/training.html",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.yescertified.com/training.html",
+          "source": "regex",
+          "domain": "yescertified.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1725,
+    "date": "2023-06-17",
+    "datetime_utc": "2023-06-17T23:07:32+00:00",
+    "timestamp": 1687043252,
+    "message": "Questions about the CIA Triad may have tripped many of you up in your cybersecurity interviews... Not anymore!\n\nThis video of me explaining the CIA Triad and DAD should hopefully make it extremely difficult for you to FORGET what it is in your next interviews if it comes up again.\n\nVideo is now available in the Cybersecurity section of my course bundle here https://yescertified.teachable.com/p/all-courses-bundle",
+    "id": "aa3fa3fa-585e-4dba-8c9b-15d77873186b",
+    "cleaning": {
+      "normalized_message": "questions about the cia triad may have tripped many of you up in your cybersecurity interviews not anymore this video of me explaining the cia triad and dad should hopefully make it extremely difficult for you to forget what it is in your next interviews if it comes up again video is now available in the cybersecurity section of my course bundle here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 352,
+      "token_count": 63,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "questions about the cia triad may have tripped many of you up in your cybersecurity interviews not anymore this video of me explaining the cia triad and dad should hopefully make it extremely difficult for you to forget what it is in your next interviews if it comes up again video is now available in the cybersecurity section of my course bundle here",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://yescertified.teachable.com/p/all-courses-bundle",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/all-courses-bundle",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1726,
+    "date": "2023-06-19",
+    "datetime_utc": "2023-06-19T20:35:04+00:00",
+    "timestamp": 1687206904,
+    "message": "Has cryptography always sounded confusing to you, or perhaps you've never heard of it before? Or that cybersecurity course you bought online made it seem very difficult to understand? \n\nMy next video in the cybersecurity section of the course bundle should equip you with the knowledge to understand what cryptography is all about and be able to answer questions about it in an interview. \n\nVideo and Hands-on lab on Cryptography is now available in the Cybersecurity section of my course bundle here https://yescertified.teachable.com/p/all-courses-bundle.\n\nSee the attached image for a glimpse of how I broke down this topic on the whiteboard covering:\n1. Cryptography\n2. Encrytion\n3. Symmetric Encryption\n4. Assymetric Encryption\n5. Plaintext\n6. Ciphertext\n7. AES-256\n8. Hashing and SHA256",
+    "id": "f7744ab8-0640-4fef-bd6c-7fd24b42979f",
+    "cleaning": {
+      "normalized_message": "has cryptography always sounded confusing to you or perhaps you ve never heard of it before or that cybersecurity course you bought online made it seem very difficult to understand my next video in the cybersecurity section of the course bundle should equip you with the knowledge to understand what cryptography is all about and be able to answer questions about it in an interview video and hands-on lab on cryptography is now available in the cybersecurity section of my course bundle here see the attached image for a glimpse of how i broke down this topic on the whiteboard covering 1 cryptography 2 encrytion 3 symmetric encryption 4 assymetric encryption 5 plaintext 6 ciphertext 7 aes-256 8 hashing and sha256",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 717,
+      "token_count": 121,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "has cryptography always sounded confusing to you or perhaps you ve never heard of it before or that cybersecurity course you bought online made it seem very difficult to understand my next video in the cybersecurity section of the course bundle should equip you with the knowledge to understand what cryptography is all about and be able to answer questions about it in an interview video and hands-on lab on cryptography is now available in the cybersecurity section of my course bundle here see the attached image for a glimpse of how i broke down this topic on the whiteboard covering 1 cryptography 2 encrytion 3 symmetric encryption 4 assymetric encryption 5 plaintext 6 ciphertext 7 aes-256 8 hashing and sha256",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://yescertified.teachable.com/p/all-courses-bundle",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/all-courses-bundle",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1754,
+    "date": "2023-07-03",
+    "datetime_utc": "2023-07-03T12:20:43+00:00",
+    "timestamp": 1688386843,
+    "message": "Are you struggling to grasp the concepts of AWS despite taking numerous online or onsite courses? Do you find it challenging to understand how the labs apply to real-life scenarios? Are you in need of a template resume that showcases hands-on projects that employers are actively seeking?\n\nSign up for my comprehensive course bundle, which covers Linux, AWS, Cybersecurity, and Cloud Security. Gain practical experience and take your skills to the next level. Join other students that have already benefited from my courses.\n\nEnroll now at www.yescertified.com for just $7.99 per month. By joining, you'll not only gain access to the entire course bundle but also become a member of my private Telegram channel where you can engage with other students and gets your questions answered either by myself or other students.\n\nWhile the Linux and AWS courses are already complete, I am continuously adding new videos to the Cybersecurity section of the bundle. Please note that the current price is for a limited time only and will increase once all courses are fully uploaded.\n\nDon't miss out on this opportunity, sign up today to secure this special price!",
+    "id": "ed9bb01f-8d85-4c82-898d-c3daf2e7c12b",
+    "cleaning": {
+      "normalized_message": "are you struggling to grasp the concepts of aws despite taking numerous online or onsite courses do you find it challenging to understand how the labs apply to real-life scenarios are you in need of a template resume that showcases hands-on projects that employers are actively seeking sign up for my comprehensive course bundle which covers linux aws cybersecurity and cloud security gain practical experience and take your skills to the next level join other students that have already benefited from my courses enroll now at www yescertified com for just 7 99 per month by joining you ll not only gain access to the entire course bundle but also become a member of my private telegram channel where you can engage with other students and gets your questions answered either by myself or other students while the linux and aws courses are already complete i am continuously adding new videos to the cybersecurity section of the bundle please note that the current price is for a limited time only and will increase once all courses are fully uploaded don t miss out on this opportunity sign up today to secure this special price",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 1130,
+      "token_count": 194,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "are you struggling to grasp the concepts of aws despite taking numerous online or onsite courses do you find it challenging to understand how the labs apply to real-life scenarios are you in need of a template resume that showcases hands-on projects that employers are actively seeking sign up for my comprehensive course bundle which covers linux aws cybersecurity and cloud security gain practical experience and take your skills to the next level join other students that have already benefited from my courses enroll now at www yescertified com for just 7 99 per month by joining you ll not only gain access to the entire course bundle but also become a member of my private telegram channel where you can engage with other students and gets your questions answered either by myself or other students while the linux and aws courses are already complete i am continuously adding new videos to the cybersecurity section of the bundle please note that the current price is for a limited time only and will increase once all courses are fully uploaded don t miss out on this opportunity sign up today to secure this special price",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "operational_threat",
+      "severity": "medium",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1775,
+    "date": "2023-07-14",
+    "datetime_utc": "2023-07-14T00:30:09+00:00",
+    "timestamp": 1689294609,
+    "message": "Still struggling to get a job in Cybersecurity? Watch, do and add these to your resume!!!\n\nPlease note my new YouTube Channel and don't forget to hit the like, subscribe and share button :)\n\nAsymmetric Encryption:\nhttps://youtu.be/O57RwCe8U20\n\nCybersecurity YouTube Playlist:\nhttps://www.youtube.com/playlist?list=PLQ86HDcXRRZFVff5mWgNF9tb4KpqJWbEA\n\nAll YouTube Playlist:\nhttps://www.youtube.com/@yescertified/playlists\n\nProviding some of the videos to the Cybersecurity section of my course bundle (Linux, AWS, Cybersecurity and Cloud Security) here for free! Sign up for the course bundle at https://www.yescertified.com. Live classes are also occasionally available for those that prefer live interactions with me, see the live training section on my website at (https://www.yescertified.com/live-training).",
+    "id": "366f70c9-24ff-4224-a1e8-5402a2c8611a",
+    "cleaning": {
+      "normalized_message": "still struggling to get a job in cybersecurity watch do and add these to your resume please note my new youtube channel and don t forget to hit the like subscribe and share button asymmetric encryption cybersecurity youtube playlist all youtube playlist providing some of the videos to the cybersecurity section of my course bundle linux aws cybersecurity and cloud security here for free sign up for the course bundle at live classes are also occasionally available for those that prefer live interactions with me see the live training section on my website at",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 561,
+      "token_count": 94,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "still struggling to get a job in cybersecurity watch do and add these to your resume please note my new youtube channel and don t forget to hit the like subscribe and share button asymmetric encryption cybersecurity youtube playlist all youtube playlist providing some of the videos to the cybersecurity section of my course bundle linux aws cybersecurity and cloud security here for free sign up for the course bundle at live classes are also occasionally available for those that prefer live interactions with me see the live training section on my website at",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "url"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://www.yescertified.com",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://youtu.be/O57RwCe8U20",
+          "source": "regex",
+          "domain": "youtu.be"
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/playlist?list=PLQ86HDcXRRZFVff5mWgNF9tb4KpqJWbEA",
+          "source": "regex",
+          "domain": "youtube.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/@yescertified/playlists",
+          "source": "regex",
+          "domain": "youtube.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.yescertified.com",
+          "source": "regex",
+          "domain": "yescertified.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.yescertified.com/live-training",
+          "source": "regex",
+          "domain": "yescertified.com"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1780,
+    "date": "2023-07-15",
+    "datetime_utc": "2023-07-15T10:00:20+00:00",
+    "timestamp": 1689415220,
+    "message": "What many of you have been waiting for, limited seats available!!!\n\nJoin my Cybersecurity hands-on intensive LIVE training. \n\nWith the increasing frequency and sophistication of cyber threats, the need for skilled Cybersecurity professionals is skyrocketing. This training will help you unlock a wealth of opportunities with potential for lucrative, high-paying jobs in the cybersecurity field. \n\nLearn essential skills, from compliance frameworks to system hardening, encryption to vulnerability management. Gain hands-on experience with popular security tools, tackle common cyber attacks, and learn about log management.\n\nEnroll now to seize your chance in this thriving industry and pave the way for a successful career in cybersecurity. \n\nDon't miss out on this promising pathway to professional growth and the potential for a high paying Cybersecurity career.\n\nTopics Covered:\n\nCybersecurity Terminologies\n\nCompliance: Frameworks/Laws/Certifications\n\nSystem hardening - Hands-on\n\nUsing Strong Password\n\nSetting up MFA for a Server\n\nAdding SSH keys to a server\n\nEncryption lab\n\nPopular Security Tools\n\niptables\n\nNmap\n\nSnort\n\nWazuh (OSSEC)\n\nManage Engine\n\nVulnerability Management\n\nNessus\n\nOpenVAS\n\nCommon Cybersecurity Attacks\n\nOWASP Top 10 - Overview\n\nLog Management.\n\nSigning up for this live training provides you with free unlimited access to my on-demand course bundle so you never have to pay the monthly fee.\n\nLimited seats available. Sign up now to reserve your spot before it's sold out!\n\nhttps://bit.ly/cybertrmk",
+    "id": "12d2c748-c526-44f5-90c3-a3616a7c897a",
+    "cleaning": {
+      "normalized_message": "what many of you have been waiting for limited seats available join my cybersecurity hands-on intensive live training with the increasing frequency and sophistication of cyber threats the need for skilled cybersecurity professionals is skyrocketing this training will help you unlock a wealth of opportunities with potential for lucrative high-paying jobs in the cybersecurity field learn essential skills from compliance frameworks to system hardening encryption to vulnerability management gain hands-on experience with popular security tools tackle common cyber attacks and learn about log management enroll now to seize your chance in this thriving industry and pave the way for a successful career in cybersecurity don t miss out on this promising pathway to professional growth and the potential for a high paying cybersecurity career topics covered cybersecurity terminologies compliance frameworks laws certifications system hardening - hands-on using strong password setting up mfa for a server adding ssh keys to a server encryption lab popular security tools iptables nmap snort wazuh ossec manage engine vulnerability management nessus openvas common cybersecurity attacks owasp top 10 - overview log management signing up for this live training provides you with free unlimited access to my on-demand course bundle so you never have to pay the monthly fee limited seats available sign up now to reserve your spot before it s sold out",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 1446,
+      "token_count": 218,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "what many of you have been waiting for limited seats available join my cybersecurity hands-on intensive live training with the increasing frequency and sophistication of cyber threats the need for skilled cybersecurity professionals is skyrocketing this training will help you unlock a wealth of opportunities with potential for lucrative high-paying jobs in the cybersecurity field learn essential skills from compliance frameworks to system hardening encryption to vulnerability management gain hands-on experience with popular security tools tackle common cyber attacks and learn about log management enroll now to seize your chance in this thriving industry and pave the way for a successful career in cybersecurity don t miss out on this promising pathway to professional growth and the potential for a high paying cybersecurity career topics covered cybersecurity terminologies compliance frameworks laws certifications system hardening - hands-on using strong password setting up mfa for a server adding ssh keys to a server encryption lab popular security tools iptables nmap snort wazuh ossec manage engine vulnerability management nessus openvas common cybersecurity attacks owasp top 10 - overview log management signing up for this live training provides you with free unlimited access to my on-demand course bundle so you never have to pay the monthly fee limited seats available sign up now to reserve your spot before it s sold out",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://bit.ly/cybertrmk",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://bit.ly/cybertrmk",
+          "source": "regex",
+          "domain": "bit.ly"
+        },
+        {
+          "type": "tool",
+          "value": "Nmap",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1824,
+    "date": "2023-08-06",
+    "datetime_utc": "2023-08-06T18:57:03+00:00",
+    "timestamp": 1691348223,
+    "message": "As a Cloud Computing, Cloud Security or Cybersecurity professional, you need to become familiar with popular acronyms and tools in the industry. We'll start sharing more of these on our social media channels.\n\nLet's start with a very basic one. \n\nWhat is a CSP?\n\nSee the answer in the Instagram reels and YouTube shorts below. Please don't forget to like and share!\n\nhttps://www.instagram.com/reel/CvnPz3uAnbv/?igshid=NjIwNzIyMDk2Mg==\n\nhttps://youtube.com/shorts/E_-qCzWueXY?feature=share\n\nFollow so you never miss our posts and don't forget to also hit the 🔔 icon \n\nYouTube:\nhttps://youtube.com/@yescertified\n\nInstagram:\nhttps://www.instagram.com/yescertified\n\nTwitter:\nhttps://twitter.com/yescertified1\n\nFacebook:\nhttps://www.facebook.com/yescertified\n\nYescertified LinkedIn:\nhttps://www.linkedin.com/company/yescertified/\n\nMy LinkedIn (12k+ followers):\nlinkedin.com/in/mkabir4u",
+    "id": "59d6e1f1-151c-42fd-bcec-f746565ca2c6",
+    "cleaning": {
+      "normalized_message": "as a cloud computing cloud security or cybersecurity professional you need to become familiar with popular acronyms and tools in the industry we ll start sharing more of these on our social media channels let s start with a very basic one what is a csp see the answer in the instagram reels and youtube shorts below please don t forget to like and share follow so you never miss our posts and don t forget to also hit the icon youtube instagram twitter facebook yescertified linkedin my linkedin 12k followers linkedin com in mkabir4u",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 534,
+      "token_count": 95,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "as a cloud computing cloud security or cybersecurity professional you need to become familiar with popular acronyms and tools in the industry we ll start sharing more of these on our social media channels let s start with a very basic one what is a csp see the answer in the instagram reels and youtube shorts below please don t forget to like and share follow so you never miss our posts and don t forget to also hit the icon youtube instagram twitter facebook yescertified linkedin my linkedin 12k followers linkedin com in mkabir4u",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "company",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.instagram.com/reel/CvnPz3uAnbv/?igshid=NjIwNzIyMDk2Mg==",
+          "source": "regex",
+          "domain": "instagram.com"
+        },
+        {
+          "type": "url",
+          "value": "https://youtube.com/shorts/E_-qCzWueXY?feature=share",
+          "source": "regex",
+          "domain": "youtube.com"
+        },
+        {
+          "type": "url",
+          "value": "https://youtube.com/@yescertified",
+          "source": "regex",
+          "domain": "youtube.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.instagram.com/yescertified",
+          "source": "regex",
+          "domain": "instagram.com"
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/yescertified1",
+          "source": "regex",
+          "domain": "twitter.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.facebook.com/yescertified",
+          "source": "regex",
+          "domain": "facebook.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/company/yescertified/",
+          "source": "regex",
+          "domain": "linkedin.com"
+        },
+        {
+          "type": "domain",
+          "value": "linkedin.com",
+          "source": "regex"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1872,
+    "date": "2023-08-20",
+    "datetime_utc": "2023-08-20T17:22:27+00:00",
+    "timestamp": 1692552147,
+    "message": "If you want to increase your chances of getting a job in the Cybersecurity or Cloud Security field you NEED TO LEARN ABOUT VULNERABILY MANAGEMENT.\n\nDid I say that loud enough 😊?\n\nThis may be the work you are dedicated to doing when you land a Cybersecurity job.\n\nI have now started uploading videos on Vulnerability Management and will soon upload hands-on videos using one of the most popular Vulnerability Management tool, OpenVAS. \n\nWe will use this very popular tool to scan a system for vulnerabilities so you can add this to your resume, but first, we will install Virtualbox and Ubuntu operating system in Virtualbox.\n\nIf you're not already signed up for my Linux, AWS, Cybersecurity and Cloud Security course bundle, visit the link below for information in signing up.\n\nwww.yescertified.com",
+    "id": "2562a45d-5f53-4024-a9a4-fdc46517bc34",
+    "cleaning": {
+      "normalized_message": "if you want to increase your chances of getting a job in the cybersecurity or cloud security field you need to learn about vulnerabily management did i say that loud enough this may be the work you are dedicated to doing when you land a cybersecurity job i have now started uploading videos on vulnerability management and will soon upload hands-on videos using one of the most popular vulnerability management tool openvas we will use this very popular tool to scan a system for vulnerabilities so you can add this to your resume but first we will install virtualbox and ubuntu operating system in virtualbox if you re not already signed up for my linux aws cybersecurity and cloud security course bundle visit the link below for information in signing up www yescertified com",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 777,
+      "token_count": 134,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if you want to increase your chances of getting a job in the cybersecurity or cloud security field you need to learn about vulnerabily management did i say that loud enough this may be the work you are dedicated to doing when you land a cybersecurity job i have now started uploading videos on vulnerability management and will soon upload hands-on videos using one of the most popular vulnerability management tool openvas we will use this very popular tool to scan a system for vulnerabilities so you can add this to your resume but first we will install virtualbox and ubuntu operating system in virtualbox if you re not already signed up for my linux aws cybersecurity and cloud security course bundle visit the link below for information in signing up www yescertified com",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1899,
+    "date": "2023-09-03",
+    "datetime_utc": "2023-09-03T19:57:26+00:00",
+    "timestamp": 1693771046,
+    "message": "📣 Calling all Cybersecurity and Cloud Security students and Professionals!\n\n✨Want to be a key contributor on your team and help your organization manage and improve it's Cybersecurity and Cloud Security Posture? 🔒☁️\n\n✨Want to learn about the key topics relevant to this field, on the job and also great to have your resume to make you stand out? 📚📝\n\n✨Are you an experienced Cybersecurity or Cloud Security professional looking for recommendations/best practices for a project you're working on? 🤔💡\n\n✨Are you an aspiring Cybersecurity or Cloud Security student looking to learn about the best tools of the trade or have career related questions you need answered? 👨‍🎓👩‍🎓\n\n✨Are you a tech recruiter looking for a place to find the right Cybersecurity and Cloud Security talent? 🕵️‍♀️\n\n✨Join this bi-weekly Cybersecurity and Cloud Security event.\n\n✨This will be a discussion style event! 💬\n\nJoin details available in the event's page at this link\nhttps://www.linkedin.com/events/7104189767646355456",
+    "id": "8b5c94ee-5929-4483-85af-af015b557fc3",
+    "cleaning": {
+      "normalized_message": "calling all cybersecurity and cloud security students and professionals want to be a key contributor on your team and help your organization manage and improve it s cybersecurity and cloud security posture want to learn about the key topics relevant to this field on the job and also great to have your resume to make you stand out are you an experienced cybersecurity or cloud security professional looking for recommendations best practices for a project you re working on are you an aspiring cybersecurity or cloud security student looking to learn about the best tools of the trade or have career related questions you need answered are you a tech recruiter looking for a place to find the right cybersecurity and cloud security talent join this bi-weekly cybersecurity and cloud security event this will be a discussion style event join details available in the event s page at this link",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 892,
+      "token_count": 150,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "calling all cybersecurity and cloud security students and professionals want to be a key contributor on your team and help your organization manage and improve it s cybersecurity and cloud security posture want to learn about the key topics relevant to this field on the job and also great to have your resume to make you stand out are you an experienced cybersecurity or cloud security professional looking for recommendations best practices for a project you re working on are you an aspiring cybersecurity or cloud security student looking to learn about the best tools of the trade or have career related questions you need answered are you a tech recruiter looking for a place to find the right cybersecurity and cloud security talent join this bi-weekly cybersecurity and cloud security event this will be a discussion style event join details available in the event s page at this link",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "company",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7104189767646355456",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1918,
+    "date": "2023-09-16",
+    "datetime_utc": "2023-09-16T14:22:31+00:00",
+    "timestamp": 1694874151,
+    "message": "As posted on my LinkedIn...\n\nWow!!! 😃\n\nClose to 400 attendees have signed up for this event. My main goal is to delve into important/crucial topics in Cybersecurity and Cloud Security. In addition, if you're a recent grad or a career changer who's undergone formal training or self-education and would like to have a golden 1.5 minutes (max) on stage to pitch 🎤 yourself to recruiters, hiring managers or others that would like to refer you at their company, please fill out this form 📝 https://lnkd.in/eAUHmkYB\n\nIf you're a recruiter or hiring manager, don't miss the final 15 minutes of this event, set your alarms ⏰. This is your chance to connect with qualified candidates. I already see the president of a Cybersecurity company attending 🎉. \n\nLet's work together to make this event a true game-changer, helping individuals not only learn but also secure job opportunities in Cybersecurity and Cloud Security. 🚀\n\nDon't forget to follow and click the bell icon 🔔!\n\n#Cybersecurity #Cloudsecurity #hiring #techroles #resume #Linkedin #devops #devsecops #aws #Cybersecurityevent #Infosec #informationsecurity\"\n\nhttps://www.linkedin.com/posts/mkabir4u_cybersecurity-cloudsecurity-aws-activity-7108815452201463808-ddD5?utm_source=share&utm_medium=member_android",
+    "id": "6d20d512-380b-451f-8406-422a948888a6",
+    "cleaning": {
+      "normalized_message": "as posted on my linkedin wow close to 400 attendees have signed up for this event my main goal is to delve into important crucial topics in cybersecurity and cloud security in addition if you re a recent grad or a career changer who s undergone formal training or self-education and would like to have a golden 1 5 minutes max on stage to pitch yourself to recruiters hiring managers or others that would like to refer you at their company please fill out this form if you re a recruiter or hiring manager don t miss the final 15 minutes of this event set your alarms this is your chance to connect with qualified candidates i already see the president of a cybersecurity company attending let s work together to make this event a true game-changer helping individuals not only learn but also secure job opportunities in cybersecurity and cloud security don t forget to follow and click the bell icon cybersecurity cloudsecurity hiring techroles resume linkedin devops devsecops aws cybersecurityevent infosec informationsecurity",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity",
+        "infosec"
+      ],
+      "char_count": 1029,
+      "token_count": 174,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "as posted on my linkedin wow close to 400 attendees have signed up for this event my main goal is to delve into important crucial topics in cybersecurity and cloud security in addition if you re a recent grad or a career changer who s undergone formal training or self-education and would like to have a golden 1 5 minutes max on stage to pitch yourself to recruiters hiring managers or others that would like to refer you at their company please fill out this form if you re a recruiter or hiring manager don t miss the final 15 minutes of this event set your alarms this is your chance to connect with qualified candidates i already see the president of a cybersecurity company attending let s work together to make this event a true game-changer helping individuals not only learn but also secure job opportunities in cybersecurity and cloud security don t forget to follow and click the bell icon cybersecurity cloudsecurity hiring techroles resume linkedin devops devsecops aws cybersecurityevent infosec informationsecurity",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "company",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://lnkd.in/eAUHmkYB",
+          "source": "regex",
+          "domain": "lnkd.in"
+        },
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/posts/mkabir4u_cybersecurity-cloudsecurity-aws-activity-7108815452201463808-ddD5?utm_source=share&utm_medium=member_android",
+          "source": "regex",
+          "domain": "linkedin.com"
+        },
+        {
+          "type": "sector",
+          "value": "education",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 1920,
+    "date": "2023-09-17",
+    "datetime_utc": "2023-09-17T21:49:11+00:00",
+    "timestamp": 1694987351,
+    "message": "In case you missed it, here are the important links shared. Make sure to sign up for part 2.\n\nImportant Links:\nSign up for part 2 - https://www.linkedin.com/events/7109224560494796800\n\nConnect and follow on LinkedIn - www.linkedin.com/in/mkabir4u\n\nMy course bundle (One month free with coupon code, use code \"freemonth\") - https://www.yescertified.com\n\nOther important links mentioned in the event (not affiliate links):\n\nJob referral form - https://forms.gle/sefyzxgkZtRcX5kD9\n\nAWS Certified Security Specialty - https://www.udemy.com/course/ultimate-aws-certified-security-specialty/\n\nAWS Certified Security Specialty Practice Exams - https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-course/\n\nRecommended on-the-job book - https://a.co/d/iN4VNgC\n\nRecommended CISSP book bundle - https://a.co/d/giiAHxN\n\nRecommended CISSP Facebook Group - https://www.facebook.com/groups/1525346961013038/\n\nRecommended CCSP book bundle - https://a.co/d/fogHNQW\n\nCybersecurity Jobs (0-3 years experience, US) - https://bit.ly/cybjobs0-3\n\nAWS Jobs (0-3 years experience, US) - https://bit.ly/awsjobs3\n\nAWS Cloud Security Jobs (0-3 years experience, US) - https://bit.ly/awssecjobs3",
+    "id": "b64790ca-299d-464c-9878-b0e839cbfdc9",
+    "cleaning": {
+      "normalized_message": "in case you missed it here are the important links shared make sure to sign up for part 2 important links sign up for part 2 - connect and follow on linkedin - www linkedin com in mkabir4u my course bundle one month free with coupon code use code freemonth - other important links mentioned in the event not affiliate links job referral form - aws certified security specialty - aws certified security specialty practice exams - recommended on-the-job book - recommended cissp book bundle - recommended cissp facebook group - recommended ccsp book bundle - cybersecurity jobs 0-3 years experience us - aws jobs 0-3 years experience us - aws cloud security jobs 0-3 years experience us -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 686,
+      "token_count": 119,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "in case you missed it here are the important links shared make sure to sign up for part 2 important links sign up for part 2 - connect and follow on linkedin - www linkedin com in mkabir4u my course bundle one month free with coupon code use code freemonth - other important links mentioned in the event not affiliate links job referral form - aws certified security specialty - aws certified security specialty practice exams - recommended on-the-job book - recommended cissp book bundle - recommended cissp facebook group - recommended ccsp book bundle - cybersecurity jobs 0-3 years experience us - aws jobs 0-3 years experience us - aws cloud security jobs 0-3 years experience us -",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "url"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://www.yescertified.com",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7109224560494796800",
+          "source": "regex",
+          "domain": "linkedin.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.yescertified.com",
+          "source": "regex",
+          "domain": "yescertified.com"
+        },
+        {
+          "type": "url",
+          "value": "https://forms.gle/sefyzxgkZtRcX5kD9",
+          "source": "regex",
+          "domain": "forms.gle"
+        },
+        {
+          "type": "url",
+          "value": "https://www.udemy.com/course/ultimate-aws-certified-security-specialty/",
+          "source": "regex",
+          "domain": "udemy.com"
+        },
+        {
+          "type": "url",
+          "value": "https://www.udemy.com/course/aws-certified-security-specialty-practice-exams-course/",
+          "source": "regex",
+          "domain": "udemy.com"
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/iN4VNgC",
+          "source": "regex",
+          "domain": "a.co"
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/giiAHxN",
+          "source": "regex",
+          "domain": "a.co"
+        },
+        {
+          "type": "url",
+          "value": "https://www.facebook.com/groups/1525346961013038/",
+          "source": "regex",
+          "domain": "facebook.com"
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/fogHNQW",
+          "source": "regex",
+          "domain": "a.co"
+        },
+        {
+          "type": "url",
+          "value": "https://bit.ly/cybjobs0-3",
+          "source": "regex",
+          "domain": "bit.ly"
+        },
+        {
+          "type": "url",
+          "value": "https://bit.ly/awsjobs3",
+          "source": "regex",
+          "domain": "bit.ly"
+        },
+        {
+          "type": "url",
+          "value": "https://bit.ly/awssecjobs3",
+          "source": "regex",
+          "domain": "bit.ly"
+        },
+        {
+          "type": "domain",
+          "value": "www.linkedin.com",
+          "source": "regex"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2020,
+    "date": "2023-11-24",
+    "datetime_utc": "2023-11-24T19:47:28+00:00",
+    "timestamp": 1700855248,
+    "message": "Updates about my course bundle!\n\nI'm working on some Vulnerability management hands-on videos for the Cybersecurity section of the course bundle that will be released soon, so stay tuned.\n\nThe three vulnerability management hands-on videos I'm working one should no doubt help you standout among other job applicants. Most people don't know, it's not just about certs, it's knowing how to use the most popular tools for the job.\n\nPlease visit my website at www.yescertified.com sign up for my Linux, AWS, Cybersecurity and Cloud Security course bundle to gain access.",
+    "id": "0834bfd4-e051-4d29-b00e-3c4d5a724fd8",
+    "cleaning": {
+      "normalized_message": "updates about my course bundle i m working on some vulnerability management hands-on videos for the cybersecurity section of the course bundle that will be released soon so stay tuned the three vulnerability management hands-on videos i m working one should no doubt help you standout among other job applicants most people don t know it s not just about certs it s knowing how to use the most popular tools for the job please visit my website at www yescertified com sign up for my linux aws cybersecurity and cloud security course bundle to gain access",
+      "keyword_hits": [
+        "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 554,
+      "token_count": 97,
+      "decision": "keep",
+      "reason": "keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "updates about my course bundle i m working on some vulnerability management hands-on videos for the cybersecurity section of the course bundle that will be released soon so stay tuned the three vulnerability management hands-on videos i m working one should no doubt help you standout among other job applicants most people don t know it s not just about certs it s knowing how to use the most popular tools for the job please visit my website at www yescertified com sign up for my linux aws cybersecurity and cloud security course bundle to gain access",
+      "is_cyber_relevant": true,
+      "threat_label": "vulnerability_or_exploit",
+      "secondary_labels": [],
+      "content_type": "operational_threat",
+      "severity": "medium",
+      "confidence": "high",
+      "target_type": "individual",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2037,
+    "date": "2023-11-29",
+    "datetime_utc": "2023-11-29T12:09:42+00:00",
+    "timestamp": 1701259782,
+    "message": "You don't want to miss this!\n\n\"I'm hosting Part 2 - Cybersecurity and Cloud Security - Topics for your resume. Make sure to attend it on December 16.\nhttps://www.linkedin.com/events/7133898962637316096\"",
+    "id": "6f07c849-e106-4901-b5d8-25600f6502af",
+    "cleaning": {
+      "normalized_message": "you don t want to miss this i m hosting part 2 - cybersecurity and cloud security - topics for your resume make sure to attend it on december 16",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 144,
+      "token_count": 30,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "you don t want to miss this i m hosting part 2 - cybersecurity and cloud security - topics for your resume make sure to attend it on december 16",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7133898962637316096",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2063,
+    "date": "2023-12-26",
+    "datetime_utc": "2023-12-26T05:55:31+00:00",
+    "timestamp": 1703570131,
+    "message": "If you are a/an...\n\n1. Aspiring Cloud Security Professional\n2. AWS Solutions Architect\n3. Cloud Security Professional\n4. Cloud Security Architect\n5. CISO\n6. Preparing for your AWS related cloud security interviews\n7. Or studying for the AWS Security Specialty certification exam?\n\nYou need to know about these 32 AWS Security related services (includes 4 benefits of each).\n\nFor those signed up for my course bundle, you now have free access to this valuable resource.\n\nNot subscribed to my course bundle, sign up at www.yescertified.com.\n\nNot ready to subscribe to my course bundle, but still want free access to this very valuable resource? Follow the instructions in my LinkedIn post below.\n\nhttps://www.linkedin.com/posts/mkabir4u_are-you-aan-1-aspiring-cloud-activity-7145290920328925184-WzTh?utm_source=share&utm_medium=member_android",
+    "id": "71587aef-70c7-4769-ad87-ba4a819db338",
+    "cleaning": {
+      "normalized_message": "if you are a an 1 aspiring cloud security professional 2 aws solutions architect 3 cloud security professional 4 cloud security architect 5 ciso 6 preparing for your aws related cloud security interviews 7 or studying for the aws security specialty certification exam you need to know about these 32 aws security related services includes 4 benefits of each for those signed up for my course bundle you now have free access to this valuable resource not subscribed to my course bundle sign up at www yescertified com not ready to subscribe to my course bundle but still want free access to this very valuable resource follow the instructions in my linkedin post below",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 667,
+      "token_count": 114,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if you are a an 1 aspiring cloud security professional 2 aws solutions architect 3 cloud security professional 4 cloud security architect 5 ciso 6 preparing for your aws related cloud security interviews 7 or studying for the aws security specialty certification exam you need to know about these 32 aws security related services includes 4 benefits of each for those signed up for my course bundle you now have free access to this valuable resource not subscribed to my course bundle sign up at www yescertified com not ready to subscribe to my course bundle but still want free access to this very valuable resource follow the instructions in my linkedin post below",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/posts/mkabir4u_are-you-aan-1-aspiring-cloud-activity-7145290920328925184-WzTh?utm_source=share&utm_medium=member_android",
+          "source": "regex",
+          "domain": "linkedin.com"
+        },
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2083,
+    "date": "2024-01-14",
+    "datetime_utc": "2024-01-14T15:43:11+00:00",
+    "timestamp": 1705246991,
+    "message": "If you're struggling to get a job in Cloud Computing, Cybersecurity or Cloud Security, don't miss these sessions.\n\nToday's session is starting in less than 30 minutes!\n\nhttps://www.linkedin.com/events/cybersecurityandcloudsecurityto7144422449332322304",
+    "id": "d3bfd4e2-d1c0-4724-b7e9-5fe897a95eea",
+    "cleaning": {
+      "normalized_message": "if you re struggling to get a job in cloud computing cybersecurity or cloud security don t miss these sessions today s session is starting in less than 30 minutes",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 162,
+      "token_count": 30,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if you re struggling to get a job in cloud computing cybersecurity or cloud security don t miss these sessions today s session is starting in less than 30 minutes",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/cybersecurityandcloudsecurityto7144422449332322304",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2090,
+    "date": "2024-01-17",
+    "datetime_utc": "2024-01-17T13:45:27+00:00",
+    "timestamp": 1705499127,
+    "message": "Please go on LinkedIn and like, comment your thoughts, and repost to help educate more aspiring Cybersecurity and Cloud Security professionals as well as enlighten those in the field that aren't following best practices. Together we can help build organizations that are following security best practices and are less susceptible to breaches.\n\nhttps://www.linkedin.com/posts/mkabir4u_activity-7153373929351364610-2_Pu?utm_source=share&utm_medium=member_android",
+    "id": "9c36e5f1-b020-466f-a304-04947208bc98",
+    "cleaning": {
+      "normalized_message": "please go on linkedin and like comment your thoughts and repost to help educate more aspiring cybersecurity and cloud security professionals as well as enlighten those in the field that aren t following best practices together we can help build organizations that are following security best practices and are less susceptible to breaches",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 338,
+      "token_count": 53,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "please go on linkedin and like comment your thoughts and repost to help educate more aspiring cybersecurity and cloud security professionals as well as enlighten those in the field that aren t following best practices together we can help build organizations that are following security best practices and are less susceptible to breaches",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/posts/mkabir4u_activity-7153373929351364610-2_Pu?utm_source=share&utm_medium=member_android",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2091,
+    "date": "2024-01-20",
+    "datetime_utc": "2024-01-20T03:51:41+00:00",
+    "timestamp": 1705722701,
+    "message": "Getting ready for Cloud Security job with a focus on AWS? You need to read this!\n\nGet your copy from here - https://yescertified.teachable.com/p/my-downloadable-246876",
+    "id": "60f95667-b3ac-4bed-b6d8-116ce5465a57",
+    "cleaning": {
+      "normalized_message": "getting ready for cloud security job with a focus on aws you need to read this get your copy from here -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 104,
+      "token_count": 22,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "getting ready for cloud security job with a focus on aws you need to read this get your copy from here -",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://yescertified.teachable.com/p/my-downloadable-246876",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/my-downloadable-246876",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2092,
+    "date": "2024-01-20",
+    "datetime_utc": "2024-01-20T15:20:20+00:00",
+    "timestamp": 1705764020,
+    "message": "Please comment and repost to help boost this post so that LinkedIn algorithm will show it to more individuals that may benefit from these sessions 😊\n\nIf you're preparing for a Cybersecurity or Cloud security interview, you don't want to miss this discussion with an added Q&A session. \n\nConsider these as mentoring sessions, as a full time Cloud Security Architect, I'll share actionable insights to help you prepare for interviews and excel on the job.\n\nThese sessions happen every Sunday from 11am-12pm EST. \n\nYou can join via LinkedIn audio or Zoom, details in the event description page here: https://www.linkedin.com/events/7152644955616813056",
+    "id": "772f3ea7-fa13-40e3-9300-89c388326c3a",
+    "cleaning": {
+      "normalized_message": "please comment and repost to help boost this post so that linkedin algorithm will show it to more individuals that may benefit from these sessions if you re preparing for a cybersecurity or cloud security interview you don t want to miss this discussion with an added q a session consider these as mentoring sessions as a full time cloud security architect i ll share actionable insights to help you prepare for interviews and excel on the job these sessions happen every sunday from 11am-12pm est you can join via linkedin audio or zoom details in the event description page here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 580,
+      "token_count": 101,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "please comment and repost to help boost this post so that linkedin algorithm will show it to more individuals that may benefit from these sessions if you re preparing for a cybersecurity or cloud security interview you don t want to miss this discussion with an added q a session consider these as mentoring sessions as a full time cloud security architect i ll share actionable insights to help you prepare for interviews and excel on the job these sessions happen every sunday from 11am-12pm est you can join via linkedin audio or zoom details in the event description page here",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "individual",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7152644955616813056",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2097,
+    "date": "2024-01-21",
+    "datetime_utc": "2024-01-21T23:58:26+00:00",
+    "timestamp": 1705881506,
+    "message": "📣 updated with another very important AWS security service you should know 📣\n\nIf you're preparing for a Cloud Security interview with a focus on AWS or getting ready for the AWS Security Specialty certification exam, strongly recommend you become familiar with these services.\n\nGet if from here:\nhttp://bit.ly/awsssysk",
+    "id": "0bb81ad4-294a-4bb8-95c1-9e7fbc7668e4",
+    "cleaning": {
+      "normalized_message": "updated with another very important aws security service you should know if you re preparing for a cloud security interview with a focus on aws or getting ready for the aws security specialty certification exam strongly recommend you become familiar with these services get if from here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 286,
+      "token_count": 47,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "updated with another very important aws security service you should know if you re preparing for a cloud security interview with a focus on aws or getting ready for the aws security specialty certification exam strongly recommend you become familiar with these services get if from here",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "http://bit.ly/awsssysk",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "http://bit.ly/awsssysk",
+          "source": "regex",
+          "domain": "bit.ly"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2118,
+    "date": "2024-02-11",
+    "datetime_utc": "2024-02-11T03:07:24+00:00",
+    "timestamp": 1707620844,
+    "message": "🎁 Get your first month free for my Linux, AWS, Cybersecurity and Cloud Security on-demand course bundle at www.yescertified.com. Use the coupon code FREEMONTH at checkout 🎁",
+    "id": "839d2e8d-fe59-40aa-8fe3-fc97c125127d",
+    "cleaning": {
+      "normalized_message": "get your first month free for my linux aws cybersecurity and cloud security on-demand course bundle at www yescertified com use the coupon code freemonth at checkout",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 165,
+      "token_count": 27,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "get your first month free for my linux aws cybersecurity and cloud security on-demand course bundle at www yescertified com use the coupon code freemonth at checkout",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2119,
+    "date": "2024-02-12",
+    "datetime_utc": "2024-02-12T01:51:58+00:00",
+    "timestamp": 1707702718,
+    "message": "Are you an aspiring Cloud Security professional or preparing for a Cloud Security interview with a focus on AWS?\n\nGrab your copy of this ebook here http://bit.ly/awsssysk",
+    "id": "37f88bf7-a0b7-4cfa-ae14-bd7fa6a1b6fd",
+    "cleaning": {
+      "normalized_message": "are you an aspiring cloud security professional or preparing for a cloud security interview with a focus on aws grab your copy of this ebook here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 145,
+      "token_count": 26,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "are you an aspiring cloud security professional or preparing for a cloud security interview with a focus on aws grab your copy of this ebook here",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "http://bit.ly/awsssysk",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "http://bit.ly/awsssysk",
+          "source": "regex",
+          "domain": "bit.ly"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2127,
+    "date": "2024-02-25",
+    "datetime_utc": "2024-02-25T03:28:39+00:00",
+    "timestamp": 1708831719,
+    "message": "This is a must read for every aspiring Cloud Security Architect or Engineer. Please don't forget to like and share. It was written by a student enrolled in my hands-on intensive course bundle. Blogging via LinkedIn or simply just sharing a post about what you're learning is something I always highly encourage. \n\nRecruiting and hiring managers are watching. Your LinkedIn posts say a lot about you!\n\nhttps://www.linkedin.com/posts/marksmoktunowicz_aws-cloud-learning-activity-7167312296761888768-J1uX?utm_source=share&utm_medium=member_android",
+    "id": "771bfead-603d-46b9-845e-8ea14c294883",
+    "cleaning": {
+      "normalized_message": "this is a must read for every aspiring cloud security architect or engineer please don t forget to like and share it was written by a student enrolled in my hands-on intensive course bundle blogging via linkedin or simply just sharing a post about what you re learning is something i always highly encourage recruiting and hiring managers are watching your linkedin posts say a lot about you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 391,
+      "token_count": 68,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "this is a must read for every aspiring cloud security architect or engineer please don t forget to like and share it was written by a student enrolled in my hands-on intensive course bundle blogging via linkedin or simply just sharing a post about what you re learning is something i always highly encourage recruiting and hiring managers are watching your linkedin posts say a lot about you",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/posts/marksmoktunowicz_aws-cloud-learning-activity-7167312296761888768-J1uX?utm_source=share&utm_medium=member_android",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2152,
+    "date": "2024-03-26",
+    "datetime_utc": "2024-03-26T11:41:47+00:00",
+    "timestamp": 1711453307,
+    "message": "📣📣Important Announcement!📣📣\n\nI hope this message finds you all well. I want to take a moment to share some important news about my Linux and AWS course bundle and my All Courses bundle.\n\nAfter much thought, considerations and market research, the following price increase for my courses will take effect after April 5th, 2024. My goal has always been and will continue to be to offer valuable learning experiences without compromising on quality.\n\nLinux and AWS Course Bundle:\nAfter April 5th, 2024, the price for this course bundle will increase from $199 to $299. This is for a one-time payment with no monthly fees. You can still use the coupon code (100DOLLARSOFF) to get a $100 off the current price of $199. Sign up here https://yescertified.teachable.com/p/hands-on-aws-and-linux-training\n\nAll Courses Bundle:\nThe monthly subscription fee will increase from $7.99 to $14.99. You can sign up here https://yescertified.teachable.com/p/all-courses-bundle\n\nFor those that have already purchased or subscribed to the courses, you will have your current price locked in for the lifetime of your subscription. This means you will not be affected by any future price increases, as long as you do not cancel and resubscribe at a later date.\n\nIf you've been considering enrolling in these courses, now is the perfect time to do so before the prices go up. Remember, this is an investment in your future and your career in the ever-evolving world of Cloud Computing and Cybersecurity.\n\nThank you for your continued support and understanding. If you have any questions or concerns, please feel free to reach out to me directly via email, support@yescertified.com or send me a direct message on LinkedIn.\n\nThank you.",
+    "id": "38edc23f-01f7-4763-911e-9379fa4b1cf9",
+    "cleaning": {
+      "normalized_message": "important announcement i hope this message finds you all well i want to take a moment to share some important news about my linux and aws course bundle and my all courses bundle after much thought considerations and market research the following price increase for my courses will take effect after april 5th 2024 my goal has always been and will continue to be to offer valuable learning experiences without compromising on quality linux and aws course bundle after april 5th 2024 the price for this course bundle will increase from 199 to 299 this is for a one-time payment with no monthly fees you can still use the coupon code 100dollarsoff to get a 100 off the current price of 199 sign up here all courses bundle the monthly subscription fee will increase from 7 99 to 14 99 you can sign up here for those that have already purchased or subscribed to the courses you will have your current price locked in for the lifetime of your subscription this means you will not be affected by any future price increases as long as you do not cancel and resubscribe at a later date if you ve been considering enrolling in these courses now is the perfect time to do so before the prices go up remember this is an investment in your future and your career in the ever-evolving world of cloud computing and cybersecurity thank you for your continued support and understanding if you have any questions or concerns please feel free to reach out to me directly via email support yescertified com or send me a direct message on linkedin thank you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 1536,
+      "token_count": 276,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "important announcement i hope this message finds you all well i want to take a moment to share some important news about my linux and aws course bundle and my all courses bundle after much thought considerations and market research the following price increase for my courses will take effect after april 5th 2024 my goal has always been and will continue to be to offer valuable learning experiences without compromising on quality linux and aws course bundle after april 5th 2024 the price for this course bundle will increase from 199 to 299 this is for a one-time payment with no monthly fees you can still use the coupon code 100dollarsoff to get a 100 off the current price of 199 sign up here all courses bundle the monthly subscription fee will increase from 7 99 to 14 99 you can sign up here for those that have already purchased or subscribed to the courses you will have your current price locked in for the lifetime of your subscription this means you will not be affected by any future price increases as long as you do not cancel and resubscribe at a later date if you ve been considering enrolling in these courses now is the perfect time to do so before the prices go up remember this is an investment in your future and your career in the ever-evolving world of cloud computing and cybersecurity thank you for your continued support and understanding if you have any questions or concerns please feel free to reach out to me directly via email support yescertified com or send me a direct message on linkedin thank you",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain",
+        "email",
+        "url"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://yescertified.teachable.com/p/hands-on-aws-and-linux-training",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/hands-on-aws-and-linux-training",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        },
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/all-courses-bundle",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        },
+        {
+          "type": "email",
+          "value": "support@yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "domain",
+          "value": "yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2156,
+    "date": "2024-03-31",
+    "datetime_utc": "2024-03-31T15:02:42+00:00",
+    "timestamp": 1711897362,
+    "message": "If you are a/an...\n\n1. Aspiring Cloud Security Professional\n2. AWS Solutions Architect\n3. Cloud Security Professional\n4. Cloud Security Architect\n5. CISO\n6. Preparing for your AWS related cloud security interviews\n7. Or studying for the AWS Security Specialty certification exam?\n\nYou need to know about these 32 AWS Security related services (includes 4 benefits of each).\n\nGet it from here:\nhttps://yescertified.teachable.com/p/my-downloadable-246876",
+    "id": "7ac3ed67-720a-47e8-83b3-c0e3b2951a43",
+    "cleaning": {
+      "normalized_message": "if you are a an 1 aspiring cloud security professional 2 aws solutions architect 3 cloud security professional 4 cloud security architect 5 ciso 6 preparing for your aws related cloud security interviews 7 or studying for the aws security specialty certification exam you need to know about these 32 aws security related services includes 4 benefits of each get it from here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 374,
+      "token_count": 63,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if you are a an 1 aspiring cloud security professional 2 aws solutions architect 3 cloud security professional 4 cloud security architect 5 ciso 6 preparing for your aws related cloud security interviews 7 or studying for the aws security specialty certification exam you need to know about these 32 aws security related services includes 4 benefits of each get it from here",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://yescertified.teachable.com/p/my-downloadable-246876",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://yescertified.teachable.com/p/my-downloadable-246876",
+          "source": "regex",
+          "domain": "yescertified.teachable.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2170,
+    "date": "2024-04-07",
+    "datetime_utc": "2024-04-07T18:34:28+00:00",
+    "timestamp": 1712514868,
+    "message": "If you've been struggling to land a job as an AWS Cloud Engineer or Solutions Architect, or looking to transition to IT, learn about AWS and don't know where to start?\n\nIf you're a recent college graduate, an IT help desk technician, a software developer, a business analyst, a project manager, or working in another tech field, you may already know that learning AWS Cloud can significantly increase your pay.\n\nIf you don't already know me, my name is Mukhtar Kabir. I'm a former AWS Solutions Architect and currently a Senior Cloud Security Architect at a well-known cybersecurity company. I have over 20,000 LinkedIn followers and connections combined.\n\nI am also the founder of this popular 'Cloud and Cybersecurity' Telegram channel, now with over 20,000 subscribers.\n\nIf you're looking to learn AWS and work towards getting a job as a Cloud Engineer, Solutions Architect, Cloud Security Engineer, or Cloud Security Architect, my number one piece of advice is to find a mentor who can guide you, provide industry insights, and offer personalized feedback. Otherwise, you might waste too much time learning from multiple sources without making tangible progress, resulting in wasted time, effort, and money.\n\nFind a mentor who is already working or has worked in the field that you can meet with live, directly ask him or her your career related questions and get the right career mentorship and guidance.\n\nUnlike many courses that offer oversimplified and unrealistic 'hello world' examples, my course focuses on deploying applications that mirror real-life scenarios. I cover comprehensive topics such as databases, content distribution networks, and custom DNS within the context of a single application, providing a holistic understanding of how AWS services are used to host applications in the real world.\n\nI don't just sell you a course and leave you to figure things out on your own. You'll have the opportunity to meet me live on weekends and join my private Telegram channel where I, along with other students, can help you troubleshoot the labs and brainstorm solutions for job-related tasks.\n\nMy courses are very affordable, offering both one-time payment and monthly subscription options. Additionally, all courses include the opportunity to have me as a mentor. You get the opportunity to meet with me live on weekends to ask course-related questions, receive personalized feedback, review your resume, or participate in a mock interview when you're ready to start applying for jobs.\n\nOver 90% of students who have fully followed my advice in my courses have secured jobs at prestigious companies like AWS, Verizon, and Salesforce, earning six-figure salaries. Additionally, two of them received promotions at AWS. You can read more success stories and enroll today at www.yescertified.com.\n\nBelow is the quick checkout link, simply use the coupon code \"Yescertified\" to get the Linux and AWS course bundle for just $99, a $200 off discount. Offer ends December 31st, 2024.\n\nhttps://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw\n\nSee the link below for past student testimonials.\n\nI look forward to seeing you in class and providing you with the proper career guidance and mentorship needed to succeed as a Cloud Engineer, Solutions Architect, Cloud Security Engineer, or Cloud Security Architect.\n\nThank you.",
+    "id": "e439f54b-4811-4b9d-bb9e-103c28f8f3c6",
+    "cleaning": {
+      "normalized_message": "if you ve been struggling to land a job as an aws cloud engineer or solutions architect or looking to transition to it learn about aws and don t know where to start if you re a recent college graduate an it help desk technician a software developer a business analyst a project manager or working in another tech field you may already know that learning aws cloud can significantly increase your pay if you don t already know me my name is mukhtar kabir i m a former aws solutions architect and currently a senior cloud security architect at a well-known cybersecurity company i have over 20 000 linkedin followers and connections combined i am also the founder of this popular cloud and cybersecurity telegram channel now with over 20 000 subscribers if you re looking to learn aws and work towards getting a job as a cloud engineer solutions architect cloud security engineer or cloud security architect my number one piece of advice is to find a mentor who can guide you provide industry insights and offer personalized feedback otherwise you might waste too much time learning from multiple sources without making tangible progress resulting in wasted time effort and money find a mentor who is already working or has worked in the field that you can meet with live directly ask him or her your career related questions and get the right career mentorship and guidance unlike many courses that offer oversimplified and unrealistic hello world examples my course focuses on deploying applications that mirror real-life scenarios i cover comprehensive topics such as databases content distribution networks and custom dns within the context of a single application providing a holistic understanding of how aws services are used to host applications in the real world i don t just sell you a course and leave you to figure things out on your own you ll have the opportunity to meet me live on weekends and join my private telegram channel where i along with other students can help you troubleshoot the labs and brainstorm solutions for job-related tasks my courses are very affordable offering both one-time payment and monthly subscription options additionally all courses include the opportunity to have me as a mentor you get the opportunity to meet with me live on weekends to ask course-related questions receive personalized feedback review your resume or participate in a mock interview when you re ready to start applying for jobs over 90 of students who have fully followed my advice in my courses have secured jobs at prestigious companies like aws verizon and salesforce earning six-figure salaries additionally two of them received promotions at aws you can read more success stories and enroll today at www yescertified com below is the quick checkout link simply use the coupon code yescertified to get the linux and aws course bundle for just 99 a 200 off discount offer ends december 31st 2024 see the link below for past student testimonials i look forward to seeing you in class and providing you with the proper career guidance and mentorship needed to succeed as a cloud engineer solutions architect cloud security engineer or cloud security architect thank you",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 3184,
+      "token_count": 535,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "if you ve been struggling to land a job as an aws cloud engineer or solutions architect or looking to transition to it learn about aws and don t know where to start if you re a recent college graduate an it help desk technician a software developer a business analyst a project manager or working in another tech field you may already know that learning aws cloud can significantly increase your pay if you don t already know me my name is mukhtar kabir i m a former aws solutions architect and currently a senior cloud security architect at a well-known cybersecurity company i have over 20 000 linkedin followers and connections combined i am also the founder of this popular cloud and cybersecurity telegram channel now with over 20 000 subscribers if you re looking to learn aws and work towards getting a job as a cloud engineer solutions architect cloud security engineer or cloud security architect my number one piece of advice is to find a mentor who can guide you provide industry insights and offer personalized feedback otherwise you might waste too much time learning from multiple sources without making tangible progress resulting in wasted time effort and money find a mentor who is already working or has worked in the field that you can meet with live directly ask him or her your career related questions and get the right career mentorship and guidance unlike many courses that offer oversimplified and unrealistic hello world examples my course focuses on deploying applications that mirror real-life scenarios i cover comprehensive topics such as databases content distribution networks and custom dns within the context of a single application providing a holistic understanding of how aws services are used to host applications in the real world i don t just sell you a course and leave you to figure things out on your own you ll have the opportunity to meet me live on weekends and join my private telegram channel where i along with other students can help you troubleshoot the labs and brainstorm solutions for job-related tasks my courses are very affordable offering both one-time payment and monthly subscription options additionally all courses include the opportunity to have me as a mentor you get the opportunity to meet with me live on weekends to ask course-related questions receive personalized feedback review your resume or participate in a mock interview when you re ready to start applying for jobs over 90 of students who have fully followed my advice in my courses have secured jobs at prestigious companies like aws verizon and salesforce earning six-figure salaries additionally two of them received promotions at aws you can read more success stories and enroll today at www yescertified com below is the quick checkout link simply use the coupon code yescertified to get the linux and aws course bundle for just 99 a 200 off discount offer ends december 31st 2024 see the link below for past student testimonials i look forward to seeing you in class and providing you with the proper career guidance and mentorship needed to succeed as a cloud engineer solutions architect cloud security engineer or cloud security architect thank you",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "company",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+          "source": "regex",
+          "domain": "checkout.teachable.com"
+        },
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2182,
+    "date": "2024-04-20",
+    "datetime_utc": "2024-04-20T14:40:51+00:00",
+    "timestamp": 1713624051,
+    "message": "Hi Everyone,\n\nIf you're subscribed to any of my courses, this is a reminder that the weekly live mentorship call starts at 11:00 a.m. eastern time. Come meet with me live!!! \n\nGet mentored by an Ex-AWS Solutions Architect and a current Senior Cloud Security Architect. Let's talk about your dreams/goals of becoming a Cloud Engineer, Solutions Architect, Cybersecurity or a Cloud Security Architect.\n\nCome and ask questions about your resume, get help with troubleshooting the labs, mock interviews, or ask general questions about your career.\n\nIf you're not subscribed to any of my course bundles, you can sign up at www.yescertified.com.",
+    "id": "9c6dc23b-accd-4dd9-b643-022ce2f39466",
+    "cleaning": {
+      "normalized_message": "hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m eastern time come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career if you re not subscribed to any of my course bundles you can sign up at www yescertified com",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 617,
+      "token_count": 109,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m eastern time come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career if you re not subscribed to any of my course bundles you can sign up at www yescertified com",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2183,
+    "date": "2024-04-21",
+    "datetime_utc": "2024-04-21T13:26:08+00:00",
+    "timestamp": 1713705968,
+    "message": "Hi Everyone,\n\nTwo career related events happening today!\n\nPlease join if you're interested in a Career in Cloud Computing and Cybersecurity or currently struggling with getting a job in the field.\n\n1st Event, 11:00 -12:00 pm EST:\n7 'STRATEGIC TIPS' for landing your dream job in Cloud. Join here https://www.linkedin.com/events/7-strategictips-forlandingyourd7179692211414945792\n\n\nThis second event is geared more towards absolute beginners in Tech.\n\n2nd Event, 2:30 - 3:30pm EST:\nIT Career seminar - Building a Future in Tech: Exploring Careers in Cloud Computing and Cybersecurity. Sign up here https://bit.ly/itsem\n\nPlease feel free to join and share with others that may find it beneficial.",
+    "id": "130df291-100a-4b3f-8572-63c1759b5e24",
+    "cleaning": {
+      "normalized_message": "hi everyone two career related events happening today please join if you re interested in a career in cloud computing and cybersecurity or currently struggling with getting a job in the field 1st event 11 00 -12 00 pm est 7 strategic tips for landing your dream job in cloud join here this second event is geared more towards absolute beginners in tech 2nd event 2 30 - 3 30pm est it career seminar - building a future in tech exploring careers in cloud computing and cybersecurity sign up here please feel free to join and share with others that may find it beneficial",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 569,
+      "token_count": 104,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "hi everyone two career related events happening today please join if you re interested in a career in cloud computing and cybersecurity or currently struggling with getting a job in the field 1st event 11 00 -12 00 pm est 7 strategic tips for landing your dream job in cloud join here this second event is geared more towards absolute beginners in tech 2nd event 2 30 - 3 30pm est it career seminar - building a future in tech exploring careers in cloud computing and cybersecurity sign up here please feel free to join and share with others that may find it beneficial",
+      "is_cyber_relevant": false,
+      "threat_label": "not_a_threat",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "medium",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://bit.ly/itsem",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/7-strategictips-forlandingyourd7179692211414945792",
+          "source": "regex",
+          "domain": "linkedin.com"
+        },
+        {
+          "type": "url",
+          "value": "https://bit.ly/itsem",
+          "source": "regex",
+          "domain": "bit.ly"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2185,
+    "date": "2024-04-27",
+    "datetime_utc": "2024-04-27T13:05:34+00:00",
+    "timestamp": 1714223134,
+    "message": "Saturday Reminder!!!\n\nHi Everyone,\n\nIf you're subscribed to any of my courses, this is a reminder that the weekly live mentorship call starts at 11:00 a.m. EST. Come meet with me live!!! \n\nGet mentored by an Ex-AWS Solutions Architect and a current Senior Cloud Security Architect. Let's talk about your dreams/goals of becoming a Cloud Engineer, Solutions Architect, Cybersecurity or a Cloud Security Architect.\n\nCome and ask questions about your resume, get help with troubleshooting the labs, mock interviews, or ask general questions about your career.\n\nIf you're not subscribed to any of my course bundles, you can sign up at www.yescertified.com.\n\nCurrent price is $299 one-time payment, message me on LinkedIn or email support@yescertified.com to request a discount 🎁",
+    "id": "f9fa2e00-f799-49b9-aa20-03dc0e6c5f6d",
+    "cleaning": {
+      "normalized_message": "saturday reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career if you re not subscribed to any of my course bundles you can sign up at www yescertified com current price is 299 one-time payment message me on linkedin or email support yescertified com to request a discount",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 743,
+      "token_count": 129,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "saturday reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career if you re not subscribed to any of my course bundles you can sign up at www yescertified com current price is 299 one-time payment message me on linkedin or email support yescertified com to request a discount",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain",
+        "email"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "email",
+          "value": "support@yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "domain",
+          "value": "yescertified.com",
+          "source": "regex"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2242,
+    "date": "2024-10-17",
+    "datetime_utc": "2024-10-17T04:33:19+00:00",
+    "timestamp": 1729139599,
+    "message": "Want to become a Cloud Security Architect or Cloud Security Engineer?\n\nAlready on the job and need some guidance for a challenging task?\n\nJoin these discussions live on LinkedIn!!!\n\nMy goal is to try to make this weekly... so \n\nDon't forget to follow and hit that bell icon (on LinkedIn) to stay informed of future events and posts from me.\n\nEvent Link:\nhttps://www.linkedin.com/events/cloudandcybersecurity-topicsfor7252536258046963713",
+    "id": "298aa50c-0b11-4a46-9341-7bbae6468d46",
+    "cleaning": {
+      "normalized_message": "want to become a cloud security architect or cloud security engineer already on the job and need some guidance for a challenging task join these discussions live on linkedin my goal is to try to make this weekly so don t forget to follow and hit that bell icon on linkedin to stay informed of future events and posts from me event link",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 335,
+      "token_count": 63,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "want to become a cloud security architect or cloud security engineer already on the job and need some guidance for a challenging task join these discussions live on linkedin my goal is to try to make this weekly so don t forget to follow and hit that bell icon on linkedin to stay informed of future events and posts from me event link",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/cloudandcybersecurity-topicsfor7252536258046963713",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2244,
+    "date": "2024-10-19",
+    "datetime_utc": "2024-10-19T16:17:36+00:00",
+    "timestamp": 1729354656,
+    "message": "Starting in less than one hour. I'm hosting \"Cybersecurity and Cloud Security - Topics for your resumes and interviews.\" \n\nCurrently over 100 expected attendees.\n\nIf you're a student in IT interested in Cloud Security or in the job market, or already on the job, don't miss it!\n\nIt's going to be a discussion style event, I don't want to bore you with one way lectures 😆 \n\nDon't forget to follow and repost!",
+    "id": "76377474-6f67-45de-aac5-7044bf43ccc2",
+    "cleaning": {
+      "normalized_message": "starting in less than one hour i m hosting cybersecurity and cloud security - topics for your resumes and interviews currently over 100 expected attendees if you re a student in it interested in cloud security or in the job market or already on the job don t miss it it s going to be a discussion style event i don t want to bore you with one way lectures don t forget to follow and repost",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 389,
+      "token_count": 77,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "starting in less than one hour i m hosting cybersecurity and cloud security - topics for your resumes and interviews currently over 100 expected attendees if you re a student in it interested in cloud security or in the job market or already on the job don t miss it it s going to be a discussion style event i don t want to bore you with one way lectures don t forget to follow and repost",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2248,
+    "date": "2024-10-26",
+    "datetime_utc": "2024-10-26T16:27:05+00:00",
+    "timestamp": 1729960025,
+    "message": "Starting in less than 1 hour from 12-1pm CST. Don't miss if you're an aspiring Cloud Security Architect or Cloud Security Engineer.\n\nhttps://www.linkedin.com/events/cloudandcybersecurity-topicsfor7253486464443772929",
+    "id": "301a1753-1b9f-4223-8ed9-3528a2129a93",
+    "cleaning": {
+      "normalized_message": "starting in less than 1 hour from 12-1pm cst don t miss if you re an aspiring cloud security architect or cloud security engineer",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 129,
+      "token_count": 24,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "starting in less than 1 hour from 12-1pm cst don t miss if you re an aspiring cloud security architect or cloud security engineer",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/events/cloudandcybersecurity-topicsfor7253486464443772929",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2249,
+    "date": "2024-10-26",
+    "datetime_utc": "2024-10-26T16:36:45+00:00",
+    "timestamp": 1729960605,
+    "message": "Every repost on LinkedIn counts 😊. Help get the LinkedIn algorithm to show this to more people that will benefit from attending and hopefully land those high paying Cloud Security jobs",
+    "id": "79a9861f-43b9-4c66-8af5-9d240c0f1f54",
+    "cleaning": {
+      "normalized_message": "every repost on linkedin counts help get the linkedin algorithm to show this to more people that will benefit from attending and hopefully land those high paying cloud security jobs",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 181,
+      "token_count": 30,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "every repost on linkedin counts help get the linkedin algorithm to show this to more people that will benefit from attending and hopefully land those high paying cloud security jobs",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "individual",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2260,
+    "date": "2024-12-19",
+    "datetime_utc": "2024-12-19T03:58:25+00:00",
+    "timestamp": 1734580705,
+    "message": "Here's your new task as the newly hired Cloud Security Architect or Cloud Security Engineer\n\nhttps://www.linkedin.com/posts/mkabir4u_can-you-help-solve-this-cloud-security-task-activity-7275358444444958720-ted_?utm_source=share&utm_medium=member_android",
+    "id": "098574a7-c666-4f5c-9bc3-a30b98476873",
+    "cleaning": {
+      "normalized_message": "here s your new task as the newly hired cloud security architect or cloud security engineer",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 91,
+      "token_count": 16,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "here s your new task as the newly hired cloud security architect or cloud security engineer",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://www.linkedin.com/posts/mkabir4u_can-you-help-solve-this-cloud-security-task-activity-7275358444444958720-ted_?utm_source=share&utm_medium=member_android",
+          "source": "regex",
+          "domain": "linkedin.com"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2264,
+    "date": "2024-12-21",
+    "datetime_utc": "2024-12-21T14:18:43+00:00",
+    "timestamp": 1734790723,
+    "message": "And don't forget\n\nGet $200 off my Linux and AWS course bundle ends December 31st, 2024. Don't miss the opportunity to not only get trained, but be mentored by an ex-AWS Solutions Architect and a current Sr. Cloud Security Architect. Prices will only go up after this, so take advantage of this rare opportunity.\n\nVisit the quick checkout link below and use the coupon code\"YESCERTIFIED\" to get my Linux and AWS course bundle with mentorship for just $99.\n\nQuick checkout link: https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw\n\nSee you in class.",
+    "id": "d9d7fac6-6709-4961-95de-a4d2e09b41c6",
+    "cleaning": {
+      "normalized_message": "and don t forget get 200 off my linux and aws course bundle ends december 31st 2024 don t miss the opportunity to not only get trained but be mentored by an ex-aws solutions architect and a current sr cloud security architect prices will only go up after this so take advantage of this rare opportunity visit the quick checkout link below and use the coupon code yescertified to get my linux and aws course bundle with mentorship for just 99 quick checkout link see you in class",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 478,
+      "token_count": 88,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "and don t forget get 200 off my linux and aws course bundle ends december 31st 2024 don t miss the opportunity to not only get trained but be mentored by an ex-aws solutions architect and a current sr cloud security architect prices will only go up after this so take advantage of this rare opportunity visit the quick checkout link below and use the coupon code yescertified to get my linux and aws course bundle with mentorship for just 99 quick checkout link see you in class",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+          "source": "regex",
+          "domain": "checkout.teachable.com"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2277,
+    "date": "2025-02-22",
+    "datetime_utc": "2025-02-22T15:47:15+00:00",
+    "timestamp": 1740239235,
+    "message": "Weekend live call Reminder!!!\n\nHi Everyone,\n\nIf you're subscribed to any of my courses, this is a reminder that the weekly live mentorship call starts at 11:00 a.m. EST, 10:00 a.m. CST. Come meet with me live!!! \n\nGet mentored by an Ex-AWS Solutions Architect and a current Senior Cloud Security Architect. Let's talk about your dreams/goals of becoming a Cloud Engineer, Solutions Architect, Cybersecurity or a Cloud Security Architect.\n\nCome and ask questions about your resume, get help with troubleshooting the labs, mock interviews, or ask general questions about your career.\n\nMy Linux and AWS course is only $299. Visit www.yescertified.com to sign up.",
+    "id": "92133ae4-a559-4c6b-8ac2-c9b22f2da8b0",
+    "cleaning": {
+      "normalized_message": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 630,
+      "token_count": 113,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2282,
+    "date": "2025-03-08",
+    "datetime_utc": "2025-03-08T13:51:43+00:00",
+    "timestamp": 1741441903,
+    "message": "Weekend live call Reminder!!!\n\nHi Everyone,\n\nIf you're subscribed to any of my courses, this is a reminder that the weekly live mentorship call starts at 11:00 a.m. EST, 10:00 a.m. CST. Come meet with me live!!! \n\nGet mentored by an Ex-AWS Solutions Architect and a current Senior Cloud Security Architect. Let's talk about your dreams/goals of becoming a Cloud Engineer, Solutions Architect, Cybersecurity or a Cloud Security Architect.\n\nCome and ask questions about your resume, get help with troubleshooting the labs, mock interviews, or ask general questions about your career.\n\nMy Linux and AWS course is only $299. Visit www.yescertified.com to sign up.",
+    "id": "e57fc690-0f67-44bf-a2d6-dd79decd1513",
+    "cleaning": {
+      "normalized_message": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 630,
+      "token_count": 113,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2283,
+    "date": "2025-03-15",
+    "datetime_utc": "2025-03-15T14:36:39+00:00",
+    "timestamp": 1742049399,
+    "message": "Weekend live call Reminder!!!\n\nHi Everyone,\n\nIf you're subscribed to any of my courses, this is a reminder that the weekly live mentorship call starts at 11:00 a.m. EST, 10:00 a.m. CST. Come meet with me live!!! \n\nGet mentored by an Ex-AWS Solutions Architect and a current Senior Cloud Security Architect. Let's talk about your dreams/goals of becoming a Cloud Engineer, Solutions Architect, Cybersecurity or a Cloud Security Architect.\n\nCome and ask questions about your resume, get help with troubleshooting the labs, mock interviews, or ask general questions about your career.\n\nMy Linux and AWS course is only $299. Visit www.yescertified.com to sign up.",
+    "id": "fcd062eb-221d-4de7-9c13-69e18d952807",
+    "cleaning": {
+      "normalized_message": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security",
+        "cybersecurity"
+      ],
+      "char_count": 630,
+      "token_count": 113,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "weekend live call reminder hi everyone if you re subscribed to any of my courses this is a reminder that the weekly live mentorship call starts at 11 00 a m est 10 00 a m cst come meet with me live get mentored by an ex-aws solutions architect and a current senior cloud security architect let s talk about your dreams goals of becoming a cloud engineer solutions architect cybersecurity or a cloud security architect come and ask questions about your resume get help with troubleshooting the labs mock interviews or ask general questions about your career my linux and aws course is only 299 visit www yescertified com to sign up",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": true,
+      "ioc_types": [
+        "domain"
+      ],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "domain",
+          "value": "www.yescertified.com",
+          "source": "regex"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2285,
+    "date": "2025-04-07",
+    "datetime_utc": "2025-04-07T23:08:59+00:00",
+    "timestamp": 1744067339,
+    "message": "Don't forget to follow, and please repost to educate other aspiring cloud security engineers/architects",
+    "id": "ad4d655f-b418-49ad-8a56-9c2b74a5f566",
+    "cleaning": {
+      "normalized_message": "don t forget to follow and please repost to educate other aspiring cloud security engineers architects",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 102,
+      "token_count": 16,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "don t forget to follow and please repost to educate other aspiring cloud security engineers architects",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2286,
+    "date": "2025-04-07",
+    "datetime_utc": "2025-04-07T23:12:56+00:00",
+    "timestamp": 1744067576,
+    "message": "I'd recommend leaving comments as well... Did I also mention that it's a way for you to show recruiters on LinkedIn that you engage with Cloud security content",
+    "id": "2201bf07-db8b-44b9-8e0e-57bc004ad6cd",
+    "cleaning": {
+      "normalized_message": "i d recommend leaving comments as well did i also mention that it s a way for you to show recruiters on linkedin that you engage with cloud security content",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 156,
+      "token_count": 30,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "i d recommend leaving comments as well did i also mention that it s a way for you to show recruiters on linkedin that you engage with cloud security content",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2288,
+    "date": "2025-04-19",
+    "datetime_utc": "2025-04-19T15:56:23+00:00",
+    "timestamp": 1745078183,
+    "message": "Just for the first 25 sign ups only!\n\nGet $200 off my Linux and AWS course bundle. Yes $200 off and get it for just $99. Offer ends this Monday at 11:59pm CST or as soon as the 25 sign up limit is reached. \n\nDon't miss the opportunity to not only get trained, but be mentored by an ex-AWS Solutions Architect and a current Sr. Cloud Security Architect.\n\nAlso, with the new topics I will be adding to all my courses, hopefully sometime this year, depending on how much free time I have to make the videos, please note that prices will go up to $599 for the Linux and AWS bundles and $29.99 for \"ALL Courses\" monthly subscription\n\nSo take the opportunity now, visit the quick checkout link below and use the coupon code\"TAKEOFF200\" to get my Linux and AWS course bundle with mentorship for just $99.\n\nQuick checkout link: https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw\n\nSee you in class.",
+    "id": "84fbf10d-4af0-4c18-aa25-f2499575997b",
+    "cleaning": {
+      "normalized_message": "just for the first 25 sign ups only get 200 off my linux and aws course bundle yes 200 off and get it for just 99 offer ends this monday at 11 59pm cst or as soon as the 25 sign up limit is reached don t miss the opportunity to not only get trained but be mentored by an ex-aws solutions architect and a current sr cloud security architect also with the new topics i will be adding to all my courses hopefully sometime this year depending on how much free time i have to make the videos please note that prices will go up to 599 for the linux and aws bundles and 29 99 for all courses monthly subscription so take the opportunity now visit the quick checkout link below and use the coupon code takeoff200 to get my linux and aws course bundle with mentorship for just 99 quick checkout link see you in class",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 807,
+      "token_count": 159,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "just for the first 25 sign ups only get 200 off my linux and aws course bundle yes 200 off and get it for just 99 offer ends this monday at 11 59pm cst or as soon as the 25 sign up limit is reached don t miss the opportunity to not only get trained but be mentored by an ex-aws solutions architect and a current sr cloud security architect also with the new topics i will be adding to all my courses hopefully sometime this year depending on how much free time i have to make the videos please note that prices will go up to 599 for the linux and aws bundles and 29 99 for all courses monthly subscription so take the opportunity now visit the quick checkout link below and use the coupon code takeoff200 to get my linux and aws course bundle with mentorship for just 99 quick checkout link see you in class",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "educational_reference",
+      "severity": "informational",
+      "confidence": "high",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": false,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+      "incident_date": "",
+      "entities": [
+        {
+          "type": "url",
+          "value": "https://checkout.teachable.com/secure/1218350/checkout/order_tplhkrkw",
+          "source": "regex",
+          "domain": "checkout.teachable.com"
+        },
+        {
+          "type": "product",
+          "value": "Linux",
+          "source": "ner"
+        }
+      ]
+    }
+  },
+  {
+    "source_file": "cloudandcybersecurity.json",
+    "_id": 2317,
+    "date": "2026-02-21",
+    "datetime_utc": "2026-02-21T21:26:24+00:00",
+    "timestamp": 1771709184,
+    "message": "Would you be interested in a live Cloud Security training? I'm thinking a double weekend training like I've done in the past, but this time focused on AWS Cloud Security.\n\nClick on this message and choose the clapping emoji to show interest",
+    "id": "a3c1b990-e476-4039-b0cf-0d058a2c0f0b",
+    "cleaning": {
+      "normalized_message": "would you be interested in a live cloud security training i m thinking a double weekend training like i ve done in the past but this time focused on aws cloud security click on this message and choose the clapping emoji to show interest",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cloud security"
+      ],
+      "char_count": 236,
+      "token_count": 44,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    },
+    "classification": {
+      "cleaned_text": "would you be interested in a live cloud security training i m thinking a double weekend training like i ve done in the past but this time focused on aws cloud security click on this message and choose the clapping emoji to show interest",
+      "is_cyber_relevant": true,
+      "threat_label": "other_cyber",
+      "secondary_labels": [],
+      "content_type": "general_cyber",
+      "severity": "informational",
+      "confidence": "low",
+      "target_type": "unknown",
+      "ioc_present": false,
+      "ioc_types": [],
+      "requires_human_review": true,
+      "victim_name": "",
+      "victims": [],
+      "primary_source_url": "",
+      "incident_date": "",
+      "entities": []
+    }
+  }
+]
