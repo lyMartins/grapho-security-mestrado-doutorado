@@ -267,44 +267,6 @@
     }
   },
   {
-    "_id": 98785,
-    "date": "2023-11-11",
-    "datetime_utc": "2023-11-11T03:33:33+00:00",
-    "timestamp": 1699673613,
-    "message": "/ban We don’t help with illegal hacking",
-    "id": "fc2fedb6-dd4b-47b5-891d-fa5257962f50",
-    "cleaning": {
-      "normalized_message": "ban we don t help with illegal hacking",
-      "keyword_hits": [],
-      "soft_keyword_hits": [
-        "hacking"
-      ],
-      "char_count": 38,
-      "token_count": 8,
-      "decision": "keep_review",
-      "reason": "soft_keyword_match"
-    }
-  },
-  {
-    "_id": 98786,
-    "date": "2023-11-11",
-    "datetime_utc": "2023-11-11T03:33:34+00:00",
-    "timestamp": 1699673614,
-    "message": "Another one bites the dust...!\nBanned [Ydtyyyy4567](tg://user?id=867093320).\nReason:\nWe don’t help with illegal hacking",
-    "id": "0710d058-6686-4928-9028-50f9d258941d",
-    "cleaning": {
-      "normalized_message": "another one bites the dust banned ydtyyyy4567 tg user id 867093320 reason we don t help with illegal hacking",
-      "keyword_hits": [],
-      "soft_keyword_hits": [
-        "hacking"
-      ],
-      "char_count": 108,
-      "token_count": 19,
-      "decision": "keep_review",
-      "reason": "soft_keyword_match"
-    }
-  },
-  {
     "_id": 98803,
     "date": "2023-11-12",
     "datetime_utc": "2023-11-12T22:01:49+00:00",

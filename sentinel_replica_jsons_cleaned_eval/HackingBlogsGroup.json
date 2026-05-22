@@ -3957,28 +3957,6 @@
     }
   },
   {
-    "_id": 2652,
-    "date": "2025-06-19",
-    "datetime_utc": "2025-06-19T11:07:44+00:00",
-    "timestamp": 1750331264,
-    "message": "🔥FREE NOTES API-HACKING BOOTCAMP DAY 1 : SETTING UP TOOLS FOR TESTING\n\nHi everyone in the HackingBlogs community!\nYour trainer, Dipanshu Kumar, is here. I started API-HACKING BOOTCAMP where i went into the topic of API security a few weeks ago when I gave a free API Hacking Masterclass. Although I am aware that some of you were unable to attend the live session, the feedback I received was extremely positive.\n\nAs a token of appreciation, I’m giving you access to my private, handwritten notes from the course or free. Unlike other free classes, this one has an added benefit: you are welcome to join our WhatsApp group. It’s a community where we talk about hacking and exchange ideas in addition to being a place for resources. Let’s begin by delving into the notes!\n\nCommon API Vulnerabilities We’ll Explore\n\nBroken Object Level Authorization (BOLA) : Because APIs frequently neglect to appropriately verify authorization at the object level, attackers can manipulate object identifiers to obtain data that is not authorized.\n\nBroken Authentication: Attackers may be able to compromise authentication tokens, take over sessions, and impersonate users due to inadequate security procedures.\n\nExcessive Data Exposure: APIs may provide responds that contain too much information, exposing private data that an attacker could use against you.\n\nUnrestricted Resource Consumption: Attackers may misuse resources due to API vulnerabilities, which could result in DoS (Denial of Service) attacks or higher operating expenses.\n\nBroken Function Level Authorization : Attackers can escalate privileges and gain access to sensitive functionality when APIs fail to distinguish between administrator and ordinary user functions.\n\nThe complete day 1 notes for free available here 👉🏻 https://hackingblogs.com/free-notes-api-hacking-bootcamp-day-1-setting-up/\n\nJoin the Free Telegram group for free hacking resources 👉🏻 https://t.me/HackingBlogsGroup\n\nApi-Hacking WhatsApp group 👉🏻 https://chat.whatsapp.com/KRvLRD8wN4V18PoirP7x8u",
-    "id": "723f0583-2a3e-4f3c-ad85-7581e741c67b",
-    "cleaning": {
-      "normalized_message": "free notes api-hacking bootcamp day 1 setting up tools for testing hi everyone in the hackingblogs community your trainer dipanshu kumar is here i started api-hacking bootcamp where i went into the topic of api security a few weeks ago when i gave a free api hacking masterclass although i am aware that some of you were unable to attend the live session the feedback i received was extremely positive as a token of appreciation i m giving you access to my private handwritten notes from the course or free unlike other free classes this one has an added benefit you are welcome to join our whatsapp group it s a community where we talk about hacking and exchange ideas in addition to being a place for resources let s begin by delving into the notes common api vulnerabilities we ll explore broken object level authorization bola because apis frequently neglect to appropriately verify authorization at the object level attackers can manipulate object identifiers to obtain data that is not authorized broken authentication attackers may be able to compromise authentication tokens take over sessions and impersonate users due to inadequate security procedures excessive data exposure apis may provide responds that contain too much information exposing private data that an attacker could use against you unrestricted resource consumption attackers may misuse resources due to api vulnerabilities which could result in dos denial of service attacks or higher operating expenses broken function level authorization attackers can escalate privileges and gain access to sensitive functionality when apis fail to distinguish between administrator and ordinary user functions the complete day 1 notes for free available here join the free telegram group for free hacking resources api-hacking whatsapp group",
-      "keyword_hits": [
-        "compromise"
-      ],
-      "soft_keyword_hits": [
-        "api security",
-        "hacking"
-      ],
-      "char_count": 1804,
-      "token_count": 284,
-      "decision": "keep",
-      "reason": "keyword_match"
-    }
-  },
-  {
     "_id": 2677,
     "date": "2025-06-21",
     "datetime_utc": "2025-06-21T09:38:46+00:00",

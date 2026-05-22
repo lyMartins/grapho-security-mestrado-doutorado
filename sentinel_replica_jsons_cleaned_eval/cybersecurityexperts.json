@@ -94409,25 +94409,6 @@
     }
   },
   {
-    "_id": 326637,
-    "date": "2023-09-07",
-    "datetime_utc": "2023-09-07T19:35:11+00:00",
-    "timestamp": 1694115311,
-    "message": "Welcome to our community of learners! Our Telegram group aims to provide free courses in the field of cybersecurity to help you enhance your skills and knowledge. Whether you are students, professionals, or just someone who loves learning, you will find something useful here. Our group is open to everyone.\n                                                                Whoever wants to join comes to the private party",
-    "id": "f078d26a-667e-4976-9ff4-f29a669e00aa",
-    "cleaning": {
-      "normalized_message": "welcome to our community of learners our telegram group aims to provide free courses in the field of cybersecurity to help you enhance your skills and knowledge whether you are students professionals or just someone who loves learning you will find something useful here our group is open to everyone whoever wants to join comes to the private party",
-      "keyword_hits": [],
-      "soft_keyword_hits": [
-        "cybersecurity"
-      ],
-      "char_count": 349,
-      "token_count": 59,
-      "decision": "keep_review",
-      "reason": "soft_keyword_match"
-    }
-  },
-  {
     "_id": 326647,
     "date": "2023-09-07",
     "datetime_utc": "2023-09-07T19:55:24+00:00",
