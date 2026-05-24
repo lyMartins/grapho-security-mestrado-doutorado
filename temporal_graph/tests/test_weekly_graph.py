@@ -10,7 +10,7 @@ from pathlib import Path
 import torch
 
 from build_weekly_graph import build_graph
-from train_weekly import balanced_chronological_masks
+from train_weekly import balanced_chronological_masks, stratified_masks
 
 
 def write_json(path: Path, rows: list[dict]) -> None:
@@ -127,7 +127,10 @@ class WeeklyGraphTest(unittest.TestCase):
             self.assertEqual(data["message"].x.size(1), 10)
             self.assertEqual(data["day"].x.size(1), 16)
             self.assertEqual(metadata["num_label_observed_snapshots"], 2)
-            self.assertEqual(metadata["count_bucket_observed_counts"], {"0": 1, "1-2": 1, "3-5": 0, "6+": 0})
+            self.assertEqual(
+                metadata["count_bucket_observed_counts"],
+                {"0": 1, "1-2": 1, "3-5": 0, "6-10": 0, "11-15": 0, "16+": 0},
+            )
             self.assertEqual(metadata["threat_type_event_counts"]["malware"], 1)
             self.assertEqual(metadata["parameters"]["include_absolute_time"], False)
 
@@ -141,6 +144,30 @@ class WeeklyGraphTest(unittest.TestCase):
             values = labels[mask]
             self.assertTrue(bool((values == 0).any()))
             self.assertTrue(bool((values == 1).any()))
+        self.assertTrue(torch.equal(train | val | test, eligible))
+        self.assertFalse(bool((train & val).any()))
+        self.assertFalse(bool((train & test).any()))
+        self.assertFalse(bool((val & test).any()))
+
+    def test_stratified_masks_preserve_bucket_distribution(self) -> None:
+        labels = torch.tensor([0] * 12 + [1] * 12 + [2] * 12, dtype=torch.long)
+        eligible = torch.ones(labels.numel(), dtype=torch.bool)
+
+        train, val, test = stratified_masks(labels, eligible, val_size=0.25, test_size=0.25, seed=7)
+        train_again, val_again, test_again = stratified_masks(
+            labels, eligible, val_size=0.25, test_size=0.25, seed=7
+        )
+
+        self.assertTrue(torch.equal(train, train_again))
+        self.assertTrue(torch.equal(val, val_again))
+        self.assertTrue(torch.equal(test, test_again))
+        self.assertEqual(int(train.sum().item()), 18)
+        self.assertEqual(int(val.sum().item()), 9)
+        self.assertEqual(int(test.sum().item()), 9)
+        for mask in (train, val, test):
+            values = labels[mask]
+            self.assertEqual(int((values == 0).sum().item()), int((values == 1).sum().item()))
+            self.assertEqual(int((values == 1).sum().item()), int((values == 2).sum().item()))
         self.assertTrue(torch.equal(train | val | test, eligible))
         self.assertFalse(bool((train & val).any()))
         self.assertFalse(bool((train & test).any()))

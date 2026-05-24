@@ -22,7 +22,7 @@ from weekly.metrics import (
 )
 from weekly.model import WeeklyMultiTaskForecaster
 from weekly.plots import write_plots
-from weekly.splits import balanced_chronological_masks, chronological_masks, set_seed
+from weekly.splits import balanced_chronological_masks, chronological_masks, set_seed, stratified_masks
 
 _ROOT = Path(__file__).parent.parent
 
@@ -53,7 +53,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--plots-dir", type=Path, default=_ROOT / "temporal_graph/output")
     parser.add_argument("--threshold", type=float, default=0.5)
     parser.add_argument("--threshold-policy", choices=["fixed", "val_f1"], default="val_f1")
-    parser.add_argument("--split-policy", choices=["chronological", "balanced_chronological"], default="balanced_chronological")
+    parser.add_argument(
+        "--split-policy",
+        choices=["stratified", "chronological", "balanced_chronological"],
+        default="stratified",
+    )
     return parser.parse_args()
 
 
@@ -77,7 +81,11 @@ def main() -> None:
     threat_type_labels = [data.id_to_threat_type[idx] for idx in sorted(data.id_to_threat_type)]
     count_bucket_labels = [data.id_to_count_bucket[idx] for idx in sorted(data.id_to_count_bucket)]
     eligible_mask = data["day"].train_mask.detach().cpu()
-    if args.split_policy == "balanced_chronological":
+    if args.split_policy == "stratified":
+        train_mask, val_mask, test_mask = stratified_masks(
+            y_count_bucket.detach().cpu(), eligible_mask, args.val_size, args.test_size, args.seed
+        )
+    elif args.split_policy == "balanced_chronological":
         train_mask, val_mask, test_mask = balanced_chronological_masks(
             y_count_bucket.detach().cpu(), eligible_mask, args.val_size, args.test_size
         )
@@ -173,24 +181,30 @@ def main() -> None:
         else np.full(len(threat_type_labels), args.threshold, dtype=np.float32)
     )
     masks = {"train": train_mask, "val": val_mask, "test": test_mask}
-    observed_counts = data["day"].observed_message_count
-    split_summary = {
-        name: {
+    split_summary = {}
+    for name, mask in masks.items():
+        mask_indices = torch.nonzero(mask.detach().cpu(), as_tuple=False).flatten()
+        split_row = {
             "support": int(mask.sum().item()),
             "mean_event_count": float(y_count[mask].mean().item()) if bool(mask.any()) else None,
             "count_bucket_counts": {
                 count_bucket_labels[idx]: int((y_count_bucket[mask] == idx).sum().item())
                 for idx in range(len(count_bucket_labels))
             },
-            "start_date": data["day"].date[int(torch.nonzero(mask.detach().cpu(), as_tuple=False).flatten()[0])]
-            if bool(mask.any())
-            else None,
-            "end_date": data["day"].date[int(torch.nonzero(mask.detach().cpu(), as_tuple=False).flatten()[-1])]
-            if bool(mask.any())
-            else None,
         }
-        for name, mask in masks.items()
-    }
+        if bool(mask.any()):
+            split_row["date_min"] = min(data["day"].date[int(idx)] for idx in mask_indices)
+            split_row["date_max"] = max(data["day"].date[int(idx)] for idx in mask_indices)
+            if args.split_policy != "stratified":
+                split_row["start_date"] = data["day"].date[int(mask_indices[0])]
+                split_row["end_date"] = data["day"].date[int(mask_indices[-1])]
+        else:
+            split_row["date_min"] = None
+            split_row["date_max"] = None
+            if args.split_policy != "stratified":
+                split_row["start_date"] = None
+                split_row["end_date"] = None
+        split_summary[name] = split_row
 
     metrics: dict[str, object] = {
         "device": str(device),

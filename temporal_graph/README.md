@@ -22,9 +22,18 @@ O segundo comando gera:
 
 - `temporal_graph/output/weekly_metrics.json`: metricas de treino, validacao e teste.
 - `temporal_graph/output/weekly_training_history.png`
+- `temporal_graph/output/weekly_count_bucket_metrics.png`
+- `temporal_graph/output/weekly_type_multilabel_metrics.png`
+- `temporal_graph/output/weekly_type_count_regression_metrics.png`
 - `temporal_graph/output/weekly_val_count_confusion_matrix.png`
 - `temporal_graph/output/weekly_test_count_confusion_matrix.png`
 - `temporal_graph/output/weekly_test_type_metrics.png`
+
+Por padrao, `train_weekly.py` usa `--split-policy stratified`: treino,
+validacao e teste sao amostrados de forma reprodutivel, estratificados pelo
+bucket de contagem futura (`y_future_count_bucket`). As politicas cronologicas
+antigas continuam disponiveis via `--split-policy chronological` e
+`--split-policy balanced_chronological` para comparacao.
 
 Tambem existe uma visualizacao HTML:
 

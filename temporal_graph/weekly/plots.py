@@ -95,6 +95,114 @@ def plot_type_metrics(metrics: dict[str, object], path: Path) -> None:
     plt.close(fig)
 
 
+def plot_count_bucket_summary(metrics_by_split: dict[str, object], path: Path) -> None:
+    splits = ["train", "val", "test"]
+    metric_names = ["accuracy", "macro_f1", "weighted_f1"]
+    values = np.array(
+        [
+            [
+                float(metrics_by_split.get(split, {}).get(metric_name, 0.0) or 0.0)  # type: ignore[union-attr]
+                for metric_name in metric_names
+            ]
+            for split in splits
+        ],
+        dtype=np.float32,
+    )
+    fig, axis = plt.subplots(figsize=(8.5, 4.8))
+    x_pos = np.arange(len(splits))
+    width = 0.24
+    colors = ["#1f77b4", "#ff7f0e", "#2ca02c"]
+    labels = ["Accuracy", "Macro F1", "Weighted F1"]
+    for idx, label in enumerate(labels):
+        axis.bar(x_pos + (idx - 1) * width, values[:, idx], width=width, label=label, color=colors[idx])
+    axis.set_title("Event volume bucket classification")
+    axis.set_ylabel("score")
+    axis.set_ylim(0.0, 1.0)
+    axis.set_xticks(x_pos)
+    axis.set_xticklabels(["Train", "Validation", "Test"])
+    axis.grid(True, axis="y", alpha=0.25)
+    axis.legend(loc="upper right")
+    fig.tight_layout()
+    fig.savefig(path, dpi=170)
+    plt.close(fig)
+
+
+def plot_multilabel_summary(metrics_by_split: dict[str, object], path: Path) -> None:
+    splits = ["train", "val", "test"]
+    metric_names = ["micro_f1", "macro_f1"]
+    values = np.array(
+        [
+            [
+                float(metrics_by_split.get(split, {}).get(metric_name, 0.0) or 0.0)  # type: ignore[union-attr]
+                for metric_name in metric_names
+            ]
+            for split in splits
+        ],
+        dtype=np.float32,
+    )
+    fig, axis = plt.subplots(figsize=(7.5, 4.8))
+    x_pos = np.arange(len(splits))
+    width = 0.30
+    axis.bar(x_pos - width / 2, values[:, 0], width=width, label="Micro F1", color="#1f77b4")
+    axis.bar(x_pos + width / 2, values[:, 1], width=width, label="Macro F1", color="#ff7f0e")
+    axis.set_title("Threat type presence multilabel")
+    axis.set_ylabel("score")
+    axis.set_ylim(0.0, 1.0)
+    axis.set_xticks(x_pos)
+    axis.set_xticklabels(["Train", "Validation", "Test"])
+    axis.grid(True, axis="y", alpha=0.25)
+    axis.legend(loc="upper right")
+    fig.tight_layout()
+    fig.savefig(path, dpi=170)
+    plt.close(fig)
+
+
+def plot_count_regression_summary(metrics_by_split: dict[str, object], path: Path) -> None:
+    splits = ["train", "val", "test"]
+    mae_values = [
+        float(metrics_by_split.get(split, {}).get("mae", 0.0) or 0.0)  # type: ignore[union-attr]
+        for split in splits
+    ]
+    rmse_values = [
+        float(metrics_by_split.get(split, {}).get("rmse", 0.0) or 0.0)  # type: ignore[union-attr]
+        for split in splits
+    ]
+    true_means = [
+        float(metrics_by_split.get(split, {}).get("true_mean", 0.0) or 0.0)  # type: ignore[union-attr]
+        for split in splits
+    ]
+    pred_means = [
+        float(metrics_by_split.get(split, {}).get("pred_mean", 0.0) or 0.0)  # type: ignore[union-attr]
+        for split in splits
+    ]
+
+    fig, axes = plt.subplots(1, 2, figsize=(11.0, 4.8))
+    x_pos = np.arange(len(splits))
+    width = 0.34
+    axes[0].bar(x_pos - width / 2, mae_values, width=width, label="MAE", color="#d62728")
+    axes[0].bar(x_pos + width / 2, rmse_values, width=width, label="RMSE", color="#9467bd")
+    axes[0].set_title("Count regression error")
+    axes[0].set_ylabel("events")
+    axes[0].set_xticks(x_pos)
+    axes[0].set_xticklabels(["Train", "Validation", "Test"])
+    axes[0].grid(True, axis="y", alpha=0.25)
+    axes[0].legend(loc="upper right")
+
+    axes[1].bar(x_pos - width / 2, true_means, width=width, label="True mean", color="#1f77b4")
+    axes[1].bar(x_pos + width / 2, pred_means, width=width, label="Pred mean", color="#ff7f0e")
+    axes[1].set_title("Mean event count")
+    axes[1].set_ylabel("events")
+    axes[1].set_xticks(x_pos)
+    axes[1].set_xticklabels(["Train", "Validation", "Test"])
+    axes[1].grid(True, axis="y", alpha=0.25)
+    axes[1].legend(loc="upper right")
+
+    fig.suptitle("Threat type count regression")
+    fig.tight_layout()
+    fig.savefig(path, dpi=170)
+    plt.close(fig)
+
+
 def write_plots(
     metrics: dict[str, object],
     masks: dict[str, object],
@@ -106,9 +214,13 @@ def write_plots(
         "val_count_confusion_matrix": plots_dir / "weekly_val_count_confusion_matrix.png",
         "test_count_confusion_matrix": plots_dir / "weekly_test_count_confusion_matrix.png",
         "test_type_metrics": plots_dir / "weekly_test_type_metrics.png",
+        "count_bucket_summary": plots_dir / "weekly_count_bucket_metrics.png",
+        "type_multilabel_summary": plots_dir / "weekly_type_multilabel_metrics.png",
+        "type_count_regression_summary": plots_dir / "weekly_type_count_regression_metrics.png",
     }
     plot_history(metrics["history"], paths["history"])  # type: ignore[arg-type]
     count_metrics_by_split = metrics["count_bucket"]  # type: ignore[assignment]
+    plot_count_bucket_summary(count_metrics_by_split, paths["count_bucket_summary"])  # type: ignore[arg-type]
     plot_labeled_confusion(
         count_metrics_by_split["val"], "Validation event count bucket confusion matrix", paths["val_count_confusion_matrix"]  # type: ignore[index,arg-type]
     )
@@ -116,5 +228,8 @@ def write_plots(
         count_metrics_by_split["test"], "Test event count bucket confusion matrix", paths["test_count_confusion_matrix"]  # type: ignore[index,arg-type]
     )
     type_metrics_by_split = metrics["threat_type_multilabel"]  # type: ignore[assignment]
+    plot_multilabel_summary(type_metrics_by_split, paths["type_multilabel_summary"])  # type: ignore[arg-type]
     plot_type_metrics(type_metrics_by_split["test"], paths["test_type_metrics"])  # type: ignore[index,arg-type]
+    count_regression_by_split = metrics["event_count_regression"]  # type: ignore[assignment]
+    plot_count_regression_summary(count_regression_by_split, paths["type_count_regression_summary"])  # type: ignore[arg-type]
     return {name: str(path) for name, path in paths.items() if path.exists()}
