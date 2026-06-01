@@ -20,7 +20,7 @@ def plot_history(history: list[dict[str, float]], path: Path) -> None:
     type_losses = [float(row["type_multilabel_loss"]) for row in history]
     val_f1 = [float(row["val_count_macro_f1"]) for row in history]
 
-    fig, loss_axis = plt.subplots(figsize=(9, 5))
+    fig, loss_axis = plt.subplots(figsize=(9, 5.4))
     f1_axis = loss_axis.twinx()
     lines = []
     lines += loss_axis.plot(epochs, losses, marker="o", color="#1f77b4", label="total loss")
@@ -31,8 +31,15 @@ def plot_history(history: list[dict[str, float]], path: Path) -> None:
     loss_axis.set_ylabel("Loss")
     f1_axis.set_ylabel("F1")
     loss_axis.grid(True, alpha=0.25)
-    loss_axis.legend(lines, [line.get_label() for line in lines], loc="center right")
-    fig.tight_layout()
+    loss_axis.legend(
+        lines,
+        [line.get_label() for line in lines],
+        loc="upper center",
+        bbox_to_anchor=(0.5, 1.14),
+        ncol=4,
+        frameon=True,
+    )
+    fig.tight_layout(rect=(0, 0, 1, 0.94))
     fig.savefig(path, dpi=160)
     plt.close(fig)
 
@@ -158,46 +165,54 @@ def plot_multilabel_summary(metrics_by_split: dict[str, object], path: Path) -> 
 
 
 def plot_count_regression_summary(metrics_by_split: dict[str, object], path: Path) -> None:
-    splits = ["train", "val", "test"]
-    mae_values = [
-        float(metrics_by_split.get(split, {}).get("mae", 0.0) or 0.0)  # type: ignore[union-attr]
-        for split in splits
-    ]
-    rmse_values = [
-        float(metrics_by_split.get(split, {}).get("rmse", 0.0) or 0.0)  # type: ignore[union-attr]
-        for split in splits
-    ]
-    true_means = [
-        float(metrics_by_split.get(split, {}).get("true_mean", 0.0) or 0.0)  # type: ignore[union-attr]
-        for split in splits
-    ]
-    pred_means = [
-        float(metrics_by_split.get(split, {}).get("pred_mean", 0.0) or 0.0)  # type: ignore[union-attr]
-        for split in splits
-    ]
+    test_metrics = metrics_by_split.get("test", {})
+    per_type = test_metrics.get("per_type", {}) if isinstance(test_metrics, dict) else {}
+    if not per_type:
+        return
 
-    fig, axes = plt.subplots(1, 2, figsize=(11.0, 4.8))
-    x_pos = np.arange(len(splits))
-    width = 0.34
-    axes[0].bar(x_pos - width / 2, mae_values, width=width, label="MAE", color="#d62728")
-    axes[0].bar(x_pos + width / 2, rmse_values, width=width, label="RMSE", color="#9467bd")
-    axes[0].set_title("Count regression error")
-    axes[0].set_ylabel("events")
-    axes[0].set_xticks(x_pos)
-    axes[0].set_xticklabels(["Train", "Validation", "Test"])
-    axes[0].grid(True, axis="y", alpha=0.25)
-    axes[0].legend(loc="upper right")
+    rows = [
+        (
+            str(label),
+            float(values.get("true_mean", 0.0) or 0.0),
+            float(values.get("pred_mean", 0.0) or 0.0),
+            float(values.get("mae", 0.0) or 0.0),
+            float(values.get("rmse", 0.0) or 0.0),
+        )
+        for label, values in per_type.items()
+        if isinstance(values, dict)
+    ]
+    rows.sort(key=lambda item: item[1], reverse=True)
 
-    axes[1].bar(x_pos - width / 2, true_means, width=width, label="True mean", color="#1f77b4")
-    axes[1].bar(x_pos + width / 2, pred_means, width=width, label="Pred mean", color="#ff7f0e")
-    axes[1].set_title("Mean event count")
-    axes[1].set_ylabel("events")
-    axes[1].set_xticks(x_pos)
-    axes[1].set_xticklabels(["Train", "Validation", "Test"])
-    axes[1].grid(True, axis="y", alpha=0.25)
-    axes[1].legend(loc="upper right")
+    labels = [row[0] for row in rows]
+    true_means = [row[1] for row in rows]
+    pred_means = [row[2] for row in rows]
+    mae_values = [row[3] for row in rows]
+    rmse_values = [row[4] for row in rows]
+    y_pos = np.arange(len(rows))
+    height = 0.34
 
-    fig.suptitle("Threat type count regression")
+    fig, axes = plt.subplots(1, 2, figsize=(12.0, 5.2), sharey=True)
+    axes[0].barh(y_pos - height / 2, true_means, height=height, label="True mean", color="#1f77b4")
+    axes[0].barh(y_pos + height / 2, pred_means, height=height, label="Pred mean", color="#ff7f0e")
+    axes[0].set_title("Mean count by threat type (test)")
+    axes[0].set_xlabel("events per day")
+    axes[0].set_yticks(y_pos)
+    axes[0].set_yticklabels(labels)
+    axes[0].invert_yaxis()
+    axes[0].grid(True, axis="x", alpha=0.25)
+    axes[0].legend(loc="lower right")
+
+    axes[1].barh(y_pos - height / 2, mae_values, height=height, label="MAE", color="#d62728")
+    axes[1].barh(y_pos + height / 2, rmse_values, height=height, label="RMSE", color="#9467bd")
+    axes[1].set_title("Regression error by threat type (test)")
+    axes[1].set_xlabel("events per day")
+    axes[1].grid(True, axis="x", alpha=0.25)
+    axes[1].legend(loc="lower right")
+
+    mae = float(test_metrics.get("mae", 0.0) or 0.0) if isinstance(test_metrics, dict) else 0.0
+    rmse = float(test_metrics.get("rmse", 0.0) or 0.0) if isinstance(test_metrics, dict) else 0.0
+    bias = float(test_metrics.get("bias", 0.0) or 0.0) if isinstance(test_metrics, dict) else 0.0
+    fig.suptitle(f"Threat type count regression - test total: MAE {mae:.2f}, RMSE {rmse:.2f}, bias {bias:+.2f}")
     fig.tight_layout()
     fig.savefig(path, dpi=170)
     plt.close(fig)
@@ -230,6 +245,6 @@ def write_plots(
     type_metrics_by_split = metrics["threat_type_multilabel"]  # type: ignore[assignment]
     plot_multilabel_summary(type_metrics_by_split, paths["type_multilabel_summary"])  # type: ignore[arg-type]
     plot_type_metrics(type_metrics_by_split["test"], paths["test_type_metrics"])  # type: ignore[index,arg-type]
-    count_regression_by_split = metrics["event_count_regression"]  # type: ignore[assignment]
+    count_regression_by_split = metrics.get("type_count_regression") or metrics["event_count_regression"]  # type: ignore[assignment]
     plot_count_regression_summary(count_regression_by_split, paths["type_count_regression_summary"])  # type: ignore[arg-type]
     return {name: str(path) for name, path in paths.items() if path.exists()}

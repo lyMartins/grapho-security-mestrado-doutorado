@@ -19,6 +19,7 @@ from weekly.metrics import (
     count_bucket_baselines,
     multilabel_metrics,
     multilabel_pos_weights,
+    type_count_regression_metrics,
 )
 from weekly.model import WeeklyMultiTaskForecaster
 from weekly.plots import write_plots
@@ -230,6 +231,17 @@ def main() -> None:
             "train": count_regression_metrics(outputs["type_counts"], y_count, train_mask),
             "val": count_regression_metrics(outputs["type_counts"], y_count, val_mask),
             "test": count_regression_metrics(outputs["type_counts"], y_count, test_mask),
+        },
+        "type_count_regression": {
+            "train": type_count_regression_metrics(
+                outputs["type_counts"], y_type_counts, train_mask, threat_type_labels
+            ),
+            "val": type_count_regression_metrics(
+                outputs["type_counts"], y_type_counts, val_mask, threat_type_labels
+            ),
+            "test": type_count_regression_metrics(
+                outputs["type_counts"], y_type_counts, test_mask, threat_type_labels
+            ),
         },
         "threat_type_multilabel": {
             "train": multilabel_metrics(

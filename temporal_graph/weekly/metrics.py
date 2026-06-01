@@ -124,6 +124,51 @@ def count_regression_metrics(predicted_log_type_counts: torch.Tensor, labels: to
     }
 
 
+def type_count_regression_metrics(
+    predicted_log_type_counts: torch.Tensor,
+    labels: torch.Tensor,
+    mask: torch.Tensor,
+    label_names: list[str],
+) -> dict[str, object]:
+    if int(mask.sum().item()) == 0:
+        return {"support": 0}
+    y_true = labels[mask].detach().cpu().numpy().astype(np.float32)
+    y_pred = (
+        torch.expm1(predicted_log_type_counts[mask].clamp_min(0.0))
+        .detach()
+        .cpu()
+        .numpy()
+        .astype(np.float32)
+    )
+    per_type: dict[str, object] = {}
+    for idx, label in enumerate(label_names):
+        true_values = y_true[:, idx]
+        pred_values = y_pred[:, idx]
+        errors = pred_values - true_values
+        per_type[label] = {
+            "positive_days": int((true_values > 0).sum()),
+            "true_total": float(true_values.sum()),
+            "pred_total": float(pred_values.sum()),
+            "true_mean": float(true_values.mean()),
+            "pred_mean": float(pred_values.mean()),
+            "mae": float(np.mean(np.abs(errors))),
+            "rmse": float(np.sqrt(np.mean(errors**2))),
+            "bias": float(errors.mean()),
+        }
+    total_true = y_true.sum(axis=1)
+    total_pred = y_pred.sum(axis=1)
+    total_errors = total_pred - total_true
+    return {
+        "support": int(y_true.shape[0]),
+        "mae": float(np.mean(np.abs(total_errors))),
+        "rmse": float(np.sqrt(np.mean(total_errors**2))),
+        "true_mean": float(total_true.mean()),
+        "pred_mean": float(total_pred.mean()),
+        "bias": float(total_errors.mean()),
+        "per_type": per_type,
+    }
+
+
 def multilabel_metrics(
     logits: torch.Tensor,
     labels: torch.Tensor,
