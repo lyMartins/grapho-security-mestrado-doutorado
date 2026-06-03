@@ -12,10 +12,35 @@
         "botnet",
         "stealer"
       ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cyber security",
+        "hacking"
+      ],
       "char_count": 2565,
       "token_count": 409,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 13,
+    "date": "2023-01-17",
+    "datetime_utc": "2023-01-17T10:12:33+00:00",
+    "timestamp": 1673950353,
+    "message": "⚠️ **DISCLAIMER** 🔊\n\nAll our posts on this channel are made available for educational and informational purposes only. We believe that everyone must be aware of ethical hacking and cybersecurity to avoid different types of cyberattacks on computers, websites, apps, etc. Please regard the word hacking as ethical hacking every time we use it. All our post have been made using our own systems, servers, routers, and websites. It does not contain any illegal activities. Our sole purpose is to raise awareness related to cybersecurity and help our viewers learn Ways to defend themselves from any hacking activities. Our Channel Name is not responsible for any misuse of the provided information.",
+    "id": "16831bfd-2270-4a77-83ca-eb023e6992dc",
+    "cleaning": {
+      "normalized_message": "disclaimer all our posts on this channel are made available for educational and informational purposes only we believe that everyone must be aware of ethical hacking and cybersecurity to avoid different types of cyberattacks on computers websites apps etc please regard the word hacking as ethical hacking every time we use it all our post have been made using our own systems servers routers and websites it does not contain any illegal activities our sole purpose is to raise awareness related to cybersecurity and help our viewers learn ways to defend themselves from any hacking activities our channel name is not responsible for any misuse of the provided information",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 672,
+      "token_count": 109,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -30,6 +55,7 @@
       "keyword_hits": [
         "apt"
       ],
+      "soft_keyword_hits": [],
       "char_count": 854,
       "token_count": 148,
       "decision": "keep",
@@ -48,6 +74,7 @@
       "keyword_hits": [
         "apt"
       ],
+      "soft_keyword_hits": [],
       "char_count": 510,
       "token_count": 84,
       "decision": "keep",
@@ -66,10 +93,31 @@
       "keyword_hits": [
         "spyware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 431,
       "token_count": 74,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 372,
+    "date": "2023-03-11",
+    "datetime_utc": "2023-03-11T08:35:56+00:00",
+    "timestamp": 1678523756,
+    "message": "🪬**Hey Guys🪬\n\n🪬From Now On This Channel Will Be Called Hacker's Asylum. \nAnd We Are Changing The Logo Too. We changed the previous name because of some reason.🗿.\n\nOUR OFFICIAL USERNAME FROM NOW ON IS GOING TO BE \n****@Hackers_Asylum**** For The Channel And ****@HackersAsylum**** For The Discussion Groups\n\n💢 What does Hacker's Asylum mean ?\n➡️ Shelter For Hackers.\n\n🚀 Some plans For The Future Of The Channel :- \n\n🗼This Channel Will Forever Be Shortner Free.\n🛸 We Will Soon Launch Our Other Channels Too. (ON CRYPTO, Tools, Seperate Channel For Free Courses.**)\n\nIF YOU HAVE ANY QUESTION REGARDING THE CHANNEL THE COMMENT SECTION IS ALL YOURS.",
+    "id": "f99ddb58-ceeb-42e4-a8f5-1fa9b19da475",
+    "cleaning": {
+      "normalized_message": "hey guys from now on this channel will be called hacker s asylum and we are changing the logo too we changed the previous name because of some reason our official username from now on is going to be hackers_asylum for the channel and hackersasylum for the discussion groups what does hacker s asylum mean shelter for hackers some plans for the future of the channel - this channel will forever be shortner free we will soon launch our other channels too on crypto tools seperate channel for free courses if you have any question regarding the channel the comment section is all yours",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
+      "char_count": 583,
+      "token_count": 104,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -84,6 +132,7 @@
       "keyword_hits": [
         "apt"
       ],
+      "soft_keyword_hits": [],
       "char_count": 502,
       "token_count": 94,
       "decision": "keep",
@@ -102,10 +151,95 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cyber security",
+        "hackers",
+        "hacking",
+        "penetration testing"
+      ],
       "char_count": 2635,
       "token_count": 471,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 425,
+    "date": "2023-03-28",
+    "datetime_utc": "2023-03-28T10:49:08+00:00",
+    "timestamp": 1680000548,
+    "message": "[Part 1](https://t.me/HackerS_AsyLum/424)  ------- [Part 2 ](https://t.me/HackerS_AsyLum/425)\n\n‼️**You can learn More Languages these are optional but you can try. These will improve your skills.\nDo not give more time to these languages (Important are C, Python, SQL, js)\n\n♻️Bash Mastery The Complete Guide to Bash Shell Scripting:\n\n⚡️Mega Link** - https://mega.nz/folder/CGBj3S5S#UT2y_zzEcV8MybIEHvhpGQ\n\n🐍 **Python For Pentesters**:\n\n⚡️**Mega Link** - https://mega.nz/folder/DCRhGKoA#wpRiRdPwtTNeK1cYXYnRQQ\n\n**🐍 Python 101 for Hackers:\n\n⚡️Mega Link-** https://mega.nz/folder/qLBFTaDJ#V3FjAQQdBp7flYKrrF8r3g\n\n🐍 **Learn Python Programming Masterclass: (Its generic Python classes for programmers)\n**\n⚡️**Mega Link -** https://mega.nz/folder/OKJTFKqa#9txi45qrFK_OgoefYatLPw\n\n**✨Step - 7**\n\n🔹**Practice your skills here:\nPortswigger:(Try to solve all the labs without solutions)\nLink -** https://portswigger.net/web-security/all-labs\n\n🔹**Pentesterlab: Solve all the free labs(want to gain more knowledge, paid is the best option)** -\nhttps://pentesterlab.com/exercises\n\n🔹**Ctfchallenge:**\nhttps://ctfchallenge.com/\n\n🔹**Over the wire: Best for to understand and to learn more advanced Linux**\nhttps://overthewire.org/wargames/\n\n🔹**Tryhackme: Try to solve the free labs**\nhttps://tryhackme.com/\n\nNOTE: Every Thing is In order Don't Skip Anything. (After completing this you will be a full fledged Pro Hacker.) \n\nSHARE WITH YOUR FRIENDS",
+    "id": "7fb49b8e-aa32-4917-a33c-4cc8392b03ae",
+    "cleaning": {
+      "normalized_message": "part 1 ------- part 2 you can learn more languages these are optional but you can try these will improve your skills do not give more time to these languages important are c python sql js bash mastery the complete guide to bash shell scripting mega link - python for pentesters mega link - python 101 for hackers mega link- learn python programming masterclass its generic python classes for programmers mega link - step - 7 practice your skills here portswigger try to solve all the labs without solutions link - pentesterlab solve all the free labs want to gain more knowledge paid is the best option - ctfchallenge over the wire best for to understand and to learn more advanced linux tryhackme try to solve the free labs note every thing is in order don t skip anything after completing this you will be a full fledged pro hacker share with your friends",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
+      "char_count": 857,
+      "token_count": 154,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 426,
+    "date": "2023-03-28",
+    "datetime_utc": "2023-03-28T10:49:51+00:00",
+    "timestamp": 1680000591,
+    "message": "🔰 Share and Support Us 🔰\n\nMost Useful  Collection Of Cyber Security Courses.😮‍💨\n\nIt is for those who were asking from where to start there hacking career.",
+    "id": "eddefa04-d5db-4143-89c9-29cc75e094b0",
+    "cleaning": {
+      "normalized_message": "share and support us most useful collection of cyber security courses it is for those who were asking from where to start there hacking career",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hacking"
+      ],
+      "char_count": 142,
+      "token_count": 25,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 484,
+    "date": "2023-04-16",
+    "datetime_utc": "2023-04-16T22:09:32+00:00",
+    "timestamp": 1681682972,
+    "message": "🔰** MOST EFFECTIVE AND LEGIT SHORTENED LINKS BYPASSER** 🔰\n\n\n📢 Most of you guys may aware of some platforms where you can bypass the ad-link/shortened-link, but most of them doesnt supports a lot. This may help you in most cases, even I use this one personally...👇 \n\n\n⚡Link:- www.bypass.vip\n\n\n☑️It supports, adf.ly, linkvertise, shorte.st, ayli.nk, tinyurl, sub4unlock, cutt.ly and 30 more..\n\n\n🔻If You Find Our Info & Methods Useful, Don't Be Silly, Appreciate Our Work, Leave Some Reactions, and Share Our Community🔻\n\n\n**~Hackers Asylum**",
+    "id": "378508c2-76e0-4458-bd02-06d5e0fe9f92",
+    "cleaning": {
+      "normalized_message": "most effective and legit shortened links bypasser most of you guys may aware of some platforms where you can bypass the ad-link shortened-link but most of them doesnt supports a lot this may help you in most cases even i use this one personally link - www bypass vip it supports adf ly linkvertise shorte st ayli nk tinyurl sub4unlock cutt ly and 30 more if you find our info methods useful don t be silly appreciate our work leave some reactions and share our community hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 485,
+      "token_count": 88,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 599,
+    "date": "2023-06-28",
+    "datetime_utc": "2023-06-28T10:37:46+00:00",
+    "timestamp": 1687948666,
+    "message": "**FULL ETHICAL HACKING COURSE BY HACKERLOI | [MEGA]** (Easiest yet)**\n\nDownload Link 🖇️ - \n\n****https://mega.nz/folder/a1BABBYS#ddX8ogxpECE1PqepSdzmVw****\n\nDecryption Key: **`ddX8ogxpECE1PqepSdzmVw`**\n\n****@Hackers_Asylum**** Share us.....**",
+    "id": "5767325e-77de-47e5-86ea-3dc3c3912738",
+    "cleaning": {
+      "normalized_message": "full ethical hacking course by hackerloi mega easiest yet download link - decryption key ddx8ogxpece1pqepsdzmvw hackers_asylum share us",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 135,
+      "token_count": 18,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -120,10 +254,30 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 68,
       "token_count": 12,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 606,
+    "date": "2023-07-02",
+    "datetime_utc": "2023-07-02T07:04:56+00:00",
+    "timestamp": 1688281496,
+    "message": "YouTube OSINT\n\nAI Speech Recognition\nSubtitles downloading\nSearch within subtitles\nAnalysing playlist and channel metadata\nSearch geotagged video by location and topic\nSearch deleted videos\n\n\nand more.\n\nhttps://github.com/cqcore/YouTube-Video-OSINT",
+    "id": "ecd57fd5-822a-48d6-8e07-252c61cbeb5d",
+    "cleaning": {
+      "normalized_message": "youtube osint ai speech recognition subtitles downloading search within subtitles analysing playlist and channel metadata search geotagged video by location and topic search deleted videos and more",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "osint"
+      ],
+      "char_count": 197,
+      "token_count": 27,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -139,6 +293,7 @@
         "leaked",
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 126,
       "token_count": 21,
       "decision": "keep",
@@ -157,6 +312,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 80,
       "token_count": 13,
       "decision": "keep",
@@ -177,6 +333,7 @@
         "leak",
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 564,
       "token_count": 94,
       "decision": "keep",
@@ -197,10 +354,33 @@
         "exploit",
         "phishing"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 861,
       "token_count": 150,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 618,
+    "date": "2023-07-07",
+    "datetime_utc": "2023-07-07T09:01:28+00:00",
+    "timestamp": 1688720488,
+    "message": "Meet DarkBERT - AI Model revolutionizing cybersecurity, emerging from the dark recesses of the internet, trained on a massive 2.2 TB of Dark Web data. This video explores how DarkBERT, a sibling to ChatGPT, decodes the secrets, threats, and coded messages, becoming a pivotal tool in cyber threat intelligence. The power of AI is transforming the way we understand the Dark Web and boosting defenses against worldwide [cyber threats](http://t.me/hackers_Asylum)** with DarkBERT.**",
+    "id": "4a6dbeb2-7110-4e2f-ac65-75e64b65be0c",
+    "cleaning": {
+      "normalized_message": "meet darkbert - ai model revolutionizing cybersecurity emerging from the dark recesses of the internet trained on a massive 2 2 tb of dark web data this video explores how darkbert a sibling to chatgpt decodes the secrets threats and coded messages becoming a pivotal tool in cyber threat intelligence the power of ai is transforming the way we understand the dark web and boosting defenses against worldwide cyber threats with darkbert",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "threat intelligence"
+      ],
+      "char_count": 436,
+      "token_count": 72,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -215,10 +395,30 @@
       "keyword_hits": [
         "apt"
       ],
+      "soft_keyword_hits": [],
       "char_count": 627,
       "token_count": 97,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 623,
+    "date": "2023-07-08",
+    "datetime_utc": "2023-07-08T14:01:22+00:00",
+    "timestamp": 1688824882,
+    "message": "Two Apps Hosted on Google Play Caught Sending User Data to Chinese Servers.\n\nSecurity researchers discovered two malicious file management applications on Google Play with a collective installation count of over 1.5 million that collected excessive user data that goes well beyond what's needed to offer the promised functionality.\n\nSecure Your Privacy 🔏\nDon't play with it.",
+    "id": "9024e09a-d797-4dcc-a8c3-2842fbb89c8b",
+    "cleaning": {
+      "normalized_message": "two apps hosted on google play caught sending user data to chinese servers security researchers discovered two malicious file management applications on google play with a collective installation count of over 1 5 million that collected excessive user data that goes well beyond what s needed to offer the promised functionality secure your privacy don t play with it",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "security researchers"
+      ],
+      "char_count": 367,
+      "token_count": 59,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -233,6 +433,7 @@
       "keyword_hits": [
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 613,
       "token_count": 113,
       "decision": "keep",
@@ -251,6 +452,7 @@
       "keyword_hits": [
         "apt"
       ],
+      "soft_keyword_hits": [],
       "char_count": 224,
       "token_count": 36,
       "decision": "keep",
@@ -270,6 +472,7 @@
         "backdoor",
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 544,
       "token_count": 95,
       "decision": "keep",
@@ -290,6 +493,7 @@
         "cve-2023-29298",
         "exploited"
       ],
+      "soft_keyword_hits": [],
       "char_count": 503,
       "token_count": 75,
       "decision": "keep",
@@ -308,6 +512,13 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [
+        "application security",
+        "hackers",
+        "hacking",
+        "malware analysis",
+        "osint"
+      ],
       "char_count": 627,
       "token_count": 100,
       "decision": "keep",
@@ -325,6 +536,13 @@
       "normalized_message": "tcm security courses fre e tcm security - practical ethical hacking - the complete course tcm security - python 101 for hackers tcm security - python 201 for hackers tcm security - windows privilege escalation for beginners tcm security - linux privilege escalation for beginners tcm security - movement pivoting and persistence tcm security - open-source intelligence osint fundamentals tcm security - practical malware analysis triage tcm security - linux 101 tcm security - practical windows forensics tcm security - practical web application security and testing actual price - 500 our price - 00 download link - alt link -",
       "keyword_hits": [
         "malware"
+      ],
+      "soft_keyword_hits": [
+        "application security",
+        "hackers",
+        "hacking",
+        "malware analysis",
+        "osint"
       ],
       "char_count": 627,
       "token_count": 100,
@@ -345,6 +563,9 @@
         "login",
         "phishing"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 238,
       "token_count": 40,
       "decision": "keep",
@@ -363,6 +584,7 @@
       "keyword_hits": [
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 163,
       "token_count": 28,
       "decision": "keep",
@@ -383,10 +605,33 @@
         "malware",
         "virus"
       ],
+      "soft_keyword_hits": [
+        "hacker",
+        "malware analysis"
+      ],
       "char_count": 1235,
       "token_count": 208,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 670,
+    "date": "2023-07-24",
+    "datetime_utc": "2023-07-24T17:55:47+00:00",
+    "timestamp": 1690221347,
+    "message": "🔰 **Gael Breton & Mark Webster - Authority Hacker Pro Platinum 2023 (Includes ALL SOPS) + The Authority Site System 3.0** 🔰\n\n\nPassword: `wsodownloads.in` OR `wsodownloads.site` OR `WSODownloadsite.com`\n\n\n🖇Link:- https://mega.nz/folder/k6lW0AAB#v4hnZufPDDrj0ai2KrAoHA\n\n\n**🎗️Share & Support🎗️**",
+    "id": "0d6112ef-51e6-4e45-9778-ba57cffa8e56",
+    "cleaning": {
+      "normalized_message": "gael breton mark webster - authority hacker pro platinum 2023 includes all sops the authority site system 3 0 password wsodownloads in or wsodownloads site or wsodownloadsite com link - share support",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 199,
+      "token_count": 32,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -402,6 +647,7 @@
         "botnet",
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 504,
       "token_count": 91,
       "decision": "keep",
@@ -421,10 +667,51 @@
         "hacked",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 1616,
       "token_count": 303,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 684,
+    "date": "2023-08-04",
+    "datetime_utc": "2023-08-04T10:40:52+00:00",
+    "timestamp": 1691145652,
+    "message": "🧨🧨**Large Course Directory ( Download )**🧨🧨**\n\nCourses Included From:**\n\n💰2D Animation 101\n💰365 Data Science\n💰Code With Mosh\n🧲A Cloud Guru\n🛡Academind\n🧲AntonIT\n🧲ArtCamp\n🧲BloggingX\n🧲Cantrill\n🧲Baeldung\n🔋Bloop Animation\n🔋CBT Nuggets\n🔋CG Master Academy\n🔋Code 4 Startup\n🔋Codedamn\n🔋Coderfoundry\n🔋Codingphase(.com)\n🔋Colour Grading Academy\n🔋Domestika\n🔋EAt The Blocks\n🔋EC-Council\n🔋educative(.io)\n🔋Firship(.io)\n🔋Full-Time Filmmaker\n🔋INE\n🔋Infosec Institute\n🔋ITProTV\n🔋Java Specialists\n🔋KodeKloud\n🔋Laravel Daily\n🛡Learn Data Engenerring\n🛡Lecturio\n🛡Masterclass\n🛡Maven Analytics\n🛡Mindvalley\n🏮Mixing Lights\n🏮Motion Design School\n🏮Pell Academy\n🏮Pentester Academy\n🏮Perfectly spoken\n🏮Pirple\n🏮Pixorize\n🏮Pluralsight\n🏮PrepInsta\n🏮PyImageSearch University\n🏮Skylines Academy\n🏮Super Data Science\n🏮TCM Sec\n🧿The Art of Aaron Blaise\n🧿Tom Gregory’s Courses\n🧿Tommorws Filmmaker\n🧿Unreal Sensei\n🧿Upgrade\n🧿Vertex School\n🧿Will Gibbons- KeyShot Rendering Courses\n🧿Zero To Mastery\n🧿Miscellaneous\n\nPrice :- Above 100000$\nSize :- Too Big Maybe 55TB+ \nAll are latest and useful\n\nDownload Link : https://coursedl.org/0:/\n\n@Hackers_Asylum || @Hackersasylum",
+    "id": "3b3a4780-dda5-4716-99c7-74d2cf79bf11",
+    "cleaning": {
+      "normalized_message": "large course directory download courses included from 2d animation 101 365 data science code with mosh a cloud guru academind antonit artcamp bloggingx cantrill baeldung bloop animation cbt nuggets cg master academy code 4 startup codedamn coderfoundry codingphase com colour grading academy domestika eat the blocks ec-council educative io firship io full-time filmmaker ine infosec institute itprotv java specialists kodekloud laravel daily learn data engenerring lecturio masterclass maven analytics mindvalley mixing lights motion design school pell academy pentester academy perfectly spoken pirple pixorize pluralsight prepinsta pyimagesearch university skylines academy super data science tcm sec the art of aaron blaise tom gregory s courses tommorws filmmaker unreal sensei upgrade vertex school will gibbons- keyshot rendering courses zero to mastery miscellaneous price - above 100000 size - too big maybe 55tb all are latest and useful download link hackers_asylum hackersasylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "infosec"
+      ],
+      "char_count": 990,
+      "token_count": 138,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 690,
+    "date": "2023-08-09",
+    "datetime_utc": "2023-08-09T13:17:20+00:00",
+    "timestamp": 1691587040,
+    "message": "🔐 Network security. Short link decoders.\n\n • Below you will find a list of useful services that will help you understand exactly where a dubious link will take you:\n\n• https://scanurl.net/\n• https://unshorten.me/\n• https://vms.drweb.ru/online/\n• https://redirectdetective.com/ ;\n• https://opentip.kaspersky.com/\n• https://iplogger.ru/url-checker/\n• https://www.virustotal.com/gui/home/url\n\n@HackersAsylum  || @hackers_Asylum",
+    "id": "dc67fe24-81a9-45a0-aa47-3f9818c3022c",
+    "cleaning": {
+      "normalized_message": "network security short link decoders below you will find a list of useful services that will help you understand exactly where a dubious link will take you hackersasylum hackers_asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "network security"
+      ],
+      "char_count": 184,
+      "token_count": 29,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -439,10 +726,30 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 2291,
       "token_count": 374,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 693,
+    "date": "2023-08-11",
+    "datetime_utc": "2023-08-11T16:08:39+00:00",
+    "timestamp": 1691770119,
+    "message": "𝘾𝙐𝙈-𝙋𝙇𝙀𝙀𝙏 𝘽𝙪𝙜 𝘽𝙤𝙪𝙣𝙩𝙮 𝘾𝙝𝙚𝙖𝙩𝙎𝙝𝙚𝙚𝙩\n\n▫️[XSS](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md) _ [XSS\n\n](https://github.com/ismailtasdelen/xss-payload-list)▫️[XXE\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md)▫️[SQLi\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md)▫️[SSRF](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md) _ [SSRF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) \n\n▫️[CRLF](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md) _ [CRLF](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20Injection) \n\n▫️[CSV-Injection](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md) _ [CSV-Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection)▫️[Command Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection)▫️[Directory Traversal\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal)▫️[LFI](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md) _ [LFI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion) \n\n▫️[Open Redirect\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md)▫️[RCE\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md)▫️[Crypto\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md)▫️[Template Injection\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md)▫️[XSLT\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md)▫️[Content Injection\n\n](https://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md)▫️[LDAP Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection)▫️[NoSQL Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection)▫️[CSRF Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection)▫️[GraphQL Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection)▫️[IDOR\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References)▫️[ISCM\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management)▫️[LaTex Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection)▫️[OAuth](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth) \n\n▫️[XPATH Injection\n\n](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection)▫️[Bypass Upload Tricky](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files)",
+    "id": "264e522a-9d3c-46db-9c02-fb8fc71833b5",
+    "cleaning": {
+      "normalized_message": "CUM-PLEET Bug Bounty CheatSheet xss _ xss _ ssrf crlf _ crlf csv-injection _ csv-injection injection traversal _ lfi open redirect injection injection injection injection injection injection injection xpath injection upload tricky",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "Bug Bounty"
+      ],
+      "char_count": 230,
+      "token_count": 32,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -457,10 +764,34 @@
       "keyword_hits": [
         "credentials"
       ],
+      "soft_keyword_hits": [
+        "digital forensics",
+        "penetration testing",
+        "pentest"
+      ],
       "char_count": 1222,
       "token_count": 183,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 699,
+    "date": "2023-08-14",
+    "datetime_utc": "2023-08-14T17:19:36+00:00",
+    "timestamp": 1692033576,
+    "message": "Anonymous attacked the Japanese government over the Fukushima sewage dump.🤔\n\nAnonymous hacktivists attacked 21 government websites linked to the Fukushima facility in Operation Tango Down.\n\nTarget organizations include the Japanese Ministry of the Environment, the Atomic Energy Company, the Nuclear Regulatory Authority, the Atomic Energy Commission, the Science and Technology Agency, former Prime Minister Fumio Kishida, and the Foreign Press Center.\n\nAll of them were disabled by hackers.❌\n\nThe attacks follow a decision by the International Atomic Energy Agency (IAEA) to allow the release of one million tons of Fukushima's contaminated sewage into the Pacific Ocean.\n\nThe Japanese government has taken the decision to dump sewage into the ocean without proper public participation and despite the fears of some scientists.\n\nHacktivists accuse the government of conducting a propaganda campaign and claim that IAEA officials are being bribed to underestimate the level of radioactive substances.😡\n\nThe IAEA and the Japanese government reject this claim.",
+    "id": "0a77f674-7dca-4594-9a9f-c6e5df20368c",
+    "cleaning": {
+      "normalized_message": "anonymous attacked the japanese government over the fukushima sewage dump anonymous hacktivists attacked 21 government websites linked to the fukushima facility in operation tango down target organizations include the japanese ministry of the environment the atomic energy company the nuclear regulatory authority the atomic energy commission the science and technology agency former prime minister fumio kishida and the foreign press center all of them were disabled by hackers the attacks follow a decision by the international atomic energy agency iaea to allow the release of one million tons of fukushima s contaminated sewage into the pacific ocean the japanese government has taken the decision to dump sewage into the ocean without proper public participation and despite the fears of some scientists hacktivists accuse the government of conducting a propaganda campaign and claim that iaea officials are being bribed to underestimate the level of radioactive substances the iaea and the japanese government reject this claim",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 1033,
+      "token_count": 154,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -475,10 +806,30 @@
       "keyword_hits": [
         "compromise"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1963,
       "token_count": 301,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 701,
+    "date": "2023-08-17",
+    "datetime_utc": "2023-08-17T10:39:42+00:00",
+    "timestamp": 1692268782,
+    "message": "Detailed long read about using Google Dorks in #osint from Rom Kaminsky:\n\n\"From Zero to Google Dorking Hero: Enhancing Your OSINT Arsenal\"\n\nhttps://osintteam.blog/mastering-osint-the-art-of-google-dorking-for-investigators-e0a908055873",
+    "id": "1b430374-bbca-4b21-9d96-78b2f9570606",
+    "cleaning": {
+      "normalized_message": "detailed long read about using google dorks in osint from rom kaminsky from zero to google dorking hero enhancing your osint arsenal",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "osint"
+      ],
+      "char_count": 132,
+      "token_count": 22,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -494,6 +845,7 @@
         "credentials",
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1444,
       "token_count": 244,
       "decision": "keep",
@@ -512,10 +864,35 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers",
+        "hacking"
+      ],
       "char_count": 542,
       "token_count": 83,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 704,
+    "date": "2023-08-20",
+    "datetime_utc": "2023-08-20T08:10:07+00:00",
+    "timestamp": 1692519007,
+    "message": "Hackers that can stop world in 30 min, US Senate 1998 #shorts #hacking",
+    "id": "0124775e-5de6-46f0-a1bd-787881088520",
+    "cleaning": {
+      "normalized_message": "hackers that can stop world in 30 min us senate 1998 shorts hacking",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers",
+        "hacking"
+      ],
+      "char_count": 67,
+      "token_count": 13,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -530,6 +907,7 @@
       "keyword_hits": [
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 945,
       "token_count": 186,
       "decision": "keep",
@@ -548,10 +926,69 @@
       "keyword_hits": [
         "stealer"
       ],
+      "soft_keyword_hits": [],
       "char_count": 69,
       "token_count": 9,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 710,
+    "date": "2023-08-23",
+    "datetime_utc": "2023-08-23T16:26:03+00:00",
+    "timestamp": 1692807963,
+    "message": "❤️ **BUG BOUNTY COURSE** ❤️\n\n__**Topics\n**1 Introduction To Bug Bounty\n2 Our Virtual Lab Setup\n3 Website Enumeration & Information Gathering\n4 Introduction To Burpsuite\n5 HTML Injection\n6 Command Injection_Execution\n7 Broken Authentication\n8 Bruteforce Attacks\n9 Sensitive Data Exposure\n10 Broken Access Control\n11 Security Misconfiguration\n12 Cross Site Scripting - XSS\n13 SQL Injection\n14 XML, XPath Injection, XXE\n15 Components With Known Vulnerabilities\n16 Insufficient Logging And Monitoring\n17 Monetizing Bug Hunting\n18 Bonus - Web Developer Fundamentals\n19 Bonus - Linux Terminal\n20 Bonus - Networking\n21 Where To Go From Here\n\n__**✨ Download -** https://mega.nz/folder/96AhRazA#Qci5-I29JIQobl4btJ7w0g\n\n@hackers_ASYLUM",
+    "id": "c34e1105-f5d6-40c5-879e-acd477d214e5",
+    "cleaning": {
+      "normalized_message": "bug bounty course __ topics 1 introduction to bug bounty 2 our virtual lab setup 3 website enumeration information gathering 4 introduction to burpsuite 5 html injection 6 command injection_execution 7 broken authentication 8 bruteforce attacks 9 sensitive data exposure 10 broken access control 11 security misconfiguration 12 cross site scripting - xss 13 sql injection 14 xml xpath injection xxe 15 components with known vulnerabilities 16 insufficient logging and monitoring 17 monetizing bug hunting 18 bonus - web developer fundamentals 19 bonus - linux terminal 20 bonus - networking 21 where to go from here __ download - hackers_asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty"
+      ],
+      "char_count": 644,
+      "token_count": 100,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 711,
+    "date": "2023-08-28",
+    "datetime_utc": "2023-08-28T13:27:51+00:00",
+    "timestamp": 1693229271,
+    "message": "👺 Go Hacking\n\nA free, comprehensive online Go tutorial on hacking on x64, ARM64, and ARM32 architectures that walks you step-by-step through reengineering Golang from scratch.\n\n▪ [Github](https://github.com/mytechnotalent/Go-Hacking)\n▪ [Hacking book on GO](https://github.com/mytechnotalent/Go-Hacking/blob/main/Go%20Hacking.pdf)\n▪ [Free reverse engineering course](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)",
+    "id": "7061de83-bba2-4d9f-af03-2ac746ef8494",
+    "cleaning": {
+      "normalized_message": "go hacking a free comprehensive online go tutorial on hacking on x64 arm64 and arm32 architectures that walks you step-by-step through reengineering golang from scratch github hacking book on go free reverse engineering course",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking",
+        "reverse engineering"
+      ],
+      "char_count": 226,
+      "token_count": 34,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 713,
+    "date": "2023-08-29",
+    "datetime_utc": "2023-08-29T09:52:42+00:00",
+    "timestamp": 1693302762,
+    "message": "🗺 OSINT. Algorithms for collecting information.\n\n🖖🏻 Greetings, user_name.\n\n• Information gathering algorithms help us a lot when doing #OSINT. The peculiarity of such algorithms is that they describe in detail the procedure for achieving the desired result in various ways, depending on what information you have.\n\n• This material is very similar to Michael Buzzel's diagrams, but is the most up-to-date. Choose the right resource and use it in practice. I recommend bookmarking\n- [IP;\n](https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf)- [Gab;\n](https://github.com/sinwindie/OSINT/blob/master/Gab/Gab%20OSINT%20Attack%20Surface.pdf)- [MISC;\n](https://github.com/sinwindie/OSINT/tree/master/MISC)- [Gettr;\n](https://github.com/sinwindie/OSINT/blob/master/Gettr/Gettr%20OSINT%20Attack%20Surface.pdf)- [Email;\n](https://github.com/sinwindie/OSINT/blob/master/Email/EMAIL%20OSINT%20Attack%20Surface.pdf)- [Skype;\n](https://github.com/sinwindie/OSINT/blob/master/Skype/Skype%20OSINT%20Attack%20Surface.pdf)- [TikTok;\n](https://github.com/sinwindie/OSINT/tree/master/TikTok)- [Phone;\n](https://github.com/sinwindie/OSINT/blob/master/Phone/Telephone%20Number%20OSINT%20Attack%20Surface.pdf)- [Reddit;\n](https://github.com/sinwindie/OSINT/blob/master/Reddit/Reddit%20OSINT%20Techniques.pdf)- [Github;\n](https://github.com/sinwindie/OSINT/blob/master/Github/Github%20OSINT%20Attack%20Surface.pdf)- [Tumblr;\n](https://github.com/sinwindie/OSINT/tree/master/Tumblr)- [Twitter;\n](https://github.com/sinwindie/OSINT/blob/master/Twitter/Twitter%20OSINT%20Attack%20Surface.pdf)- [Person;\n](https://github.com/sinwindie/OSINT/blob/master/Person/Person%20OSINT%20Attack%20Surface.pdf)- [Discord;\n](https://github.com/sinwindie/OSINT/blob/master/Discord/Discord%20OSINT%20Attack%20Surface.pdf)- [Youtube;\n](https://github.com/sinwindie/OSINT/blob/master/Youtube/Youtube%20OSINT%20Attack%20Surface.pdf)- [LinkedIn;\n](https://github.com/sinwindie/OSINT/blob/master/LinkedIn/LinkedIn%20OSINT%20Techniques%20Part%20I%20and%20II.pdf)- [Pinterest;\n](https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf)- [Websites;\n](https://github.com/sinwindie/OSINT/blob/master/Websites/Website%20OSINT%20Attack%20Surface.pdf)- [OpenSea;\n](https://github.com/sinwindie/OSINT/blob/master/OpenSea/OpenSea%20OSINT%20Attack%20Surface.pdf)- [Snapchat;\n](https://github.com/sinwindie/OSINT/blob/master/Snapchat/Snapchat%20OSINT%20Attack%20Surface.pdf)- [DarkWeb;\n](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.pdf)- [Instagram;\n](https://github.com/sinwindie/OSINT/blob/master/Instagram/Instagram%20OSINT%20Attack%20Surface.pdf)- [Mastodon;\n](https://github.com/sinwindie/OSINT/blob/master/Mastodon/Mastodon%20OSINT%20Attack%20Surface.pdf)- [Username;\n](https://github.com/sinwindie/OSINT/blob/master/Username/USERNAME%20OSINT%20Attack%20Surface.pdf)- [Image Analysis;\n](https://github.com/sinwindie/OSINT/blob/master/Image%20Analysis/IMAGE%20OSINT%20Attack%20Surface.odg)- [Cryptocurrency](https://github.com/sinwindie/OSINT/blob/master/Cryptocurrency/Cryptocurrency%20OSINT%20Attack%20Surface.pdf);\n\n• t.me/hackersasylum",
+    "id": "dc71fcfa-45db-4b70-a005-97c657037805",
+    "cleaning": {
+      "normalized_message": "osint algorithms for collecting information greetings user_name information gathering algorithms help us a lot when doing osint the peculiarity of such algorithms is that they describe in detail the procedure for achieving the desired result in various ways depending on what information you have this material is very similar to michael buzzel s diagrams but is the most up-to-date choose the right resource and use it in practice i recommend bookmarking - ip gab misc gettr email skype tiktok phone reddit github tumblr twitter person discord youtube linkedin pinterest websites opensea snapchat darkweb instagram mastodon username image analysis cryptocurrency t me hackersasylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "osint"
+      ],
+      "char_count": 682,
+      "token_count": 102,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -566,10 +1003,32 @@
       "keyword_hits": [
         "scam"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 362,
       "token_count": 56,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 734,
+    "date": "2023-09-19",
+    "datetime_utc": "2023-09-19T08:56:40+00:00",
+    "timestamp": 1695113800,
+    "message": "If you know a lot about #osint but don't know where to practice putting your knowledge into practice, you can try the 20 OSINT Exercise by Sofia Santos \n\nhttps://gralhix.com/list-of-osint-exercises/\n\nThere are assignments for both beginners and experienced.",
+    "id": "3e33855c-843d-4103-a748-7149b196a12f",
+    "cleaning": {
+      "normalized_message": "if you know a lot about osint but don t know where to practice putting your knowledge into practice you can try the 20 osint exercise by sofia santos there are assignments for both beginners and experienced",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "osint"
+      ],
+      "char_count": 206,
+      "token_count": 37,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -586,10 +1045,55 @@
         "leaked",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "malware analysis",
+        "osint",
+        "reverse engineering"
+      ],
       "char_count": 224,
       "token_count": 28,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 736,
+    "date": "2023-09-23",
+    "datetime_utc": "2023-09-23T06:52:16+00:00",
+    "timestamp": 1695451936,
+    "message": "90 Days Of Cyber Security (study plan)\n\n1-7 Network+\n8-14 Security+\n15-28 Linux\n29-42 Python\n43-56 Traffic Analysis\n57-63 Git\n64-70 ELK\n71-77 AWS\n78-84 Azure\n85-90 Hacking\n91-92 One Page Resume\n\n\nhttps://github.com/farhanashrafdev/90DaysOfCyberSecurity",
+    "id": "913e61bf-6657-409d-b687-9a39d5b45a12",
+    "cleaning": {
+      "normalized_message": "90 days of cyber security study plan 1-7 network 8-14 security 15-28 linux 29-42 python 43-56 traffic analysis 57-63 git 64-70 elk 71-77 aws 78-84 azure 85-90 hacking 91-92 one page resume",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hacking"
+      ],
+      "char_count": 188,
+      "token_count": 32,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 737,
+    "date": "2023-09-28",
+    "datetime_utc": "2023-09-28T16:22:37+00:00",
+    "timestamp": 1695918157,
+    "message": "**5 Sources That Will Help You Increase Your Hacking Skills**\n \nPractice hacking at these websites which provide a safe and legal environment for hacking\n \n \n1. Rootme will have hosted virtual machines to hack:\n[https://www.root-me.org](https://www.root-me.org/)\n\n2. Vulnhub has machines to download and then hack:\n[https://www.vulnhub.com](https://www.vulnhub.com/)\n3. Free site with videos and CTFs:\n[https://www.hacker101.com](https://www.hacker101.com/)\n\n4. This site has many binaries for forensic learning:\n[https://crackmes.one](https://crackmes.one/)\n\n5. Over 1800 Practice Labs:\n[https://attackdefense.com](https://attackdefense.com/)",
+    "id": "c7313142-7e77-40a7-987a-908487b4b1d1",
+    "cleaning": {
+      "normalized_message": "5 sources that will help you increase your hacking skills practice hacking at these websites which provide a safe and legal environment for hacking 1 rootme will have hosted virtual machines to hack 2 vulnhub has machines to download and then hack 3 free site with videos and ctfs 4 this site has many binaries for forensic learning 5 over 1800 practice labs",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 358,
+      "token_count": 63,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -604,6 +1108,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 106,
       "token_count": 16,
       "decision": "keep",
@@ -623,6 +1128,7 @@
         "hashes",
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1857,
       "token_count": 311,
       "decision": "keep",
@@ -641,10 +1147,30 @@
       "keyword_hits": [
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 870,
       "token_count": 174,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 987,
+    "date": "2024-02-02",
+    "datetime_utc": "2024-02-02T16:26:58+00:00",
+    "timestamp": 1706891218,
+    "message": "**1.8TB Indian Mobile Network Consumer Database of 750 Million Individuals Up for Sale by Threat Actors**\n\n**BENGALURU:** Researchers at cybersecurity firm CloudSEK have found that CYBO CREW affiliates **CyboDevil** and **UNIT8200** have recently advertised a massive Indian Mobile Network Consumer Database for sale.\n\nThis extensive mobile network database contains sensitive details belonging to a staggering 750 million individuals. It includes critical information like names, mobile numbers, addresses, and Aadhaar details. The sheer size of this dataset, totaling 1.8 terabytes, presents an alarming threat to security.\n\nRead here - https://news.cloudsek.com/2024/01/1-8tb-indian-mobile-network-consumer-database-of-750-million-individuals-up-for-sale-by-threat-actors/",
+    "id": "1188a714-babd-43dc-8727-b30f1c075d01",
+    "cleaning": {
+      "normalized_message": "1 8tb indian mobile network consumer database of 750 million individuals up for sale by threat actors bengaluru researchers at cybersecurity firm cloudsek have found that cybo crew affiliates cybodevil and unit8200 have recently advertised a massive indian mobile network consumer database for sale this extensive mobile network database contains sensitive details belonging to a staggering 750 million individuals it includes critical information like names mobile numbers addresses and aadhaar details the sheer size of this dataset totaling 1 8 terabytes presents an alarming threat to security read here -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 609,
+      "token_count": 90,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -658,6 +1184,11 @@
       "normalized_message": "9 cybersecurity ebooks hacking web applications - hacking exposed hacking for dummies network security bible ethical hacking and countermeasures the little black book of computer viruses xss attacks - cross site scripting exploits and defense the shellcoder s handbook wireshark for security professionals",
       "keyword_hits": [
         "exploits"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking",
+        "network security"
       ],
       "char_count": 305,
       "token_count": 43,
@@ -678,6 +1209,9 @@
         "exfiltrated",
         "ransomware"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 1002,
       "token_count": 146,
       "decision": "keep",
@@ -696,10 +1230,31 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 291,
       "token_count": 53,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1027,
+    "date": "2024-02-26",
+    "datetime_utc": "2024-02-26T16:51:27+00:00",
+    "timestamp": 1708966287,
+    "message": "**🚨R00TK1T hacking group's latest announcement🚨**\n\n They recently announced on their channel about their latest mission regarding their intentions to disrupt Saudi Arabia's networks and infrastructure which is concerning. The potential cyber threats posed by such actions demand heightened vigilance and robust cybersecurity measures.",
+    "id": "cbf0cc29-56da-4932-ba3b-72ecfa258742",
+    "cleaning": {
+      "normalized_message": "r00tk1t hacking group s latest announcement they recently announced on their channel about their latest mission regarding their intentions to disrupt saudi arabia s networks and infrastructure which is concerning the potential cyber threats posed by such actions demand heightened vigilance and robust cybersecurity measures",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 324,
+      "token_count": 45,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -714,6 +1269,7 @@
       "keyword_hits": [
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 179,
       "token_count": 29,
       "decision": "keep",
@@ -732,6 +1288,7 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 228,
       "token_count": 36,
       "decision": "keep",
@@ -751,6 +1308,7 @@
         "breach",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 169,
       "token_count": 28,
       "decision": "keep",
@@ -770,6 +1328,7 @@
         "ddos",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 207,
       "token_count": 29,
       "decision": "keep",
@@ -788,6 +1347,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 185,
       "token_count": 28,
       "decision": "keep",
@@ -806,6 +1366,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 350,
       "token_count": 58,
       "decision": "keep",
@@ -824,6 +1385,9 @@
       "keyword_hits": [
         "ddos",
         "phishing"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 432,
       "token_count": 72,
@@ -844,10 +1408,30 @@
         "ransomware",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 257,
       "token_count": 43,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1047,
+    "date": "2024-03-05",
+    "datetime_utc": "2024-03-05T10:00:24+00:00",
+    "timestamp": 1709632824,
+    "message": "Russian hackers have teamed up to target Sweden's internet infrastructure, escalating concerns about cyber warfare. The collaboration includes threat groups such as NoName, People's CyberArmy, 22C, CyberDragon, Horus Team, UserSec, and PHOENIX.",
+    "id": "e245b5e5-b4de-4386-8be1-7884c6293400",
+    "cleaning": {
+      "normalized_message": "russian hackers have teamed up to target sweden s internet infrastructure escalating concerns about cyber warfare the collaboration includes threat groups such as noname people s cyberarmy 22c cyberdragon horus team usersec and phoenix",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 235,
+      "token_count": 34,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -862,6 +1446,7 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 174,
       "token_count": 24,
       "decision": "keep",
@@ -880,6 +1465,7 @@
       "keyword_hits": [
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 175,
       "token_count": 23,
       "decision": "keep",
@@ -898,6 +1484,7 @@
       "keyword_hits": [
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 461,
       "token_count": 78,
       "decision": "keep",
@@ -916,10 +1503,72 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 551,
       "token_count": 86,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1075,
+    "date": "2024-03-18",
+    "datetime_utc": "2024-03-18T18:27:50+00:00",
+    "timestamp": 1710786470,
+    "message": "**🔏The Definitive GRC Analyst Master Class by** **@HackerS_AsyLum****\n\n🧧Welcome to the Governance, Risk, and Compliance (GRC) Analyst Master Class. This class assumes no prior background knowledge and is setup to give you a full scope understanding and the practical skills needed to be an effective GRC Analyst. Cybersecurity workforce development is focused on red team and blue team skills, but GRC is terribly underserved for training. This course fills that gap by offering practical application of risk, audit, policy development, and security awareness.\n\n🔑Password: **`@the_hacking_zone`**\n\n🎯Download From Here (3.2GB): ****https://drive.google.com/file/d/1XCHv6UBnD1YNSEOzGKZF5maDahwT6kGl/view?usp=drivesdk**\n\n 🔖**For More Join: ****https://forum.telemodsapk.com**",
+    "id": "7e7496fd-a5b0-4ee6-bb17-7442e586f33c",
+    "cleaning": {
+      "normalized_message": "the definitive grc analyst master class by hackers_asylum welcome to the governance risk and compliance grc analyst master class this class assumes no prior background knowledge and is setup to give you a full scope understanding and the practical skills needed to be an effective grc analyst cybersecurity workforce development is focused on red team and blue team skills but grc is terribly underserved for training this course fills that gap by offering practical application of risk audit policy development and security awareness password the_hacking_zone download from here 3 2gb for more join",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "blue team",
+        "cybersecurity",
+        "red team"
+      ],
+      "char_count": 599,
+      "token_count": 93,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1085,
+    "date": "2024-03-21",
+    "datetime_utc": "2024-03-21T17:02:13+00:00",
+    "timestamp": 1711040533,
+    "message": "**🚨Luxembourg Under Cyber Siege!\n**\nRecent reports reveal a concerning development as various Russian hacker groups including NoName, People's CyberArmy, 22C, NIGHTMARE, CyberDragon, SERVER KILLERS, Unknowns group,  Digital Revolt and UserSec, have united to launch a campaign against Luxembourg for its involvement in supporting the Czech initiative. \n\nThe cyber onslaught has already begun, targeting government websites.",
+    "id": "d96324e3-26b8-4e34-a009-709206ed4c23",
+    "cleaning": {
+      "normalized_message": "luxembourg under cyber siege recent reports reveal a concerning development as various russian hacker groups including noname people s cyberarmy 22c nightmare cyberdragon server killers unknowns group digital revolt and usersec have united to launch a campaign against luxembourg for its involvement in supporting the czech initiative the cyber onslaught has already begun targeting government websites",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 402,
+      "token_count": 56,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1106,
+    "date": "2024-03-28",
+    "datetime_utc": "2024-03-28T00:39:51+00:00",
+    "timestamp": 1711586391,
+    "message": "🗂 **600+ Massive Websites Collection That You May Find Useful In Every Way of Internet Use!** ↗️\n\n\n🎭 __No wonder if you feel you have reached near the end of surface web!!__\n\n\n• Alternative search engines\n• Miscellaneous Interesting sites\n• Useful sites\n• Science / math sites\n• Tech sites\n• Privacy / Security related sites\n• Learning sites\n• Image (editors, generators etc.) sites\n• Aesthetic / cool sites\n• Book sites\n• Humour / fun / Random sites\n• Audio / music / sound sites\n• Image boards and related sites\n• Data compression sites\n• Text tools and related sites\n• Video / TV / Movie / Anime sites\n• Gaymen related sites\n• Alternative / Paranormal / Conspiracy / Bizarre sites\n• Niche interest sites\n• File conversion sites\n• Conversational Chatbots\n• SMS verification sites\n• Torrenting sites\n\n\n💻Link:- https://teletype.in/@encryptedj/yB61eqTAjm_\n\n\n~Regards [Team Hackers Asylum](https://t.me/HackerS_AsyLum)",
+    "id": "083a84f6-9d89-4872-bb8d-7588e1380c35",
+    "cleaning": {
+      "normalized_message": "600 massive websites collection that you may find useful in every way of internet use __no wonder if you feel you have reached near the end of surface web __ alternative search engines miscellaneous interesting sites useful sites science math sites tech sites privacy security related sites learning sites image editors generators etc sites aesthetic cool sites book sites humour fun random sites audio music sound sites image boards and related sites data compression sites text tools and related sites video tv movie anime sites gaymen related sites alternative paranormal conspiracy bizarre sites niche interest sites file conversion sites conversational chatbots sms verification sites torrenting sites link - regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 741,
+      "token_count": 112,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -934,10 +1583,30 @@
       "keyword_hits": [
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 214,
       "token_count": 39,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1111,
+    "date": "2024-03-30",
+    "datetime_utc": "2024-03-30T23:56:09+00:00",
+    "timestamp": 1711842969,
+    "message": "☑️ **Massive Collection of All IT Courses** ↗️\n\n🗂Includes:\n\n1. Ubuntu\n2. Cisco\n3. Programming\n4. CCNP Security\n5. AWS\n6. cloud Computing\n7. DevOps\n8. MCSA\n9. MS Azure\n10. MS Office (Word, Excel, PP)\n11. Much more.... \n\n📢 __We haven't checked all the links but few, and they were working fine, hope so every link is working too. If you guys find any link dead, let us know, will provide you with fresh & working link. __\n\n📥Link:- https://telegra.ph/MMassive-Collection-of-All-IT-Courses-03-30\n\n\n~Regards [Team Hackers Asylum](https://t.me/HackerS_AsyLum)",
+    "id": "8696d229-0a56-4baa-a1d4-47cce9bbb46e",
+    "cleaning": {
+      "normalized_message": "massive collection of all it courses includes 1 ubuntu 2 cisco 3 programming 4 ccnp security 5 aws 6 cloud computing 7 devops 8 mcsa 9 ms azure 10 ms office word excel pp 11 much more __we haven t checked all the links but few and they were working fine hope so every link is working too if you guys find any link dead let us know will provide you with fresh working link __ link - regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 409,
+      "token_count": 82,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -952,10 +1621,49 @@
       "keyword_hits": [
         "hash"
       ],
+      "soft_keyword_hits": [],
       "char_count": 2787,
       "token_count": 447,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1118,
+    "date": "2024-04-01",
+    "datetime_utc": "2024-04-01T08:38:21+00:00",
+    "timestamp": 1711960701,
+    "message": "😎** THE HITCHHIKER’S GUIDE TO ONLINE ANONYMITY ****🤎****\n\n__USEFUL HINTS FOR BETTER PRIVACY __\n\n****💎****Website:\n****https://anonymousplanet.org/guide.html****\n\n****😐****PDF version:\n****https://anonymousplanet.org/export/guide.pdf****\n\n\n~Regards **[**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "2c3a95d9-59f1-46e4-a24b-cc72e83a16f8",
+    "cleaning": {
+      "normalized_message": "the hitchhiker s guide to online anonymity __useful hints for better privacy __ website pdf version regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 127,
+      "token_count": 20,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1121,
+    "date": "2024-04-02",
+    "datetime_utc": "2024-04-02T23:42:47+00:00",
+    "timestamp": 1712101367,
+    "message": "🔰 **Download All Hard-to-Find Software in Seconds** 🔰\n\n\n📢 **OlderGeeks** is a software download site with very few ads, without misleading download links or annoyances. This site is a present for those who want all the hard to find software and tools at one place. Try out once, I believe this web deserves a visit.\n\n\n⭕ **Note: The site may contain explicit content (18+), so be concious and careful, you are not a kid, we are not responsible if you end up visiting those trash & shitty sites.**\n\n\n📥Link: https://www.oldergeeks.com/\n\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "5890a138-3764-411f-87c5-e069345dffba",
+    "cleaning": {
+      "normalized_message": "download all hard-to-find software in seconds oldergeeks is a software download site with very few ads without misleading download links or annoyances this site is a present for those who want all the hard to find software and tools at one place try out once i believe this web deserves a visit note the site may contain explicit content 18 so be concious and careful you are not a kid we are not responsible if you end up visiting those trash shitty sites link regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 489,
+      "token_count": 88,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -972,10 +1680,49 @@
         "login",
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 297,
       "token_count": 50,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1123,
+    "date": "2024-04-04",
+    "datetime_utc": "2024-04-04T06:22:11+00:00",
+    "timestamp": 1712211731,
+    "message": "🔰 **Download Almost Any File In Few Seconds** 🔰\n\n\n📢 Recently I came across a website, it actually makes easy to search any file such as video, ebook, audio, software or game by providing a direct index of it. All you need to do is just search your desired file and hit enter, and it will provide the nearest search results to make you reach to your desired file in seconds. I know its not a rocket science but it may help many people who knock 100 ad-castles to get a single file.😶\n\n\n\n🔗 https://www.eyeofjustice.com/od/\n\n\n\n**~Regards **[**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "9dfb7ef4-7bfa-43a7-89e1-d5eaf705f3ff",
+    "cleaning": {
+      "normalized_message": "download almost any file in few seconds recently i came across a website it actually makes easy to search any file such as video ebook audio software or game by providing a direct index of it all you need to do is just search your desired file and hit enter and it will provide the nearest search results to make you reach to your desired file in seconds i know its not a rocket science but it may help many people who knock 100 ad-castles to get a single file regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 488,
+      "token_count": 94,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1124,
+    "date": "2024-04-05",
+    "datetime_utc": "2024-04-05T00:01:37+00:00",
+    "timestamp": 1712275297,
+    "message": "🔰** Create Unlimited Accounts on Discord and Many Other Platforms with a Single Gmail Legally** 🔰\n\n\n📢 Simple and a rare trick known by very few. Many times we get into a need to create more than one accounts on a particular platform such as Discord. And to do so many people create a new Gmail account each time when needed. \n\nWhy am taking the example of Discord here? Of course because of Midjourney and other useful bots, the moment Midjourney has arrived, millions of people are creating accounts again and again becuase Midjourney allows limited trial period.\n\nJust like the example above, sometimes we need to create multiple accounts on a particular platform, but to do so it doesn't required to create a new Gmail account each time. By using today's trick you can create unlimited accounts on many platforms such as Discord with just a single Gmail.\n\nAll you have to do is, while creating a new account on a platform, let's take example of Discord, in the block of \"Email\" where you must enter your unique email address, just enter the already existing Gmail address but before \"@\" enter \"+\" and anything after it. \n\nExample: youremail@gmail.com - youremail+1@gmail.com.\n\n This is already existing one \"encrypteddj33@gmail.com\". And here is the way to modify it and create unlimited accounts with it \"encrypteddj33+1234@gmail.com\". The chatacters you enter after \"+\" can be anything, and hence with a single Gmail account you can create many legally. All the notifications and tranmission will remain with the original Gmail itself.\n\n\n⭕**Note: __I__**__ have tested this method by my own, but just on Discord, still I believe it works or many other platforms as well. Give it a try and if you found any other platform where this trick works, comment here so others will get the benefit too.__\n\n\n\n🔻Share & Support Us🔻\n\n\n\n**~**Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "cac68bb6-65df-4fa4-af6a-96789302cdc6",
+    "cleaning": {
+      "normalized_message": "create unlimited accounts on discord and many other platforms with a single gmail legally simple and a rare trick known by very few many times we get into a need to create more than one accounts on a particular platform such as discord and to do so many people create a new gmail account each time when needed why am taking the example of discord here of course because of midjourney and other useful bots the moment midjourney has arrived millions of people are creating accounts again and again becuase midjourney allows limited trial period just like the example above sometimes we need to create multiple accounts on a particular platform but to do so it doesn t required to create a new gmail account each time by using today s trick you can create unlimited accounts on many platforms such as discord with just a single gmail all you have to do is while creating a new account on a platform let s take example of discord in the block of email where you must enter your unique email address just enter the already existing gmail address but before enter and anything after it example youremail gmail com - youremail 1 gmail com this is already existing one encrypteddj33 gmail com and here is the way to modify it and create unlimited accounts with it encrypteddj33 1234 gmail com the chatacters you enter after can be anything and hence with a single gmail account you can create many legally all the notifications and tranmission will remain with the original gmail itself note __i__ __ have tested this method by my own but just on discord still i believe it works or many other platforms as well give it a try and if you found any other platform where this trick works comment here so others will get the benefit too __ share support us regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 1773,
+      "token_count": 319,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -995,10 +1742,51 @@
         "ransomware",
         "zero day"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 521,
       "token_count": 84,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1127,
+    "date": "2024-04-06",
+    "datetime_utc": "2024-04-06T17:46:03+00:00",
+    "timestamp": 1712425563,
+    "message": "**🔰 THE COLLECTION OF 40+ SUPER TOOLS TO BUILD EXTREMELY PREMIUM WEBSITES WITH EASE** 🔰\n\n\n☑️ Super Tools That Will Help You Build Outstanding & Extremly Premium Looking Websites. Web Developers Will Understand The Value Of These Tools. Keep Learning & Sharing....\n\n\n↘️Some Of Them:-\n\n∆ BrandCrowd\n∆ Total Theme\n∆ 99 Robots\n∆ Mobiris Website Builder\n∆ Argento Theme\n∆ Codester\n∆ Tailwind Figma\n∆ SEO Cork\n**∆ Many More...**\n\n\n📥 [**Read More... **](https://telegra.ph/LIST-OF-40-PREMIUM-SUPER-TOOLS-TO-BUILD-PREMIUM-WEBSITES-06-10)\n\n\n📤 Share & Support Us 📤\n\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "e639772c-cd1f-4cf2-870e-0aaebd14a705",
+    "cleaning": {
+      "normalized_message": "the collection of 40 super tools to build extremely premium websites with ease super tools that will help you build outstanding extremly premium looking websites web developers will understand the value of these tools keep learning sharing some of them - brandcrowd total theme 99 robots mobiris website builder argento theme codester tailwind figma seo cork many more read more share support us regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 423,
+      "token_count": 67,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1130,
+    "date": "2024-04-11",
+    "datetime_utc": "2024-04-11T15:50:00+00:00",
+    "timestamp": 1712850600,
+    "message": "🔥 **Transform Pictures into Text Easily! 🔥**\n\n**Need to turn pictures into editable text? Here are some easy-to-use tools that work in any language:**\n\nGoogle Docs: Upload your picture to Google Drive and open it with Google Docs for quick OCR.\n\n**OnlineOCR.net** : A handy tool that turns images and PDFs into text. Visit [**OnlineOCR.net**](http://onlineocr.net/)\n\n**Adobe Scan App**: Perfect for scanning documents with your phone. Get [**Adobe Scan**](https://www.adobe.com/acrobat/mobile/scanner-app.html)\n\n__Great for both quick tasks and more detailed projects!__\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "73f3a365-0861-4195-adde-7d06cfd9afad",
+    "cleaning": {
+      "normalized_message": "transform pictures into text easily need to turn pictures into editable text here are some easy-to-use tools that work in any language google docs upload your picture to google drive and open it with google docs for quick ocr onlineocr net a handy tool that turns images and pdfs into text visit onlineocr net adobe scan app perfect for scanning documents with your phone get adobe scan __great for both quick tasks and more detailed projects __ regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 473,
+      "token_count": 81,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1013,6 +1801,9 @@
       "keyword_hits": [
         "breach",
         "leaked"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 525,
       "token_count": 93,
@@ -1032,10 +1823,49 @@
       "keyword_hits": [
         "exploits"
       ],
+      "soft_keyword_hits": [],
       "char_count": 284,
       "token_count": 48,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1147,
+    "date": "2024-04-14",
+    "datetime_utc": "2024-04-14T05:20:34+00:00",
+    "timestamp": 1713072034,
+    "message": "**💎**** Best WebSites To Get Your AI stuff Done | AI Search engines | Find any type of ai you want ****🛡****\n\n\n****🔥**** Following is the collection of websites where you can find all the things related to artificial intelligence such as AI News, AI Tools, AI Jobs, AI Trends, and much more...****🍄**** \n\n\n****🔤**** ****https://theresanaiforthat.com/**** ****✨****\n\n****⚪️**** ****https://futuretools.io/**** ****⭐️****\n\n****⚪️**** ****https://airollouts.com/**** ****⚡️****\n\n****⚪️**** ****https://opentools.ai/**** ****🔥****\n\n****⚪️**** ****https://futurepedia.io/**** ****🤎****\n\n****⚪️****https://anakin.ai**** \n\n\n****😎**** Share & Support Us ****✨****\n\n\n~Regards **[**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)** ****⚡️**",
+    "id": "d816e986-d330-42f7-acef-e7a51e2efc44",
+    "cleaning": {
+      "normalized_message": "best websites to get your ai stuff done ai search engines find any type of ai you want following is the collection of websites where you can find all the things related to artificial intelligence such as ai news ai tools ai jobs ai trends and much more share support us regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 297,
+      "token_count": 55,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1148,
+    "date": "2024-04-16",
+    "datetime_utc": "2024-04-16T11:45:16+00:00",
+    "timestamp": 1713267916,
+    "message": "☑️ **THINGS YOU SHOULD KNOW ABOUT DARKWEB** 💻\n\n\nBack in the 1970s, “Darknet” wasn’t an ominous term: it simply referred to networks that were isolated from the mainstream of ARPANET for security purposes. But as... **Read More**... 👇 \n\n\nhttps://telegra.ph/Things-You-Should-Know-About-Darkweb-04-16\n\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "df8dab6e-e2ff-475d-9fa2-436ab95e685b",
+    "cleaning": {
+      "normalized_message": "things you should know about darkweb back in the 1970s darknet wasn t an ominous term it simply referred to networks that were isolated from the mainstream of arpanet for security purposes but as read more regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 233,
+      "token_count": 40,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1050,10 +1880,30 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 137,
       "token_count": 23,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1150,
+    "date": "2024-04-17",
+    "datetime_utc": "2024-04-17T08:55:16+00:00",
+    "timestamp": 1713344116,
+    "message": "🔰 **Top 5 Life-Changing Finance Newsletters** 🔰\n\n\n📢 Top-rated finance newsletters that can revolutionize your approach to money management and guide you toward achieving financial freedom and mastery. Just as there's a discipline and process for achieving other goals, these newsletters provide the knowledge and strategies needed for financial success.\n\n\n1.[Doomberg](https://newsletter.doomberg.com/) (2.3L Subs)\n\n2.[Affluence Wave](https://affluencewave.substack.com/) (74k Subs)\n\n3.[Net Interest](https://www.netinterest.co/) (80k Subs)\n\n4.[Compounding Quality](https://www.compoundingquality.net/) (2.33L Subs)\n\n5.[Jonah's Growth](https://growthstockdeepdives.substack.com/) (38k Subs)\n\n\n**More Info:** __https://telegra.ph/Top-5-Life-Changing-Finance-Newsletters-Worth-Subscribing-04-17__\n\n\n☑️ Share & Support Us ☑️\n\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "83f4b9fd-43a0-4221-aa3b-fea3ddf8a506",
+    "cleaning": {
+      "normalized_message": "top 5 life-changing finance newsletters top-rated finance newsletters that can revolutionize your approach to money management and guide you toward achieving financial freedom and mastery just as there s a discipline and process for achieving other goals these newsletters provide the knowledge and strategies needed for financial success 1 doomberg 2 3l subs 2 affluence wave 74k subs 3 net interest 80k subs 4 compounding quality 2 33l subs 5 jonah s growth 38k subs more info __ share support us regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 526,
+      "token_count": 85,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1069,10 +1919,68 @@
         "apt",
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 727,
       "token_count": 117,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1158,
+    "date": "2024-04-21",
+    "datetime_utc": "2024-04-21T14:39:48+00:00",
+    "timestamp": 1713710388,
+    "message": "🧠 **CHATGPT: MASSIVE TOOLS & RESOURCES UP FOR GRAB** 🧠\n\n\n🧠 Explore ChatGPT's expansive collection of tools and resources, all available for you to leverage and enhance your projects.\n\n\n🟥Link: [https://telegra.ph/CHATGPT-MASSIVE-TOOLS--RESOURCES-UP-FOR-GRAB-04-21](https://telegra.ph/CHATGPT-MASSIVE-TOOLS--RESOURCES-UP-FOR-GRAB-04-21)\n\n\n~Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum) 🟪",
+    "id": "5c206f17-e6f4-4529-9ba7-57f8e56ace2b",
+    "cleaning": {
+      "normalized_message": "chatgpt massive tools resources up for grab explore chatgpt s expansive collection of tools and resources all available for you to leverage and enhance your projects link regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 198,
+      "token_count": 31,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1160,
+    "date": "2024-04-22",
+    "datetime_utc": "2024-04-22T18:49:44+00:00",
+    "timestamp": 1713811784,
+    "message": "🔏**Create Virtual WhatsApp Account - The Working Trick Revealed!**💻\n\n\n🔻It's been a long time the trick which used to work in order to obtain a virtual WhatsApp number is not working at all. But I got the way and tested it myself and found it working fine.\n\n\n**🖇Link:**[ https://telegra.ph/Create-Virtual-WhatsApp-Account---The-Working-Trick-Revealed-04-22](https://telegra.ph/Create-Virtual-WhatsApp-Account---The-Working-Trick-Revealed-04-22)\n\n\nRegards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "14f2c91a-9627-4945-a6fa-81e08903e024",
+    "cleaning": {
+      "normalized_message": "create virtual whatsapp account - the working trick revealed it s been a long time the trick which used to work in order to obtain a virtual whatsapp number is not working at all but i got the way and tested it myself and found it working fine link regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 276,
+      "token_count": 53,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1170,
+    "date": "2024-04-27",
+    "datetime_utc": "2024-04-27T07:19:59+00:00",
+    "timestamp": 1714202399,
+    "message": "🔥**THE POWER OF BODY LANGUAGE: AN EX-FBI AGENT’S SYSTEM FOR SPEED-READING PEOPLE**🔥 \n\n\n\n🔻 __This Ebook aims to change your life by making you a better observer of the world around you and by enhancing your communication skills. It will be intensive and demanding__\n\n\n• How the subconscious limbic system drives all body language.\n\n• Why the face is the least likely place to gauge a person’s true feelings.\n\n• What thumbs, feet, and a simple handshake reveal about moods and motives.\n\n• The most powerful behaviors that reveal our confidence and true sentiments.\n\n• Simple nonverbals that instantly establish trust and communicate authority.\n\n• Why things taught about nonverbals in the ’70s and ’80s are incorrect.\n\n• And more!\n\n\n🖇Link: [https://www.mediafire.com/file/nvderqlkft0ggwe/ThePower_of_Body_Language_AnEx-FBI_Agents_System_for_Speed-Reading_People_.zip/file](https://www.mediafire.com/file/nvderqlkft0ggwe/ThePower_of_Body_Language_AnEx-FBI_Agents_System_for_Speed-Reading_People_.zip/file)\n\n\n\n🔏Password If Asked: `Encrypted_DJ`\n\n\n\nRegards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "af582937-8f16-40fe-bcab-2b4580a0b50f",
+    "cleaning": {
+      "normalized_message": "the power of body language an ex-fbi agent s system for speed-reading people __this ebook aims to change your life by making you a better observer of the world around you and by enhancing your communication skills it will be intensive and demanding__ how the subconscious limbic system drives all body language why the face is the least likely place to gauge a person s true feelings what thumbs feet and a simple handshake reveal about moods and motives the most powerful behaviors that reveal our confidence and true sentiments simple nonverbals that instantly establish trust and communicate authority why things taught about nonverbals in the 70s and 80s are incorrect and more link password if asked encrypted_dj regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 745,
+      "token_count": 122,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1087,6 +1995,7 @@
       "keyword_hits": [
         "virus"
       ],
+      "soft_keyword_hits": [],
       "char_count": 101,
       "token_count": 22,
       "decision": "keep",
@@ -1105,10 +2014,32 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 210,
       "token_count": 40,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1184,
+    "date": "2024-05-02",
+    "datetime_utc": "2024-05-02T06:23:13+00:00",
+    "timestamp": 1714630993,
+    "message": "🔥** 5423 Instagram Editable Quote Templates + CANVA Bundle Social Media Pack** **| GIVEAWAY **🔥\n\n\n**Source 1:** https://creativemarket.com/eviory/3060237-5800-Instagram-Editable-Quotes-CANVA\n\n**Source 2:** https://creativemarket.com/eviory/3782611-CANVA-Bundle-Social-Media-Pack\n\n\n__Interested members are kindly requested to comment on this post which will help us to separate the individuals who wish to participate in this giveaway as same as we did earlier. Winners will be announced in three days. Best of luck to all participants!__\n\n\nRegards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "c1d03785-0949-4f50-adc3-9b1ca374bd86",
+    "cleaning": {
+      "normalized_message": "5423 instagram editable quote templates canva bundle social media pack giveaway source 1 source 2 __interested members are kindly requested to comment on this post which will help us to separate the individuals who wish to participate in this giveaway as same as we did earlier winners will be announced in three days best of luck to all participants __ regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 381,
+      "token_count": 64,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1124,10 +2055,49 @@
         "exploiting",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1717,
       "token_count": 287,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1197,
+    "date": "2024-05-07",
+    "datetime_utc": "2024-05-07T03:09:32+00:00",
+    "timestamp": 1715051372,
+    "message": "💻 **[MASSIVE] Easy Guide To Online Searches - Over 5k Resources Links** 🌟\n\n\nDiscover how to easily find information on the internet using simple tools and tips. Learn about searching online without the need of expert skills!\n\nSimple codes, tools for pulling out information, search websites, guides, and country-specific searches all for online investigations and pulling in desired content.\n\n**Checkout Here:** https://teletype.in/@encryptedj/hi0moyUEERW\n\n🌟 Share & Support Us 🌟\n\n\nRegards** **[**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "b61d7e54-483e-489a-bd13-fe7c8bcf6013",
+    "cleaning": {
+      "normalized_message": "massive easy guide to online searches - over 5k resources links discover how to easily find information on the internet using simple tools and tips learn about searching online without the need of expert skills simple codes tools for pulling out information search websites guides and country-specific searches all for online investigations and pulling in desired content checkout here share support us regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 430,
+      "token_count": 66,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1198,
+    "date": "2024-05-07",
+    "datetime_utc": "2024-05-07T15:44:28+00:00",
+    "timestamp": 1715096668,
+    "message": "💻 **300,000 Online Courses and MOOCs With Free Certificates in One Place** 🌟\n\n\n__Programming - Computer Science - Engineering - Graphic Design - Computer Software - Medical - Business - Marketing - Languages in Arabic - Technology - Soft Skills - Science - Mobile - Languages - Mathematics - Drawing - Photography - Web Design - Career Development - Kitchen and Cooking - Women and Beauty - Music - Accounting - Digital Marketing - Real Estate - Humanities__\n\n**Checkout Here:** https://www.mindluster.com/\n\n\nRegards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "76d5545f-3916-4631-a91f-33c8c4b0794e",
+    "cleaning": {
+      "normalized_message": "300 000 online courses and moocs with free certificates in one place __programming - computer science - engineering - graphic design - computer software - medical - business - marketing - languages in arabic - technology - soft skills - science - mobile - languages - mathematics - drawing - photography - web design - career development - kitchen and cooking - women and beauty - music - accounting - digital marketing - real estate - humanities__ checkout here regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 490,
+      "token_count": 83,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1142,6 +2112,7 @@
       "keyword_hits": [
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 658,
       "token_count": 127,
       "decision": "keep",
@@ -1160,10 +2131,89 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 184,
       "token_count": 35,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1210,
+    "date": "2024-05-12",
+    "datetime_utc": "2024-05-12T12:04:38+00:00",
+    "timestamp": 1715515478,
+    "message": "❕**WHAT IF SOMEONE CREATE NUDES OF YOUR PHOTOS?**❕\n\n\nIf your photo has been manipulated using **AI or Photoshop** to create nude and other explicit content, you can visit https://www.stopncii.org/ to report the incident.\n\nBy submitting the** original and edited photos,** they will ensure the edited version is removed from all online platforms.\n\nThis process maintains your anonymity, and you don't need to engage directly with anyone. If you find your image has been maliciously circulated, **immediately notify the cyber security team, file a case, and initiate necessary actions.**\n\n\nRegards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "81491d07-87e7-406d-a126-e0bf9222e766",
+    "cleaning": {
+      "normalized_message": "what if someone create nudes of your photos if your photo has been manipulated using ai or photoshop to create nude and other explicit content you can visit to report the incident by submitting the original and edited photos they will ensure the edited version is removed from all online platforms this process maintains your anonymity and you don t need to engage directly with anyone if you find your image has been maliciously circulated immediately notify the cyber security team file a case and initiate necessary actions regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hackers"
+      ],
+      "char_count": 554,
+      "token_count": 92,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1218,
+    "date": "2024-05-13",
+    "datetime_utc": "2024-05-13T18:12:10+00:00",
+    "timestamp": 1715623930,
+    "message": "🆕** Network Penetration Testing for Beginners 🖥\n\n💰 Ethical  Hacking Course \n\nIn This Tutorial You Will Get to Learn All About  Penetration Testing of Network.**",
+    "id": "eb2dff0c-890f-4cc5-8560-c158db1ba47d",
+    "cleaning": {
+      "normalized_message": "network penetration testing for beginners ethical hacking course in this tutorial you will get to learn all about penetration testing of network",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking",
+        "penetration testing"
+      ],
+      "char_count": 144,
+      "token_count": 22,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1219,
+    "date": "2024-05-14",
+    "datetime_utc": "2024-05-14T18:03:47+00:00",
+    "timestamp": 1715709827,
+    "message": "⭐️** Adobe AI Image Generator | Get Creative With Adobe  🎯\n\n\n1. Visit the website below.\n2. Sign up with your email.\n3. Start generating images through Adobe AI.\n\n🖇Link: ****https://firefly.adobe.com/****\n\n\n☑️ Regards** [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)\n\nJoin :- https://t.me/CapitalClubFreeDownload",
+    "id": "39f9173f-9d1b-4f69-ae37-62a36ba385c9",
+    "cleaning": {
+      "normalized_message": "adobe ai image generator get creative with adobe 1 visit the website below 2 sign up with your email 3 start generating images through adobe ai link regards team hackers asylum join -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 183,
+      "token_count": 33,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1220,
+    "date": "2024-05-15",
+    "datetime_utc": "2024-05-15T09:40:58+00:00",
+    "timestamp": 1715766058,
+    "message": "🌟 **Premium Udemy Courses [Limited Time] - Coupons Applied** 🌟\n\n———————————————————\n\n🔹**Computer Networks Simplified 2024.**\nhttps://www.udemy.com/course/computer-networks-simplified-2024/?couponCode=8D499CF33EBA52487558\n\n🔹**PHP Master Class - The Complete PHP Developer Course**\nhttps://www.udemy.com/course/php-master-class-the-complete-php-developer-course/?couponCode=C5AA07059AF3A3B7F071\n\n🔹**Java Fundamentals Course For Beginners**\nhttps://www.udemy.com/course/java-fundamentals-course-for-beginners/?couponCode=FB08DC912DAEEFA28405\n\n🔹**ChatGPT: Make Money with ChatGPT as a New Freelancer**\nhttps://www.udemy.com/course/chatgpt-make-money-with-chatgpt-as-a-new-freelancer/?couponCode=SUBHANALLAH_051524\n\n🔹**Java And C++ Complete Course for Beginners 2022**\nhttps://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=32AD8B8801C879B9A3F8\n\n🔹**CSS, Bootstrap, JavaScript And PHP Stack Complete Course**\nhttps://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/?couponCode=5501B8ABC323893AE41E\n\n🔹**Python And Flask Framework Complete Course**\nhttps://www.udemy.com/course/flask-framework-complete-course-for-beginners/?couponCode=74CEB03198D5114301C1\n\n🔹**Mastering AI-Powered Prompt Engineering with AI Models**\nhttps://www.udemy.com/course/mastering-ai-powered-prompt-engineering-with-ai-models/?couponCode=317E311D2E031B896584\n\n🔹**WordPress For Beginners Up To Expert Master Wordpress**\nhttps://www.udemy.com/course/wordpress-for-complete-beginners/?couponCode=TRAFFIC\n\n🔹**Wordpress Design Like a Pro with WordPress and Elementor!**\nhttps://www.udemy.com/course/how-to-create-a-website-with-wordpress-2022-fast/?couponCode=FREEDISCOUNT\n\n🔹**C# Unity Game using the Wax Blockchain**\nhttps://www.udemy.com/course/unity-game-wax-blockchain/?couponCode=FREE_WAX10\n\n🔹**Python Development Essentials**\nhttps://www.udemy.com/course/python-development-essentials/?couponCode=1193BD0C2DC62B78194E\n\n🔹**Web3 Development Essentials**\nhttps://www.udemy.com/course/web3-development-essentials/?couponCode=1AF8531F5ADA8468529D\n\n\n☑️ Regards [**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)\n\nJoin :- https://t.me/CapitalClubFreeDownload",
+    "id": "f9ca3939-faa8-4a8a-88e8-53d8c2762e6c",
+    "cleaning": {
+      "normalized_message": "premium udemy courses limited time - coupons applied computer networks simplified 2024 php master class - the complete php developer course java fundamentals course for beginners chatgpt make money with chatgpt as a new freelancer java and c complete course for beginners 2022 css bootstrap javascript and php stack complete course python and flask framework complete course mastering ai-powered prompt engineering with ai models wordpress for beginners up to expert master wordpress wordpress design like a pro with wordpress and elementor c unity game using the wax blockchain python development essentials web3 development essentials regards team hackers asylum join -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 671,
+      "token_count": 100,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1178,10 +2228,54 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 507,
       "token_count": 85,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1280,
+    "date": "2024-05-31",
+    "datetime_utc": "2024-05-31T03:01:05+00:00",
+    "timestamp": 1717124465,
+    "message": "**🔥****The Unblocking Process | Charisma School - **https://mega.nz/folder/lnEzgDzK#URkxa94CuvERQowr_HTDIQ**\n\n****👾**** Games Hacks & Tricks | A Massive List Of Cheats - **https://www.unknowncheats.me/**\n\n****🕸****Advanced Web Hacking - ZDResearch -  **https://mega.nz/folder/phpmGDpI#E_54SB3jOkucoxLM_VF4RQ**\n\n****💵****Sabah Ali – Monetize Social Membership -  **https://mega.nz/folder/NZ42jYYQ#C-ncuZllvsWNJepyIlNaEA**\n\n**⚠️**Yasin Mammeri – Viral Video Course -  **https://mega.nz/folder/HQ9z3IxS#V_AGjBV8YcJ9WOF6_kwtvw\n\n```DISCLAIMER: No Copyright Infringement Intended, All Rights Reserved to the Actual Owner.\n\nThis content has been shared under Educational And Non-Profit Purposes Only.```\n\n**💎****Share Us And Give Reaction For More Content Like This ****@Hacker_Asylum**** ****🥷**",
+    "id": "dceebec0-0b80-4617-bc33-1d3890ec9d4c",
+    "cleaning": {
+      "normalized_message": "the unblocking process charisma school - games hacks tricks a massive list of cheats - advanced web hacking - zdresearch - sabah ali monetize social membership - yasin mammeri viral video course - disclaimer no copyright infringement intended all rights reserved to the actual owner this content has been shared under educational and non-profit purposes only share us and give reaction for more content like this hacker_asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 426,
+      "token_count": 67,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1281,
+    "date": "2024-05-31",
+    "datetime_utc": "2024-05-31T04:47:46+00:00",
+    "timestamp": 1717130866,
+    "message": "**🚀 Discover SiteDorks: The Essential OSINT Tool for Ethical Hackers!\n\n🔍 Perform advanced search queries across Google, Bing, DuckDuckGo, and more.\n📂 Leverage predefined categories for targeted searches.\n🔧 Customize queries to fit your specific needs.\n💡 Regular updates and bug bounty integration included!\n\n🧊Example Commands:\n**\n```sitedorks -query '\"uber.com\"'```\n\n**Enhance your ethical hacking toolkit today with SiteDorks.\n\n📲 Learn more: ****https://www.telemodsapk.com/2024/05/sitedorks-tool.html?m=1**",
+    "id": "1bc1739c-0cf6-4f23-9161-f32baf950404",
+    "cleaning": {
+      "normalized_message": "discover sitedorks the essential osint tool for ethical hackers perform advanced search queries across google bing duckduckgo and more leverage predefined categories for targeted searches customize queries to fit your specific needs regular updates and bug bounty integration included example commands sitedorks -query uber com enhance your ethical hacking toolkit today with sitedorks learn more",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "hackers",
+        "hacking",
+        "osint"
+      ],
+      "char_count": 396,
+      "token_count": 55,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1196,10 +2290,32 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 94,
       "token_count": 16,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1300,
+    "date": "2024-06-07",
+    "datetime_utc": "2024-06-07T04:22:47+00:00",
+    "timestamp": 1717734167,
+    "message": "🔍 **Explore Ethical Hacking and GPT Bypass with ChatGPT!** 🔍\n\n🤖**Curious about ethical hacking and GPT bypass techniques? Dive into our latest article on how to leverage ChatGPT for ethical hacking practices. Discover insights, techniques, and best practices to enhance your skills responsibly.\n\n🪬Read more here (How to do Ethical Hacking with ChatGPT): ****https://www.telemodsapk.com/2024/06/how-to-do-ethical-hacking-with-chatgpt.html?m=1**",
+    "id": "2f492669-e18f-4a1e-9a92-55d3c1a3c7e6",
+    "cleaning": {
+      "normalized_message": "explore ethical hacking and gpt bypass with chatgpt curious about ethical hacking and gpt bypass techniques dive into our latest article on how to leverage chatgpt for ethical hacking practices discover insights techniques and best practices to enhance your skills responsibly read more here how to do ethical hacking with chatgpt",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 330,
+      "token_count": 51,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1215,10 +2331,32 @@
         "exploiting",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 580,
       "token_count": 96,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1305,
+    "date": "2024-06-12",
+    "datetime_utc": "2024-06-12T12:47:03+00:00",
+    "timestamp": 1718196423,
+    "message": "**🔥How To Hack Into Wifi Networks 🎭\n\n👀 All the general hacking any beginner to expert would try, full training!⚠️\n\n✔️Download \n\n****https://mega.nz/folder/JhdyUbKZ#Z6wmJRc83y6Q7P5-PlenCw**",
+    "id": "ff6bcfbf-0535-4311-8134-73cf778398d2",
+    "cleaning": {
+      "normalized_message": "how to hack into wifi networks all the general hacking any beginner to expert would try full training download",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 110,
+      "token_count": 19,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1233,6 +2371,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 200,
       "token_count": 34,
       "decision": "keep",
@@ -1250,6 +2389,9 @@
       "normalized_message": "video ready tomorrow i will upload how to create your own phishing page of any website without knowing coding only for hackers assylum members",
       "keyword_hits": [
         "phishing"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 142,
       "token_count": 24,
@@ -1270,6 +2412,7 @@
         "login",
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 414,
       "token_count": 68,
       "decision": "keep",
@@ -1288,6 +2431,7 @@
       "keyword_hits": [
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 904,
       "token_count": 180,
       "decision": "keep",
@@ -1307,6 +2451,7 @@
         "apt",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 738,
       "token_count": 109,
       "decision": "keep",
@@ -1324,6 +2469,9 @@
       "normalized_message": "george hutton - hypnotic copywriting what will i learn how to sell with words the ultimate laptop lifestyle skill why copywriting will always be in demand the slippery slope slippery slope elements slippery slope engineering storytelling secrets the hero s journey your reader - the hero the objections - the villains leveraging two against one economic considerations maximizing benefits understanding all costs minimizing non monetary costs understanding buying instincts how to avoid the cheater instinct how to avoid the scammer trigger secrets of trust why trust is critical trust building strategies understanding desires what they really want leveraging subconscious desires implying powerful motivators why people really buy understanding human pain the pain - pleasure continuum pain - pleasure resonance the goldilocks pain balance overcoming hidden objections understanding objections discovering secret objections the magic cause and effect cause - effect language patterns pacing their thoughts leading their thoughts putting words to their thoughts how to create massive rapport through text basic copywriting strategy basic copywriting elements reverse engineering top sales pages slippery slope language how to induce slippery slope thinking hide ideas inside sentences linguistic presuppositions why they work how they work how to become a presupposition expert best copywriting presuppositions presuppositions for social proof presuppositions for authority presuppositions for scarcity presuppositions for commitment and consistency every sales funnel explained creating sales funnels from scratch hypnotic language patterns get them to think anything get them discover anything additional social proof patterns additional scarcity patterns additional authority patterns reframing objections uncovering hidden objections sales page download link - tags - copywriting course hypnotic texttomoney skill free leak",
       "keyword_hits": [
         "leak"
+      ],
+      "soft_keyword_hits": [
+        "reverse engineering"
       ],
       "char_count": 1928,
       "token_count": 265,
@@ -1343,6 +2491,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 516,
       "token_count": 85,
       "decision": "keep",
@@ -1360,6 +2509,9 @@
       "normalized_message": "stefan georgi - the 3 day attention hacking vip workshop price 497 how to use attention hacking to consistently land new high-paying clients systematically smash nearly any control you re trying to beat and steal the best customers in any market the s2e framework that ensures prospects engage with your sales message earn a full-time income writing simple 150-word micro-leads evocative velocity the key to commanding attention in 2024 my step-by-step micro-lead printing process for winning controls get live copy optimization help from top copywriters plus templates frameworks customgpts and ai shortcuts for faster execution download tags - stefan_georgi course copywriting leak",
       "keyword_hits": [
         "leak"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 683,
       "token_count": 102,
@@ -1379,6 +2531,10 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [
+        "cloud security",
+        "penetration testing"
+      ],
       "char_count": 479,
       "token_count": 59,
       "decision": "keep",
@@ -1397,6 +2553,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 512,
       "token_count": 83,
       "decision": "keep",
@@ -1415,6 +2572,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1074,
       "token_count": 176,
       "decision": "keep",
@@ -1433,6 +2591,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 731,
       "token_count": 117,
       "decision": "keep",
@@ -1451,10 +2610,30 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 289,
       "token_count": 51,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1389,
+    "date": "2024-07-12",
+    "datetime_utc": "2024-07-12T14:09:39+00:00",
+    "timestamp": 1720793379,
+    "message": "🔥 **How ChatGPT Can Help You Become a Millionaire** 🌟\n\n\n❕Your ultimate guide to ChatGPT Millionaire Success: Building Wealth with Automation and AI\n\n\n**Download:** https://www.mediafire.com/file/zk6yqfkcz1zfg3k/101-Best-Funnel-Prompts-To-Help-You-Become-Millionaire.zip/file\n\n\n**Password:** `Hackers Asylum`",
+    "id": "92d32ff9-cab4-437c-b019-f585a3f3a0d1",
+    "cleaning": {
+      "normalized_message": "how chatgpt can help you become a millionaire your ultimate guide to chatgpt millionaire success building wealth with automation and ai download password hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 168,
+      "token_count": 25,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1469,6 +2648,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 286,
       "token_count": 48,
       "decision": "keep",
@@ -1487,6 +2667,7 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 790,
       "token_count": 143,
       "decision": "keep",
@@ -1505,10 +2686,71 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 134,
       "token_count": 23,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1396,
+    "date": "2024-07-15",
+    "datetime_utc": "2024-07-15T17:30:44+00:00",
+    "timestamp": 1721064644,
+    "message": "🔰 **THE MOST MAJESTIC RESOURCES COLLECTION | OVER A THOUSAND** 🔰\n\n\n📢 Here is a fantabulous collection of amazing and tremendous resources, websites and much more. I didn't count them but it's really a huge one. Take a look by yourself and... Read more below👇 \n\n\n🖇Link:\nhttps://teletype.in/@encryptedj/yB61eqTAjm_\n\n\n\n**~Hackers Asylum**",
+    "id": "459e58db-d7c1-434b-8121-165db3341491",
+    "cleaning": {
+      "normalized_message": "the most majestic resources collection over a thousand here is a fantabulous collection of amazing and tremendous resources websites and much more i didn t count them but it s really a huge one take a look by yourself and read more below link hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 257,
+      "token_count": 46,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1400,
+    "date": "2024-07-17",
+    "datetime_utc": "2024-07-17T15:42:02+00:00",
+    "timestamp": 1721230922,
+    "message": "90-Day Cybersecurity Study Plan\n\nThis repository contains a 90-day cybersecurity study plan, resources, and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking.\n\n🐶**Day 1-7: Network+**\n\n🤖Watch videos from Professor Messer’s N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G 77\n🤖Complete any related practice questions or exercises.\n\n🤖**Day 8-14: Security+**\n\n🤖Watch videos from Professor Messer’s SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8 20\n\n🛒Complete any related practice questions or exercises.",
+    "id": "d15271da-7396-4394-b764-23e9a1f47ba3",
+    "cleaning": {
+      "normalized_message": "90-day cybersecurity study plan this repository contains a 90-day cybersecurity study plan resources and materials for learning various cybersecurity concepts and technologies the plan is organized into daily tasks covering topics such as network security linux python traffic analysis git elk aws azure and hacking day 1-7 network watch videos from professor messer s n10-008 playlist 77 complete any related practice questions or exercises day 8-14 security watch videos from professor messer s syo-601 playlist 20 complete any related practice questions or exercises",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking",
+        "network security"
+      ],
+      "char_count": 569,
+      "token_count": 83,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1401,
+    "date": "2024-07-17",
+    "datetime_utc": "2024-07-17T15:43:02+00:00",
+    "timestamp": 1721230982,
+    "message": "🤖**Day 15-28: Linux**\n\n🤖Follow the tutorials on Ryan’s Tutorials: [https://ryanstutorials.net/linuxtutorial/ 13](https://ryanstutorials.net/linuxtutorial/)\n\n🐶Take the Linux course on EdX: [https://edx.org/learn/linux 7](https://edx.org/learn/linux)\n\n👌Read through the Linux Documentation Project (LDP): [http://tldp.org 3](http://tldp.org/)\n\n🤖**Day 29-42: Python**\n[https://www.hackerrank.com/domains/python 6](https://www.hackerrank.com/domains/python)\n\n✏️Complete Codecademy’s Learn Python Track: [https://codecademy.com/learn/learn-python 3](https://codecademy.com/learn/learn-python)\n[Python.org](http://python.org/): https://www.w3schools.com/python/\n\n🤖Real Python: [https://realpython.com/ 3](https://realpython.com/)\n\n🤖Talk Python to Me: https://talkpython.fm/\n\n🆕Read “Learn Python the Hard Way”: [https://learnpythonthehardway.org 3](https://learnpythonthehardway.org/)\nHackerrank\n\n🐸**Youtube Course:**\n[https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor 7](https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor)\n\n🍀**Day 43-56: Traffic Analysis**\nTake the Wireshark University course: [https://wireshark.org/training/ 5](https://www.wireshark.org/#educationalContent)\n\n🍼Follow the Wireshark Tutorial on guru99: [https://guru99.com/wireshark-tutorial.html 1](https://www.guru99.com/wireshark-passwords-sniffer.html)\n\n🎅Read through the TCPdump Tutorial on \nDanielMiessler: [https://danielmiessler.com/study/tcpdump/ 2](https://danielmiessler.com/study/tcpdump/)\n\n🏆Read through the Suricata on pfSense guide: [https://doc.pfsense.org/index.php/Suricata](https://docs.netgate.com/pfsense/en/latest/packages/snort/index.html)\n\n🎅**Youtube:**\n\n🏆Wireshark Tutorial for Beginners series [https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB 2](https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB)\n\n🔉Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs\n\n🟢Day 57-63: Git\n\n🟢Complete Codecademy’s Git for Beginners course: https://codecademy.com/learn/learn-git 2\n🟢Follow the Git Immersion tutorial: http://gitimmersion.com 1\n🟢Try Git: https://try.github.io\n\n🟢Day 64-70: ELK\n\n🟢Follow the ELK Stack Tutorial on Logz.io: https://logz.io/learn/complete-elk-stack-tutorial/ 1\n\n🟢Browse through the ELK Stack tutorials on Elastic: https://elastic.co/learn/elastic-stack\n\n🟢Day 71-77:\nAny one of them works fine.\nGCP:\n\n🟢Explore the GCP Getting Started Resource : https://cloud.google.com/getting-started/ 3\n\n🟢Google Cloud Platform Documentation: https://cloud.google.com/docs/\n\n🟢Google Cloud Platform Blog: https://cloud.google.com/blog/\n\n🟢Google Cloud Platform Community: https://cloud.google.com/community/ 1\n\nAWS🟢\n\n🟢 Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/ 1\n\n🟢 Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/ 1\nAzure\n\n🟢 Go through Azure Fundamentals: https://docs.microsoft.com/en-us/learn/azure/ 1\n\n\nDay 85-90: Hacking\n\n🟢Try to hack the challenges on Hack the Box: https://hackthebox.com \n\n🟢Practice on vulnerable machines on Vulnhub: https://vulnhub.com 4\n\nYoutube😂\n\n🟢Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor 10\n\n🟢Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor 4\n\n**Day 91-92: One Page Resume**\n\n🟢Use the provided resume template: [https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii 6](https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii)\n\n🟢Cybersecurity Resume Template: [https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume 3](https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume)\n\n🟢Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume 6](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist) This template also has sections for skills, certifications, and experience, along with a summary, and a section for education. It also includes a section for technical skills.\n\n**Day 93-95: Where and How to Apply**\n\n🔤Search for jobs on Indeed: [https://indeed.com 4](https://indeed.com/) \n\n🔤Look for opportunities on LinkedIn: [https://linkedin.com 1](https://linkedin.com/)",
+    "id": "ecdc7256-69e0-4c4b-a72a-38016d5fac7e",
+    "cleaning": {
+      "normalized_message": "day 15-28 linux follow the tutorials on ryan s tutorials 13 take the linux course on edx 7 read through the linux documentation project ldp 3 day 29-42 python 6 complete codecademy s learn python track 3 python org real python 3 talk python to me read learn python the hard way 3 hackerrank youtube course 7 day 43-56 traffic analysis take the wireshark university course 5 follow the wireshark tutorial on guru99 1 read through the tcpdump tutorial on danielmiessler 2 read through the suricata on pfsense guide youtube wireshark tutorial for beginners series 2 suricata network ids ips day 57-63 git complete codecademy s git for beginners course 2 follow the git immersion tutorial 1 try git day 64-70 elk follow the elk stack tutorial on logz io 1 browse through the elk stack tutorials on elastic day 71-77 any one of them works fine gcp explore the gcp getting started resource 3 google cloud platform documentation google cloud platform blog google cloud platform community 1 aws explore the aws getting started resource center 1 browse through the aws tutorials 1 azure go through azure fundamentals 1 day 85-90 hacking try to hack the challenges on hack the box practice on vulnerable machines on vulnhub 4 youtube ethical hacking part 1 10 ethical hacking part 2 4 day 91-92 one page resume use the provided resume template 6 cybersecurity resume template 3 cybersecurity resume from resume-now 6 this template also has sections for skills certifications and experience along with a summary and a section for education it also includes a section for technical skills day 93-95 where and how to apply search for jobs on indeed 4 look for opportunities on linkedin 1",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 1674,
+      "token_count": 285,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1523,10 +2765,30 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 856,
       "token_count": 142,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1423,
+    "date": "2024-07-30",
+    "datetime_utc": "2024-07-30T13:59:40+00:00",
+    "timestamp": 1722347980,
+    "message": "**20 Fresh Canva Pro Links to Join - 30 July 2024**\n\n\nTeam : 1\nhttps://www.canva.com/brand/join?token=QUnl89yBSE0sDdzlcaj_MA&referrer=team-invite\n\nTeam : 2\nhttps://www.canva.com/brand/join?token=QOdbJth3dCsjg8vnlwzZ7w&referrer=team-invite\n\nTeam : 3\nhttps://www.canva.com/brand/join?token=t6dpfy9WL-8wy6bawqpF5A&referrer=team-invite\n\nTeam : 4\nhttps://www.canva.com/brand/join?token=mB8WsUVE8SuKBRXqawHKKA&referrer=team-invite\n\nTeam : 5\nhttps://www.canva.com/brand/join?token=8J9oPm2rNv_jPFQIQ6sfhg&referrer=team-invite\n\nTeam : 6\nhttps://www.canva.com/brand/join?token=pKqUCO3hdXOWLhthvhDBfQ&referrer=team-invite\n\nTeam : 7\nhttps://www.canva.com/brand/join?token=VQbk0bX21Y66SLEzgKKVTA&referrer=team-invite\n\nTeam : 8\nhttps://www.canva.com/brand/join?token=DSxzYZr_kpIiGSQH14AMfQ&referrer=team-invite\n\nTeam : 9\nhttps://www.canva.com/brand/join?token=LJuTSlLiPeVTPWzwlvccSA&referrer=team-invite\n\nTeam : 10\nhttps://www.canva.com/brand/join?token=PzZbwe9WBelRPPqBZtfPjQ&referrer=team-invite \n\nTeam : 11\nhttps://www.canva.com/brand/join?token=D60Se-w95mROhK9NRRCFmg&referrer=team-invite\n\nTeam : 12\nhttps://www.canva.com/brand/join?token=kfjMHpSUaOwquk2VhtiBPg&referrer=team-invite\nhttps://72digital.gg/assets/products/16493b6b496d51.png\nTeam : 13\nhttps://www.canva.com/brand/join?token=PFi067eCIliaNZBso_cPfg&referrer=team-invite\n\nTeam : 14\nhttps://www.canva.com/brand/join?token=hk1og21VYB6HUNRfIjOxPQ&referrer=team-invite\n\nTeam : 15\nhttps://www.canva.com/brand/join?token=iwB09vwKSUvJkG79E-tHLQ&referrer=team-invite\n\nTeam : 16\nhttps://www.canva.com/brand/join?token=lQioC1VLQ6RoB4cNuKkEcA&referrer=team-invite\n\nTeam : 17\nhttps://www.canva.com/brand/join?token=IUItWSWjrv6IrE_5GmDD8g&referrer=team-invite\n\nTeam : 18\nhttps://www.canva.com/brand/join?token=EUJVF7X-QhX092KEqT2MfA&referrer=team-invite\n\nTeam : 19\nhttps://www.canva.com/brand/join?token=bUwebMLEBk8Mtehg7dFaUw&referrer=team-invite\n\nTeam : 20\nhttps://www.canva.com/brand/join?token=_JSGob1V6PXRCnSIhYJ8tw&referrer=team-invite\n\n\n**CREDITS:** https://proinvitelinks.com\n\n\n**HACKERS ASYLUM**",
+    "id": "44727d30-0aa5-41f8-8032-f98a2f785833",
+    "cleaning": {
+      "normalized_message": "20 fresh canva pro links to join - 30 july 2024 team 1 team 2 team 3 team 4 team 5 team 6 team 7 team 8 team 9 team 10 team 11 team 12 team 13 team 14 team 15 team 16 team 17 team 18 team 19 team 20 credits hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 221,
+      "token_count": 54,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1541,6 +2803,7 @@
       "keyword_hits": [
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 351,
       "token_count": 53,
       "decision": "keep",
@@ -1559,6 +2822,7 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1370,
       "token_count": 243,
       "decision": "keep",
@@ -1577,10 +2841,70 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 158,
       "token_count": 25,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1513,
+    "date": "2024-09-09",
+    "datetime_utc": "2024-09-09T11:53:47+00:00",
+    "timestamp": 1725882827,
+    "message": "➡️**After Testing Hundreds Of Marketing Tools I Found the best Ones** • ** ****💯****\n\n****💸****BECOME A MARKETING GENIUS**⚠️\n\n\n**🔥Mojo -  ****https://mojo-app.com/ai****\n\n****⚡️****Dzine - ****https://www.dzine.ai/****\n\n****📌****FreeAdCopy - ****https://www.freeadcopy.com/**\n\n\n• [Hacker Asylum](https://t.me/HackerS_AsyLum) \n• [Discussion Group](https://t.me/HackerSAsyLum)",
+    "id": "376aac70-1760-4d66-887f-17a15b895d67",
+    "cleaning": {
+      "normalized_message": "after testing hundreds of marketing tools i found the best ones become a marketing genius mojo - dzine - freeadcopy - hacker asylum discussion group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 148,
+      "token_count": 25,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1516,
+    "date": "2024-09-09",
+    "datetime_utc": "2024-09-09T12:04:33+00:00",
+    "timestamp": 1725883473,
+    "message": "🌐**Automatically Create & Publish Reels in your Cloned Voice****📣****\n\nWebsite -  ****https://makereels.ai/en**\n\n\n• [Hacker Asylum](https://t.me/HackerS_AsyLum) \n• [Discussion Group](https://t.me/HackerSAsyLum)",
+    "id": "35dd0081-2f60-4f3d-9458-dfdbcf0d795e",
+    "cleaning": {
+      "normalized_message": "automatically create publish reels in your cloned voice website - hacker asylum discussion group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 96,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1581,
+    "date": "2024-09-27",
+    "datetime_utc": "2024-09-27T04:16:28+00:00",
+    "timestamp": 1727410588,
+    "message": "**CEH (Certified Ethical Hacker) v12 - VIDEOS | LAB MANUAL | EBOOK | MODULE**\n\n\nhttps://mega.nz/folder/ndIgTDJL#sUjJD_xVDQo2_DrMLUY20w\n\n\nhttps://mega.nz/folder/7UYQgKwY#EYHjujzXPnKTMqIBuURhTg",
+    "id": "f1949aa5-5df0-461f-88c9-f75d24dc76a3",
+    "cleaning": {
+      "normalized_message": "ceh certified ethical hacker v12 - videos lab manual ebook module",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 65,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1595,10 +2919,32 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "network security"
+      ],
       "char_count": 307,
       "token_count": 47,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1631,
+    "date": "2024-10-30",
+    "datetime_utc": "2024-10-30T11:26:45+00:00",
+    "timestamp": 1730287605,
+    "message": "**📱**** Telegram Account Unban Trick ****📱**** \n\n\n****0️⃣**** Requirements:\n      \n****📱**** Fresh Gmail Account ( Add Profile Picture With Telegram Name )\n\n****🔒**** Step 1:\n\n****✉️**** First Open Gmail and Create New Email,\n\nSend To: **recover@telegram.org**\n\n🫥 Enter Message:\n\n****{ Using custom messages created by chat gpt is better } ****\n\n****Hello Sir / Maam\nMy Office phone number mentioned here was banned recently, A Hacker go into my account and got hold of my personal information. And did illegal activities. I filed complaints and got no responses. Please look into this I need the account urgently. \n\nI'm trying to use my mobile phone number: xxxxxxxxxxxx\nBut Telegram says it's banned. Please help.\n\nApp version: Your App Version\nOS version: OS Version\nDevice Name: Your Device Name\nLocale: en \n\nThanks and Regards****\n\nDo This Step 15 Times.\nAnd Send It!\n\n\n\n****💎**** Step 2:\n\n****😐**** Open **https://telegram.org/support**\n        In The Enter Email, Enter Your Email That You Created At First.\n        And Enter The Same Above Message and Click Send.\n        Do This Step 10 Times!**",
+    "id": "23577f0a-4d84-408e-bb50-b8d2742c2300",
+    "cleaning": {
+      "normalized_message": "telegram account unban trick 0 requirements fresh gmail account add profile picture with telegram name step 1 first open gmail and create new email send to recover telegram org enter message using custom messages created by chat gpt is better hello sir maam my office phone number mentioned here was banned recently a hacker go into my account and got hold of my personal information and did illegal activities i filed complaints and got no responses please look into this i need the account urgently i m trying to use my mobile phone number xxxxxxxxxxxx but telegram says it s banned please help app version your app version os version os version device name your device name locale en thanks and regards do this step 15 times and send it step 2 open in the enter email enter your email that you created at first and enter the same above message and click send do this step 10 times",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 883,
+      "token_count": 159,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1613,6 +2959,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 195,
       "token_count": 31,
       "decision": "keep",
@@ -1631,6 +2978,7 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 81,
       "token_count": 13,
       "decision": "keep",
@@ -1649,10 +2997,49 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 35,
       "token_count": 6,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1724,
+    "date": "2024-12-23",
+    "datetime_utc": "2024-12-23T16:48:47+00:00",
+    "timestamp": 1734972527,
+    "message": "🌟 **SOME GOOD HUMAN-PSYCHOLOGY RELATED WEBSITES TO MAKE YOUR SOCIAL SKILLS, RELATIONSHIPS, PERSONAL GROWTH AND LIFESTYLE STABLE & EASY** ❕\n\n\n1. https://www.baselinemag.com\n2. https://www.accordingtopsychology.com/\n3. https://blogherald.com/\n4. https://smallbusinessbonfire.com/\n5. https://geediting.com/\n\n\n**~Regards **[**Team Hackers Asylum**](https://t.me/HackerS_AsyLum)",
+    "id": "97622873-9336-4192-ac04-2799a3f70bc0",
+    "cleaning": {
+      "normalized_message": "some good human-psychology related websites to make your social skills relationships personal growth and lifestyle stable easy 1 2 3 4 5 regards team hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 164,
+      "token_count": 26,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1733,
+    "date": "2024-12-25",
+    "datetime_utc": "2024-12-25T06:34:44+00:00",
+    "timestamp": 1735108484,
+    "message": "**Massive BTC heist: over 4,500 BTC stolen**\n\nNorth Korean hackers from the Lazarus Group have been [identified](https://siliconangle.com/2024/12/24/north-korean-hackers-linked-hack-4500-bitcoins-japanese-crypto-exchange/) as responsible for the theft of over 4,500 Bitcoins from Japan’s DMM Bitcoin exchange earlier this year.",
+    "id": "430ce9d4-e0a5-45c6-9b68-4e70f438c0cb",
+    "cleaning": {
+      "normalized_message": "massive btc heist over 4 500 btc stolen north korean hackers from the lazarus group have been identified as responsible for the theft of over 4 500 bitcoins from japan s dmm bitcoin exchange earlier this year",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 208,
+      "token_count": 37,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1667,6 +3054,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 114,
       "token_count": 20,
       "decision": "keep",
@@ -1685,6 +3073,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 65,
       "token_count": 12,
       "decision": "keep",
@@ -1703,6 +3092,7 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 123,
       "token_count": 18,
       "decision": "keep",
@@ -1721,6 +3111,7 @@
       "keyword_hits": [
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 77,
       "token_count": 14,
       "decision": "keep",
@@ -1739,6 +3130,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 138,
       "token_count": 28,
       "decision": "keep",
@@ -1757,10 +3149,30 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 66,
       "token_count": 16,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1884,
+    "date": "2025-02-22",
+    "datetime_utc": "2025-02-22T11:14:25+00:00",
+    "timestamp": 1740222865,
+    "message": "🚨 **Lazarus **\n`(North Korean Hacker Group)`\n** is potentially the 14th largest **#ETH💰** holder in the world, beating Vitalik and the Ethereum Foundation.**\n\n🔺 [(Ch)](http://t.me/hackers_Asylum) 🔺[(Gr)](https://t.me/heckersasylum) 🔺[(Ow)](http://t.me/x369_y24_z1369)",
+    "id": "b60cbb36-0de6-4260-a3a4-ca6f8684890a",
+    "cleaning": {
+      "normalized_message": "lazarus north korean hacker group is potentially the 14th largest eth holder in the world beating vitalik and the ethereum foundation ch gr ow",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 142,
+      "token_count": 24,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1775,6 +3187,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 280,
       "token_count": 54,
       "decision": "keep",
@@ -1793,6 +3206,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 91,
       "token_count": 15,
       "decision": "keep",
@@ -1811,6 +3225,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 105,
       "token_count": 20,
       "decision": "keep",
@@ -1829,6 +3244,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 77,
       "token_count": 13,
       "decision": "keep",
@@ -1846,6 +3262,9 @@
       "normalized_message": "just in four meme bnb s memecoin platform suffers an attack as a pre-launch vulnerability allowed an hacker to manipulate liquidity and steal funds",
       "keyword_hits": [
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hacker"
       ],
       "char_count": 147,
       "token_count": 24,
@@ -1866,10 +3285,30 @@
         "malware",
         "trojan"
       ],
+      "soft_keyword_hits": [],
       "char_count": 251,
       "token_count": 35,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2001,
+    "date": "2025-04-01",
+    "datetime_utc": "2025-04-01T17:43:35+00:00",
+    "timestamp": 1743529415,
+    "message": "**🚨🚨 JUST IN : Hacker steals 2,930 **$ETH**($5.4M) from zkLend... then gets phished while using Tornado Cash.\n\nAll 2,930 **$ETH**($5.4M) gone — to another thief.**",
+    "id": "b7f9038d-f1d1-451f-8473-8d5e487c06cc",
+    "cleaning": {
+      "normalized_message": "just in hacker steals 2 930 eth 5 4m from zklend then gets phished while using tornado cash all 2 930 eth 5 4m gone to another thief",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 132,
+      "token_count": 28,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1883,6 +3322,9 @@
       "normalized_message": "just in the hacker behind the 7 5 million kiloex exploit returned 5 5 million in cryptocurrency just four days after the attack according to peckshieldalert",
       "keyword_hits": [
         "exploit"
+      ],
+      "soft_keyword_hits": [
+        "hacker"
       ],
       "char_count": 156,
       "token_count": 26,
@@ -1902,10 +3344,30 @@
       "keyword_hits": [
         "leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 107,
       "token_count": 18,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2159,
+    "date": "2025-04-30",
+    "datetime_utc": "2025-04-30T18:39:59+00:00",
+    "timestamp": 1746038399,
+    "message": "**Xanthorox AI Surfaces on Dark Web as Full Spectrum Hacking Assistant**\n\nNew Xanthorox AI hacking platform spotted on dark web with modular tools, offline mode, and advanced voice, image, and code-based cyberattack features. - [Source](https://hackread.com/xanthorox-ai-dark-web-full-spectrum-hacking-assistant/)\n\n@Hackers_Asylum",
+    "id": "d4f87355-f485-49f5-a898-6452b4f40688",
+    "cleaning": {
+      "normalized_message": "xanthorox ai surfaces on dark web as full spectrum hacking assistant new xanthorox ai hacking platform spotted on dark web with modular tools offline mode and advanced voice image and code-based cyberattack features - source hackers_asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 239,
+      "token_count": 36,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1921,6 +3383,7 @@
         "credentials",
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 132,
       "token_count": 17,
       "decision": "keep",
@@ -1939,6 +3402,7 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 148,
       "token_count": 25,
       "decision": "keep",
@@ -1957,10 +3421,30 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 85,
       "token_count": 13,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2356,
+    "date": "2025-05-22",
+    "datetime_utc": "2025-05-22T11:51:25+00:00",
+    "timestamp": 1747914685,
+    "message": "**JUST IN: Coinbase hacker shifts $42M in Bitcoin and leaves a message mocking top crypto sleuth ZachXBT**.\n\nL bozo \nhttps://www.youtube.com/watch?v=-Lrkb7ng7LA",
+    "id": "5cd3658d-e6d6-4975-8215-5bf9e3d648b8",
+    "cleaning": {
+      "normalized_message": "just in coinbase hacker shifts 42m in bitcoin and leaves a message mocking top crypto sleuth zachxbt l bozo",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 107,
+      "token_count": 19,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1976,6 +3460,7 @@
         "phishing",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 80,
       "token_count": 14,
       "decision": "keep",
@@ -1994,6 +3479,7 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 109,
       "token_count": 22,
       "decision": "keep",
@@ -2012,6 +3498,7 @@
       "keyword_hits": [
         "compromise"
       ],
+      "soft_keyword_hits": [],
       "char_count": 95,
       "token_count": 15,
       "decision": "keep",
@@ -2030,6 +3517,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 167,
       "token_count": 22,
       "decision": "keep",
@@ -2048,10 +3536,30 @@
       "keyword_hits": [
         "exploited"
       ],
+      "soft_keyword_hits": [],
       "char_count": 508,
       "token_count": 60,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2604,
+    "date": "2025-06-18",
+    "datetime_utc": "2025-06-18T10:09:32+00:00",
+    "timestamp": 1750241372,
+    "message": "Update: The pro-Israel hacker group known as Gonjeshke Darande (Predatory Sparrow) [takes credit for the attack](https://x.com/gonjeshkedarand/status/1935231018937536681) on Nobitex.",
+    "id": "af08069f-ead0-4a9b-9945-8a64a0cf6f1c",
+    "cleaning": {
+      "normalized_message": "update the pro-israel hacker group known as gonjeshke darande predatory sparrow takes credit for the attack on nobitex",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 118,
+      "token_count": 18,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2069,6 +3577,7 @@
         "leaked",
         "login"
       ],
+      "soft_keyword_hits": [],
       "char_count": 120,
       "token_count": 19,
       "decision": "keep",
@@ -2087,6 +3596,7 @@
       "keyword_hits": [
         "compromised"
       ],
+      "soft_keyword_hits": [],
       "char_count": 72,
       "token_count": 10,
       "decision": "keep",
@@ -2105,10 +3615,49 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 800,
       "token_count": 143,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2816,
+    "date": "2025-06-24",
+    "datetime_utc": "2025-06-24T17:05:21+00:00",
+    "timestamp": 1750784721,
+    "message": "BREAKING: Iranian officials say if Israel really is blackmailing Trump with Epstein videos, Iranian hackers will find them and release them to the American public.",
+    "id": "3981f20a-c829-4318-a727-5f66bf7a107d",
+    "cleaning": {
+      "normalized_message": "breaking iranian officials say if israel really is blackmailing trump with epstein videos iranian hackers will find them and release them to the american public",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 160,
+      "token_count": 25,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 2883,
+    "date": "2025-07-03",
+    "datetime_utc": "2025-07-03T05:05:10+00:00",
+    "timestamp": 1751519110,
+    "message": "**JUST IN:** 🇮🇷🇺🇸 Iranian hackers claim to have obtained 100 gigabytes of emails belonging to US President Trump and his associates.\n\n@HackerS_AsyLum",
+    "id": "fad6700c-c5b0-4351-ba60-58ad592d3272",
+    "cleaning": {
+      "normalized_message": "just in iranian hackers claim to have obtained 100 gigabytes of emails belonging to us president trump and his associates hackers_asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 136,
+      "token_count": 21,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2123,6 +3672,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 224,
       "token_count": 34,
       "decision": "keep",
@@ -2141,10 +3691,50 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 194,
       "token_count": 38,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3002,
+    "date": "2025-07-20",
+    "datetime_utc": "2025-07-20T06:44:54+00:00",
+    "timestamp": 1752993894,
+    "message": "🔰 **TOP USEFUL SITES TO DOX AND HELP **🔰\n\n\nhttps://allpatternlock.online/ - An amazing place to get unique and fresh Lock Patterns for your smartphone.\n\nhttps://unlimitedqrcodegenerator.online/ - Generate unlimited fancy QR Codes with no expiry time or subscription!\n\nhttps://downforeveryoneorjustme.com/ - Find Out Whether a Website is Down Just for You or Everyone\n\nhttps://remove.bg/ - Remove background fom your images.\n\nhttps://geektyper.com/mobile/ - Pretend to be a hacker\n\nhttps://annas-archive.org/ - Explore Shadow Libraries for Books, Papers, Comics, and Magazines with this Search Engine\n\nhttp://www.zbigz.com/ - Torrent to IDM downloader\n\n\n**~Hackers Asylum**",
+    "id": "755ab0a6-51ef-4b3a-a774-8fb833fd1210",
+    "cleaning": {
+      "normalized_message": "top useful sites to dox and help - an amazing place to get unique and fresh lock patterns for your smartphone - generate unlimited fancy qr codes with no expiry time or subscription - find out whether a website is down just for you or everyone - remove background fom your images - pretend to be a hacker - explore shadow libraries for books papers comics and magazines with this search engine - torrent to idm downloader hackers asylum",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
+      "char_count": 436,
+      "token_count": 79,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 3261,
+    "date": "2025-09-08",
+    "datetime_utc": "2025-09-08T18:24:27+00:00",
+    "timestamp": 1757355867,
+    "message": "⚠️✴️ Hackers are currently intercepting NPM packages in what is being **described as the largest supply chain attack in history**. \n\nUsers of hardware wallets should pay close attention to every transaction before signing. \n\nThose not using hardware wallets are advised to refrain from any on-chain transactions for the time being. [— CTO Ledger](https://x.com/P3b7_/status/1965094840959410230)",
+    "id": "bb1718d7-ea12-4072-a457-8ca4070b8714",
+    "cleaning": {
+      "normalized_message": "hackers are currently intercepting npm packages in what is being described as the largest supply chain attack in history users of hardware wallets should pay close attention to every transaction before signing those not using hardware wallets are advised to refrain from any on-chain transactions for the time being cto ledger",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 326,
+      "token_count": 51,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2159,6 +3749,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 164,
       "token_count": 29,
       "decision": "keep",
@@ -2179,6 +3770,7 @@
         "ddos",
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 384,
       "token_count": 65,
       "decision": "keep",
@@ -2198,6 +3790,7 @@
         "botnet",
         "ddos"
       ],
+      "soft_keyword_hits": [],
       "char_count": 240,
       "token_count": 42,
       "decision": "keep",
@@ -2217,10 +3810,49 @@
         "stealer",
         "trojan"
       ],
+      "soft_keyword_hits": [],
       "char_count": 164,
       "token_count": 27,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 3635,
+    "date": "2026-01-02",
+    "datetime_utc": "2026-01-02T13:06:46+00:00",
+    "timestamp": 1767359206,
+    "message": "**JUST IN:** 🇮🇱🇺🇸 Israeli cybersecurity billionaire Shlomo Kramer says \"it's time to limit the First Amendment.\"\n\n\"We need to control all the social platforms…And take control of what they are saying.\"",
+    "id": "834d4362-2d01-4688-94bc-fd07fd7d0f58",
+    "cleaning": {
+      "normalized_message": "just in israeli cybersecurity billionaire shlomo kramer says it s time to limit the first amendment we need to control all the social platforms and take control of what they are saying",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 184,
+      "token_count": 32,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 3787,
+    "date": "2026-01-15",
+    "datetime_utc": "2026-01-15T05:45:53+00:00",
+    "timestamp": 1768455953,
+    "message": "**JUST IN:** 🇨🇳🇺🇸 China orders domestic companies to stop using US and Israeli cybersecurity software.",
+    "id": "0105fcff-a787-49b2-8cd0-6bda8a09a035",
+    "cleaning": {
+      "normalized_message": "just in china orders domestic companies to stop using us and israeli cybersecurity software",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 91,
+      "token_count": 14,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2235,6 +3867,7 @@
       "keyword_hits": [
         "compromised"
       ],
+      "soft_keyword_hits": [],
       "char_count": 169,
       "token_count": 27,
       "decision": "keep",
@@ -2253,6 +3886,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 243,
       "token_count": 38,
       "decision": "keep",
@@ -2270,6 +3904,9 @@
       "normalized_message": "just in hackers used anthropic s claude ai to steal 150gb of sensitive data from mexican government including taxpayer info voter records and official credentials coreati",
       "keyword_hits": [
         "credentials"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 170,
       "token_count": 26,
@@ -2289,10 +3926,30 @@
       "keyword_hits": [
         "command and control"
       ],
+      "soft_keyword_hits": [],
       "char_count": 82,
       "token_count": 11,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 4607,
+    "date": "2026-03-19",
+    "datetime_utc": "2026-03-19T05:49:10+00:00",
+    "timestamp": 1773899350,
+    "message": "🚨🚨🚨 ISRAEL JUST MADE THE SINGLE MOST DANGEROUS MILITARY DECISION OF THE ENTIRE WAR. AND NOBODY UNDERSTANDS WHAT THEY JUST TRIGGERED. 🚨🚨🚨\n\nIsrael and the U.S. struck South Pars — the LARGEST gas field on the planet. But here's what they either didn't know or didn't care about: South Pars is jointly managed by Iran AND Qatar. They didn't just attack Iran. They attacked the energy backbone of their OWN Gulf allies.\n\nLet that sink in.\n\n💀 The IRGC just declared ALL major energy facilities across the entire GCC as \"direct and legitimate targets\" — and warned strikes are coming in the \"COMING HOURS.\"\n💀 Listed targets: Qatar's LNG complex, Saudi Aramco facilities, UAE oil terminals — EVERYTHING.\n💀 Saudi Aramco has already EVACUATED workers from the SAMREF refinery in Yanbu. They're not waiting. They KNOW what's coming.\n💀 Iranian hackers have ALREADY hit Aramco's digital systems — posting images and issuing threats to PARALYZE their infrastructure.\n💀 Multiple EXPLOSIONS just heard in Riyadh — confirmed by Reuters, AFP, and AP. Sirens sounding in the Saudi capital.\n\nDo you understand the scale of what's happening?\n\n⚠️\n Qatar's LNG complex is the LARGEST on Earth. It supplies 30% of the world's liquefied natural gas. If Iran hits it — Europe's heating supply DISAPPEARS overnight. Not in months. OVERNIGHT.\n\n⚠️ Saudi Aramco is the most valuable company on the PLANET — worth $1,800,000,000,000. Its refineries process 12 MILLION barrels per day. One successful strike takes 10% of the world's oil OFFLINE.\n\n⚠️ In 2019, a SINGLE drone attack on Saudi Aramco's Abqaiq facility knocked out 5.7 million barrels per day and sent oil up 15% in ONE session. Iran now has 10x the motivation and NOTHING left to lose.\n\nThey're showing you \"precision strikes on Iranian targets.\"\n\nThey're NOT showing you that those strikes just gave Iran the JUSTIFICATION to destroy every oil facility from Qatar to Saudi Arabia to the UAE.\nHere's the logic — follow it carefully:\n\n→\n You bomb a gas field that's JOINTLY OWNED with Qatar\n→ Qatar — your own Gulf ally — publicly condemns you\n→ Iran uses the attack as justification to target ALL Gulf energy\n→ IRGC formally declares Gulf facilities as \"legitimate targets\"\n→ Aramco starts EVACUATING refineries\n→ Explosions hit RIYADH\n→ You didn't weaken Iran. You gave them the excuse to burn down the ENTIRE Gulf's economy.\n\nIf this was a \"strategic victory,\" why is Aramco evacuating workers RIGHT NOW?\n\nIf Iran's military is \"degraded,\" why are 6 Gulf nations scrambling to protect their oil fields from an attack they believe is IMMINENT?\n\nComplete silence.\n\nYou don't evacuate the world's most valuable company unless you KNOW what's coming. The IRGC said \"coming hours.\" Not days. Not weeks. HOURS. And every Gulf state just went from spectator to TARGET.\n\nThis is no longer a war between the U.S. and Iran. This is a war that's about to ERASE the Gulf's entire energy infrastructure — the infrastructure that powers HALF the planet.\n\nPrepare accordingly. 🚨🚨🚨\n\nThey don't want you seeing this. Follow + this channel to beat the algorithm. 🚨",
+    "id": "21d1e4ca-413a-4da0-ad3e-516e5e638b55",
+    "cleaning": {
+      "normalized_message": "israel just made the single most dangerous military decision of the entire war and nobody understands what they just triggered israel and the u s struck south pars the largest gas field on the planet but here s what they either didn t know or didn t care about south pars is jointly managed by iran and qatar they didn t just attack iran they attacked the energy backbone of their own gulf allies let that sink in the irgc just declared all major energy facilities across the entire gcc as direct and legitimate targets and warned strikes are coming in the coming hours listed targets qatar s lng complex saudi aramco facilities uae oil terminals everything saudi aramco has already evacuated workers from the samref refinery in yanbu they re not waiting they know what s coming iranian hackers have already hit aramco s digital systems posting images and issuing threats to paralyze their infrastructure multiple explosions just heard in riyadh confirmed by reuters afp and ap sirens sounding in the saudi capital do you understand the scale of what s happening qatar s lng complex is the largest on earth it supplies 30 of the world s liquefied natural gas if iran hits it europe s heating supply disappears overnight not in months overnight saudi aramco is the most valuable company on the planet worth 1 800 000 000 000 its refineries process 12 million barrels per day one successful strike takes 10 of the world s oil offline in 2019 a single drone attack on saudi aramco s abqaiq facility knocked out 5 7 million barrels per day and sent oil up 15 in one session iran now has 10x the motivation and nothing left to lose they re showing you precision strikes on iranian targets they re not showing you that those strikes just gave iran the justification to destroy every oil facility from qatar to saudi arabia to the uae here s the logic follow it carefully you bomb a gas field that s jointly owned with qatar qatar your own gulf ally publicly condemns you iran uses the attack as justification to target all gulf energy irgc formally declares gulf facilities as legitimate targets aramco starts evacuating refineries explosions hit riyadh you didn t weaken iran you gave them the excuse to burn down the entire gulf s economy if this was a strategic victory why is aramco evacuating workers right now if iran s military is degraded why are 6 gulf nations scrambling to protect their oil fields from an attack they believe is imminent complete silence you don t evacuate the world s most valuable company unless you know what s coming the irgc said coming hours not days not weeks hours and every gulf state just went from spectator to target this is no longer a war between the u s and iran this is a war that s about to erase the gulf s entire energy infrastructure the infrastructure that powers half the planet prepare accordingly they don t want you seeing this follow this channel to beat the algorithm",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 2916,
+      "token_count": 520,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2307,6 +3964,7 @@
       "keyword_hits": [
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1253,
       "token_count": 198,
       "decision": "keep",
@@ -2327,6 +3985,7 @@
         "malware",
         "threat actor"
       ],
+      "soft_keyword_hits": [],
       "char_count": 462,
       "token_count": 71,
       "decision": "keep",
@@ -2345,6 +4004,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 113,
       "token_count": 18,
       "decision": "keep",
@@ -2362,6 +4022,9 @@
       "normalized_message": "breaking fbi director kash patel s gmail account was hacked by iranian nation-state hackers they have published his entire inbox including mails on his home in india private life personal data business dealings and travel history havana cuba he loves cuba and cigars",
       "keyword_hits": [
         "hacked"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 266,
       "token_count": 43,
@@ -2381,6 +4044,9 @@
       "keyword_hits": [
         "breach"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 132,
       "token_count": 25,
       "decision": "keep",
@@ -2399,6 +4065,7 @@
       "keyword_hits": [
         "exploits"
       ],
+      "soft_keyword_hits": [],
       "char_count": 614,
       "token_count": 116,
       "decision": "keep",
@@ -2417,6 +4084,7 @@
       "keyword_hits": [
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1245,
       "token_count": 199,
       "decision": "keep",
@@ -2435,10 +4103,30 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 205,
       "token_count": 35,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 4938,
+    "date": "2026-04-05",
+    "datetime_utc": "2026-04-05T15:03:35+00:00",
+    "timestamp": 1775401415,
+    "message": "🚨🇰🇵 North Korean state-backed hackers had a great year, they have been 'paid' $2.02 billion in 'bug bounties' in 2025.\n\nCheck comments",
+    "id": "7220fe2a-5b68-4acd-919e-7ab4522d901a",
+    "cleaning": {
+      "normalized_message": "north korean state-backed hackers had a great year they have been paid 2 02 billion in bug bounties in 2025 check comments",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 122,
+      "token_count": 22,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2453,10 +4141,30 @@
       "keyword_hits": [
         "zero-day"
       ],
+      "soft_keyword_hits": [],
       "char_count": 567,
       "token_count": 82,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 4983,
+    "date": "2026-04-09",
+    "datetime_utc": "2026-04-09T07:34:32+00:00",
+    "timestamp": 1775720072,
+    "message": "**JUST IN:** 🇨🇳 Hacker breaches Chinese state-run supercomputer, steals bomb and missile renderings along with defense data, CNN reports.",
+    "id": "8182a198-f880-4ca1-bae2-66a1d9737e91",
+    "cleaning": {
+      "normalized_message": "just in hacker breaches chinese state-run supercomputer steals bomb and missile renderings along with defense data cnn reports",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 126,
+      "token_count": 18,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2470,6 +4178,9 @@
       "normalized_message": "anthropic s new mythos claude model is so powerful that it may never be available to the general public they had employees who knew nothing about cybersecurity test it and they were able to breach high-security networks with almost no effort coreati",
       "keyword_hits": [
         "breach"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 249,
       "token_count": 42,
@@ -2489,10 +4200,30 @@
       "keyword_hits": [
         "fraud"
       ],
+      "soft_keyword_hits": [],
       "char_count": 216,
       "token_count": 36,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 5013,
+    "date": "2026-04-10",
+    "datetime_utc": "2026-04-10T10:02:45+00:00",
+    "timestamp": 1775815365,
+    "message": "⚡️Iranian Hacker claims to know the truth behind Charlie Kirk Murder.",
+    "id": "4d35fd7d-7060-4a8e-b613-8b998e982f0c",
+    "cleaning": {
+      "normalized_message": "iranian hacker claims to know the truth behind charlie kirk murder",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 66,
+      "token_count": 11,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2507,10 +4238,30 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 660,
       "token_count": 119,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 5053,
+    "date": "2026-04-11",
+    "datetime_utc": "2026-04-11T08:30:39+00:00",
+    "timestamp": 1775896239,
+    "message": "🚨🚨 Cloudflare lost over $9 billion in market cap after Anthropic announced its new AI cybersecurity model.\n\nRead more - https://t.me/CoreAti/1624",
+    "id": "7ef875fd-9ed0-4f9b-8cb2-b79dfd5fade2",
+    "cleaning": {
+      "normalized_message": "cloudflare lost over 9 billion in market cap after anthropic announced its new ai cybersecurity model read more -",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 113,
+      "token_count": 19,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2527,6 +4278,7 @@
         "compromise",
         "compromised"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1502,
       "token_count": 235,
       "decision": "keep",
@@ -2546,6 +4298,7 @@
         "breach",
         "compromise"
       ],
+      "soft_keyword_hits": [],
       "char_count": 538,
       "token_count": 89,
       "decision": "keep",
@@ -2564,6 +4317,7 @@
       "keyword_hits": [
         "breach"
       ],
+      "soft_keyword_hits": [],
       "char_count": 125,
       "token_count": 23,
       "decision": "keep",
@@ -2581,6 +4335,9 @@
       "normalized_message": "just in cia launched deception campaign by hacking phones of irgc commanders and sending fake messages to help save us f-15 pilot shot down over iran the cia reportedly used pegasus spyware to send messages to the iranian leadership and islamic revolutionary guard corps operatives saying that the downed us airman had already been found",
       "keyword_hits": [
         "spyware"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 337,
       "token_count": 55,
@@ -2601,6 +4358,7 @@
         "breach",
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 2162,
       "token_count": 367,
       "decision": "keep",
@@ -2619,6 +4377,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 926,
       "token_count": 159,
       "decision": "keep",
@@ -2638,6 +4397,9 @@
         "breach",
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 462,
       "token_count": 81,
       "decision": "keep",
@@ -2656,6 +4418,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 765,
       "token_count": 133,
       "decision": "keep",
@@ -2674,6 +4437,7 @@
       "keyword_hits": [
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 396,
       "token_count": 68,
       "decision": "keep",
@@ -2692,6 +4456,7 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 989,
       "token_count": 165,
       "decision": "keep",
@@ -2710,6 +4475,7 @@
       "keyword_hits": [
         "threat actor"
       ],
+      "soft_keyword_hits": [],
       "char_count": 450,
       "token_count": 65,
       "decision": "keep",

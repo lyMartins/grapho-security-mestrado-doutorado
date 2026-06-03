@@ -11,6 +11,7 @@
       "keyword_hits": [
         "breach"
       ],
+      "soft_keyword_hits": [],
       "char_count": 199,
       "token_count": 33,
       "decision": "keep",
@@ -30,10 +31,30 @@
         "backdoor",
         "trojan"
       ],
+      "soft_keyword_hits": [],
       "char_count": 111,
       "token_count": 19,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 37,
+    "date": "2024-07-12",
+    "datetime_utc": "2024-07-12T08:26:12+00:00",
+    "timestamp": 1720772772,
+    "message": "**Critical GitLab Flaw Allows Account Takeovers.**\n\nGitLab, the well-known software development platform, has recently addressed a critical security issue that could potentially allow hackers to gain control of user accounts through an unauthenticated attack. \n\nRead More - [Gitlab](https://about.gitlab.com/releases/2024/05/22/patch-release-gitlab-17-0-1-released/)\n\n@Today_Cyber_News",
+    "id": "2abeb696-2c6b-4d7e-9327-f3a9aae99767",
+    "cleaning": {
+      "normalized_message": "critical gitlab flaw allows account takeovers gitlab the well-known software development platform has recently addressed a critical security issue that could potentially allow hackers to gain control of user accounts through an unauthenticated attack read more - gitlab today_cyber_news",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 286,
+      "token_count": 39,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -48,6 +69,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 889,
       "token_count": 159,
       "decision": "keep",
@@ -65,6 +87,9 @@
       "normalized_message": "government can read you personal chats if you believe that you are not being watched you should be aware that research has revealed whatsapp vulnerabilities that let government agencies access your private messages this undisclosed whatsapp vulnerability lets governments see who you message read more - hacking blogs",
       "keyword_hits": [
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 317,
       "token_count": 48,
@@ -84,6 +109,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 61,
       "token_count": 12,
       "decision": "keep",
@@ -103,10 +129,30 @@
         "breach",
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 407,
       "token_count": 64,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 93,
+    "date": "2024-07-21",
+    "datetime_utc": "2024-07-21T04:36:27+00:00",
+    "timestamp": 1721536587,
+    "message": "From Cyber security Group",
+    "id": "9760898f-9809-4c33-9c45-a2342fb795c2",
+    "cleaning": {
+      "normalized_message": "from cyber security group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 25,
+      "token_count": 4,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -120,6 +166,11 @@
       "normalized_message": "wazirx offers 23m bounty to recover 234m stolen by hacker - the bug bounty hunters have good news in an effort to recover the 234 million in digital assets lost in a recent cyber breach read more - bugbounty cybersecurity web3",
       "keyword_hits": [
         "breach"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cybersecurity",
+        "hacker"
       ],
       "char_count": 226,
       "token_count": 41,
@@ -139,6 +190,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 16,
       "token_count": 3,
       "decision": "keep_review",
@@ -157,6 +209,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 32,
       "token_count": 6,
       "decision": "keep",
@@ -175,6 +228,7 @@
       "keyword_hits": [
         "exploit"
       ],
+      "soft_keyword_hits": [],
       "char_count": 17,
       "token_count": 3,
       "decision": "keep_review",
@@ -193,10 +247,49 @@
       "keyword_hits": [
         "data leak"
       ],
+      "soft_keyword_hits": [],
       "char_count": 410,
       "token_count": 72,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 311,
+    "date": "2024-08-02",
+    "datetime_utc": "2024-08-02T17:13:17+00:00",
+    "timestamp": 1722618797,
+    "message": "[Hacking Blogs on Google News ](https://news.google.com/publications/CAAqBwgKMI_yqAswgf3AAw?ceid=IN:en&oc=3) 🗞️",
+    "id": "17311ed8-c18f-49a8-943d-6fc0e6a5a8b3",
+    "cleaning": {
+      "normalized_message": "hacking blogs on google news",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 28,
+      "token_count": 5,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 395,
+    "date": "2024-08-05",
+    "datetime_utc": "2024-08-05T16:00:24+00:00",
+    "timestamp": 1722873624,
+    "message": "Bug bounty Cheatsheet:\n\nXSS\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xss.md\nhttps://github.com/ismailtasdelen/xss-payload-list\n\nSQLi\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/sqli.md\n\nSSRF\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/ssrf.md\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery\n\nCRLF\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crlf.md\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CRLF%20Injection\n\nCSV-Injection\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/csv-injection.md\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection\n\nCommand Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection\n\nDirectory Traversal\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal\n\nLFI\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/lfi.md\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion\n\nXXE\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xxe.md\n\nOpen-Redirect\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/open-redirect.md\n\nRCE\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/rce.md\n\nCrypto\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/crypto.md\n\nTemplate Injection\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/template-injection.md\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection\n\nXSLT\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/xslt.md\n\nContent Injection\nhttps://github.com/EdOverflow/bugbounty-cheatsheet/blob/master/cheatsheets/content-injection.md\n\nLDAP Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LDAP%20Injection\n\nNoSQL Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection\n\nCSRF Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection\n\nGraphQL Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/GraphQL%20Injection\n\nIDOR\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References\n\nISCM\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management\n\nLaTex Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/LaTeX%20Injection\n\nOAuth \nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth\n\nXPATH Injection\nhttps://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injection",
+    "id": "8025092e-4c8a-41f0-88c5-41093bffd999",
+    "cleaning": {
+      "normalized_message": "bug bounty cheatsheet xss sqli ssrf crlf csv-injection command injection directory traversal lfi xxe open-redirect rce crypto template injection xslt content injection ldap injection nosql injection csrf injection graphql injection idor iscm latex injection oauth xpath injection",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty"
+      ],
+      "char_count": 279,
+      "token_count": 37,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -212,6 +305,7 @@
         "hacked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 236,
       "token_count": 42,
       "decision": "keep",
@@ -230,6 +324,7 @@
       "keyword_hits": [
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 41,
       "token_count": 8,
       "decision": "keep",
@@ -249,6 +344,7 @@
         "cve-2024-23380",
         "exploiting"
       ],
+      "soft_keyword_hits": [],
       "char_count": 88,
       "token_count": 13,
       "decision": "keep",
@@ -267,6 +363,7 @@
       "keyword_hits": [
         "exploiting"
       ],
+      "soft_keyword_hits": [],
       "char_count": 76,
       "token_count": 10,
       "decision": "keep",
@@ -285,6 +382,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 384,
       "token_count": 64,
       "decision": "keep",
@@ -303,6 +401,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 60,
       "token_count": 12,
       "decision": "keep",
@@ -320,6 +419,11 @@
       "normalized_message": "map account hijack an indepth guide to new attack for android and ios not patched this results in the successful hijacking of accounts on services that require sms otps for recovery or login the attack is effective on the most recent versions of both android and ios smartphones samsung google pixel iphone and the tool is highly useful for red teaming penetration testing bug bounty hunting and security research read this indepth article asap",
       "keyword_hits": [
         "login"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "penetration testing",
+        "security research"
       ],
       "char_count": 444,
       "token_count": 74,
@@ -339,6 +443,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 295,
       "token_count": 44,
       "decision": "keep",
@@ -356,6 +461,11 @@
       "normalized_message": "it s a group for discussion on cyber security tech news latest vulnerability disclosure tools and knowledge for hackers including data breaches cves etc",
       "keyword_hits": [
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hackers",
+        "vulnerability disclosure"
       ],
       "char_count": 152,
       "token_count": 24,
@@ -377,6 +487,7 @@
         "hacked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 414,
       "token_count": 68,
       "decision": "keep",
@@ -397,6 +508,7 @@
         "hacked",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 458,
       "token_count": 68,
       "decision": "keep",
@@ -417,6 +529,7 @@
         "leaked",
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 305,
       "token_count": 51,
       "decision": "keep",
@@ -435,6 +548,7 @@
       "keyword_hits": [
         "compromised"
       ],
+      "soft_keyword_hits": [],
       "char_count": 51,
       "token_count": 9,
       "decision": "keep",
@@ -453,6 +567,7 @@
       "keyword_hits": [
         "compromised"
       ],
+      "soft_keyword_hits": [],
       "char_count": 129,
       "token_count": 26,
       "decision": "keep",
@@ -473,6 +588,9 @@
         "hacked",
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 595,
       "token_count": 95,
       "decision": "keep",
@@ -491,6 +609,7 @@
       "keyword_hits": [
         "breach"
       ],
+      "soft_keyword_hits": [],
       "char_count": 40,
       "token_count": 8,
       "decision": "keep",
@@ -510,6 +629,9 @@
         "hacked",
         "threat actor"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 348,
       "token_count": 56,
       "decision": "keep",
@@ -528,6 +650,7 @@
       "keyword_hits": [
         "threat actor"
       ],
+      "soft_keyword_hits": [],
       "char_count": 28,
       "token_count": 6,
       "decision": "keep",
@@ -547,10 +670,32 @@
         "malware",
         "stealer"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 565,
       "token_count": 84,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 794,
+    "date": "2024-08-23",
+    "datetime_utc": "2024-08-23T13:22:20+00:00",
+    "timestamp": 1724419340,
+    "message": "🚨🚨Alert: NCA Arrests Belarusian-Ukrainian Hacker J.P. Morgan\n\n👮🏻‍♂Since 2015, the NCA has been looking into the internet alias “J.P. Morgan” and his criminal network; the FBI and US Secret Service have also been conducting parallel investigations.\n\n😨One of the most active Russian-speaking cybercrime actors in the world has been arrested and deported as a result of an international investigation led by the National Crime Agency (NCA).\n\nRead This Detailed Article 👉🏻 https://hackingblogs.com/nca-arrests-belarusian-hacker-j-p-morgan/\n\nJoin Our Telegram Group For Latest Cybersec Content 👉🏻  https://t.me/HackingBlogsGroup",
+    "id": "cf4dc3f0-5838-4d0d-8f72-ad6ce37521f1",
+    "cleaning": {
+      "normalized_message": "alert nca arrests belarusian-ukrainian hacker j p morgan since 2015 the nca has been looking into the internet alias j p morgan and his criminal network the fbi and us secret service have also been conducting parallel investigations one of the most active russian-speaking cybercrime actors in the world has been arrested and deported as a result of an international investigation led by the national crime agency nca read this detailed article join our telegram group for latest cybersec content",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 496,
+      "token_count": 80,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -567,6 +712,7 @@
         "vulnerability",
         "zero day"
       ],
+      "soft_keyword_hits": [],
       "char_count": 817,
       "token_count": 133,
       "decision": "keep",
@@ -587,6 +733,7 @@
         "vulnerability",
         "zero day"
       ],
+      "soft_keyword_hits": [],
       "char_count": 765,
       "token_count": 126,
       "decision": "keep",
@@ -605,6 +752,9 @@
       "keyword_hits": [
         "cve-2024-6386",
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 348,
       "token_count": 49,
@@ -625,6 +775,7 @@
         "compromised",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 358,
       "token_count": 56,
       "decision": "keep",
@@ -643,10 +794,32 @@
       "keyword_hits": [
         "phishing"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 335,
       "token_count": 57,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 890,
+    "date": "2024-09-02",
+    "datetime_utc": "2024-09-02T20:10:40+00:00",
+    "timestamp": 1725307840,
+    "message": "Convert You boring Windows to Kali Linux + Free Wifi Hacking Bundle :) \n\nDo you want to convert you os to something interesting then I'll guide you how you can convert your system into a different os using a hard drive. \nDm me if you are interested and join our telegram group for upcoming Wifi Hacking course and enroll yourself now for the free Wifi Hacking Course. \n\nJoin Our telegram group ASAP 👉https://lnkd.in/dAz_nj2P\n\nVisit Our Site for latest Content in Cyberspace 👉https://hackingblogs.com/",
+    "id": "f61365d4-a6a4-42d8-a85b-384148ae5ea1",
+    "cleaning": {
+      "normalized_message": "convert you boring windows to kali linux free wifi hacking bundle do you want to convert you os to something interesting then i ll guide you how you can convert your system into a different os using a hard drive dm me if you are interested and join our telegram group for upcoming wifi hacking course and enroll yourself now for the free wifi hacking course join our telegram group asap visit our site for latest content in cyberspace",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 434,
+      "token_count": 79,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -665,10 +838,71 @@
         "vulnerability",
         "zero-day"
       ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
       "char_count": 700,
       "token_count": 106,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 921,
+    "date": "2024-09-05",
+    "datetime_utc": "2024-09-05T14:29:00+00:00",
+    "timestamp": 1725546540,
+    "message": "💀Elon Musk X is violating user rights by feeding personal data to train it’s Grok Model\n\nSummary\n✖️The legal dispute between X* and Ireland’s Data Protection Commissioner (DPC) about the former’s illegal use of user data to train the Grok model has come to an end.\n\n🇪🇺Grok was trained by X using European user data\n\nAfter the DPC sued X for using EU user data to train the Grok chatbot without user authorisation, X stopped processing the data for AI training.\n\nRead this detailed article about the allegation on elon's xAI 👉🏻 https://hackingblogs.com/feeding-personal-data-to-train-its-grok-model/\n\nJoin out telegram for indepth  cyber security content 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "e390144e-7590-4cfb-9f69-44770ec2310c",
+    "cleaning": {
+      "normalized_message": "elon musk x is violating user rights by feeding personal data to train it s grok model summary the legal dispute between x and ireland s data protection commissioner dpc about the former s illegal use of user data to train the grok model has come to an end grok was trained by x using european user data after the dpc sued x for using eu user data to train the grok chatbot without user authorisation x stopped processing the data for ai training read this detailed article about the allegation on elon s xai join out telegram for indepth cyber security content",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
+      "char_count": 561,
+      "token_count": 103,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 933,
+    "date": "2024-09-08",
+    "datetime_utc": "2024-09-08T14:46:16+00:00",
+    "timestamp": 1725806776,
+    "message": "Do you wanna be a script kiddie or a full fleged hacker who can hack system networks find bugs and make internet a good place",
+    "id": "4dbbe316-5d03-41f4-94aa-18b3f2da3cff",
+    "cleaning": {
+      "normalized_message": "do you wanna be a script kiddie or a full fleged hacker who can hack system networks find bugs and make internet a good place",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 125,
+      "token_count": 25,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 935,
+    "date": "2024-09-08",
+    "datetime_utc": "2024-09-08T14:46:53+00:00",
+    "timestamp": 1725806813,
+    "message": "As you all know I'll be staring a wifi hacking guide from the 10nth of September",
+    "id": "d93f3e9d-eda0-4794-a3f5-249d5ad4601d",
+    "cleaning": {
+      "normalized_message": "as you all know i ll be staring a wifi hacking guide from the 10nth of september",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 80,
+      "token_count": 17,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -683,6 +917,9 @@
       "keyword_hits": [
         "malware",
         "stealer"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 604,
       "token_count": 99,
@@ -702,6 +939,7 @@
       "keyword_hits": [
         "leaked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 341,
       "token_count": 53,
       "decision": "keep",
@@ -721,6 +959,7 @@
         "hacked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 523,
       "token_count": 83,
       "decision": "keep",
@@ -740,6 +979,9 @@
         "backdoor",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 393,
       "token_count": 63,
       "decision": "keep",
@@ -758,6 +1000,7 @@
       "keyword_hits": [
         "breach"
       ],
+      "soft_keyword_hits": [],
       "char_count": 43,
       "token_count": 8,
       "decision": "keep",
@@ -777,6 +1020,10 @@
         "compromised",
         "hacked",
         "leak"
+      ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hacking"
       ],
       "char_count": 646,
       "token_count": 106,
@@ -800,6 +1047,9 @@
         "leaked",
         "ransomware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 700,
       "token_count": 105,
       "decision": "keep",
@@ -820,6 +1070,7 @@
         "hacked",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 329,
       "token_count": 58,
       "decision": "keep",
@@ -839,6 +1090,9 @@
         "compromised",
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 480,
       "token_count": 76,
       "decision": "keep",
@@ -857,6 +1111,7 @@
       "keyword_hits": [
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 577,
       "token_count": 90,
       "decision": "keep",
@@ -877,10 +1132,32 @@
         "leaked",
         "threat actor"
       ],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
       "char_count": 761,
       "token_count": 141,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1019,
+    "date": "2024-09-22",
+    "datetime_utc": "2024-09-22T19:00:10+00:00",
+    "timestamp": 1727031610,
+    "message": "💀US (FTC) Report: Major Social Media and Streaming Platforms Under Investigation for User Surveillance and Weak Privacy for Kids\n\nA recent investigation by the US Federal Trade Commission (FTC) looks into how major social media and video services acquire and use user data. The research claims that the firms monitor users closely in order to profit from their personal data, but they do not take any action to protect users’ online safety, particularly that of kids and teenagers.\n\nThe owners of the gaming network Twitch and Amazon.com, Inc.; the video-sharing platform TikTok is owned by ByteDance Ltd.; YouTube LLC; Twitter, Inc. (now X Corp.); Snap Inc.; Facebook, Inc. (now Meta Platforms, Inc.); WhatsApp Inc were sent  6(b) orders (Invetigated)\n\nWhat Happened in the investigation, Read to Know 👉🏻  https://hackingblogs.com/social-media-under-investigation-us-ftc-report/\n\nWant to be fully equipped with latest cybersecurity news , Join Telegram channel 👉🏻  https://t.me/HackingBlogsGroup",
+    "id": "0ad25111-1f00-4494-acbc-9157f9568b66",
+    "cleaning": {
+      "normalized_message": "us ftc report major social media and streaming platforms under investigation for user surveillance and weak privacy for kids a recent investigation by the us federal trade commission ftc looks into how major social media and video services acquire and use user data the research claims that the firms monitor users closely in order to profit from their personal data but they do not take any action to protect users online safety particularly that of kids and teenagers the owners of the gaming network twitch and amazon com inc the video-sharing platform tiktok is owned by bytedance ltd youtube llc twitter inc now x corp snap inc facebook inc now meta platforms inc whatsapp inc were sent 6 b orders invetigated what happened in the investigation read to know want to be fully equipped with latest cybersecurity news join telegram channel",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 841,
+      "token_count": 141,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -896,10 +1173,32 @@
         "compromised",
         "fraud"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 659,
       "token_count": 103,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1068,
+    "date": "2024-09-26",
+    "datetime_utc": "2024-09-26T17:29:55+00:00",
+    "timestamp": 1727371795,
+    "message": "👾Learning Wifi Hacking the easy way : Part 1 Wifi Basics\n\nHi everyone, welcome to the wifi hacking for beginners series. In this comprehensive post, we will cover the fundamentals, including installing the program, understanding its basic functions, and being aware of some crucial wifi facts and technological information. Without further ado, let us get going.\n\nWhat is Wifi ? The Wifi Technology\nHow Does Wifi Work ?\nComponents of Wifi Transmission ?\n          Ethernet(802.3) connection/ Base station\n          Access point\n          Accessing devices\nWhat Are Wifi Standards ?\n          IEEE 802.11 –\n          IEEE 802.11a –\n          IEEE 802.11b –\n          IEEE 802.11g –\n          IEEE 802.11ac –\n          IEEE 802.11ax –\nExisting security protocols for WiFi\n          WEP\n          WPA2\n          WPA3\n\nOkay Ik You Got Interested reading all that Here is you guide 👉🏻 https://hackingblogs.com/learning-wifi-hacking-the-easy-way-wifi-basics/\n\nWell Checkout this Mind Blowing Telegram Channel 👉🏻  https://t.me/HackingBlogsGroup",
+    "id": "dd1f02d2-204f-4508-9f07-b5889ea35b38",
+    "cleaning": {
+      "normalized_message": "learning wifi hacking the easy way part 1 wifi basics hi everyone welcome to the wifi hacking for beginners series in this comprehensive post we will cover the fundamentals including installing the program understanding its basic functions and being aware of some crucial wifi facts and technological information without further ado let us get going what is wifi the wifi technology how does wifi work components of wifi transmission ethernet 802 3 connection base station access point accessing devices what are wifi standards ieee 802 11 ieee 802 11a ieee 802 11b ieee 802 11g ieee 802 11ac ieee 802 11ax existing security protocols for wifi wep wpa2 wpa3 okay ik you got interested reading all that here is you guide well checkout this mind blowing telegram channel",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 768,
+      "token_count": 128,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -913,6 +1212,9 @@
       "normalized_message": "million of kia cars could be hacked just using there license plate indepth analysis sensitive personal information about vehicle owners such as their name phone number email address and physical address was also made public by the vulnerabilities critical vulnerabilities in kia s dealer site were found by a team of security experts which might allow hackers to find and steal millions of kia vehicles manufactured after 2013 by simply using the licence plate of the vehicle being targeted researchers created a tool to show the consequences of these vulnerabilities where an attacker could simply enter a kia vehicle s licence plate and after about 30 seconds execute commands on the vehicle got curious read this detailed article got more curious join this telegram group",
       "keyword_hits": [
         "hacked"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 774,
       "token_count": 125,
@@ -933,6 +1235,9 @@
         "compromised",
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 1121,
       "token_count": 176,
       "decision": "keep",
@@ -950,6 +1255,10 @@
       "normalized_message": "alert users critical printing issues cups put hundreds of thousands of linux systems at risk how to mitigate linux systems are vulnerable to multiple unpatched vulnerabilities as revealed by security researcher simone margaritelli attackers can execute remote code on linux computers that use the cups common unix printing system printing system due to a serious vulnerability cups-browsed finds new printers and adds them to the system automatically it is in fact a component of the cups system before the user had a choice or be informed linux simply added anything it discovered on a network the 0 0 0 0 portion according to him is particularly strange since it indicates that any process that is listening on port 631 is also listening on and responding to any network interface you may have including lan wan and vpn investigating using a lsof -i 631 which verified cups on 631 tcp in addition to this other process cups-browsed finally ps aux grep cups-brow verified that this process executes as root not for common people only hackers only for hackers",
       "keyword_hits": [
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hackers",
+        "security researcher"
       ],
       "char_count": 1059,
       "token_count": 177,
@@ -970,6 +1279,9 @@
         "compromised",
         "exploit"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 781,
       "token_count": 130,
       "decision": "keep",
@@ -988,6 +1300,10 @@
       "keyword_hits": [
         "malware",
         "scam"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
       ],
       "char_count": 1012,
       "token_count": 163,
@@ -1010,6 +1326,9 @@
         "compromised",
         "ddos"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 724,
       "token_count": 109,
       "decision": "keep",
@@ -1030,6 +1349,7 @@
         "leaked",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 513,
       "token_count": 67,
       "decision": "keep",
@@ -1051,10 +1371,34 @@
         "fraud",
         "phishing"
       ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers",
+        "hacking"
+      ],
       "char_count": 1023,
       "token_count": 171,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1129,
+    "date": "2024-10-14",
+    "datetime_utc": "2024-10-14T17:16:14+00:00",
+    "timestamp": 1728926174,
+    "message": "💀A 15 Year Old Hacker Found Critical Bug On Zendesk Worth $50,000+ Bounty\n\nAccording to The Little Hacker, he found a significant weakness in Zendesk that let anyone view customer service tickets from any business that used the platform. All they needed to do was send a carefully worded email to a Zendesk-managed support email.\n\nRead this finding by amazing mind on https://hackingblogs.com/15-year-old-hacker-found-critical-bug-on-zendesk/\n\nWant more of article like this give your ideas on https://t.me/HackingBlogsGroup",
+    "id": "48bdbc4c-6b1f-4b95-8270-981a2064b95a",
+    "cleaning": {
+      "normalized_message": "a 15 year old hacker found critical bug on zendesk worth 50 000 bounty according to the little hacker he found a significant weakness in zendesk that let anyone view customer service tickets from any business that used the platform all they needed to do was send a carefully worded email to a zendesk-managed support email read this finding by amazing mind on want more of article like this give your ideas on",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 409,
+      "token_count": 73,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1072,6 +1416,7 @@
         "phishing",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 583,
       "token_count": 95,
       "decision": "keep",
@@ -1091,6 +1436,7 @@
         "breach",
         "credentials"
       ],
+      "soft_keyword_hits": [],
       "char_count": 596,
       "token_count": 85,
       "decision": "keep",
@@ -1111,6 +1457,7 @@
         "ddos",
         "hacked"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1054,
       "token_count": 171,
       "decision": "keep",
@@ -1132,10 +1479,51 @@
         "hacked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
       "char_count": 866,
       "token_count": 149,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1240,
+    "date": "2024-10-25",
+    "datetime_utc": "2024-10-25T12:49:37+00:00",
+    "timestamp": 1729860577,
+    "message": "hey,,,am looking fo r serious black hat hackers to recruit in my team.......so if you are in,,,text me on my dm.",
+    "id": "0a61128f-17e4-4379-a405-eb120a1e9f5e",
+    "cleaning": {
+      "normalized_message": "hey am looking fo r serious black hat hackers to recruit in my team so if you are in text me on my dm",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 101,
+      "token_count": 24,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1242,
+    "date": "2024-10-25",
+    "datetime_utc": "2024-10-25T15:25:08+00:00",
+    "timestamp": 1729869908,
+    "message": "That's good Are you guys hacking Nasa 🇺🇸🚀",
+    "id": "08e8fe76-e9bd-44b8-b9cc-ff06fb6d0724",
+    "cleaning": {
+      "normalized_message": "that s good are you guys hacking nasa",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking"
+      ],
+      "char_count": 37,
+      "token_count": 8,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1150,10 +1538,30 @@
       "keyword_hits": [
         "compromise"
       ],
+      "soft_keyword_hits": [],
       "char_count": 873,
       "token_count": 151,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1246,
+    "date": "2024-10-26",
+    "datetime_utc": "2024-10-26T19:13:57+00:00",
+    "timestamp": 1729970037,
+    "message": "Hi can anyone share the indetailed story of the S24 hack by Ireland hackers in an event??\nI am using one and want to test it out",
+    "id": "2af477b4-cc74-42b6-a0db-0b7ba1b8a47d",
+    "cleaning": {
+      "normalized_message": "hi can anyone share the indetailed story of the s24 hack by ireland hackers in an event i am using one and want to test it out",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 126,
+      "token_count": 27,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1169,6 +1577,7 @@
         "fraud",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 764,
       "token_count": 135,
       "decision": "keep",
@@ -1190,6 +1599,9 @@
         "malware",
         "virus"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 1158,
       "token_count": 167,
       "decision": "keep",
@@ -1210,6 +1622,7 @@
         "leaks",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 627,
       "token_count": 102,
       "decision": "keep",
@@ -1229,6 +1642,7 @@
         "cve-2024-38094",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 873,
       "token_count": 125,
       "decision": "keep",
@@ -1249,6 +1663,10 @@
         "credentials",
         "hacked",
         "intrusion"
+      ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
       ],
       "char_count": 1243,
       "token_count": 207,
@@ -1273,10 +1691,31 @@
         "ransomware",
         "threat actor"
       ],
+      "soft_keyword_hits": [],
       "char_count": 946,
       "token_count": 145,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1311,
+    "date": "2024-11-10",
+    "datetime_utc": "2024-11-10T19:26:52+00:00",
+    "timestamp": 1731266812,
+    "message": "🚨Thousand Of Call Of Duty Player Were Mysteriously Banned By An Unknown Hacker\n\n⚠️By tricking the Ricochet anti-cheat system, hacker Vizor discovered a method to ban Call of Duty gamers. Even if other users were playing honestly, the hacker Vizor found a means to get them banned. Vizor also found that the anti-cheat programme was actively searching for specific strings, like “Trigger Bot.”\n\n⚠️According to Vizor, they were able to figure out a special way to take advantage of Ricochet and use it against the players it was meant to defend. The hacker discovered that Ricochet was detecting hackers by employing a list of particular hardcoded text characters as “signatures.”\n\nRead this detailed article 👉🏻 https://hackingblogs.com/thousand-of-call-of-duty-player-were-banned/\n\nWant to be updated on later cybernews join telegram 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "bc34fc71-aa93-4335-8de7-18764005f730",
+    "cleaning": {
+      "normalized_message": "thousand of call of duty player were mysteriously banned by an unknown hacker by tricking the ricochet anti-cheat system hacker vizor discovered a method to ban call of duty gamers even if other users were playing honestly the hacker vizor found a means to get them banned vizor also found that the anti-cheat programme was actively searching for specific strings like trigger bot according to vizor they were able to figure out a special way to take advantage of ricochet and use it against the players it was meant to defend the hacker discovered that ricochet was detecting hackers by employing a list of particular hardcoded text characters as signatures read this detailed article want to be updated on later cybernews join telegram",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
+      "char_count": 737,
+      "token_count": 123,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1290,6 +1729,10 @@
       "normalized_message": "zip concatenation your windows system can be easily hacked using this new technique table of contents what is zip understanding zip file structuring zip file structures popular zip archive readers winrar 7zip windows file explorer zip concatenation the final boss commands used what i did analysing the output file greetings my dear hacker family as you are aware hackers like us are constantly improving their methods of evading security measures we have developed a new method to take advantage of systems this method was recently used to hack a windows system and the worst part is that it is simple to set up but invisible to the naked eye it is also very easy to understand and avoid these loophole traps so let others know about it what i did to explain what i did i first created two distinct text files and gave them names next i used 7zip on my linux computer to produce two more zip files finally i cat the contents of these two files and assigned these outputs to a new combined zip file it seems simple the good part will arrive soon let us start by assuming that logically if two files are being combined into one zip file the resultant zip file should contain both files correct that is incorrect because 7zip only displays one file and hides the others however did you know that this file will also be extracted during the extraction process that is the risky part and you will not be able to identify it check it out here threat actors are aware that these tools frequently fail to identify or ignore harmful content concealed in concatenated archives which enables them to target users who use a particular programme to work with archives and deliver their payload unnoticed read this detailed article on india s top cybernews platform join the best telegram group to be updated with similar high quality content",
       "keyword_hits": [
         "hacked"
+      ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
       ],
       "char_count": 1829,
       "token_count": 322,
@@ -1314,6 +1757,9 @@
         "vulnerability",
         "zero day"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 734,
       "token_count": 113,
       "decision": "keep",
@@ -1335,10 +1781,32 @@
         "trojan",
         "virus"
       ],
+      "soft_keyword_hits": [],
       "char_count": 968,
       "token_count": 164,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1328,
+    "date": "2024-11-16",
+    "datetime_utc": "2024-11-16T19:48:39+00:00",
+    "timestamp": 1731786519,
+    "message": "🚨💻A Detailed Guide On HTML Parsing and DOMPurify Bypassing for Security Researchers\n\nWhat Is DOMPurify And Why Is It Used ?\nIn order to prevent cross-site scripting (XSS) attacks, HTML sanitization—the process of eliminating dangerous code from user-generated content—is accomplished with the help of the JavaScript package DomPurify.\n\nJavaScript libraries known as client-side HTML sanitisers examine and alter HTML code to stop harmful information from running on the client side. They accomplish this by removing or encrypting potentially dangerous components—like scripts, forms, and anchors—and substituting them with less dangerous ones.\n\nWhen an attacker inserts anything that appears to be safe but is altered and changed by the browser during markup parsing, this is known as mutated XSS. Because of this, it is quite difficult to find or remove from the application logic of the website.\n\nOther Topics \nQuick Installation Guide\nBasic Walkththrough Of Client Side HTML Sanitization ?\nDOMPurify Working\nWhat Is Mutation Xss ? What Is the reason for there occurence ?\nUnderstanding Node flattening\nHow HTML parse states are handled ?\nProof Of Concept : Bypassing\n\nRead This Informative Article And Share It With That Security Researcher You Know 👉🏻  https://hackingblogs.com/guide-on-html-parsing-and-dompurify-bypassing/\n\nAlso Dont Shy to join this awesome group only for ethical hackers and Cybersec enthusiasts 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "b204051d-a932-4c68-b9a3-bc2afb928fca",
+    "cleaning": {
+      "normalized_message": "a detailed guide on html parsing and dompurify bypassing for security researchers what is dompurify and why is it used in order to prevent cross-site scripting xss attacks html sanitization the process of eliminating dangerous code from user-generated content is accomplished with the help of the javascript package dompurify javascript libraries known as client-side html sanitisers examine and alter html code to stop harmful information from running on the client side they accomplish this by removing or encrypting potentially dangerous components like scripts forms and anchors and substituting them with less dangerous ones when an attacker inserts anything that appears to be safe but is altered and changed by the browser during markup parsing this is known as mutated xss because of this it is quite difficult to find or remove from the application logic of the website other topics quick installation guide basic walkththrough of client side html sanitization dompurify working what is mutation xss what is the reason for there occurence understanding node flattening how html parse states are handled proof of concept bypassing read this informative article and share it with that security researcher you know also dont shy to join this awesome group only for ethical hackers and cybersec enthusiasts",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers",
+        "security researcher",
+        "security researchers"
+      ],
+      "char_count": 1311,
+      "token_count": 204,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1353,6 +1821,7 @@
       "keyword_hits": [
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 723,
       "token_count": 121,
       "decision": "keep",
@@ -1371,6 +1840,11 @@
       "keyword_hits": [
         "exploiting",
         "ransomware"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cybersecurity",
+        "hacking"
       ],
       "char_count": 1346,
       "token_count": 201,
@@ -1391,6 +1865,7 @@
         "c2",
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 78,
       "token_count": 11,
       "decision": "keep",
@@ -1409,10 +1884,32 @@
       "keyword_hits": [
         "ddos"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 33,
       "token_count": 7,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1356,
+    "date": "2024-11-26",
+    "datetime_utc": "2024-11-26T14:47:32+00:00",
+    "timestamp": 1732632452,
+    "message": "🚨North Korea’s Secret Cyber Scheme Uncovered: DPRK IT Workers Using Fake US Companies to Steal Money, Linked to China\n\n💀 In recent weeks, a disturbing cyber operation linked to North Korea has been uncovered, and it’s important for everyone, especially businesses and tech professionals, to be aware.\n\nAccording to new findings, North Korean hackers, posing as employees of fake US-based tech companies, are stealing money and data. These so-called “DPRK IT Workers” are part of a larger network that has connections to China, and they use these fake companies to trick people and businesses into handing over valuable resources.\n\nFour firms, Independent Lab LLC, Shenyang Tonywang Technology, Tony WKJ LLC IT Services, and HopanaTech, had their domains taken by the US Government on October 10th when it was discovered that they were fronts for North Korean cyber activities. Organisations such as the FBI and Homeland Security Investigations led the takedown.\n\n\nRead this detailed Article to know more about this tactic 👉🏻 https://hackingblogs.com/north-koreas-secret-cyber-scheme-uncovered/\n\nJoin the telegram channel to be the first one to get latest cyber news 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "0ed1d897-e5e8-433c-bec9-25bb6d5c2ab0",
+    "cleaning": {
+      "normalized_message": "north korea s secret cyber scheme uncovered dprk it workers using fake us companies to steal money linked to china in recent weeks a disturbing cyber operation linked to north korea has been uncovered and it s important for everyone especially businesses and tech professionals to be aware according to new findings north korean hackers posing as employees of fake us-based tech companies are stealing money and data these so-called dprk it workers are part of a larger network that has connections to china and they use these fake companies to trick people and businesses into handing over valuable resources four firms independent lab llc shenyang tonywang technology tony wkj llc it services and hopanatech had their domains taken by the us government on october 10th when it was discovered that they were fronts for north korean cyber activities organisations such as the fbi and homeland security investigations led the takedown read this detailed article to know more about this tactic join the telegram channel to be the first one to get latest cyber news",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 1062,
+      "token_count": 175,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1426,6 +1923,9 @@
       "normalized_message": "world s biggest hacker bounty ever win a 4 5m bugatti chiron pur sport metawin com was hacked on november 3rd 4 5 million worth of sol and eth were taken out of their wallets the owner is giving their 4 5 million bugatti chiron pur sport as a reward for the hacker s capture and the return of the stolen money even though they have recovered and secured their platform the car is yours if you can assist in locating the hacker and offer proof that results in their arrest of the wanted hacker as said by richard skelhorn the owner is quite irritated that the hacker is still in hiding even if the 4 5 million that was taken from metawin com was a significant loss integrity is at risk not simply financial gain in exchange for the hacker s capture and the recovery of the stolen money the owner is offering their 4 5 million bugatti chiron pur sport as a reward are you worthy to take part read more here joining telegram group doesn t requires 4 5 million dollar",
       "keyword_hits": [
         "hacked"
+      ],
+      "soft_keyword_hits": [
+        "hacker"
       ],
       "char_count": 963,
       "token_count": 184,
@@ -1450,6 +1950,12 @@
         "vulnerability",
         "zero-day"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacker",
+        "hackers",
+        "hacking"
+      ],
       "char_count": 1036,
       "token_count": 161,
       "decision": "keep",
@@ -1467,6 +1973,11 @@
       "normalized_message": "hacker group claims massive breach of microsoft s software licensing security this is the largest breakthrough in windows office piracy ever this solution will be available in the coming months stay tuned for updates massgravel on x posted according to reports the attack makes it possible to permanently activate almost every current version of windows and office ranging from windows vista to windows 11 and server 2025 using the client-server key management services approach the technique also facilitates volume activation they have managed to get around almost every security measure that supported the original windows and office licencing model in the upcoming months this unique cracking technique which has been described as extremely successful is expected to be made available to the general public microsoft is not all that concerned windows sales is a small of their earnings now days and it s an even less of individuals who don t pay ultimately people continue to use windows and participate in the ecosystem a mechanism that generates significant revenue for microsoft even if private windows customers do not pay read this article to know more just a chill guy and want to learn hacking get updates on cybersecurity join this free telegram group",
       "keyword_hits": [
         "breach"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacker",
+        "hacking"
       ],
       "char_count": 1263,
       "token_count": 203,
@@ -1486,6 +1997,9 @@
       "keyword_hits": [
         "compromised",
         "hacked"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1345,
       "token_count": 214,
@@ -1509,6 +2023,9 @@
         "malware",
         "ransomware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 963,
       "token_count": 162,
       "decision": "keep",
@@ -1528,6 +2045,9 @@
         "credentials",
         "vulnerability",
         "zero-day"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1114,
       "token_count": 185,
@@ -1549,6 +2069,10 @@
         "exploited",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
       "char_count": 800,
       "token_count": 133,
       "decision": "keep",
@@ -1567,6 +2091,7 @@
       "keyword_hits": [
         "botnet"
       ],
+      "soft_keyword_hits": [],
       "char_count": 27,
       "token_count": 5,
       "decision": "keep",
@@ -1586,10 +2111,30 @@
         "exploit",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1060,
       "token_count": 175,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1478,
+    "date": "2024-12-15",
+    "datetime_utc": "2024-12-15T18:12:52+00:00",
+    "timestamp": 1734286372,
+    "message": "🚨💀The Mysterious Case Of Suchir Balaji Who Exposed OpenAI Was Found Dead ?\n\n💀Do you know about the ongoing conspiracy against death of Suchir Balaji for exposing Open AI researchers who were working on chatgpt? He was once an OpenAI researcher himself, and this is all the information we have discovered.\n\n\n“The Office of the Chief Medical Examiner (OCME) has identified the decedent as Suchir Balaji, 26, of San Francisco. The manner of death has been determined to be suicide,\n\n🙂 “If you believe what I believe, you have to just leave the company,” he said \n\nRead this detailed article to know more on this issue 👉🏻 https://hackingblogs.com/the-mysterious-case-of-suchir-balaji/\n\nWant to keep getting updated on cybersecurity, breaches , updates or and new news join telegram 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "a8619727-8868-4f7a-af73-656221a8c57d",
+    "cleaning": {
+      "normalized_message": "the mysterious case of suchir balaji who exposed openai was found dead do you know about the ongoing conspiracy against death of suchir balaji for exposing open ai researchers who were working on chatgpt he was once an openai researcher himself and this is all the information we have discovered the office of the chief medical examiner ocme has identified the decedent as suchir balaji 26 of san francisco the manner of death has been determined to be suicide if you believe what i believe you have to just leave the company he said read this detailed article to know more on this issue want to keep getting updated on cybersecurity breaches updates or and new news join telegram",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 680,
+      "token_count": 119,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1605,10 +2150,30 @@
         "leaked",
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1015,
       "token_count": 170,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1489,
+    "date": "2024-12-18",
+    "datetime_utc": "2024-12-18T15:53:17+00:00",
+    "timestamp": 1734537197,
+    "message": "👾Here’s How A User Found A Denial-Of-Service Bug On Facebook Messenger Using 😡 Emojis\n\n A security researcher discovered DOS(Denial Of Service ) bug in the widely used Facebook Messenger for iOS version 477.0.0. He used emojis to identify his bugs, which is fascinating as I discuss it. Let us go into the article and I will attempt to make it clear to you how he discovered this flaw.\n\nThe researcher first asks the most fundamental yet crucial query: how are the emojis being sent from the sender to the recipient? He then uses JADX to reverse engineer the messenger apk and uses Frida to do a dynamic investigation, which gives the following important findings.\n\nHis second most crucial query is: What would happen if we sent a string without a string attached to it? He accomplishes this by altering the Frida script to transform the string to a value that does not match any recognised emoji, like de25 (F_fe0fACE_WITH_COLON_THREE)\n\n💀Read detailed article here 👉🏻 https://hackingblogs.com/user-found-a-denial-of-service-bug-on-messenger/\n\n💀 poc of the article here  👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "1a2b17d2-1f4d-4277-8259-ffcc8a52139c",
+    "cleaning": {
+      "normalized_message": "here s how a user found a denial-of-service bug on facebook messenger using emojis a security researcher discovered dos denial of service bug in the widely used facebook messenger for ios version 477 0 0 he used emojis to identify his bugs which is fascinating as i discuss it let us go into the article and i will attempt to make it clear to you how he discovered this flaw the researcher first asks the most fundamental yet crucial query how are the emojis being sent from the sender to the recipient he then uses jadx to reverse engineer the messenger apk and uses frida to do a dynamic investigation which gives the following important findings his second most crucial query is what would happen if we sent a string without a string attached to it he accomplishes this by altering the frida script to transform the string to a value that does not match any recognised emoji like de25 f_fe0face_with_colon_three read detailed article here poc of the article here",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "security researcher"
+      ],
+      "char_count": 965,
+      "token_count": 170,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1624,6 +2189,7 @@
         "fraud",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1032,
       "token_count": 167,
       "decision": "keep",
@@ -1645,6 +2211,10 @@
         "fraud",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
       "char_count": 942,
       "token_count": 160,
       "decision": "keep",
@@ -1664,6 +2234,7 @@
         "login",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 804,
       "token_count": 113,
       "decision": "keep",
@@ -1685,6 +2256,9 @@
         "data leak",
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 946,
       "token_count": 157,
       "decision": "keep",
@@ -1704,6 +2278,10 @@
         "compromised",
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacker"
+      ],
       "char_count": 1405,
       "token_count": 232,
       "decision": "keep",
@@ -1721,6 +2299,10 @@
       "normalized_message": "us soldier by day cybercriminal by night kiberphant0m wagenius arrested before coming back to the united states wagenius worked as a communications specialist in south korea where he had access to vital networks according to court documents which did not identify his rank or place of station cameron john wagenius was arrested on december 20 and charged with two separate charges of improper transmission of confidential phone records information in the western district of texas courthouse in waco according to authorities he is kiberphant0m connected to the sale and disclosure of private information from verizon and at t kiberphant0m shared what they claimed to be the at t call logs for vice president kamala harris and president-elect donald j trump on the hacker group breachforums as soon as word leaked out of moucka s arrest the same day kiberphant0m shared what they said was the u s national security agency s data structure read this article to know more on the issue join our free telegram group to get latest updates on cybersecurity trends",
       "keyword_hits": [
         "leaked"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacker"
       ],
       "char_count": 1056,
       "token_count": 174,
@@ -1743,10 +2325,35 @@
         "hacked",
         "threat actor"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacker",
+        "hackers"
+      ],
       "char_count": 1147,
       "token_count": 179,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1554,
+    "date": "2025-01-05",
+    "datetime_utc": "2025-01-05T10:03:11+00:00",
+    "timestamp": 1736071391,
+    "message": "🚨Cybertruck OR Spytruck : Elon Musk Shows Tesla’s Remote Vehicle Monitoring and Control After Cybertruck Explosion\n\nBACKSTORY \nThe driver was killed and seven others were injured when a Tesla Cybertruck exploded outside the Trump International Hotel on Wednesday, January 1. Currently, the FBI is looking into whether the explosion was a terrorist attack.\n\nAccording to information released by law enforcement, Elon Musk remotely unlocked the Cybertruck for them after the explosion outside the Trump International Hotel in Vegas on Wednesday. He also gave them video from charging stations the truck had visited so they could track the location of the vehicle.\n\nThe incident highlights worries about data privacy and the increasing power of manufacturers to obtain personal information from their customers’ vehicles, even while the cooperation has been acknowledged as crucial to solving what may be a potential car bombing.\n\nHowever, it serves as an unsettling reminder that even while you may be able to operate your vehicle, you no longer really own it, that the manufacturer has the power to interfere at any time, and that police enforcement may obtain information about your private vehicle.\n\nTesla’s actions are indicative of a broader change in the automobile sector, since linked vehicles are constantly collecting and exchanging data. In addition to sharing these insights with law enforcement, businesses also profit from them by selling them to insurance companies and data brokers. However, Tesla’s direct participation asks the question of whether these kinds of actions will become widespread and eventually undermine privacy standards.\n\nRead this detailed article on this big issue 👉🏻 https://hackingblogs.com/cybertruck-or-spytruck-they-are-spying-on-you/\n\nFor latest news related to cybersecurity, breaches , ethical hacking , bugs , cves join free telegram group 👉 https://t.me/HackingBlogsGroup",
+    "id": "d841102f-5fa5-4e22-a541-b0d112968fe9",
+    "cleaning": {
+      "normalized_message": "cybertruck or spytruck elon musk shows tesla s remote vehicle monitoring and control after cybertruck explosion backstory the driver was killed and seven others were injured when a tesla cybertruck exploded outside the trump international hotel on wednesday january 1 currently the fbi is looking into whether the explosion was a terrorist attack according to information released by law enforcement elon musk remotely unlocked the cybertruck for them after the explosion outside the trump international hotel in vegas on wednesday he also gave them video from charging stations the truck had visited so they could track the location of the vehicle the incident highlights worries about data privacy and the increasing power of manufacturers to obtain personal information from their customers vehicles even while the cooperation has been acknowledged as crucial to solving what may be a potential car bombing however it serves as an unsettling reminder that even while you may be able to operate your vehicle you no longer really own it that the manufacturer has the power to interfere at any time and that police enforcement may obtain information about your private vehicle tesla s actions are indicative of a broader change in the automobile sector since linked vehicles are constantly collecting and exchanging data in addition to sharing these insights with law enforcement businesses also profit from them by selling them to insurance companies and data brokers however tesla s direct participation asks the question of whether these kinds of actions will become widespread and eventually undermine privacy standards read this detailed article on this big issue for latest news related to cybersecurity breaches ethical hacking bugs cves join free telegram group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 1769,
+      "token_count": 276,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1767,10 +2374,51 @@
         "login",
         "ransomware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1611,
       "token_count": 256,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1564,
+    "date": "2025-01-07",
+    "datetime_utc": "2025-01-07T17:05:45+00:00",
+    "timestamp": 1736269545,
+    "message": "🚨April 2024 Famous Anonymous Group Broke Into Israel Defense Forces Now Exposed 22GB Worth Data\n\nAnonymous, a hacker group, has taken credit for the Israeli Defence Forces (IDF) attack, claiming to have taken over 22 gigabytes of data, including over 233,000 documents. These files, which include Word documents, PowerPoint presentations, and PDFs, are said to contain classified military data.\n\nSince the Israeli state launched its ongoing murderous war on the Gaza Strip in October of last year, it has been the target of multiple such cyberattacks.\n\nAnonymous For Justice made available some 200,000 emails, papers, photos, and other materials. The documents show ties between the IDF and foreign armies.\n\nRead this article with added poc 👉🏻 https://hackingblogs.com/anonymous-group-broke-into-israel-defense-forces/\n\nTo view publicly exposed datasets for research purposes join 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "5b49dbbf-6bc4-4ecf-aab2-ecde827bdcf3",
+    "cleaning": {
+      "normalized_message": "april 2024 famous anonymous group broke into israel defense forces now exposed 22gb worth data anonymous a hacker group has taken credit for the israeli defence forces idf attack claiming to have taken over 22 gigabytes of data including over 233 000 documents these files which include word documents powerpoint presentations and pdfs are said to contain classified military data since the israeli state launched its ongoing murderous war on the gaza strip in october of last year it has been the target of multiple such cyberattacks anonymous for justice made available some 200 000 emails papers photos and other materials the documents show ties between the idf and foreign armies read this article with added poc to view publicly exposed datasets for research purposes join",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
+      "char_count": 778,
+      "token_count": 126,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1579,
+    "date": "2025-01-08",
+    "datetime_utc": "2025-01-08T16:11:34+00:00",
+    "timestamp": 1736352694,
+    "message": "😏Do You Want To Access What the Government Stop You From, Use Tor’s New Webtunnel\n\nThe Tor Project’s Anti-Censorship Team launched WebTunnel, a new bridge designed to improve access to the Tor network for users in areas with strict internet censorship, on March 12, 2024, which is World Day Against Cyber Censorship.\n\nAccording to the Tor Project’s WebTunnel and the information it offers, censorship is the intentional limitation, control, or blockage of online communication and information access by governments, organisations, or other entities.\n\nWebTunnel works by covering data in an HTTPS connection that resembles a WebSocket, giving network observers the impression that the data is normal web traffic. Because WebTunnel’s transmission looks like normal HTTPS communication, it can get beyond censorship systems that block unknown protocols. In contrast to certain other bridges, WebTunnel can further hide its existence by sharing a network endpoint with already-existing websites.\n\nWith 60 WebTunnel bridges globally as of launch, it serves more than 700 people every day on a variety of devices.\nWebTunnel bridges are incompatible with older Tor browser versions (12.5.x).\n\nInstall the most recent version of the Tor browser on your desktop.\nClick “Configure Connection” or open the Connection settings window in the Tor browser.\n“Add a Bridge Manually” should be selected, and the bridge lines from Step 1 should be added.\nAfter closing the bridge dialogue, select “Connect.”\nWhen utilising WebTunnel, take note of any problems or strange behaviour.\n\nRead this detailed article 👉🏻 https://hackingblogs.com/access-what-the-government-stop-you-webtunnel/\n\nYou seem to be loving cybersecurity why not join this free telegram group and be updated every single day 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "111579b3-953f-4cb8-ab6a-ab005f5adf0e",
+    "cleaning": {
+      "normalized_message": "do you want to access what the government stop you from use tor s new webtunnel the tor project s anti-censorship team launched webtunnel a new bridge designed to improve access to the tor network for users in areas with strict internet censorship on march 12 2024 which is world day against cyber censorship according to the tor project s webtunnel and the information it offers censorship is the intentional limitation control or blockage of online communication and information access by governments organisations or other entities webtunnel works by covering data in an https connection that resembles a websocket giving network observers the impression that the data is normal web traffic because webtunnel s transmission looks like normal https communication it can get beyond censorship systems that block unknown protocols in contrast to certain other bridges webtunnel can further hide its existence by sharing a network endpoint with already-existing websites with 60 webtunnel bridges globally as of launch it serves more than 700 people every day on a variety of devices webtunnel bridges are incompatible with older tor browser versions 12 5 x install the most recent version of the tor browser on your desktop click configure connection or open the connection settings window in the tor browser add a bridge manually should be selected and the bridge lines from step 1 should be added after closing the bridge dialogue select connect when utilising webtunnel take note of any problems or strange behaviour read this detailed article you seem to be loving cybersecurity why not join this free telegram group and be updated every single day",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 1652,
+      "token_count": 266,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1788,10 +2436,53 @@
         "phishing",
         "scam"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1881,
       "token_count": 310,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 1612,
+    "date": "2025-01-10",
+    "datetime_utc": "2025-01-10T13:02:12+00:00",
+    "timestamp": 1736514132,
+    "message": "🚨🛜 Ukrainian hackers claim to have launched a horrific cyberattack against Russian internet provider Nodex\n\nNodex, a major Russian internet provider, revealed on Tuesday that a cyberattack had seriously damaged its network. The business believes that the attack came from Ukraine and has called it “planned.”\n\nWhat Was The Impact Of This Attack ?\nThe event was disclosed by St. Petersburg-based Nodex in a statement posted on the Russian social media site VKontakte. As stated by the business Overnight, the attack “destroyed” its infrastructure. Although no timeframe for a complete recovery has been given, efforts are under progress to restore systems from backups.\n\nThe attack has been linked to the Ukrainian Cyber Alliance, a group of hackers that has been active since 2016. They posted screenshots of infected systems, such as Hewlett Packard Enterprise virtual infrastructure, VMware from Nodex, and Veeam backup, on their Telegram channel.\n\nThe fact that the company’s website is still offline highlights how serious the situation \n\nRead this detailed article 👉🏻 https://hackingblogs.com/major-cyberattack-against-russian-isp-nodex/\n\nThe best telegram group you need to remain updated every single day 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "ff0a6b82-e118-42b7-9b62-68876008e89d",
+    "cleaning": {
+      "normalized_message": "ukrainian hackers claim to have launched a horrific cyberattack against russian internet provider nodex nodex a major russian internet provider revealed on tuesday that a cyberattack had seriously damaged its network the business believes that the attack came from ukraine and has called it planned what was the impact of this attack the event was disclosed by st petersburg-based nodex in a statement posted on the russian social media site vkontakte as stated by the business overnight the attack destroyed its infrastructure although no timeframe for a complete recovery has been given efforts are under progress to restore systems from backups the attack has been linked to the ukrainian cyber alliance a group of hackers that has been active since 2016 they posted screenshots of infected systems such as hewlett packard enterprise virtual infrastructure vmware from nodex and veeam backup on their telegram channel the fact that the company s website is still offline highlights how serious the situation read this detailed article the best telegram group you need to remain updated every single day",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
+      "char_count": 1105,
+      "token_count": 175,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 1628,
+    "date": "2025-01-13",
+    "datetime_utc": "2025-01-13T13:08:57+00:00",
+    "timestamp": 1736773737,
+    "message": "🚨📸All It Takes Is One Simple Google Search From Being Watched By Hackers, Wanna Know Why ?\n\nHello There Hacker Family, This time I come again with Google Dorking Which was one of the very first articles on this website. Today I will be talking about how far you can go with using them specifically focusing on webcam accessing.\n\nWhat is Google Dorking?\nIn easy terms it a magical soup to your OSINT but in technical terms google dork is a special way of searching for information. The use of Advance search query over simple query provide a ton of information that you may not know about and which may exactly be what you were looking for.\n\nAccessing Unprotected Cameras\nWe will combine the previous steps in order to locate unprotected webcams. Let us provide a few instances.\n\nList Of Dorks You Can Utilise\ninurl:\\ViewerFrame?Mode=\ninurl:ViewerFrame?Mode=\ninurl:MUltiCameraFrame:?Mode=\ninurl:view/index.shtml\ninurl:indexFrame.shtml Axis\ninurl:\"ViewerFrame?Mode=\"\nintitle:snc-rz30 inurl:home/\ninurl:/view/index.shtml\ninurl:\"ViewerFrame?Mode=\"\ninurl:netw_tcp.shtml\nintitle:\"supervisioncam protocol\"\ninurl:CgiStart?page=Single\ninurl:indexFrame.shtml?newstyle=Quad\nintitle:liveapplet inurl:LvAppl\ninurl:/showcam.php?camid\ninurl:video.cgi?resolution=\ninurl:image?cachebust=\nintitle:\"Live View / – AXIS\"\ninurl:view/view.shtml\n\nRead this detailed article 👉🏻 https://hackingblogs.com/one-google-search-from-being-watched-by-hackers/\n\nJoin this free telegram gram group where you get access to tons of resources for free 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "6029b8f6-9e4e-47f6-90d5-e809a09dde7a",
+    "cleaning": {
+      "normalized_message": "all it takes is one simple google search from being watched by hackers wanna know why hello there hacker family this time i come again with google dorking which was one of the very first articles on this website today i will be talking about how far you can go with using them specifically focusing on webcam accessing what is google dorking in easy terms it a magical soup to your osint but in technical terms google dork is a special way of searching for information the use of advance search query over simple query provide a ton of information that you may not know about and which may exactly be what you were looking for accessing unprotected cameras we will combine the previous steps in order to locate unprotected webcams let us provide a few instances list of dorks you can utilise inurl viewerframe mode inurl viewerframe mode inurl multicameraframe mode inurl view index shtml inurl indexframe shtml axis inurl viewerframe mode intitle snc-rz30 inurl home inurl view index shtml inurl viewerframe mode inurl netw_tcp shtml intitle supervisioncam protocol inurl cgistart page single inurl indexframe shtml newstyle quad intitle liveapplet inurl lvappl inurl showcam php camid inurl video cgi resolution inurl image cachebust intitle live view axis inurl view view shtml read this detailed article join this free telegram gram group where you get access to tons of resources for free",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers",
+        "osint"
+      ],
+      "char_count": 1393,
+      "token_count": 232,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -1806,6 +2497,9 @@
       "keyword_hits": [
         "cve-2024-44243",
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "threat intelligence"
       ],
       "char_count": 1032,
       "token_count": 163,
@@ -1830,6 +2524,10 @@
         "leaked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
       "char_count": 1196,
       "token_count": 182,
       "decision": "keep",
@@ -1851,6 +2549,9 @@
         "leaked",
         "leaks"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1139,
       "token_count": 164,
       "decision": "keep",
@@ -1868,6 +2569,9 @@
       "normalized_message": "real vs fake python users beware of pycord-self a pypi package stealing discord auth tokens hello hackingblogs viewers discord developers are the target of a malicious python package called pycord-self that was found on the python package index pypi this package is a significant security risk since it installs a backdoor for remote access and steals authentication tokens claiming to be the authentic discord py-self library it has been downloaded 885 times so far this post will describe the package s functioning the risks it presents and how to defend yourself against such attacks real package vs fake package by inserting malicious code while seemingly providing the same capabilities the malicious pycord-self package betrays this confidence a well-liked python utility for communicating with discord s user api is the authentic discord py-self package it is used by developers to create discord bots automating activities related to moderation carrying out orders and getting information without needing a bot account notifications or automatic reactions after examining the malicious package socket researchers discovered that the code in pycord-self does two primary tasks one involves taking the victim s discord authentication tokens and forwarding them to a different url read this detailed article want daily news and articles on cybersecurity join this free telegram group",
       "keyword_hits": [
         "backdoor"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1388,
       "token_count": 211,
@@ -1890,6 +2594,7 @@
         "leaked",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 961,
       "token_count": 172,
       "decision": "keep",
@@ -1909,6 +2614,7 @@
         "iocs",
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 40,
       "token_count": 7,
       "decision": "keep",
@@ -1929,6 +2635,9 @@
         "hash",
         "malware",
         "ransomware"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1203,
       "token_count": 182,
@@ -1956,6 +2665,7 @@
         "ransomware",
         "stealer"
       ],
+      "soft_keyword_hits": [],
       "char_count": 858,
       "token_count": 144,
       "decision": "keep",
@@ -1979,6 +2689,7 @@
         "stealer",
         "virus"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1220,
       "token_count": 183,
       "decision": "keep",
@@ -1998,6 +2709,10 @@
         "exploit",
         "spyware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
+      ],
       "char_count": 1101,
       "token_count": 174,
       "decision": "keep",
@@ -2016,6 +2731,10 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
+      ],
       "char_count": 1696,
       "token_count": 265,
       "decision": "keep",
@@ -2033,6 +2752,9 @@
       "normalized_message": "malicious packages deepseeek and deepkseekai in python package index are exploiting developers deepseeek and deepseek are not same hi there hackers i told you a few days ago about the fake discord package that when integrated would steal developers data now we are back with a similar problem this time it is the well-known deepseek since its introduction to the ai market developers have been eager to incorporate deepseek into their applications as a result python developers who were eager to do so used packages purporting to be from deepseek but it was discovered that these were actually some extremely dangerous data theft instruments we will examine the matter further these packages were discovered to be fake by researchers who also discovered that they were made to steal environment variables and user and computer data sensitive data that is essential to operating apps is frequently found in environment variables e g system paths database connection details and security api keys the typical comments describing the lines of code according to researchers show that the script was prepared with the assistance of an ai helper the package was downloaded 186 times with the browser requests library and other tools and 36 times with the pip package management and the bandersnatch mirroring tool read this article here in detail for more news join this telegram group",
       "keyword_hits": [
         "exploiting"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 1379,
       "token_count": 224,
@@ -2056,6 +2778,7 @@
         "loader",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1446,
       "token_count": 226,
       "decision": "keep",
@@ -2079,6 +2802,9 @@
         "vulnerability",
         "zero-day"
       ],
+      "soft_keyword_hits": [
+        "cyber security"
+      ],
       "char_count": 1575,
       "token_count": 235,
       "decision": "keep",
@@ -2099,6 +2825,7 @@
         "leak",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1541,
       "token_count": 255,
       "decision": "keep",
@@ -2117,6 +2844,7 @@
       "keyword_hits": [
         "ransomware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1060,
       "token_count": 166,
       "decision": "keep",
@@ -2138,6 +2866,9 @@
         "malware",
         "virus"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1371,
       "token_count": 207,
       "decision": "keep",
@@ -2157,10 +2888,35 @@
         "breach",
         "compromised"
       ],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hackers",
+        "hacking"
+      ],
       "char_count": 1799,
       "token_count": 289,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2038,
+    "date": "2025-03-11",
+    "datetime_utc": "2025-03-11T14:41:35+00:00",
+    "timestamp": 1741704095,
+    "message": "🚨✖️Massive Cyberattack On X By Pro-Palestinian Dark Storm Hacking Group : Anonymous Too ??\n\nHello my dear hackingblogs reader! Thousands of people worldwide were unable to access the social networking platform X, which is owned by Elon Musk, due to three outages that occurred on Monday, March 10. Elon attributed the cyberattack on “IP addresses in Ukraine” shortly after the disturbances.\n\nElon Musk’s social networking site, X, had a series of failures on Monday (March 10), affecting access for thousands of users throughout the world.\n\nOn Monday, Downdetector, a platform monitor, received more than 1.6 million reports of difficulties with the social networking site from users worldwide. Dark Storm has claimed responsibility for the X hack in its Telegram channel. “Twitter has been taken offline by Dark Storm Team,” it said, adopting the original the name for X as a symbol of rebellion against Musk.\n\nThe hacktivist movement Anonymous took credit for a major cyberattack on X (previously Twitter) on March 10, 2025. According to the organisation, the incident was part of a campaign against the rise of dictatorship and fascism in the US. On their website and social media accounts, they published a statement outlining their role in the cyberattack.\n\nRead this interesting article 📰https://hackingblogs.com/cyberattack-on-x-by-dark-storm-hacking-group/\n\nJoin this free telegram group to get updated with daily news, articles related to cyber security 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "b14daaf5-d553-4627-a7d3-80002064d64a",
+    "cleaning": {
+      "normalized_message": "massive cyberattack on x by pro-palestinian dark storm hacking group anonymous too hello my dear hackingblogs reader thousands of people worldwide were unable to access the social networking platform x which is owned by elon musk due to three outages that occurred on monday march 10 elon attributed the cyberattack on ip addresses in ukraine shortly after the disturbances elon musk s social networking site x had a series of failures on monday march 10 affecting access for thousands of users throughout the world on monday downdetector a platform monitor received more than 1 6 million reports of difficulties with the social networking site from users worldwide dark storm has claimed responsibility for the x hack in its telegram channel twitter has been taken offline by dark storm team it said adopting the original the name for x as a symbol of rebellion against musk the hacktivist movement anonymous took credit for a major cyberattack on x previously twitter on march 10 2025 according to the organisation the incident was part of a campaign against the rise of dictatorship and fascism in the us on their website and social media accounts they published a statement outlining their role in the cyberattack read this interesting article join this free telegram group to get updated with daily news articles related to cyber security",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cyber security",
+        "hacking"
+      ],
+      "char_count": 1343,
+      "token_count": 221,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2175,6 +2931,11 @@
       "keyword_hits": [
         "credential",
         "leaked"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "hacker",
+        "hacking"
       ],
       "char_count": 1445,
       "token_count": 250,
@@ -2195,6 +2956,9 @@
         "credentials",
         "exploits",
         "leaked"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty"
       ],
       "char_count": 3579,
       "token_count": 624,
@@ -2217,10 +2981,51 @@
         "leaked",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "bug bounty"
+      ],
       "char_count": 1700,
       "token_count": 283,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2101,
+    "date": "2025-03-19",
+    "datetime_utc": "2025-03-19T16:26:19+00:00",
+    "timestamp": 1742401579,
+    "message": "🎮🧩Bug Bounty 10-Day Complete Free Training: Day5 – Starting Reconnaissance\n\nHello, HackingBlogs team! Welcome to the 10-Day Bug Bounty Bootcamp’s fifth day! My name is Dipanshu Kumar, and I can not wait to continue moving forward on this thrilling adventure with each and every one of you.\n\nReconnaissance is the first step in our bug hunting journey today. (The act of discovering more about a target in order to spot potential weaknesses is called reconnaissance.) We will study recon over the course of the next two days because it is a large topic. Lookups, WHOIS lookups, DNS records, reverse IP and name server lookups, mail server lookups, and automating the process with tools like Amass will be the main topics of discussion today.\n\nReconnaissance : horizontal and vertical correlation\nLet’s Talk About : CIDR (Classless Inter-Domain Routing)\n/24 What The Hell ?\nTools You Can User For Cidr Enumeration\nNmap\nFping\nASN’S : Autonomous System Number\nTypes of ASNs:\nASN Lookup: Discover ASN Information\nTool: WHOIS Lookup for ASN\nWebsites : ipinfo.io, bgp.he.net\nReverse Lookup : What Are you Waiting For\nReverse WHOIS Lookup\nReverse DNS\nReverse Name server And Reverse Mail Server\nUsing Nslookup : -type=MX (MailServer)\nUsing Nslookup : -type=NX (NameServer)\nAutomating Our Recon With Amass\nAutomating Subdomain Discovery with Amass : Passive Subdomain Enumeration\nAutomating Subdomain Discovery with Amass : Active Subdomain Enumeration\nCombining Passive and Active Enumeration\nASN Discovery\n\n/24 denotes that the network part takes up the first 24 bits, with host addresses occupying the following 8 bits.The subnet mask, which determines how much of the IP address is used for the network vs the hosts, is specified by / (as an example, 24).\n\nRead This Free Day 5 Article Only On India's Best HackingBlogs 👉🏻 https://hackingblogs.com/bug-bounty-10-day-course-day4-reconnaissance/\n\nWant To Be Part Of A Group where you get to know about latest breaches , what's going in the darkweb, or free resources 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "49523b62-de52-4bf0-a88d-d1984097c6b8",
+    "cleaning": {
+      "normalized_message": "bug bounty 10-day complete free training day5 starting reconnaissance hello hackingblogs team welcome to the 10-day bug bounty bootcamp s fifth day my name is dipanshu kumar and i can not wait to continue moving forward on this thrilling adventure with each and every one of you reconnaissance is the first step in our bug hunting journey today the act of discovering more about a target in order to spot potential weaknesses is called reconnaissance we will study recon over the course of the next two days because it is a large topic lookups whois lookups dns records reverse ip and name server lookups mail server lookups and automating the process with tools like amass will be the main topics of discussion today reconnaissance horizontal and vertical correlation let s talk about cidr classless inter-domain routing 24 what the hell tools you can user for cidr enumeration nmap fping asn s autonomous system number types of asns asn lookup discover asn information tool whois lookup for asn websites ipinfo io bgp he net reverse lookup what are you waiting for reverse whois lookup reverse dns reverse name server and reverse mail server using nslookup -type mx mailserver using nslookup -type nx nameserver automating our recon with amass automating subdomain discovery with amass passive subdomain enumeration automating subdomain discovery with amass active subdomain enumeration combining passive and active enumeration asn discovery 24 denotes that the network part takes up the first 24 bits with host addresses occupying the following 8 bits the subnet mask which determines how much of the ip address is used for the network vs the hosts is specified by as an example 24 read this free day 5 article only on india s best hackingblogs want to be part of a group where you get to know about latest breaches what s going in the darkweb or free resources",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty"
+      ],
+      "char_count": 1864,
+      "token_count": 312,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 2111,
+    "date": "2025-03-20",
+    "datetime_utc": "2025-03-20T06:58:40+00:00",
+    "timestamp": 1742453920,
+    "message": "⭐👾 Bug Bounty 10-Day Complete Free Training: Day6 – Ending Reconnaissance\n\nHello, readers of HackingBlogs! Welcome to the sixth day of our 10-day, totally free Bug Bounty training! My name is Dipanshu Kumar. You should have a solid understanding of the fundamentals by now, but today we will delve further into key techniques to help you become a better bug hunter. Today’s session will provide you with practical advice and practical experience to help you discover more vulnerabilities and be successful in bug bounty programs, no matter your level of experience. Let us get started!\n\nWe will be concentrating on additional reconnaissance-related subjects today. We will begin by discussing wordlists, their significance, and the reasons that technology-specific lists, industry-level wordlists like SecList, robots.txt, and raft are necessary. Additionally, we will learn how to use commonspeak to create our own wordlists. After that, we will use tools like crt.sh to perform subdomain enumeration before delving into certificate parsing. We will also go over using tools like Sublist3r.py and Gobuster to bruteforce subdomains. Lastly, in order to help accelerate our recon work, we will discuss automating the screenshotting process.\n\nWhat Are Wordlist ? Why Do We Need Them In Bug Bounty\nWhy Do We Need Wordlists in Bug Bounty?\nFamous Wordlists\nSeclists\nRockYou.txt\nFuzzDB/wordlists\nHow To Take Out Juice From Robots.txt\nHow Can You Use robots.txt in Bug Bounty?\nWorkflow : Robots.txt\nStep 1: Accessing the robots.txt file\nStep 2: Interpreting the robots.txt for Bug Bounty\nUsing Common Speak To Generate Our own Wordlists\nSubdomain Enumeration\nUsing crt.sh\nEnumerate Subdomains Via Sublist3r\nEnumerate Subdomains Via Gobuster\n\nWebsites utilize a plain text file called robots.txt to tell bots and search engine crawlers whether parts of the site should or should not be indexed or scanned. It is located in the site’s root directory (robots.txt, for example).\n\nThe robots.txt file is a useful reconnaissance tool in bug bounty hunting. It might provide you information about hidden or sensitive directories and files that the owner of the website does not want search engines to index .Possible attack areas that might be investigated further for weaknesses.\n\nRead This detailed article which is part of 10-day free bug hunting course only on 👉🏻 https://hackingblogs.com/bug-bounty-10-day-complete-free-training-day6/\n\nWant To Join A Secret Group Just for Hack Related Content Breaches, news, cves, free resource and courses 👉🏻  https://t.me/HackingBlogsGroup",
+    "id": "3e3af8fd-d5e9-4ddf-a244-8c71ab6bae6c",
+    "cleaning": {
+      "normalized_message": "bug bounty 10-day complete free training day6 ending reconnaissance hello readers of hackingblogs welcome to the sixth day of our 10-day totally free bug bounty training my name is dipanshu kumar you should have a solid understanding of the fundamentals by now but today we will delve further into key techniques to help you become a better bug hunter today s session will provide you with practical advice and practical experience to help you discover more vulnerabilities and be successful in bug bounty programs no matter your level of experience let us get started we will be concentrating on additional reconnaissance-related subjects today we will begin by discussing wordlists their significance and the reasons that technology-specific lists industry-level wordlists like seclist robots txt and raft are necessary additionally we will learn how to use commonspeak to create our own wordlists after that we will use tools like crt sh to perform subdomain enumeration before delving into certificate parsing we will also go over using tools like sublist3r py and gobuster to bruteforce subdomains lastly in order to help accelerate our recon work we will discuss automating the screenshotting process what are wordlist why do we need them in bug bounty why do we need wordlists in bug bounty famous wordlists seclists rockyou txt fuzzdb wordlists how to take out juice from robots txt how can you use robots txt in bug bounty workflow robots txt step 1 accessing the robots txt file step 2 interpreting the robots txt for bug bounty using common speak to generate our own wordlists subdomain enumeration using crt sh enumerate subdomains via sublist3r enumerate subdomains via gobuster websites utilize a plain text file called robots txt to tell bots and search engine crawlers whether parts of the site should or should not be indexed or scanned it is located in the site s root directory robots txt for example the robots txt file is a useful reconnaissance tool in bug bounty hunting it might provide you information about hidden or sensitive directories and files that the owner of the website does not want search engines to index possible attack areas that might be investigated further for weaknesses read this detailed article which is part of 10-day free bug hunting course only on want to join a secret group just for hack related content breaches news cves free resource and courses",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "bug bounty"
+      ],
+      "char_count": 2400,
+      "token_count": 395,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2234,6 +3039,10 @@
       "normalized_message": "bug bounty 10-day complete free training day7 exploiting easy bugs after reading this post i would advise you to quit learning and begin hunting choose a program engage yourself in it and devote no more than two weeks to it investigate each subdomain and do your best after that try another application if you do not discover anything but be sure to look for at least one paid bug continue and remain persistent low hanging bug subdomain takeover what is subdomain takeover let s understand with a beautiful example exploiting subdomain takeovers flaws another way integrating subjack low hanging bug information disclosure github dorks to find flaws live bug example finding secret_key inside source code list of popular github dorks to use while hunting a subdomain takeover happens when a subdomain points to a resource that is no longer in use but is still available to the public such as a storage bucket or service this implies that a hacker may seize that resource and take over the subdomain read this detailed article i am sure will be beneficial to anyone who reads it if you are looking for a place with people of the same mind provided you receive daily news article cves breaches join telegram",
       "keyword_hits": [
         "exploiting"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "hacker"
       ],
       "char_count": 1206,
       "token_count": 207,
@@ -2254,6 +3063,7 @@
         "phishing",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1303,
       "token_count": 217,
       "decision": "keep",
@@ -2275,6 +3085,10 @@
         "data leak",
         "login"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
       "char_count": 1230,
       "token_count": 204,
       "decision": "keep",
@@ -2293,6 +3107,9 @@
       "keyword_hits": [
         "phishing"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 1518,
       "token_count": 253,
       "decision": "keep",
@@ -2310,6 +3127,11 @@
       "normalized_message": "bug bounty 10-day complete free training day8 learning cms exploitation well done for making it to day 8 of our free 10-day bug bounty beginner course you have worked hard and been consistent great job i am your trainer and brother dipanshu kumar we are going deeper into exploiting complex bugs today refining your talents to take on increasingly difficult weaknesses continue your fantastic work we will be diving deeper into exploitation today we will start by focusing on exploiting well-known cms platforms knowing what they are and utilizing the appropriate resources to find weaknesses tomorrow we will go into the owasp top 10 bugs which cover the most prevalent and important flaws you will find in the bug bounty community let us begin starting cms exploitation before exploiting you need to understand what is cms top cms examples wordpress joomla drupal wix shopify learning cms exploitation cms exploitation wordpress basic command scanning a website basic command enumerating plugins enumerating users full wpscan command example directory listing cms exploitation joomla install using joomscan cms exploitation drupal droopscan command example using droopscan focus on understanding the structure plugins and misconfigurations of cms platforms when exploiting them focus on common entry points such as vulnerable file uploads outdated plugins and weak authentication use automation techniques to speed up the discovery process but always conduct investigation by hand to identify more serious flaws numerous options for escalation and exploitation can be unlocked by gaining access to the admin panel another thing i find all the time is directly listing on the uploads folder always make sure to check wpcontent uploads read this free article which is part 8 of our completely free 10 day bug bounty bootcamp if you want to receive dily news on latest breaches cves bugs laws etc regarding cybersecurity and want to receive free quality content on hacking join this telegram group with 1 1k members",
       "keyword_hits": [
         "exploiting"
+      ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cybersecurity",
+        "hacking"
       ],
       "char_count": 2014,
       "token_count": 317,
@@ -2332,6 +3154,13 @@
         "exploits",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "application security",
+        "bug bounty",
+        "cybersecurity",
+        "hackers",
+        "hacking"
+      ],
       "char_count": 2110,
       "token_count": 368,
       "decision": "keep",
@@ -2350,6 +3179,9 @@
       "keyword_hits": [
         "breach",
         "leaked"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1211,
       "token_count": 189,
@@ -2371,6 +3203,9 @@
         "data leak",
         "leak"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 809,
       "token_count": 137,
       "decision": "keep",
@@ -2389,6 +3224,10 @@
       "keyword_hits": [
         "cve-2025-30401",
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hacking"
       ],
       "char_count": 968,
       "token_count": 181,
@@ -2413,6 +3252,9 @@
         "leaks",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1901,
       "token_count": 287,
       "decision": "keep",
@@ -2434,10 +3276,32 @@
         "leak",
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "hacker"
+      ],
       "char_count": 1427,
       "token_count": 233,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2268,
+    "date": "2025-04-11",
+    "datetime_utc": "2025-04-11T05:40:31+00:00",
+    "timestamp": 1744350031,
+    "message": "🔐🔑 Day 1: What is Cryptography? Why It Matters in Cybersecurity\n\nWe will begin a five-day series on the fundamentals of cryptography today. Why is it basic? Because I only want to light the fire, not confuse you with complex technical language or complicated arithmetic. I would like to turn the switch. You will be the one to follow the path, dig deeper, and fully understand the power of cryptography once it is activated. And do not fear, when you are ready to level up, I will be right here with deeper knowledge. But for the time being, let us keep things straightforward, understandable, and above all useful.\n\nCoach & Instructor, Dipanshu Kumar (Hackingblogs)\n\nWhat is Cryptography?\nFamous Personality You Should Know Who Contributed in Cryptography\nClaude Shannon – The Father of Modern Cryptography\nWhitfield Diffie & Martin Hellman – Public Key Revolution\nRon Rivest, Adi Shamir, Leonard Adleman – Creators of RSA\nQuick Look At The History Of Using Cryptography In Ancient Times, WWII\nWhy Does Cryptography Matter in Cybersecurity?\nKey Terms You’ll Hear Often\nEncryption\nDecryption\nKey\nCiphertext\nHashing\nSalting\nDigital Signature\nPublic & Private Keys\nDifferent Types of Cryptography (No Deep Dive Yet!)\n\nBecause of his groundbreaking contributions to information theory, Claude Shannon is regarded as the father of modern cryptography. The main idea is perfect secrecy, in which the ciphertext provides no knowledge into the plaintext.\n\nWhere H is entropy, M is the message, and C is the ciphertext.\n→ This means: knowing the ciphertext reveals nothing about the message.\n\nSymmetric Encryption: Same key used to lock and unlock the data.\nAsymmetric Encryption: Uses two keys—one to encrypt, another to decrypt.\nHashing: No key needed. One-way function, can’t be reversed.\n\nWanna Read The Whole Detailed Article, I Am Sure You Will Be Fascinated 👉🏻 https://hackingblogs.com/day-1-what-is-cryptography-hackingblogs/\n\nWant To Be Part Of A 1.1K Member Group Exclusively For Knowledge On Cybersec That do daily and Best Part FREE Join 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "5bb20633-228a-45d9-a9b9-6c9a7876c6e4",
+    "cleaning": {
+      "normalized_message": "day 1 what is cryptography why it matters in cybersecurity we will begin a five-day series on the fundamentals of cryptography today why is it basic because i only want to light the fire not confuse you with complex technical language or complicated arithmetic i would like to turn the switch you will be the one to follow the path dig deeper and fully understand the power of cryptography once it is activated and do not fear when you are ready to level up i will be right here with deeper knowledge but for the time being let us keep things straightforward understandable and above all useful coach instructor dipanshu kumar hackingblogs what is cryptography famous personality you should know who contributed in cryptography claude shannon the father of modern cryptography whitfield diffie martin hellman public key revolution ron rivest adi shamir leonard adleman creators of rsa quick look at the history of using cryptography in ancient times wwii why does cryptography matter in cybersecurity key terms you ll hear often encryption decryption key ciphertext hashing salting digital signature public private keys different types of cryptography no deep dive yet because of his groundbreaking contributions to information theory claude shannon is regarded as the father of modern cryptography the main idea is perfect secrecy in which the ciphertext provides no knowledge into the plaintext where h is entropy m is the message and c is the ciphertext this means knowing the ciphertext reveals nothing about the message symmetric encryption same key used to lock and unlock the data asymmetric encryption uses two keys one to encrypt another to decrypt hashing no key needed one-way function can t be reversed wanna read the whole detailed article i am sure you will be fascinated want to be part of a 1 1k member group exclusively for knowledge on cybersec that do daily and best part free join",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 1900,
+      "token_count": 315,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2453,10 +3317,31 @@
         "fraud",
         "scam"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1188,
       "token_count": 199,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2293,
+    "date": "2025-04-14",
+    "datetime_utc": "2025-04-14T04:36:31+00:00",
+    "timestamp": 1744605391,
+    "message": "🚨🇺🇸 New U.S. Program Blocks Foreign Access to Americans’ Sensitive Data\n\nHi, readers of HackingBlogs\n\nTo prevent foreign adversaries from gaining access to Americans’ private information, the United States has just launched a significant data security effort. What it implies, why it matters, and what you need to know quickly are all explained in this post.\n\n🚨 What’s the Problem?\nChina, Russia, and Iran have been able to obtain the most private information about Americans for years. We are discussing more than just hacking. These nations have been lawfully purchasing data or putting pressure on foreign businesses to hand it over.\n\n“If you’re a foreign adversary, why would you go through the trouble of complicated cyber intrusions and theft to get Americans’ data when you can just buy it on the open market or force a company under your jurisdiction to give you access? The Data Security Program makes getting that data a lot harder.”\n\nsaid Deputy Attorney General Todd Blanche\n\nRead This Detailed Article To Know More on this issue 👉🏻 https://hackingblogs.com/u-s-program-blocks-foreign-access-to-americans/\n\nTo Get Latest + High Quality + Daily Cybersecurity Content = https://t.me/HackingBlogsGroup",
+    "id": "72ceaec8-e235-4273-84ee-3f42b6bb5a89",
+    "cleaning": {
+      "normalized_message": "new u s program blocks foreign access to americans sensitive data hi readers of hackingblogs to prevent foreign adversaries from gaining access to americans private information the united states has just launched a significant data security effort what it implies why it matters and what you need to know quickly are all explained in this post what s the problem china russia and iran have been able to obtain the most private information about americans for years we are discussing more than just hacking these nations have been lawfully purchasing data or putting pressure on foreign businesses to hand it over if you re a foreign adversary why would you go through the trouble of complicated cyber intrusions and theft to get americans data when you can just buy it on the open market or force a company under your jurisdiction to give you access the data security program makes getting that data a lot harder said deputy attorney general todd blanche read this detailed article to know more on this issue to get latest high quality daily cybersecurity content",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 1063,
+      "token_count": 180,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2474,6 +3359,9 @@
         "exploit",
         "exploited",
         "threat actor"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1182,
       "token_count": 179,
@@ -2497,6 +3385,7 @@
         "leaked",
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1323,
       "token_count": 216,
       "decision": "keep",
@@ -2517,10 +3406,53 @@
         "malware",
         "spyware"
       ],
+      "soft_keyword_hits": [
+        "hackers",
+        "hacking"
+      ],
       "char_count": 1210,
       "token_count": 196,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2332,
+    "date": "2025-04-19",
+    "datetime_utc": "2025-04-19T07:02:44+00:00",
+    "timestamp": 1745046164,
+    "message": "🚨🚨Shocking Discovery: Samsung Phones Exposed to Major Security Vulnerabilities!\n\n“Samsung Phones Are Secretly Saving Your Passwords in Plain Text — And No One’s Talking About It“\n\nImagine this: you copy a password from your trusted password manager maybe it’s for your bank, email, or crypto wallet. You paste it where needed, and move on with your day, assuming it’s gone. But what if it’s still there saved quietly on your device, accessible to anyone who knows where to look?\n\nOn millions of Samsung phones, that is exactly what is taking place. The Samsung clipboard is a much-underappreciated application that saves all of your copied content in plain text for as long as you like. Passwords. OTPs. numbers for bank accounts. Your personal communications. All are silently archived and logged.\n\nWhat is the worst? Samsung is aware of it, however they have not addressed it yet.\n\nAt this time, there’s no built-in setting to auto-delete clipboard contents after a certain period, which can indeed pose a security risk in some situations. We agree that adding options such as auto-clear clipboard after X minutes/hours or excluding sensitive apps from clipboard history would be valuable enhancements.\n\nSaid The Samsung One UI Team\n\nRead This Detailed Article Here For Free 👉🏻 https://hackingblogs.com/shocking-discovery-samsung-phones-exposed/\n\nWant To Be Part Of Community That posts Latest Cybersecurity News, Articles, Updates On CVE's , Bugs, Free Resources, Courses , Books, Poc's 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "2d394ce9-fb4c-422b-af90-6cba746d3fa2",
+    "cleaning": {
+      "normalized_message": "shocking discovery samsung phones exposed to major security vulnerabilities samsung phones are secretly saving your passwords in plain text and no one s talking about it imagine this you copy a password from your trusted password manager maybe it s for your bank email or crypto wallet you paste it where needed and move on with your day assuming it s gone but what if it s still there saved quietly on your device accessible to anyone who knows where to look on millions of samsung phones that is exactly what is taking place the samsung clipboard is a much-underappreciated application that saves all of your copied content in plain text for as long as you like passwords otps numbers for bank accounts your personal communications all are silently archived and logged what is the worst samsung is aware of it however they have not addressed it yet at this time there s no built-in setting to auto-delete clipboard contents after a certain period which can indeed pose a security risk in some situations we agree that adding options such as auto-clear clipboard after x minutes hours or excluding sensitive apps from clipboard history would be valuable enhancements said the samsung one ui team read this detailed article here for free want to be part of community that posts latest cybersecurity news articles updates on cve s bugs free resources courses books poc s",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
+      "char_count": 1369,
+      "token_count": 234,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 2343,
+    "date": "2025-04-20",
+    "datetime_utc": "2025-04-20T18:40:00+00:00",
+    "timestamp": 1745174400,
+    "message": "✨👨‍💻 Golden Oppertunity for Ethical hackers\n\n\nHello Hackingblogs Family,\nThis is an invitation for Hackingblogs Official Watsapp channel the one stop solution to receive Daily News article, Latest Breaches, Free Resources Tones and Tones Of write-up, Mind Bending Articles.\n\nIn Shot The X Factor For your 1% Daily Growth.\n\nThe important thing is we will be hiring individuals who are really passionate for cybersecurity and have experience, How ?\n\nA Weekly Task Will be provided in the channel you have to complete Any 3 Of the given task and you'll be invited to a meeting. Individuals selected will soon start working as Security Content Writers. This will definitely boost your connection, provide you experience and make you really competent. All you need to do is Join > Complete the task > report > enjoy🗿\n\nFollow the Hackingblogs channel on WhatsApp: \nhttps://whatsapp.com/channel/0029VbAZ9Ye7tkj6Lygz3E3P",
+    "id": "5b8a596c-d001-4792-a1d6-ca8886090337",
+    "cleaning": {
+      "normalized_message": "golden oppertunity for ethical hackers hello hackingblogs family this is an invitation for hackingblogs official watsapp channel the one stop solution to receive daily news article latest breaches free resources tones and tones of write-up mind bending articles in shot the x factor for your 1 daily growth the important thing is we will be hiring individuals who are really passionate for cybersecurity and have experience how a weekly task will be provided in the channel you have to complete any 3 of the given task and you ll be invited to a meeting individuals selected will soon start working as security content writers this will definitely boost your connection provide you experience and make you really competent all you need to do is join complete the task report enjoy follow the hackingblogs channel on whatsapp",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
+      ],
+      "char_count": 824,
+      "token_count": 136,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2536,6 +3468,7 @@
         "breach",
         "leaks"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1531,
       "token_count": 235,
       "decision": "keep",
@@ -2554,6 +3487,11 @@
       "keyword_hits": [
         "fraud",
         "malware"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers",
+        "hacking"
       ],
       "char_count": 1762,
       "token_count": 279,
@@ -2578,6 +3516,9 @@
         "leak",
         "leaked"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 1208,
       "token_count": 205,
       "decision": "keep",
@@ -2595,6 +3536,9 @@
       "normalized_message": "chatgpt gemini deepseek copilot and other major ai models affected by policy puppetry prompt injection pppi summary policy puppetry a universal and flexible prompt injection technique developed by researchers at hiddenlayer bypasses safety features in large language models llms in all of the major ai systems attackers can create dangerous content including instructions for making deadly chemicals encouraging violence self-harm and extracting system prompts by using this technique to get over instruction hierarchies and safety barriers the attack takes use of a flaw in the way llms manage data pertaining to policies which makes it challenging to fix and extremely successful across a range of models hackingblogs readers policy puppetry prompt injection pppi is a recently discovered vulnerability that impacts popular ai models including chatgpt gemini deepseek copilot and others by avoiding safety measures this method enables attackers to modify ai results we will examine pppi s functioning and its consequences for ai security in this post read this detailed article with real world prompt examples join this exclusive telegram group to receive superior content on hacking looking forward to work with us join hackingblogs whatsapp group and complete the tasks",
       "keyword_hits": [
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "hacking"
       ],
       "char_count": 1273,
       "token_count": 191,
@@ -2617,6 +3561,10 @@
         "leaks",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "malware analysis"
+      ],
       "char_count": 1416,
       "token_count": 225,
       "decision": "keep",
@@ -2637,6 +3585,7 @@
         "leaked",
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1303,
       "token_count": 202,
       "decision": "keep",
@@ -2656,6 +3605,9 @@
         "cve-2024-6198",
         "vulnerability",
         "zero-day"
+      ],
+      "soft_keyword_hits": [
+        "hackers"
       ],
       "char_count": 1250,
       "token_count": 201,
@@ -2680,6 +3632,7 @@
         "leak",
         "vulnerability"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1240,
       "token_count": 196,
       "decision": "keep",
@@ -2698,6 +3651,7 @@
       "keyword_hits": [
         "spyware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1173,
       "token_count": 195,
       "decision": "keep",
@@ -2716,6 +3670,9 @@
       "keyword_hits": [
         "credential",
         "phishing"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 1479,
       "token_count": 219,
@@ -2736,6 +3693,10 @@
         "exploit",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "hacking",
+        "security researcher"
+      ],
       "char_count": 684,
       "token_count": 110,
       "decision": "keep",
@@ -2755,6 +3716,10 @@
         "cve-2025-22247",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
+      ],
       "char_count": 1184,
       "token_count": 180,
       "decision": "keep",
@@ -2773,6 +3738,7 @@
       "keyword_hits": [
         "malware"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1461,
       "token_count": 241,
       "decision": "keep",
@@ -2801,6 +3767,11 @@
         "leaks",
         "vulnerability"
       ],
+      "soft_keyword_hits": [
+        "bug bounty",
+        "cybersecurity",
+        "security researchers"
+      ],
       "char_count": 2120,
       "token_count": 301,
       "decision": "keep",
@@ -2822,6 +3793,9 @@
         "login",
         "malware"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity"
+      ],
       "char_count": 1468,
       "token_count": 217,
       "decision": "keep",
@@ -2842,10 +3816,33 @@
         "phishing",
         "scam"
       ],
+      "soft_keyword_hits": [
+        "hackers"
+      ],
       "char_count": 1615,
       "token_count": 255,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2551,
+    "date": "2025-05-28",
+    "datetime_utc": "2025-05-28T18:44:33+00:00",
+    "timestamp": 1748457873,
+    "message": "🤑 🏮  MOST HACKERS CHARGE FOR THIS , I'M GIVING IT AWAY 100% FREE\n\n“Want to Hack APIs Like a Pro? For FREE?”\n\n(Even if you’re just starting out – this is your golden chance)\n\nAre you a student curious about how hackers break into apps using APIs?\nWant to learn API hacking step-by-step, practically and absolutely free?\nI'm starting a free community initiative to teach API hacking the right way \n\n📍 Beginner-friendly\n📍 Real-world examples\n📍 0 to advanced  explained in a way you’ll actually understand\n\nLimited seats – DM/comment “API” to get access to the API Hacking Group.\nNOTE : Only Those who are member Of The Group Will be Part Of The LIVE MASTERCLASS.\n\nAfter Successful Completion of the Classes you will receive a certificate of completion.",
+    "id": "bfcc6a8b-4b35-4e4b-93f8-2b2503d737b5",
+    "cleaning": {
+      "normalized_message": "most hackers charge for this i m giving it away 100 free want to hack apis like a pro for free even if you re just starting out this is your golden chance are you a student curious about how hackers break into apps using apis want to learn api hacking step-by-step practically and absolutely free i m starting a free community initiative to teach api hacking the right way beginner-friendly real-world examples 0 to advanced explained in a way you ll actually understand limited seats dm comment api to get access to the api hacking group note only those who are member of the group will be part of the live masterclass after successful completion of the classes you will receive a certificate of completion",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hackers",
+        "hacking"
+      ],
+      "char_count": 707,
+      "token_count": 126,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2863,10 +3860,35 @@
         "hacked",
         "intrusion"
       ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers"
+      ],
       "char_count": 1461,
       "token_count": 226,
       "decision": "keep",
       "reason": "keyword_match"
+    }
+  },
+  {
+    "_id": 2572,
+    "date": "2025-05-30",
+    "datetime_utc": "2025-05-30T20:31:53+00:00",
+    "timestamp": 1748637113,
+    "message": "🗿🫵🏻Want to Hack Like a Pro? These 25 Free Hacking Tools Will Get You There!\n\nWhat tools are definitely necessary for someone who is deeply involved in hacking, I’ve been wondering. The best part? All of these tools have been used by me personally.\n\nNow, this is a Know The Tools guide, so don’t believe a deep dive or a comprehensive “how-to-use” tutorial. However, you can be sure that I will be writing separate pieces for each of these bad boys if this article becomes really popular. But for the time being, we’re keeping things straightforward so you can quickly understand what they are, why you need them, and how to utilize them.\n\n----------------------------------------------------\nTable of Contents\n\n1. Introduction\n2. Reconnaissance & Scanners\n   - Masscan\n   - Sublist3r\n   - Nmap\n   - Recon-ng\n   - Sn1per\n3. Exploitation Frameworks\n   - Metasploit\n   - Hydra\n   - Sqlmap\n4. Web Penetration Testing\n   - Burp Suite\n   - OWASP ZAP\n   - Gobuster\n   - Waybackurls\n5. Password Cracking & Authentication\n   - Hashcat\n   - John the Ripper\n6. *OSINT (Open Source Intelligence)\n   - Sherlock\n   - SpiderFoot\n   - theHarvester\n7. Post-Exploitation & Privilege Escalation\n   - PEASS-ng\n   - PowerSploit\n8. Networking & MITM (Man-in-the-Middle)\n   - Wireshark\n   - CrackMapExec\n   - King Phisher\n9. Extra Tools\n   - Naabu\n   - Subfinder\n   - BloodHound\n----------------------------------------------------\n\nI Know You Are Looking For The Article 👉🏻  https://hackingblogs.com/pro-25-free-hacking-tool-for-hackers/\nJoin The Telegram Channel 👉🏻 https://t.me/HackingBlogsGroup",
+    "id": "0cdb04c8-c759-423a-8244-5c5ed30f8faa",
+    "cleaning": {
+      "normalized_message": "want to hack like a pro these 25 free hacking tools will get you there what tools are definitely necessary for someone who is deeply involved in hacking i ve been wondering the best part all of these tools have been used by me personally now this is a know the tools guide so don t believe a deep dive or a comprehensive how-to-use tutorial however you can be sure that i will be writing separate pieces for each of these bad boys if this article becomes really popular but for the time being we re keeping things straightforward so you can quickly understand what they are why you need them and how to utilize them ---------------------------------------------------- table of contents 1 introduction 2 reconnaissance scanners - masscan - sublist3r - nmap - recon-ng - sn1per 3 exploitation frameworks - metasploit - hydra - sqlmap 4 web penetration testing - burp suite - owasp zap - gobuster - waybackurls 5 password cracking authentication - hashcat - john the ripper 6 osint open source intelligence - sherlock - spiderfoot - theharvester 7 post-exploitation privilege escalation - peass-ng - powersploit 8 networking mitm man-in-the-middle - wireshark - crackmapexec - king phisher 9 extra tools - naabu - subfinder - bloodhound ---------------------------------------------------- i know you are looking for the article join the telegram channel",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "hacking",
+        "osint",
+        "penetration testing"
+      ],
+      "char_count": 1352,
+      "token_count": 220,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2884,6 +3906,7 @@
         "malware",
         "phishing"
       ],
+      "soft_keyword_hits": [],
       "char_count": 1744,
       "token_count": 281,
       "decision": "keep",
@@ -2903,6 +3926,10 @@
         "leaked",
         "ransomware"
       ],
+      "soft_keyword_hits": [
+        "hacker",
+        "hackers"
+      ],
       "char_count": 1361,
       "token_count": 221,
       "decision": "keep",
@@ -2910,21 +3937,43 @@
     }
   },
   {
-    "_id": 2652,
+    "_id": 2650,
     "date": "2025-06-19",
-    "datetime_utc": "2025-06-19T11:07:44+00:00",
-    "timestamp": 1750331264,
-    "message": "🔥FREE NOTES API-HACKING BOOTCAMP DAY 1 : SETTING UP TOOLS FOR TESTING\n\nHi everyone in the HackingBlogs community!\nYour trainer, Dipanshu Kumar, is here. I started API-HACKING BOOTCAMP where i went into the topic of API security a few weeks ago when I gave a free API Hacking Masterclass. Although I am aware that some of you were unable to attend the live session, the feedback I received was extremely positive.\n\nAs a token of appreciation, I’m giving you access to my private, handwritten notes from the course or free. Unlike other free classes, this one has an added benefit: you are welcome to join our WhatsApp group. It’s a community where we talk about hacking and exchange ideas in addition to being a place for resources. Let’s begin by delving into the notes!\n\nCommon API Vulnerabilities We’ll Explore\n\nBroken Object Level Authorization (BOLA) : Because APIs frequently neglect to appropriately verify authorization at the object level, attackers can manipulate object identifiers to obtain data that is not authorized.\n\nBroken Authentication: Attackers may be able to compromise authentication tokens, take over sessions, and impersonate users due to inadequate security procedures.\n\nExcessive Data Exposure: APIs may provide responds that contain too much information, exposing private data that an attacker could use against you.\n\nUnrestricted Resource Consumption: Attackers may misuse resources due to API vulnerabilities, which could result in DoS (Denial of Service) attacks or higher operating expenses.\n\nBroken Function Level Authorization : Attackers can escalate privileges and gain access to sensitive functionality when APIs fail to distinguish between administrator and ordinary user functions.\n\nThe complete day 1 notes for free available here 👉🏻 https://hackingblogs.com/free-notes-api-hacking-bootcamp-day-1-setting-up/\n\nJoin the Free Telegram group for free hacking resources 👉🏻 https://t.me/HackingBlogsGroup\n\nApi-Hacking WhatsApp group 👉🏻 https://chat.whatsapp.com/KRvLRD8wN4V18PoirP7x8u",
-    "id": "723f0583-2a3e-4f3c-ad85-7581e741c67b",
+    "datetime_utc": "2025-06-19T11:07:12+00:00",
+    "timestamp": 1750331232,
+    "message": "🔥FREE NOTES API-HACKING DAY2 : Introduction And Understanding About BOLA Bug\n\nWelcome back, HackingBlogs readers and fellow API security enthusiasts!\nDay 2 of our API hacking course begins today, digging deeply into Broken Object Level Authorization (BOLA), one of the most important and frequently abused vulnerabilities. We’ll go over what BOLA is, why it’s a major risk to APIs, and how attackers usually take advantage of it in the wild in this session.\n\nWhat is a BOLA Bug?\nOne of the most dangerous and frequently discovered flaws in modern APIs is BOLA (Broken Object Level Authorization). Yes, they are basically the same thing, especially when it comes to APIs. You may have also heard it called IDOR (Insecure Direct Object Reference).\n\nHere’s the main concept: In order to retrieve certain data, APIs frequently include unique identifiers (such as user IDs, roll numbers, account numbers, etc.) in the request. For instance:\n\nGET /api/user/rollno/1045 → returns your personal details  \nGET /api/user/rollno/1046 → returns another user’s details\n\nHere is the complete free notes 👉🏻 https://hackingblogs.com/api-hacking-1-understanding-about-bola-bug/\n\nJoin The Free Telegram group for free hacking resources 👉🏻 https://t.me/HackingBlogsGroup\n\nAPI-Hacking WhatsApp group 👉🏻 https://chat.whatsapp.com/KRvLRD8wN4V18PoirP7x8u",
+    "id": "fb393418-4d13-478b-98ea-b9c21e8b814b",
     "cleaning": {
-      "normalized_message": "free notes api-hacking bootcamp day 1 setting up tools for testing hi everyone in the hackingblogs community your trainer dipanshu kumar is here i started api-hacking bootcamp where i went into the topic of api security a few weeks ago when i gave a free api hacking masterclass although i am aware that some of you were unable to attend the live session the feedback i received was extremely positive as a token of appreciation i m giving you access to my private handwritten notes from the course or free unlike other free classes this one has an added benefit you are welcome to join our whatsapp group it s a community where we talk about hacking and exchange ideas in addition to being a place for resources let s begin by delving into the notes common api vulnerabilities we ll explore broken object level authorization bola because apis frequently neglect to appropriately verify authorization at the object level attackers can manipulate object identifiers to obtain data that is not authorized broken authentication attackers may be able to compromise authentication tokens take over sessions and impersonate users due to inadequate security procedures excessive data exposure apis may provide responds that contain too much information exposing private data that an attacker could use against you unrestricted resource consumption attackers may misuse resources due to api vulnerabilities which could result in dos denial of service attacks or higher operating expenses broken function level authorization attackers can escalate privileges and gain access to sensitive functionality when apis fail to distinguish between administrator and ordinary user functions the complete day 1 notes for free available here join the free telegram group for free hacking resources api-hacking whatsapp group",
-      "keyword_hits": [
-        "compromise"
+      "normalized_message": "free notes api-hacking day2 introduction and understanding about bola bug welcome back hackingblogs readers and fellow api security enthusiasts day 2 of our api hacking course begins today digging deeply into broken object level authorization bola one of the most important and frequently abused vulnerabilities we ll go over what bola is why it s a major risk to apis and how attackers usually take advantage of it in the wild in this session what is a bola bug one of the most dangerous and frequently discovered flaws in modern apis is bola broken object level authorization yes they are basically the same thing especially when it comes to apis you may have also heard it called idor insecure direct object reference here s the main concept in order to retrieve certain data apis frequently include unique identifiers such as user ids roll numbers account numbers etc in the request for instance get api user rollno 1045 returns your personal details get api user rollno 1046 returns another user s details here is the complete free notes join the free telegram group for free hacking resources api-hacking whatsapp group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "api security",
+        "hacking"
       ],
-      "char_count": 1804,
-      "token_count": 284,
-      "decision": "keep",
-      "reason": "keyword_match"
+      "char_count": 1125,
+      "token_count": 189,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
+    }
+  },
+  {
+    "_id": 2677,
+    "date": "2025-06-21",
+    "datetime_utc": "2025-06-21T09:38:46+00:00",
+    "timestamp": 1750498726,
+    "message": "🚨💀FREE NOTES API-HACKING DAY 3: Finding Anyones’s Location In crAPI Using EDE & Bola Bugs\n\nThe API returns sensitive data to the client by design. This data is usually filtered on the client side before being presented to the user. An attacker can easily sniff the traffic and see the sensitive data.\n\nUnderstanding Excessive Data Exposure Bug\nWhen an API endpoint returns more data than is required or meant for the user, this is known as an Excessive Data Exposure problem. This usually occurs when the API answer contains sensitive or unnecessary information that the requester shouldn’t be able to access.\n\nAs an illustration, suppose you are requesting information on an author via an API call. The API returns sensitive information like the author’s phone number, email address, and other private information, even though it should only return basic information like the author’s name and biography. The system is exposing more data than is necessary for the particular operation in this clear instance of excessive data exposure.\n\nThe API is unintentionally returning significantly more data than is required for the request, which is an obvious sign of an Excessive Data Exposure problem. Such a response should never reveal sensitive information, such as the email address or VIN number, as it may be used maliciously.\n\nResponse \n\n{\"id\":\"8YG2mv35HKqsQPGw5emNzk\",\"title\":\"the stew\",\"content\":\"agbadalasiminue\",\"author\":{\"nickname\":\"fisway\",\"email\":\"fishstew@email.com\",\"vehicleid\":\"1fa3df1e-5625-471f-b47b-9ca8d66b43d4\",\"profile_pic_url\":\"\",\"created_at\":\"2025-05-27T21:36:01.255Z\"},\"comments\":[],\"authorid\":2326,\"CreatedAt\":\"2025-05-27T21:36:01.255Z\"},\n\n\nThe complete set of notes are uploaded here 👉🏻 https://hackingblogs.com/free-notes-api-hacking-day-3-finding-location/\n\n Telegram group for free resources and daily news on cybersecurity 👉🏻 https://t.me/HackingBlogsGroup\n\nAPI-Hacking WhatsApp group 👉🏻https://chat.whatsapp.com/KRvLRD8wN4V18PoirP7x8u",
+    "id": "44dcef20-62d8-42b0-8340-772d2280cac9",
+    "cleaning": {
+      "normalized_message": "free notes api-hacking day 3 finding anyones s location in crapi using ede bola bugs the api returns sensitive data to the client by design this data is usually filtered on the client side before being presented to the user an attacker can easily sniff the traffic and see the sensitive data understanding excessive data exposure bug when an api endpoint returns more data than is required or meant for the user this is known as an excessive data exposure problem this usually occurs when the api answer contains sensitive or unnecessary information that the requester shouldn t be able to access as an illustration suppose you are requesting information on an author via an api call the api returns sensitive information like the author s phone number email address and other private information even though it should only return basic information like the author s name and biography the system is exposing more data than is necessary for the particular operation in this clear instance of excessive data exposure the api is unintentionally returning significantly more data than is required for the request which is an obvious sign of an excessive data exposure problem such a response should never reveal sensitive information such as the email address or vin number as it may be used maliciously response id 8yg2mv35hkqsqpgw5emnzk title the stew content agbadalasiminue author nickname fisway email fishstew email com vehicleid 1fa3df1e-5625-471f-b47b-9ca8d66b43d4 profile_pic_url created_at 2025-05-27t21 36 01 255z comments authorid 2326 createdat 2025-05-27t21 36 01 255z the complete set of notes are uploaded here telegram group for free resources and daily news on cybersecurity api-hacking whatsapp group",
+      "keyword_hits": [],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hacking"
+      ],
+      "char_count": 1716,
+      "token_count": 269,
+      "decision": "keep_review",
+      "reason": "soft_keyword_match"
     }
   },
   {
@@ -2939,6 +3988,11 @@
       "keyword_hits": [
         "malware",
         "vulnerability"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity",
+        "hackers",
+        "hacking"
       ],
       "char_count": 1023,
       "token_count": 170,
@@ -2959,6 +4013,10 @@
         "breach",
         "hacked"
       ],
+      "soft_keyword_hits": [
+        "hackers",
+        "hacking"
+      ],
       "char_count": 718,
       "token_count": 114,
       "decision": "keep",
@@ -2977,6 +4035,9 @@
       "keyword_hits": [
         "dropper",
         "malware"
+      ],
+      "soft_keyword_hits": [
+        "cybersecurity"
       ],
       "char_count": 838,
       "token_count": 130,

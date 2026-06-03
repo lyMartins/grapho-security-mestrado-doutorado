@@ -11,6 +11,7 @@
       "keyword_hits": [
         "exploiting"
       ],
+      "soft_keyword_hits": [],
       "char_count": 993,
       "token_count": 177,
       "decision": "keep",
